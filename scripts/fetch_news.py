@@ -129,43 +129,56 @@ def fetch_scrape(source: dict) -> list:
 def _scrape_36kr(soup, source):
     """解析 36Kr 文章列表"""
     items = []
-    cards = soup.select("div.articleCard, .flow-list .item, article")
-    if not cards:
-        cards = soup.find_all("a", href=lambda h: h and "/p/" in str(h))
+    # 优先从 JSON-LD 提取（更可靠）
+    for script in soup.find_all("script", type="application/ld+json"):
+        try:
+            import json
+            data = json.loads(script.string or "{}")
+            if isinstance(data, list):
+                for entry in data:
+                    if isinstance(entry, dict) and entry.get("headline"):
+                        items.append(_build_item_from_jsonld(entry, source))
+            elif isinstance(data, dict) and data.get("headline"):
+                items.append(_build_item_from_jsonld(data, source))
+        except Exception:
+            pass
 
-    for card in cards[:MAX_NEWS_PER_SOURCE]:
-        a = card.find("a") if card.name != "a" else card
-        if not a:
-            continue
-        href = a.get("href", "")
-        if not href.startswith("http"):
-            href = "https://36kr.com" + href
-        title = a.get_text(strip=True)
-        if not title or len(title) < 5:
-            continue
+    # 如果 JSON-LD 没拿到数据，回退到 HTML 解析
+    if not items:
+        cards = soup.select("div.articleCard, .flow-list .item, article")
+        if not cards:
+            cards = soup.find_all("a", href=lambda h: h and "/p/" in str(h))
 
-        # 尝试提取封面图
-        cover = None
-        img = card.find("img") if card.name != "a" else None
-        if img:
-            cover = img.get("src") or img.get("data-src")
+        for card in cards[:MAX_NEWS_PER_SOURCE]:
+            a = card.find("a") if card.name != "a" else card
+            if not a:
+                continue
+            href = a.get("href", "")
+            if not href.startswith("http"):
+                href = "https://36kr.com" + href
+            title = a.get_text(strip=True)
+            if not title or len(title) < 5:
+                continue
 
-        items.append({
-            "id": _make_id("news", href),
-            "title": title,
-            "title_en": None,
-            "summary": "",
-            "summary_translated": None,
-            "source": source["name"],
-            "source_url": href,
-            "cover_image": cover,
-            "publish_time": datetime.now(CST).isoformat(),
-            "category": None,
-            "importance": None,
-            "language": "zh",
-            "tags": _extract_tags(title),
-        })
-    return items
+            # 尝试提取封面图：data-src 优先（懒加载）
+            cover = _extract_img_from_element(card)
+
+            items.append({
+                "id": _make_id("news", href),
+                "title": title,
+                "title_en": None,
+                "summary": "",
+                "summary_translated": None,
+                "source": source["name"],
+                "source_url": href,
+                "cover_image": cover,
+                "publish_time": datetime.now(CST).isoformat(),
+                "category": None,
+                "importance": None,
+                "language": "zh",
+                "tags": _extract_tags(title),
+            })
+    return items[:MAX_NEWS_PER_SOURCE]
 
 
 def _scrape_qbitai(soup, source):
@@ -186,10 +199,7 @@ def _scrape_qbitai(soup, source):
         if not title or len(title) < 5:
             continue
 
-        cover = None
-        img = post.find("img") if hasattr(post, 'find') else None
-        if img:
-            cover = img.get("src") or img.get("data-src")
+        cover = _extract_img_from_element(post)
 
         items.append({
             "id": _make_id("news", href),
@@ -227,10 +237,7 @@ def _scrape_geekpark(soup, source):
         if not title or len(title) < 5:
             continue
 
-        cover = None
-        img = post.find("img") if hasattr(post, 'find') else None
-        if img:
-            cover = img.get("src") or img.get("data-src")
+        cover = _extract_img_from_element(post)
 
         items.append({
             "id": _make_id("news", href),
@@ -263,10 +270,7 @@ def _scrape_generic(soup, source):
             from urllib.parse import urljoin
             href = urljoin(source["url"], href)
 
-        cover = None
-        img = article.find("img")
-        if img:
-            cover = img.get("src") or img.get("data-src")
+        cover = _extract_img_from_element(article)
 
         items.append({
             "id": _make_id("news", href),
@@ -284,6 +288,54 @@ def _scrape_generic(soup, source):
             "tags": [],
         })
     return items
+
+
+def _extract_img_from_element(element) -> str | None:
+    """从 HTML 元素中提取图片 URL，支持懒加载属性"""
+    if not hasattr(element, 'find'):
+        return None
+    img = element.find("img")
+    if not img:
+        return None
+    # 优先懒加载属性，再取 src
+    src = (img.get("data-src") or img.get("data-original") or
+           img.get("data-lazy-src") or img.get("src"))
+    if not src or src.startswith("data:"):
+        return None
+    # 补全协议
+    if src.startswith("//"):
+        return "https:" + src
+    return src
+
+
+def _build_item_from_jsonld(entry: dict, source: dict) -> dict:
+    """从 JSON-LD 数据构建新闻条目"""
+    href = entry.get("url", "")
+    title = entry.get("headline", "")
+    if not title or len(title) < 5:
+        title = entry.get("name", "")
+    cover = entry.get("image")
+    if isinstance(cover, dict):
+        cover = cover.get("url")
+    elif isinstance(cover, list) and cover:
+        cover = cover[0] if isinstance(cover[0], str) else cover[0].get("url")
+    summary = entry.get("description", "") or entry.get("abstract", "")
+    pub_time = entry.get("datePublished", datetime.now(CST).isoformat())
+    return {
+        "id": _make_id("news", href),
+        "title": title,
+        "title_en": None,
+        "summary": summary[:300],
+        "summary_translated": None,
+        "source": source["name"],
+        "source_url": href,
+        "cover_image": cover,
+        "publish_time": pub_time,
+        "category": None,
+        "importance": None,
+        "language": "zh",
+        "tags": _extract_tags(title + " " + summary),
+    }
 
 
 # ─── V2 新增：封面图提取 ─────────────────────────────────────────────────────

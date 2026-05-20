@@ -20,6 +20,16 @@ const CATEGORIES = {
   'opinion':           { name: '行业观点',   icon: '🌐', color: '#6B7280' },
 };
 
+// 分类占位图背景色（用于没有 cover_image 时的渐变背景）
+const CATEGORY_GRADIENTS = {
+  'foundation-model':  ['#2563EB', '#3B82F6'],
+  'business':          ['#EA580C', '#F97316'],
+  'tech-breakthrough': ['#7C3AED', '#8B5CF6'],
+  'product':           ['#16A34A', '#22C55E'],
+  'policy':            ['#DC2626', '#EF4444'],
+  'opinion':           ['#4B5563', '#6B7280'],
+};
+
 // ─── 初始化 ────────────────────────────────────────────────────────────────────
 
 document.addEventListener('DOMContentLoaded', async () => {
@@ -204,17 +214,25 @@ function renderHeadlineCard(item) {
     `<span class="bg-blue-50 text-blue-600 text-xs px-2 py-0.5 rounded">${t}</span>`
   ).join('');
 
+  // 封面图：有图用图，没图用分类渐变占位
+  const [gradFrom, gradTo] = CATEGORY_GRADIENTS[item.category] || ['#4F46E5', '#6366F1'];
+  const coverHtml = item.cover_image
+    ? `<div class="md:w-1/2 h-56 md:h-auto bg-gray-100 overflow-hidden">
+        <img src="${item.cover_image}" alt="" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+             onerror="this.parentElement.innerHTML='<div class=\\'cover-placeholder\\' style=\\'background:linear-gradient(135deg,${gradFrom},${gradTo})\\'><span class=\\'placeholder-icon\\'>${catInfo.icon}</span></div>'">
+      </div>`
+    : `<div class="md:w-1/2 h-56 md:h-auto overflow-hidden">
+        <div class="cover-placeholder h-full" style="background:linear-gradient(135deg,${gradFrom},${gradTo})">
+          <span class="placeholder-icon">${catInfo.icon}</span>
+        </div>
+      </div>`;
+
   return `
     <article class="bg-white rounded-xl shadow-card overflow-hidden card-hover cursor-pointer group"
              onclick="window.open('${item.source_url}', '_blank')">
       <div class="md:flex">
-        ${item.cover_image ? `
-          <div class="md:w-1/2 h-56 md:h-auto bg-gray-100 overflow-hidden">
-            <img src="${item.cover_image}" alt="" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
-                 onerror="this.parentElement.style.display='none'">
-          </div>
-        ` : ''}
-        <div class="${item.cover_image ? 'md:w-1/2' : 'w-full'} p-6 flex flex-col justify-center">
+        ${coverHtml}
+        <div class="${item.cover_image ? 'md:w-1/2' : 'md:w-1/2'} p-6 flex flex-col justify-center">
           <div class="flex items-center gap-2 mb-3">
             <span class="text-xs font-medium px-2 py-0.5 rounded-full text-white" style="background:${catInfo.color}">${catInfo.name}</span>
             <span class="text-xs text-gray-400">${item.source}</span>
@@ -241,14 +259,24 @@ function renderNewsCardWithImage(item) {
     `<span class="bg-blue-50 text-blue-600 text-xs px-2 py-0.5 rounded">${t}</span>`
   ).join('');
 
+  // 封面图占位
+  const [gradFrom, gradTo] = CATEGORY_GRADIENTS[item.category] || ['#4F46E5', '#6366F1'];
+  const coverHtml = item.cover_image
+    ? `<div class="h-40 bg-gray-100 overflow-hidden">
+        <img src="${item.cover_image}" alt="" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+             onerror="this.parentElement.innerHTML='<div class=\\'cover-placeholder h-full\\' style=\\'background:linear-gradient(135deg,${gradFrom},${gradTo})\\'><span class=\\'placeholder-icon\\'>${catInfo.icon}</span></div>'">
+      </div>`
+    : `<div class="h-40 overflow-hidden">
+        <div class="cover-placeholder h-full" style="background:linear-gradient(135deg,${gradFrom},${gradTo})">
+          <span class="placeholder-icon">${catInfo.icon}</span>
+        </div>
+      </div>`;
+
   return `
     <article class="news-card-border bg-white rounded-lg shadow-card overflow-hidden card-hover cursor-pointer group"
              data-category="${item.category || 'all'}"
              onclick="window.open('${item.source_url}', '_blank')">
-      <div class="h-40 bg-gray-100 overflow-hidden">
-        <img src="${item.cover_image}" alt="" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
-             onerror="this.parentElement.innerHTML='<div class=\\'flex items-center justify-center h-full text-gray-300 text-2xl\\'>${catInfo.icon}</div>'">
-      </div>
+      ${coverHtml}
       <div class="p-4">
         <div class="flex items-center gap-2 mb-2">
           <span class="text-xs font-medium px-1.5 py-0.5 rounded-full text-white" style="background:${catInfo.color}; font-size:10px">${catInfo.name}</span>
@@ -389,10 +417,20 @@ function renderDealCard(item) {
 
 function renderLearning(learning) {
   // V2: learning 是 dict，包含 concepts / deep_reads / videos / daily_question
-  const concepts = learning.concepts || [];
-  const deepReads = learning.deep_reads || [];
-  const videos = learning.videos || [];
-  const dailyQuestion = learning.daily_question || {};
+  // 兼容 V1: learning 可能是平铺数组
+  let concepts, deepReads, videos, dailyQuestion;
+  if (Array.isArray(learning)) {
+    // V1 兼容：把旧格式转成新格式
+    concepts = learning;
+    deepReads = [];
+    videos = [];
+    dailyQuestion = {};
+  } else {
+    concepts = learning.concepts || [];
+    deepReads = learning.deep_reads || [];
+    videos = learning.videos || [];
+    dailyQuestion = learning.daily_question || {};
+  }
 
   // 计算学习时间
   let totalMin = 0;

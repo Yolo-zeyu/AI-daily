@@ -75,12 +75,18 @@ def main():
     cover_count = 0
     for item in news:
         if not item.get("cover_image"):
-            cover = extract_cover_image(item.get("source_url", ""))
-            if cover:
-                item["cover_image"] = cover
-                cover_count += 1
+            url = item.get("source_url", "")
+            if not url or not url.startswith("http"):
+                continue
+            try:
+                cover = extract_cover_image(url)
+                if cover:
+                    item["cover_image"] = cover
+                    cover_count += 1
+            except Exception as e:
+                logger.debug(f"封面图提取异常 ({url}): {e}")
             import time; time.sleep(0.5)  # 礼貌延迟
-    logger.info(f"封面图提取完成，新增 {cover_count} 张")
+    logger.info(f"封面图提取完成，新增 {cover_count} 张（共 {len(news)} 条新闻，{len(news) - cover_count} 条无图将使用占位图）")
 
     # 6. 生成学习内容（4个子板块）
     logger.info("Step 6: 生成学习内容")

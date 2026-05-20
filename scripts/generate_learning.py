@@ -117,6 +117,9 @@ def _generate_via_deepseek(news_items: list, deals_items: list) -> dict | None:
             },
             timeout=90,
         )
+        if resp.status_code != 200:
+            logger.error(f"DeepSeek API 返回 HTTP {resp.status_code}: {resp.text[:200]}")
+            return None
         resp.raise_for_status()
         content = resp.json()["choices"][0]["message"]["content"]
 
