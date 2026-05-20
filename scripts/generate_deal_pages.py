@@ -104,7 +104,6 @@ def _enrich_deals_via_deepseek(deals: list, news_items: list) -> list:
 
 def _slugify(text: str) -> str:
     """将公司名转为 URL-safe slug"""
-    # 简单处理：只保留字母数字和中文
     slug = re.sub(r"[^\w\u4e00-\u9fff-]", "", text.lower())
     slug = slug.replace(" ", "-")
     if not slug:
@@ -113,7 +112,7 @@ def _slugify(text: str) -> str:
 
 
 def _build_deal_html(deal: dict, date_str: str) -> str:
-    """生成融资详情页 HTML"""
+    """生成融资详情页 HTML（避免 f-string 嵌套，用 .format() + 提前构建）"""
     company = deal.get("company", "")
     company_en = deal.get("company_en", "")
     round_name = deal.get("round", "")
@@ -124,22 +123,61 @@ def _build_deal_html(deal: dict, date_str: str) -> str:
     related = deal.get("related_articles", [])
     history = deal.get("funding_history", [])
 
+    # 构建 tags_html
+    tags_html = " ".join([
+        f'<span class="bg-indigo-50 text-indigo-600 text-xs px-2 py-0.5 rounded-full">{t}</span>'
+        for t in tags
+    ])
+
+    # 构建 related_html
     related_html = ""
     for art in related[:5]:
-        related_html += f'<li><a href="{art.get("url", "#")}" target="_blank" class="text-indigo-600 hover:underline">{art.get("title", "")}</a> <span class="text-gray-400 text-xs">— {art.get("source", "")}</span></li>'
+        related_html += (
+            f'<li><a href="{art.get("url", "#")}" target="_blank" '
+            f'class="text-indigo-600 hover:underline">{art.get("title", "")}</a>'
+            f' <span class="text-gray-400 text-xs">— {art.get("source", "")}</span></li>'
+        )
 
+    # 构建 history_html
     history_html = ""
     for h in history:
         h_investors = "、".join(h.get("investors", []))
-        history_html += f'''<tr class="border-b border-gray-100">
-            <td class="py-2 px-3 text-sm font-medium">{h.get("round", "")}</td>
-            <td class="py-2 px-3 text-sm text-gray-500">{h.get("date", "")}</td>
-            <td class="py-2 px-3 text-sm font-semibold">{h.get("amount", "")}</td>
-            <td class="py-2 px-3 text-sm text-gray-500">{h_investors}</td>
-        </tr>'''
+        history_html += (
+            f'<tr class="border-b border-gray-100">'
+            f'<td class="py-2 px-3 text-sm font-medium">{h.get("round", "")}</td>'
+            f'<td class="py-2 px-3 text-sm text-gray-500">{h.get("date", "")}</td>'
+            f'<td class="py-2 px-3 text-sm font-semibold">{h.get("amount", "")}</td>'
+            f'<td class="py-2 px-3 text-sm text-gray-500">{h_investors}</td>'
+            f'</tr>'
+        )
 
-    tags_html = " ".join([f'<span class="bg-indigo-50 text-indigo-600 text-xs px-2 py-0.5 rounded-full">{t}</span>' for t in tags])
+    # 提前构建可选 section（避免 f-string 嵌套）
+    related_section = ""
+    if related:
+        related_section = (
+            '  <div class="bg-white rounded-xl shadow-card p-6">\n'
+            '    <h2 class="text-lg font-bold text-gray-900 mb-3">&#x1F4F0; 相关报道</h2>\n'
+            f'    <ul class="space-y-2">{related_html}</ul>\n'
+            '  </div>\n'
+        )
 
+    history_section = ""
+    if history:
+        history_section = (
+            '  <div class="bg-white rounded-xl shadow-card p-6">\n'
+            '    <h2 class="text-lg font-bold text-gray-900 mb-3">&#x1F4CB; 融资历史</h2>\n'
+            '    <table class="w-full"><thead><tr class="text-xs text-gray-400 border-b">\n'
+            '      <th class="py-2 px-3 text-left">轮次</th><th class="py-2 px-3 text-left">时间</th>\n'
+            '      <th class="py-2 px-3 text-left">金额</th><th class="py-2 px-3 text-left">投资方</th>\n'
+            '    </tr></thead><tbody>' + history_html + '</tbody></table>\n'
+            '  </div>\n'
+        )
+
+    company_en_html = ""
+    if company_en:
+        company_en_html = f'<p class="text-sm text-gray-400 mb-3">{company_en}</p>\n'
+
+    # 主 HTML 模板（单层 f-string，无嵌套）
     return f'''<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -147,8 +185,8 @@ def _build_deal_html(deal: dict, date_str: str) -> str:
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{company} - 融资详情 | AI 日报</title>
 <script src="https://cdn.tailwindcss.com"></script>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-<script>tailwind.config={{theme:{{extend:{{fontFamily:{{sans:['Inter','-apple-system','BlinkMacSystemFont','"PingFang SC"','sans-serif']}}}}}}}}</script>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<script>tailwind.config={{"theme":{{"extend":{{"fontFamily":{{"sans":["Inter","-apple-system","BlinkMacSystemFont","PingFang SC","sans-serif"]}}}}}}}}</script>
 </head>
 <body class="bg-gray-50 min-h-screen">
 <nav class="sticky top-0 z-50 bg-white/85 backdrop-blur-md border-b border-gray-100">
@@ -160,32 +198,20 @@ def _build_deal_html(deal: dict, date_str: str) -> str:
 <main class="max-w-3xl mx-auto px-4 py-8 space-y-6">
   <div class="bg-white rounded-xl shadow-card p-6">
     <h1 class="text-2xl font-bold text-gray-900 mb-1">{company}</h1>
-    {f'<p class="text-sm text-gray-400 mb-3">{company_en}</p>' if company_en else ''}
+    {company_en_html}
     <div class="flex gap-2 mb-4">{tags_html}</div>
     <div class="grid grid-cols-3 gap-4 bg-gray-50 rounded-lg p-4">
       <div><p class="text-xs text-gray-400">融资轮次</p><p class="font-bold text-gray-900">{round_name}</p></div>
       <div><p class="text-xs text-gray-400">融资金额</p><p class="font-bold text-gray-900">{amount}</p></div>
-      <div><p class="text-xs text-gray-400">投资方</p><p class="font-bold text-gray-900">{investors or '未披露'}</p></div>
+      <div><p class="text-xs text-gray-400">投资方</p><p class="font-bold text-gray-900">{investors or "未披露"}</p></div>
     </div>
   </div>
 
   <div class="bg-white rounded-xl shadow-card p-6">
-    <h2 class="text-lg font-bold text-gray-900 mb-3">🏢 公司简介</h2>
+    <h2 class="text-lg font-bold text-gray-900 mb-3">&#x1F3E2; 公司简介</h2>
     <p class="text-sm text-gray-600 leading-relaxed">{intro}</p>
   </div>
 
-  {f'''<div class="bg-white rounded-xl shadow-card p-6">
-    <h2 class="text-lg font-bold text-gray-900 mb-3">📰 相关报道</h2>
-    <ul class="space-y-2">{related_html}</ul>
-  </div>''' if related else ''}
-
-  {f'''<div class="bg-white rounded-xl shadow-card p-6">
-    <h2 class="text-lg font-bold text-gray-900 mb-3">📊 融资历史</h2>
-    <table class="w-full"><thead><tr class="text-xs text-gray-400 border-b">
-      <th class="py-2 px-3 text-left">轮次</th><th class="py-2 px-3 text-left">时间</th>
-      <th class="py-2 px-3 text-left">金额</th><th class="py-2 px-3 text-left">投资方</th>
-    </tr></thead><tbody>{history_html}</tbody></table>
-  </div>''' if history else ''}
-</main>
+{related_section}{history_section}</main>
 </body>
 </html>'''
