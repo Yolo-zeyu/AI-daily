@@ -7,7 +7,8 @@ import os
 # ─── API Keys ───────────────────────────────────────────────────────────────
 DEEPL_API_KEY = os.getenv("DEEPL_API_KEY", "")
 SERVERCHAN_SENDKEY = os.getenv("SERVERCHAN_SENDKEY", "")
-DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY", "")
+# 兼容两种 secret 名：DEEPSEEK_API_KEY（正确）和 DEEEPSEEK_API_KEY（旧拼写3E）
+DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY", "") or os.getenv("DEEEPSEEK_API_KEY", "")
 SITE_URL = os.getenv("SITE_URL", "")
 
 # ─── DeepSeek API ────────────────────────────────────────────────────────────
