@@ -10,67 +10,118 @@
       "summary_translated": null,
       "source": "机器之心",
       "source_url": "https://www.jiqizhixin.com/",
-      "cover_image": null,
+      "cover_image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=400&fit=crop",
       "publish_time": "2026-05-20T06:30:00+08:00",
-      "category": "news",
+      "category": "foundation-model",
+      "importance": 5,
+      "importance_reason": "GPT-5 是大模型领域标志性产品发布，影响全行业方向",
       "language": "zh",
-      "tags": ["大模型", "OpenAI", "产品发布"]
+      "tags": ["大模型", "OpenAI", "GPT-5"]
     },
     {
       "id": "news_20260520_002",
       "title": "字节跳动推出 AI 编程助手，月活用户突破千万",
-      "title_en": null,
       "summary": "字节跳动旗下 AI 编程助手正式对外发布，凭借对国内主流开发框架的深度支持和极低延迟，上线一个月内月活用户突破千万，成为国内最大 AI 编程助手之一。",
       "summary_translated": null,
       "source": "36Kr",
       "source_url": "https://36kr.com/information/AI/",
-      "cover_image": null,
+      "cover_image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&h=400&fit=crop",
       "publish_time": "2026-05-20T07:15:00+08:00",
-      "category": "news",
+      "category": "product",
+      "importance": 4,
+      "importance_reason": "千万月活说明产品市场匹配度极高，AI编程赛道竞争加剧",
       "language": "zh",
       "tags": ["AI编程", "字节跳动", "产品发布"]
     },
     {
       "id": "news_20260520_003",
-      "title": "Anthropic 开源 Claude 轻量版模型",
-      "title_en": "Anthropic Open-Sources Lightweight Claude Model",
-      "summary": "Anthropic 宣布将旗下 Claude Haiku 轻量版模型开源，允许开发者本地部署。该模型在保持高质量输出的同时，可在消费级 GPU 上流畅运行。",
-      "summary_translated": "Anthropic 宣布将旗下 Claude Haiku 轻量版模型开源，允许开发者本地部署。",
+      "title": "Anthropic Open-Sources Lightweight Claude Model",
+      "summary": "Anthropic has announced the open-sourcing of its lightweight Claude Haiku model, allowing developers to deploy it locally. The model maintains high-quality output while running smoothly on consumer-grade GPUs.",
+      "summary_translated": "Anthropic 宣布将旗下 Claude Haiku 轻量版模型开源，允许开发者本地部署。该模型在保持高质量输出的同时，可在消费级 GPU 上流畅运行。",
       "source": "The Verge",
       "source_url": "https://www.theverge.com/ai-artificial-intelligence",
-      "cover_image": null,
+      "cover_image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&h=400&fit=crop",
       "publish_time": "2026-05-20T05:00:00+08:00",
-      "category": "news",
+      "category": "foundation-model",
+      "importance": 4,
+      "importance_reason": "主流大模型开源对行业生态影响深远",
       "language": "en",
       "tags": ["开源", "Anthropic", "Claude"]
     },
     {
       "id": "news_20260520_004",
       "title": "谷歌 DeepMind 发布新一代蛋白质结构预测模型",
-      "title_en": null,
       "summary": "谷歌 DeepMind 发布 AlphaFold 3 升级版，将蛋白质结构预测精度提升至原子级别，并扩展支持 DNA、RNA 及小分子化合物的结构预测，有望加速新药研发进程。",
       "summary_translated": null,
       "source": "量子位",
       "source_url": "https://www.qbitai.com/",
       "cover_image": null,
       "publish_time": "2026-05-20T09:00:00+08:00",
-      "category": "news",
+      "category": "tech-breakthrough",
+      "importance": 4,
+      "importance_reason": "AI4Science 领域重大突破，直接影响新药研发",
       "language": "zh",
       "tags": ["AI科研", "DeepMind", "生物医药"]
     },
     {
       "id": "news_20260520_005",
       "title": "国内首个 AI 监管沙盒试点启动，重点覆盖生成式 AI",
-      "title_en": null,
       "summary": "国家互联网信息办公室宣布启动 AI 监管沙盒试点项目，首批覆盖北京、上海、深圳三地，重点针对生成式 AI 应用的安全评估和合规测试，为正式监管框架落地探路。",
       "summary_translated": null,
       "source": "36Kr",
       "source_url": "https://36kr.com/information/AI/",
       "cover_image": null,
       "publish_time": "2026-05-20T10:30:00+08:00",
-      "category": "news",
+      "category": "policy",
+      "importance": 3,
+      "importance_reason": "监管沙盒是AI行业合规化的重要信号",
       "language": "zh",
       "tags": ["AI监管", "政策", "生成式AI"]
+    },
+    {
+      "id": "news_20260520_006",
+      "title": "月之暗面完成10亿美元B+轮融资，阿里红杉高瓴联合领投",
+      "summary": "国内大模型独角兽月之暗面（Moonshot AI）宣布完成 B+ 轮 10 亿美元融资，由阿里巴巴、红杉中国、高瓴资本联合领投。资金将用于 Kimi 大模型的持续训练和产品化。",
+      "summary_translated": null,
+      "source": "36Kr",
+      "source_url": "https://36kr.com/information/financing/",
+      "cover_image": null,
+      "publish_time": "2026-05-20T08:00:00+08:00",
+      "category": "business",
+      "importance": 4,
+      "importance_reason": "10亿美元单轮融资在国内大模型领域属顶级规模",
+      "language": "zh",
+      "tags": ["融资", "月之暗面", "大模型"]
+    },
+    {
+      "id": "news_20260520_007",
+      "title": "吴恩达：AI 不会取代人类，但会用 AI 的人会取代不会用的人",
+      "summary": "斯坦福大学教授吴恩达在最新演讲中表示，AI 技术的进步不会导致大规模失业，但会加速技能迭代。他建议每个人至少学会一个 AI 工具，把它变成自己的「超能力」。",
+      "summary_translated": null,
+      "source": "极客公园",
+      "source_url": "https://www.geekpark.net/",
+      "cover_image": null,
+      "publish_time": "2026-05-20T11:00:00+08:00",
+      "category": "opinion",
+      "importance": 3,
+      "importance_reason": "行业领袖观点对公众认知有广泛影响",
+      "language": "zh",
+      "tags": ["吴恩达", "AI观点", "就业"]
+    },
+    {
+      "id": "news_20260520_008",
+      "title": "Apple Intelligence 正式接入第三方大模型，率先支持 DeepSeek",
+      "summary": "苹果在 WWDC 2026 上宣布 Apple Intelligence 将支持接入第三方大模型，DeepSeek 成为首批合作伙伴。用户可在设置中选择默认 AI 引擎，Siri 将根据任务类型自动路由到最合适的模型。",
+      "summary_translated": null,
+      "source": "机器之心",
+      "source_url": "https://www.jiqizhixin.com/",
+      "cover_image": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=800&h=400&fit=crop",
+      "publish_time": "2026-05-20T04:00:00+08:00",
+      "category": "product",
+      "importance": 5,
+      "importance_reason": "苹果生态接入国产大模型是里程碑级事件",
+      "language": "zh",
+      "tags": ["Apple", "DeepSeek", "Siri"]
     }
   ],
   "deals": [
@@ -78,6 +129,7 @@
       "id": "deal_20260520_001",
       "company": "月之暗面",
       "company_en": "Moonshot AI",
+      "company_intro": "月之暗面是一家专注于大模型研发的AI公司，旗下产品Kimi是国内领先的AI助手之一，支持长文本理解和多轮对话。",
       "round": "B+ 轮",
       "amount": "10 亿美元",
       "amount_usd": "$1B",
@@ -86,12 +138,19 @@
       "source": "36Kr",
       "source_url": "https://36kr.com/information/financing/",
       "publish_time": "2026-05-20",
-      "description": "月之暗面完成 B+ 轮 10 亿美元融资，专注大模型与 AI 助手产品研发"
+      "description": "月之暗面完成 B+ 轮 10 亿美元融资，专注大模型与 AI 助手产品研发",
+      "detail_url": "data/deals/2026-05-20/yue-zhi-an-mian.html",
+      "funding_history": [
+        {"round": "天使轮", "amount": "数千万人民币", "date": "2023-03"},
+        {"round": "A轮", "amount": "2亿美元", "date": "2023-10"},
+        {"round": "B轮", "amount": "5亿美元", "date": "2025-06"}
+      ]
     },
     {
       "id": "deal_20260520_002",
       "company": "智谱 AI",
       "company_en": "Zhipu AI",
+      "company_intro": "智谱AI是国内领先的大模型公司，基于GLM系列模型，提供企业级AI解决方案，覆盖金融、政务、教育等行业。",
       "round": "C 轮",
       "amount": "数亿元人民币",
       "amount_usd": null,
@@ -100,12 +159,18 @@
       "source": "IT 桔子",
       "source_url": "https://www.itjuzi.com/investevent",
       "publish_time": "2026-05-20",
-      "description": "智谱 AI 完成 C 轮融资，加速 GLM 大模型商业化落地"
+      "description": "智谱 AI 完成 C 轮融资，加速 GLM 大模型商业化落地",
+      "detail_url": "data/deals/2026-05-20/zhi-pu-ai.html",
+      "funding_history": [
+        {"round": "A轮", "amount": "数亿人民币", "date": "2023-09"},
+        {"round": "B轮", "amount": "4亿人民币", "date": "2024-12"}
+      ]
     },
     {
       "id": "deal_20260520_003",
       "company": "深势科技",
       "company_en": "DP Technology",
+      "company_intro": "深势科技是AI4Science领域的领军企业，利用AI加速科学计算，覆盖药物设计、材料科学、能源等领域。",
       "round": "B 轮",
       "amount": "1.5 亿美元",
       "amount_usd": "$150M",
@@ -114,66 +179,110 @@
       "source": "36Kr",
       "source_url": "https://36kr.com/information/financing/",
       "publish_time": "2026-05-20",
-      "description": "深势科技完成 B 轮 1.5 亿美元融资，布局 AI 驱动的科学计算平台"
+      "description": "深势科技完成 B 轮 1.5 亿美元融资，布局 AI 驱动的科学计算平台",
+      "detail_url": null,
+      "funding_history": []
     }
   ],
-  "learning": [
-    {
-      "id": "learn_20260520_001",
-      "concept": "RAG",
-      "concept_en": "Retrieval-Augmented Generation",
-      "definition": "RAG 是一种让大模型在回答时能检索外部知识库的技术，解决模型知识过时和幻觉问题。",
-      "explanation": "大模型训练完成后，知识就固定了——它不知道昨天发生了什么。RAG 的做法是：用户提问时，先从外部知识库（比如公司文档、实时数据）里搜出相关内容，再把这些内容连同问题一起喂给模型，模型就能给出基于最新信息的回答。简单说就是「带着参考资料回答问题」，既能利用大模型的推理能力，又能保证信息的时效性和准确性。",
-      "example": "企业内部客服机器人：用户问「我们公司的报销流程是什么？」RAG 先从公司内部文档库检索出最新的报销制度，再由大模型整理成易读的回答，而不是靠模型自己「猜」。",
-      "articles": [
-        {
+  "learning": {
+    "concepts": [
+      {
+        "id": "learn_20260520_001",
+        "concept": "RAG",
+        "concept_en": "Retrieval-Augmented Generation",
+        "definition": "让大模型在回答时能检索外部知识库，解决知识过时和幻觉问题。",
+        "explanation": "大模型训练完成后，知识就固定了——它不知道昨天发生了什么。RAG 的做法是：用户提问时，先从外部知识库（比如公司文档、实时数据）里搜出相关内容，再把这些内容连同问题一起喂给模型，模型就能给出基于最新信息的回答。简单说就是「带着参考资料回答问题」，既能利用大模型的推理能力，又能保证信息的时效性和准确性。",
+        "example": "企业内部客服机器人：用户问「我们公司的报销流程是什么？」RAG 先从公司内部文档库检索出最新的报销制度，再由大模型整理成易读的回答。",
+        "difficulty": "beginner",
+        "recommended_reading": {
           "title": "RAG 技术全解析：让大模型拥有实时记忆",
-          "url": "https://www.jiqizhixin.com/",
-          "language": "zh",
+          "url": "https://www.jiqizhixin.com/articles/2024-01-15-2",
           "reading_time": 8
-        }
-      ],
-      "video": null,
-      "difficulty": "beginner",
-      "date": "2026-05-20"
-    },
-    {
-      "id": "learn_20260520_002",
-      "concept": "Agent（AI 智能体）",
-      "concept_en": "AI Agent",
-      "definition": "Agent 是能自主规划并执行多步骤任务的 AI 系统，可以调用工具、做决策、与外部世界交互。",
-      "explanation": "普通 AI 对话是一问一答，你问它答。Agent 不一样——你给它一个目标，它自己拆解任务、决定用什么工具、一步步执行，直到目标达成。比如你说「帮我调研竞争对手并写份报告」，Agent 会自己搜索、整理信息、写作、汇总，全程不需要你手动介入。现在很多 AI 产品（比如 OpenClaw、WorkBuddy）本质上都是 Agent 系统。",
-      "example": "OpenClaw 小龙就是一个 Agent：你在微信说「帮我查今天的天气」，它调用天气工具获取数据，再把结果整理成自然语言回复给你。",
-      "articles": [
-        {
+        },
+        "recommended_video": {
+          "title": "5分钟理解RAG | 大模型必备能力",
+          "url": "https://www.bilibili.com/video/BV1example1",
+          "platform": "bilibili",
+          "duration": "5分钟"
+        },
+        "date": "2026-05-20"
+      },
+      {
+        "id": "learn_20260520_002",
+        "concept": "Agent（AI 智能体）",
+        "concept_en": "AI Agent",
+        "definition": "能自主规划并执行多步骤任务的 AI 系统，可以调用工具、做决策、与外部世界交互。",
+        "explanation": "普通 AI 对话是一问一答，你问它答。Agent 不一样——你给它一个目标，它自己拆解任务、决定用什么工具、一步步执行，直到目标达成。比如你说「帮我调研竞争对手并写份报告」，Agent 会自己搜索、整理信息、写作、汇总，全程不需要你手动介入。现在很多 AI 产品（比如 OpenClaw、WorkBuddy）本质上都是 Agent 系统。",
+        "example": "OpenClaw 小龙就是一个 Agent：你在微信说「帮我查今天的天气」，它调用天气工具获取数据，再把结果整理成自然语言回复给你。",
+        "difficulty": "beginner",
+        "recommended_reading": {
           "title": "AI Agent 入门：从对话到自主行动",
-          "url": "https://www.qbitai.com/",
-          "language": "zh",
+          "url": "https://www.qbitai.com/2024/03/150001.html",
           "reading_time": 10
-        }
-      ],
-      "video": null,
-      "difficulty": "beginner",
-      "date": "2026-05-20"
-    },
-    {
-      "id": "learn_20260520_003",
-      "concept": "Fine-tuning（微调）",
-      "concept_en": "Fine-tuning",
-      "definition": "Fine-tuning 是在预训练大模型基础上，用特定领域数据继续训练，让模型更擅长特定任务。",
-      "explanation": "预训练大模型就像一个博学多才的通才，什么都懂一点。微调就是让这个通才去上「专业培训班」——用特定领域的数据继续训练，让它在某个垂直领域表现更好。比如用医疗病历数据微调后，模型就更懂医学术语和临床思维；用法律文书微调后，就更擅长法律分析。微调的成本比从头训练低很多，但能显著提升特定场景下的表现。",
-      "example": "催收机构想让 AI 分析负债人信息：可以用历史案例数据微调一个通用大模型，让它更准确地判断还款概率——这就是微调的典型应用场景。",
-      "articles": [
-        {
-          "title": "大模型微调入门指南",
-          "url": "https://www.jiqizhixin.com/",
-          "language": "zh",
+        },
+        "recommended_video": null,
+        "date": "2026-05-20"
+      },
+      {
+        "id": "learn_20260520_003",
+        "concept": "Fine-tuning（微调）",
+        "concept_en": "Fine-tuning",
+        "definition": "在预训练大模型基础上，用特定领域数据继续训练，让模型更擅长特定任务。",
+        "explanation": "预训练大模型就像一个博学多才的通才，什么都懂一点。微调就是让这个通才去上「专业培训班」——用特定领域的数据继续训练，让它在某个垂直领域表现更好。比如用医疗病历数据微调后，模型就更懂医学术语和临床思维；用法律文书微调后，就更擅长法律分析。微调的成本比从头训练低很多，但能显著提升特定场景下的表现。",
+        "example": "催收机构想让 AI 分析负债人信息：可以用历史案例数据微调一个通用大模型，让它更准确地判断还款概率——这就是微调的典型应用场景。",
+        "difficulty": "intermediate",
+        "recommended_reading": {
+          "title": "大模型微调实战指南",
+          "url": "https://www.jiqizhixin.com/articles/2024-02-20-3",
           "reading_time": 12
-        }
-      ],
-      "video": null,
-      "difficulty": "intermediate",
-      "date": "2026-05-20"
+        },
+        "recommended_video": {
+          "title": "LoRA微调大模型：低成本定制你的AI",
+          "url": "https://www.bilibili.com/video/BV1example2",
+          "platform": "bilibili",
+          "duration": "12分钟"
+        },
+        "date": "2026-05-20"
+      }
+    ],
+    "deep_reads": [
+      {
+        "title": "OpenAI 发布 GPT-5：我们实测了它的六大核心能力",
+        "url": "https://www.jiqizhixin.com/articles/2026-05-20-1",
+        "source": "机器之心",
+        "ai_summary": "GPT-5 在代码生成、数学推理、长文本理解、多模态处理、工具调用和安全性六个维度全面超越 GPT-4 Turbo。最亮眼的是数学推理能力——在 AIME 竞赛题上达到 87% 的准确率，而 GPT-4 Turbo 仅为 52%。多模态方面，GPT-5 首次实现了原生视频理解，无需先转帧再处理。上下文窗口扩展到 256K tokens，且在长上下文检索任务中的表现几乎无损。",
+        "reading_time": 10,
+        "is_must_read": true
+      },
+      {
+        "title": "AI 监管沙盒：全球政策试水的中国方案",
+        "url": "https://36kr.com/p/2026-05-20-ai-regulatory-sandbox",
+        "source": "36Kr",
+        "ai_summary": "国内首个 AI 监管沙盒落地北上深三地，核心思路是「边试边管」：企业可以在受控环境中测试生成式 AI 产品，监管部门根据实际风险动态调整规则。与欧盟的《AI法案》事前审批模式不同，中国方案更灵活，但也被质疑监管覆盖面是否足够。首批纳入沙盒的应用集中在智能客服、内容生成和医疗辅助诊断三个领域。",
+        "reading_time": 8,
+        "is_must_read": false
+      }
+    ],
+    "videos": [
+      {
+        "title": "GPT-5 发布会完整回放 | OpenAI 官方",
+        "url": "https://www.youtube.com/watch?v=example-gpt5",
+        "platform": "youtube",
+        "duration": "45分钟",
+        "ai_summary": "OpenAI CEO Sam Altman 现场演示 GPT-5 的六大核心能力，包括现场编程挑战、医学影像分析和实时视频理解。"
+      },
+      {
+        "title": "5分钟搞懂 AI 监管沙盒",
+        "url": "https://www.bilibili.com/video/BV1example3",
+        "platform": "bilibili",
+        "duration": "5分钟",
+        "ai_summary": "用动画解释什么是监管沙盒，为什么AI需要沙盒，以及北上深三地试点的具体规则。"
+      }
+    ],
+    "daily_question": {
+      "question": "RAG 和 Fine-tuning 有什么区别？企业应该先选哪个？",
+      "answer": "RAG 是在推理时实时检索外部知识，适合需要最新信息的场景（如客服问答、知识库检索）；Fine-tuning 是用特定数据微调模型参数，适合需要模型深入掌握领域知识的场景（如医疗诊断、法律分析）。对于大多数企业，建议先上 RAG——成本低、见效快、知识库可以随时更新。等 RAG 解决不了的问题积累够了，再考虑 Fine-tuning。实际中两者常常结合使用：Fine-tuning 让模型「懂行」，RAG 让模型「知情」。",
+      "related_concepts": ["RAG", "Fine-tuning"]
     }
-  ]
+  }
 }

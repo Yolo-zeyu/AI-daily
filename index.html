@@ -5,128 +5,173 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>AI 日报</title>
   <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <script>
     tailwind.config = {
       theme: {
         extend: {
           colors: {
-            brand: '#2F6BFF',
+            primary: '#4F46E5',
+            'primary-dark': '#3730A3',
+            surface: '#FAFAFA',
+            'text-primary': '#1A1A2E',
+            'text-secondary': '#374151',
+            'text-muted': '#9CA3AF',
           },
           fontFamily: {
-            sans: ['-apple-system', 'BlinkMacSystemFont', '"Segoe UI"', '"PingFang SC"', '"Hiragino Sans GB"', '"Microsoft YaHei"', 'sans-serif'],
+            sans: ['Inter', '-apple-system', 'BlinkMacSystemFont', '"PingFang SC"', 'sans-serif'],
+            mono: ['JetBrains Mono', 'SF Mono', 'monospace'],
+          },
+          borderRadius: {
+            'card': '12px',
+            'pill': '9999px',
+          },
+          boxShadow: {
+            'card': '0 1px 3px rgba(0,0,0,0.06), 0 1px 2px rgba(0,0,0,0.04)',
+            'card-hover': '0 4px 12px rgba(0,0,0,0.1), 0 2px 4px rgba(0,0,0,0.06)',
           }
         }
       }
     }
   </script>
-  <style>
-    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif; }
-    .card-hover { transition: box-shadow 0.2s ease, transform 0.2s ease; }
-    .card-hover:hover { box-shadow: 0 4px 12px rgba(0,0,0,0.1); transform: translateY(-1px); }
-    .expand-content { max-height: 0; overflow: hidden; transition: max-height 0.3s ease; }
-    .expand-content.open { max-height: 1000px; }
-    .tag-dot { width: 6px; height: 6px; border-radius: 50%; display: inline-block; }
-    .difficulty-beginner { background: #10b981; }
-    .difficulty-intermediate { background: #f59e0b; }
-    .difficulty-advanced { background: #ef4444; }
-  </style>
+  <link rel="stylesheet" href="css/custom.css">
 </head>
-<body class="bg-gray-50 text-gray-900">
+<body class="bg-surface text-text-secondary font-sans">
 
-  <!-- 顶部导航 -->
-  <nav class="bg-white border-b border-gray-100 sticky top-0 z-50">
-    <div class="max-w-5xl mx-auto px-4 h-14 flex items-center justify-between">
-      <div class="flex items-center gap-2">
-        <span class="text-xl font-bold text-blue-600">🤖</span>
-        <span class="text-lg font-bold text-gray-900">AI 日报</span>
-        <span class="text-xs text-gray-400 ml-1 hidden sm:inline">每日 AI 资讯精选</span>
+  <!-- 导航栏：毛玻璃 sticky -->
+  <nav class="sticky top-0 z-50 bg-white/85 backdrop-blur-md border-b border-black/6 h-16 flex items-center">
+    <div class="max-w-[1200px] mx-auto px-6 w-full flex items-center justify-between">
+      <div class="flex items-center gap-3">
+        <span class="text-2xl">🤖</span>
+        <span class="text-xl font-extrabold text-text-primary">AI 日报</span>
+        <span class="text-xs text-text-muted ml-1 hidden sm:inline">每日 AI 资讯精选</span>
       </div>
       <div class="flex items-center gap-3">
-        <select id="date-selector" class="text-sm border border-gray-200 rounded-md px-2 py-1 text-gray-600 focus:outline-none focus:border-blue-400 bg-white cursor-pointer">
-          <!-- 日期选项由 JS 动态填充 -->
+        <select id="date-selector" class="text-sm border border-gray-200 rounded-lg px-3 py-1.5 text-gray-600 focus:outline-none focus:ring-2 focus:ring-primary/30 bg-white cursor-pointer font-mono">
         </select>
-        <a href="#about" class="text-sm text-gray-500 hover:text-blue-600 transition-colors hidden sm:inline">关于</a>
+        <select id="sort-selector" class="text-sm border border-gray-200 rounded-lg px-3 py-1.5 text-gray-600 focus:outline-none focus:ring-2 focus:ring-primary/30 bg-white cursor-pointer">
+          <option value="importance">按重要性</option>
+          <option value="time">按时间</option>
+        </select>
       </div>
     </div>
   </nav>
 
-  <!-- 日期标题 -->
-  <div class="bg-white border-b border-gray-100">
-    <div class="max-w-5xl mx-auto px-4 py-4">
-      <div class="flex items-center justify-between">
-        <div>
-          <h1 id="report-date" class="text-2xl font-bold text-gray-900">2026年5月20日 AI 日报</h1>
-          <p id="report-time" class="text-sm text-gray-400 mt-0.5">更新于 08:00</p>
-        </div>
-        <div class="text-right hidden sm:block">
-          <p class="text-xs text-gray-400">预计阅读时间</p>
-          <p id="reading-time" class="text-sm font-medium text-gray-600">约 12 分钟</p>
-        </div>
+  <!-- 分类标签栏 -->
+  <div class="sticky top-16 z-40 bg-white/90 backdrop-blur-sm border-b border-gray-100">
+    <div class="max-w-[1200px] mx-auto px-6">
+      <div id="category-tabs" class="flex gap-2 py-3 overflow-x-auto scrollbar-hide">
+        <!-- JS 动态填充 -->
       </div>
     </div>
   </div>
 
-  <main class="max-w-5xl mx-auto px-4 py-8 space-y-10">
+  <main class="max-w-[1200px] mx-auto px-6 py-10 space-y-12">
 
-    <!-- 模块一：今日要闻 -->
+    <!-- 日期标题 -->
+    <header class="fade-in">
+      <h1 id="report-date" class="text-3xl font-extrabold text-text-primary">2026年5月20日 AI 日报</h1>
+      <p id="report-time" class="text-sm text-text-muted mt-1">更新于 08:00</p>
+    </header>
+
+    <!-- 模块一：今日要闻 — 混合布局 -->
     <section id="news-section">
-      <div class="flex items-center justify-between mb-4">
-        <h2 class="text-lg font-bold text-gray-900 flex items-center gap-2">
-          <span>📰</span> 今日要闻
-          <span id="news-count" class="text-xs font-normal text-gray-400 bg-gray-100 px-2 py-0.5 rounded-full">0 条</span>
+      <div class="flex items-center justify-between mb-6">
+        <h2 class="text-xl font-bold text-text-primary flex items-center gap-2">
+          📰 今日要闻
+          <span id="news-count" class="text-xs font-normal text-text-muted bg-gray-100 px-2.5 py-0.5 rounded-pill">0 条</span>
         </h2>
-        <button id="news-expand-btn" onclick="toggleNewsAll()" class="text-sm text-blue-600 hover:text-blue-700 transition-colors flex items-center gap-1">
-          查看全部 <span id="news-expand-icon">→</span>
-        </button>
       </div>
 
-      <div id="news-list" class="space-y-3">
-        <!-- 新闻卡片由 JS 渲染 -->
+      <!-- 头条大图 -->
+      <div id="headline-card" class="mb-6">
+        <!-- JS 渲染 -->
+      </div>
+
+      <!-- 图文卡片 + 纯文字卡片 双列 -->
+      <div id="news-list" class="grid grid-cols-1 md:grid-cols-2 gap-4">
+        <!-- JS 渲染 -->
       </div>
     </section>
 
-    <div class="border-t border-gray-100"></div>
+    <div class="border-t border-gray-200"></div>
 
     <!-- 模块二：投融资速递 -->
     <section id="deals-section">
-      <div class="flex items-center justify-between mb-4">
-        <h2 class="text-lg font-bold text-gray-900 flex items-center gap-2">
-          <span>💰</span> 投融资速递
-          <span id="deals-count" class="text-xs font-normal text-gray-400 bg-gray-100 px-2 py-0.5 rounded-full">0 条</span>
+      <div class="flex items-center justify-between mb-6">
+        <h2 class="text-xl font-bold text-text-primary flex items-center gap-2">
+          💰 投融资速递
+          <span id="deals-count" class="text-xs font-normal text-text-muted bg-gray-100 px-2.5 py-0.5 rounded-pill">0 条</span>
         </h2>
-        <button id="deals-expand-btn" onclick="toggleDealsAll()" class="text-sm text-blue-600 hover:text-blue-700 transition-colors flex items-center gap-1">
-          查看全部 <span id="deals-expand-icon">→</span>
-        </button>
       </div>
-
-      <div id="deals-list" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
-        <!-- 投融资卡片由 JS 渲染 -->
+      <div id="deals-list" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+        <!-- JS 渲染 -->
       </div>
     </section>
 
-    <div class="border-t border-gray-100"></div>
+    <div class="border-t border-gray-200"></div>
 
-    <!-- 模块三：今日学习 -->
+    <!-- 模块三：今日学习 — 4个子板块 -->
     <section id="learning-section">
-      <div class="flex items-center justify-between mb-4">
-        <h2 class="text-lg font-bold text-gray-900 flex items-center gap-2">
-          <span>📚</span> 今日学习
+      <div class="flex items-center justify-between mb-6">
+        <h2 class="text-xl font-bold text-text-primary flex items-center gap-2">
+          📚 今日学习
         </h2>
-        <span id="learning-time" class="text-sm text-gray-500 bg-gray-50 px-3 py-1 rounded-full">预计学习时间：30 分钟</span>
+        <span id="learning-time" class="text-sm text-text-muted bg-gray-100 px-3 py-1 rounded-pill">预计学习：35 分钟</span>
       </div>
 
-      <div id="learning-list" class="space-y-3">
-        <!-- 学习卡片由 JS 渲染 -->
+      <!-- 📌 核心概念 -->
+      <div class="mb-8">
+        <h3 class="text-base font-semibold text-text-primary mb-4 flex items-center gap-2">
+          📌 核心概念
+          <span class="text-xs text-text-muted font-normal">（约 10 分钟）</span>
+        </h3>
+        <div id="concepts-list" class="space-y-3">
+          <!-- JS 渲染 -->
+        </div>
+      </div>
+
+      <!-- 📰 深度阅读 -->
+      <div class="mb-8">
+        <h3 class="text-base font-semibold text-text-primary mb-4 flex items-center gap-2">
+          📰 深度阅读
+          <span class="text-xs text-text-muted font-normal">（约 15 分钟）</span>
+        </h3>
+        <div id="deep-reads-list" class="space-y-3">
+          <!-- JS 渲染 -->
+        </div>
+      </div>
+
+      <!-- 🎬 视频学习 -->
+      <div class="mb-8">
+        <h3 class="text-base font-semibold text-text-primary mb-4 flex items-center gap-2">
+          🎬 视频学习
+          <span class="text-xs text-text-muted font-normal">（约 10 分钟）</span>
+        </h3>
+        <div id="videos-list" class="space-y-3">
+          <!-- JS 渲染 -->
+        </div>
+      </div>
+
+      <!-- 💡 每日一问 -->
+      <div>
+        <h3 class="text-base font-semibold text-text-primary mb-4 flex items-center gap-2">
+          💡 每日一问
+          <span class="text-xs text-text-muted font-normal">（约 5 分钟）</span>
+        </h3>
+        <div id="daily-question">
+          <!-- JS 渲染 -->
+        </div>
       </div>
     </section>
 
   </main>
 
   <!-- 底部 -->
-  <footer id="about" class="border-t border-gray-100 bg-white mt-16">
-    <div class="max-w-5xl mx-auto px-4 py-8 text-center">
-      <p class="text-sm text-gray-400">内容版权归原作者所有，本站仅做聚合展示</p>
-      <p class="text-xs text-gray-300 mt-1">数据来源：36Kr · 机器之心 · 量子位 · The Verge · Hacker News</p>
+  <footer class="border-t border-gray-200 bg-white mt-16">
+    <div class="max-w-[1200px] mx-auto px-6 py-8 text-center">
+      <p class="text-sm text-text-muted">内容版权归原作者所有，本站仅做聚合展示</p>
+      <p class="text-xs text-gray-300 mt-1">数据来源：36Kr · 机器之心 · 量子位 · The Verge · TechCrunch · Hacker News · Wired · MIT Tech Review</p>
       <p class="text-xs text-gray-300 mt-1">每日 08:00 自动更新 · 由 AI 驱动</p>
     </div>
   </footer>

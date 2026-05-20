@@ -1,0 +1,78 @@
+/* AI 日报 V2 自定义样式 */
+
+/* 隐藏滚动条 */
+.scrollbar-hide::-webkit-scrollbar { display: none; }
+.scrollbar-hide { -ms-overflow-style: none; scrollbar-width: none; }
+
+/* 页面加载动画 */
+.fade-in {
+  animation: fadeIn 0.3s ease forwards;
+}
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* 卡片 hover */
+.card-hover {
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+.card-hover:hover {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1), 0 2px 4px rgba(0,0,0,0.06);
+  transform: translateY(-2px);
+}
+
+/* 展开/收起动画 */
+.expand-content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease;
+}
+.expand-content.open {
+  max-height: 2000px;
+}
+
+/* 分类色条 */
+.category-bar {
+  width: 4px;
+  border-radius: 2px;
+  flex-shrink: 0;
+}
+
+/* 星级 */
+.star { color: #D1D5DB; }
+.star.filled { color: #F59E0B; }
+
+/* 标签切换 */
+.cat-tab {
+  transition: background-color 0.15s ease, color 0.15s ease;
+  white-space: nowrap;
+  padding: 6px 14px;
+  border-radius: 9999px;
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+  user-select: none;
+}
+.cat-tab:hover { background-color: #E5E7EB; }
+.cat-tab.active {
+  background-color: #4F46E5;
+  color: white;
+}
+.cat-tab.active:hover { background-color: #3730A3; }
+
+/* 新闻卡片左侧分类色条 */
+.news-card-border {
+  border-left: 4px solid transparent;
+}
+.news-card-border[data-category="foundation-model"] { border-left-color: #2563EB; }
+.news-card-border[data-category="business"] { border-left-color: #EA580C; }
+.news-card-border[data-category="tech-breakthrough"] { border-left-color: #7C3AED; }
+.news-card-border[data-category="product"] { border-left-color: #16A34A; }
+.news-card-border[data-category="policy"] { border-left-color: #DC2626; }
+.news-card-border[data-category="opinion"] { border-left-color: #6B7280; }
+
+/* 难度标签 */
+.difficulty-beginner { background: #D1FAE5; color: #065F46; }
+.difficulty-intermediate { background: #FEF3C7; color: #92400E; }
+.difficulty-advanced { background: #FEE2E2; color: #991B1B; }

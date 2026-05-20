@@ -1,7 +1,9 @@
 """
-学习内容生成脚本
-方案 A（MVP）：调用 DeepSeek API，从当日新闻提取 AI 概念并生成学习卡片
-方案 B（备选）：预置概念库匹配
+V2 学习内容生成脚本 — 4 个子板块
+📌 核心概念（3-5个）
+📰 深度阅读（2-3篇）
+🎬 视频学习（1-2个）
+💡 每日一问（1个）
 """
 import json
 import logging
@@ -10,19 +12,19 @@ from datetime import datetime, timezone, timedelta
 
 import requests
 
-from config import DEEPSEEK_API_KEY, MAX_LEARNING_CONCEPTS, REQUEST_TIMEOUT
+from config import DEEPSEEK_API_KEY, DEEPSEEK_API_URL, MAX_LEARNING_CONCEPTS, REQUEST_TIMEOUT
 from fetch_news import _make_id
 
 logger = logging.getLogger(__name__)
 CST = timezone(timedelta(hours=8))
 
-DEEPSEEK_API_URL = "https://api.deepseek.com/v1/chat/completions"
 
+def generate_learning(news_items: list, deals_items: list = None) -> dict:
+    """生成 V2 学习内容（4 个子板块）"""
+    deals_items = deals_items or []
 
-def generate_learning(news_items: list) -> list:
-    """从当日新闻生成学习内容"""
     if DEEPSEEK_API_KEY:
-        result = _generate_via_deepseek(news_items)
+        result = _generate_via_deepseek(news_items, deals_items)
         if result:
             return result
         logger.warning("DeepSeek 生成失败，降级到预置概念库")
@@ -30,9 +32,8 @@ def generate_learning(news_items: list) -> list:
     return _generate_from_fallback(news_items)
 
 
-def _generate_via_deepseek(news_items: list) -> list | None:
-    """调用 DeepSeek API 生成学习卡片"""
-    # 构建新闻摘要文本（控制 token 用量）
+def _generate_via_deepseek(news_items: list, deals_items: list) -> dict | None:
+    """调用 DeepSeek API 生成完整学习内容"""
     news_text = "\n".join([
         f"- {item['title']}: {item.get('summary', '')[:100]}"
         for item in news_items[:20]
@@ -43,25 +44,61 @@ def _generate_via_deepseek(news_items: list) -> list | None:
 
 {news_text}
 
-请从这些新闻中提取 {MAX_LEARNING_CONCEPTS} 个值得学习的 AI 概念/术语，为每个概念生成学习卡片。
+请生成每日学习内容，包含 4 个板块：
 
-要求：
-1. 选择最具代表性、适合非技术背景读者学习的概念
-2. 每个概念用以下 JSON 格式输出
-3. 解释要通俗易懂，避免堆砌术语
-4. 举例要贴近实际生活/商业场景
+1. 📌 核心概念（3-5个）：从新闻中提取值得学习的 AI 概念
+2. 📰 深度阅读（2-3篇）：筛选信息密度高的深度文章
+3. 🎬 视频学习（1-2个）：推荐相关的优质视频
+4. 💡 每日一问（1个）：生成对比类/思辨类问题
 
-输出格式（严格 JSON 数组）：
-[
-  {{
-    "concept": "概念名称（中文）",
-    "concept_en": "英文原名",
-    "definition": "一句话定义（30字以内）",
-    "explanation": "通俗解释（150-200字）",
-    "example": "实际应用场景举例（100字以内）",
-    "difficulty": "beginner | intermediate | advanced"
+输出格式（严格 JSON）：
+{{
+  "concepts": [
+    {{
+      "concept": "概念名称（中文）",
+      "concept_en": "英文原名",
+      "definition": "一句话定义（30字以内）",
+      "explanation": "通俗解释（150-200字，用生活例子打比方）",
+      "example": "实际应用场景举例（100字以内）",
+      "difficulty": "beginner|intermediate|advanced",
+      "recommended_reading": {{
+        "title": "推荐阅读文章标题",
+        "url": "推荐阅读文章URL（尽量真实）",
+        "reading_time": 8
+      }},
+      "recommended_video": {{
+        "title": "推荐视频标题",
+        "url": "推荐视频URL",
+        "platform": "bilibili|youtube",
+        "duration": "8分钟"
+      }}
+    }}
+  ],
+  "deep_reads": [
+    {{
+      "title": "文章标题（从今日新闻中选）",
+      "url": "原文链接",
+      "source": "来源",
+      "ai_summary": "200字AI摘要精华提炼",
+      "reading_time": 8,
+      "is_must_read": true
+    }}
+  ],
+  "videos": [
+    {{
+      "title": "视频标题",
+      "url": "视频链接",
+      "platform": "youtube|bilibili",
+      "duration": "10分钟",
+      "ai_summary": "这个视频讲了什么（50字）"
+    }}
+  ],
+  "daily_question": {{
+    "question": "今日问题（对比类/思辨类）",
+    "answer": "200-300字AI解答",
+    "related_concepts": ["概念1", "概念2"]
   }}
-]
+}}
 
 只输出 JSON，不要其他文字。"""
 
@@ -76,38 +113,57 @@ def _generate_via_deepseek(news_items: list) -> list | None:
                 "model": "deepseek-chat",
                 "messages": [{"role": "user", "content": prompt}],
                 "temperature": 0.7,
-                "max_tokens": 3000,
+                "max_tokens": 4000,
             },
-            timeout=60,
+            timeout=90,
         )
         resp.raise_for_status()
         content = resp.json()["choices"][0]["message"]["content"]
 
-        # 提取 JSON（防止模型多输出了非 JSON 内容）
-        json_match = re.search(r"\[.*\]", content, re.DOTALL)
+        json_match = re.search(r"\{.*\}", content, re.DOTALL)
         if not json_match:
             logger.error("DeepSeek 输出中未找到 JSON")
             return None
 
-        concepts = json.loads(json_match.group())
+        raw = json.loads(json_match.group())
         today_str = datetime.now(CST).strftime("%Y-%m-%d")
 
-        # 补全字段
-        result = []
-        for i, c in enumerate(concepts[:MAX_LEARNING_CONCEPTS]):
-            result.append({
+        # 处理核心概念
+        concepts = []
+        for i, c in enumerate(raw.get("concepts", [])[:MAX_LEARNING_CONCEPTS]):
+            concepts.append({
                 "id": f"learn_{today_str.replace('-', '')}_{i+1:03d}",
                 "concept": c.get("concept", ""),
                 "concept_en": c.get("concept_en", ""),
                 "definition": c.get("definition", ""),
                 "explanation": c.get("explanation", ""),
                 "example": c.get("example", ""),
-                "articles": [],   # MVP 暂不自动搜索推荐文章
+                "articles": [],
                 "video": None,
                 "difficulty": c.get("difficulty", "beginner"),
                 "date": today_str,
+                # V2 新增
+                "recommended_reading": c.get("recommended_reading"),
+                "recommended_video": c.get("recommended_video"),
             })
-        logger.info(f"DeepSeek 生成了 {len(result)} 个学习概念")
+
+        # 处理深度阅读
+        deep_reads = raw.get("deep_reads", [])
+
+        # 处理视频学习
+        videos = raw.get("videos", [])
+
+        # 处理每日一问
+        daily_question = raw.get("daily_question", {})
+
+        result = {
+            "concepts": concepts,
+            "deep_reads": deep_reads,
+            "videos": videos,
+            "daily_question": daily_question,
+        }
+
+        logger.info(f"DeepSeek 生成了 {len(concepts)} 个概念，{len(deep_reads)} 篇深度阅读，{len(videos)} 个视频")
         return result
 
     except json.JSONDecodeError as e:
@@ -168,30 +224,26 @@ for concept_name, concept_data in CONCEPT_LIBRARY.items():
         KEYWORD_TO_CONCEPT[kw.lower()] = concept_name
 
 
-def _generate_from_fallback(news_items: list) -> list:
+def _generate_from_fallback(news_items: list) -> dict:
     """从预置概念库匹配当日相关概念"""
     news_text = " ".join([item.get("title", "") + " " + item.get("summary", "") for item in news_items])
     news_lower = news_text.lower()
 
-    # 统计每个概念在新闻中出现的频次
-    concept_scores: dict[str, int] = {}
+    concept_scores = {}
     for kw, concept_name in KEYWORD_TO_CONCEPT.items():
         count = news_lower.count(kw)
         if count > 0:
             concept_scores[concept_name] = concept_scores.get(concept_name, 0) + count
 
-    # 取出现频次最高的若干概念
     selected = sorted(concept_scores.items(), key=lambda x: x[1], reverse=True)[:MAX_LEARNING_CONCEPTS]
-
-    # 如果没匹配到任何概念，返回默认的入门概念
     if not selected:
         selected = [("大模型", 1), ("Agent", 1), ("RAG", 1)]
 
     today_str = datetime.now(CST).strftime("%Y-%m-%d")
-    result = []
+    concepts = []
     for i, (concept_name, _) in enumerate(selected):
         data = CONCEPT_LIBRARY.get(concept_name, {})
-        result.append({
+        concepts.append({
             "id": f"learn_{today_str.replace('-', '')}_{i+1:03d}",
             "concept": concept_name,
             "concept_en": data.get("concept_en", ""),
@@ -202,7 +254,32 @@ def _generate_from_fallback(news_items: list) -> list:
             "video": None,
             "difficulty": data.get("difficulty", "beginner"),
             "date": today_str,
+            "recommended_reading": None,
+            "recommended_video": None,
         })
 
-    logger.info(f"预置库匹配了 {len(result)} 个学习概念")
+    # 兜底：从新闻中选前2条作为深度阅读
+    deep_reads = []
+    for item in news_items[:2]:
+        deep_reads.append({
+            "title": item.get("title", ""),
+            "url": item.get("source_url", ""),
+            "source": item.get("source", ""),
+            "ai_summary": item.get("summary", "")[:200],
+            "reading_time": 8,
+            "is_must_read": len(deep_reads) == 0,
+        })
+
+    result = {
+        "concepts": concepts,
+        "deep_reads": deep_reads,
+        "videos": [],
+        "daily_question": {
+            "question": "RAG 和 Fine-tuning 有什么区别？各自适合什么场景？",
+            "answer": "RAG 是在推理时实时检索外部知识，适合需要最新信息的场景（如客服、知识库问答）；Fine-tuning 是用特定数据微调模型参数，适合需要模型深入掌握特定领域知识的场景（如医疗诊断、法律分析）。RAG 成本低、灵活，但依赖检索质量；Fine-tuning 效果更深入，但成本高、更新慢。实际中常常结合使用。",
+            "related_concepts": ["RAG", "Fine-tuning"],
+        },
+    }
+
+    logger.info(f"预置库匹配了 {len(concepts)} 个学习概念")
     return result

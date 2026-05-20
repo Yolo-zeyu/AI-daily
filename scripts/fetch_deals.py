@@ -1,8 +1,9 @@
 """
-投融资信息采集脚本
-数据源：36Kr 融资频道、Crunchbase News RSS
+V2 投融资信息采集脚本
+扩充：4 个数据源 + 详情数据（公司简介、相关报道、融资历史）
 """
 import time
+import random
 import logging
 from datetime import datetime, timezone, timedelta
 
@@ -12,9 +13,9 @@ from bs4 import BeautifulSoup
 
 from config import (
     DEAL_SOURCES, MAX_DEALS_PER_SOURCE, AI_KEYWORDS,
-    REQUEST_DELAY, REQUEST_TIMEOUT, USER_AGENT
+    REQUEST_DELAY, REQUEST_TIMEOUT, USER_AGENTS
 )
-from fetch_news import _make_id, _parse_time
+from fetch_news import _make_id
 
 logger = logging.getLogger(__name__)
 CST = timezone(timedelta(hours=8))
@@ -38,7 +39,7 @@ def fetch_all_deals() -> list:
             logger.info(f"  {source['name']}: 获取 {len(items)} 条")
         except Exception as e:
             logger.error(f"采集 {source['name']} 失败: {e}")
-        time.sleep(REQUEST_DELAY)
+        time.sleep(REQUEST_DELAY + random.uniform(0, 1))
 
     # 过滤 AI 相关
     ai_deals = [d for d in all_deals if _is_ai_related(d)]
@@ -51,7 +52,7 @@ def fetch_all_deals() -> list:
             seen.add(key)
             deduped.append(deal)
 
-    # 按金额排序（尽力解析，无法解析的排最后）
+    # 按金额排序
     deduped.sort(key=lambda x: _parse_amount(x.get("amount", "")), reverse=True)
     logger.info(f"投融资总计: 共 {len(all_deals)} 条，AI 相关 {len(ai_deals)} 条，去重后 {len(deduped)} 条")
     return deduped
@@ -59,13 +60,12 @@ def fetch_all_deals() -> list:
 
 def _fetch_36kr_deals(source: dict) -> list:
     """采集 36Kr 融资频道"""
-    headers = {"User-Agent": USER_AGENT, "Accept-Language": "zh-CN,zh;q=0.9"}
+    headers = {"User-Agent": random.choice(USER_AGENTS), "Accept-Language": "zh-CN,zh;q=0.9"}
     resp = requests.get(source["url"], headers=headers, timeout=REQUEST_TIMEOUT)
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, "html.parser")
 
     items = []
-    # 36Kr 融资页文章卡片（selector 随页面结构可能需要维护）
     cards = soup.select("div.articleCard, .flow-list .item, article")
     if not cards:
         cards = soup.find_all("a", href=lambda h: h and "/p/" in str(h))
@@ -81,17 +81,16 @@ def _fetch_36kr_deals(source: dict) -> list:
         if not title or len(title) < 5:
             continue
 
-        # 从标题解析融资信息
         deal = _parse_deal_from_title(title, href, source["name"])
         if deal:
             items.append(deal)
-
     return items
 
 
 def _fetch_deal_rss(source: dict) -> list:
     """从 RSS 采集投融资"""
-    feed = feedparser.parse(source["url"])
+    headers = {"User-Agent": random.choice(USER_AGENTS)}
+    feed = feedparser.parse(source["url"], request_headers=headers)
     items = []
     for entry in feed.entries[:MAX_DEALS_PER_SOURCE]:
         title = entry.get("title", "")
@@ -104,7 +103,6 @@ def _fetch_deal_rss(source: dict) -> list:
 
 def _parse_deal_from_title(title: str, url: str, source_name: str) -> dict | None:
     """从标题文本尝试解析融资信息"""
-    # 简单关键词判断是否是融资新闻
     deal_keywords = ["融资", "完成", "获得", "轮", "亿", "万美元", "million", "billion", "raises", "funding", "Series"]
     if not any(kw.lower() in title.lower() for kw in deal_keywords):
         return None
@@ -122,6 +120,10 @@ def _parse_deal_from_title(title: str, url: str, source_name: str) -> dict | Non
         "source_url": url,
         "publish_time": datetime.now(CST).strftime("%Y-%m-%d"),
         "description": title[:100],
+        # V2 新增字段
+        "company_intro": None,
+        "related_articles": [],
+        "funding_history": [],
     }
 
 
@@ -141,20 +143,17 @@ def _parse_amount(amount_str: str) -> float:
         return -1
     s = amount_str.replace(",", "").replace(" ", "")
     try:
+        import re
         if "亿美元" in s or "billion" in s.lower():
-            import re
             nums = re.findall(r"[\d.]+", s)
             return float(nums[0]) * 7 * 1e8 if nums else -1
         if "亿" in s:
-            import re
             nums = re.findall(r"[\d.]+", s)
             return float(nums[0]) * 1e8 if nums else -1
         if "万" in s:
-            import re
             nums = re.findall(r"[\d.]+", s)
             return float(nums[0]) * 1e4 if nums else -1
         if "million" in s.lower():
-            import re
             nums = re.findall(r"[\d.]+", s)
             return float(nums[0]) * 7 * 1e6 if nums else -1
     except Exception:
@@ -163,8 +162,7 @@ def _parse_amount(amount_str: str) -> float:
 
 
 def _extract_company(title: str) -> str:
-    """从标题提取公司名（简单规则，实际应用可接 NER）"""
-    # 常见格式：XX公司完成/获得/宣布...
+    """从标题提取公司名"""
     import re
     patterns = [
         r"^(.{2,10}?)(?:完成|获得|宣布|获|融)",
@@ -179,7 +177,6 @@ def _extract_company(title: str) -> str:
 
 def _extract_round(title: str) -> str:
     """从标题提取融资轮次"""
-    import re
     rounds = ["Pre-A轮", "天使轮", "种子轮", "A+轮", "B+轮", "C+轮", "A轮", "B轮", "C轮", "D轮", "E轮",
               "Series A", "Series B", "Series C", "Series D", "Pre-IPO", "战略融资"]
     for r in rounds:
