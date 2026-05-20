@@ -18,7 +18,7 @@ jobs:
         env:
           DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
           SERVERCHAN_SENDKEY: ${{ secrets.SERVERCHAN_SENDKEY }}
-          DEEPSEEK_API_KEY: ${{ secrets.DEEEPSEEK_API_KEY }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           SITE_URL: ${{ secrets.SITE_URL }}
       - name: Commit and Push
         run: |
