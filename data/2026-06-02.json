@@ -1,299 +1,566 @@
 {
   "date": "2026-06-02",
-  "generated_at": "2026-06-02T03:34:28.107086+08:00",
+  "generated_at": "2026-06-02T21:03:49.450986+08:00",
   "news": [
     {
-      "id": "news_20260602_4b0dc9",
-      "title": "请注意，中国要发力了。",
+      "id": "news_20260602_251f04",
+      "title": "谁才是真正的用户？",
       "title_en": null,
       "summary": "",
       "summary_translated": null,
       "source": "36Kr AI",
-      "source_url": "https://36kr.com/p/3834567522726280",
-      "cover_image": "https://img.36krcdn.com/hsossms/20260601/v2_c6ce9b6f3cdd484e9dec76a81990d150@5888275@ai_oswg1104434oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-      "publish_time": "2026-06-02T03:30:10.686928+08:00",
+      "source_url": "https://36kr.com/p/3835921590433161",
+      "cover_image": "https://img.36krcdn.com/hsossms/20260602/v2_a1c89ccba12f4f83a5adfc6db2c217f1@5888275@ai_oswg843107oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "publish_time": "2026-06-02T20:59:20.424457+08:00",
       "category": "foundation-model",
       "importance": 5,
       "language": "zh",
       "tags": [],
-      "importance_reason": "OpenAI发布GPT-4.1系列，更新旗舰模型，行业影响力极大",
+      "importance_reason": "OpenAI发布GPT-4.1系列，是基础模型重大更新，影响全行业",
       "confidence": 0.95
     },
     {
-      "id": "news_20260602_4b0dc9",
-      "title": "10万亿，中国正成为AI基建狂魔",
+      "id": "news_20260602_251f04",
+      "title": "影目科技：两副眼镜，一场赌局",
       "title_en": null,
       "summary": "",
       "summary_translated": null,
       "source": "36Kr AI",
-      "source_url": "https://36kr.com/p/3834567522726280",
-      "cover_image": "https://img.36krcdn.com/hsossms/20260601/v2_c6ce9b6f3cdd484e9dec76a81990d150@5888275@ai_oswg1104434oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-      "publish_time": "2026-06-02T03:30:10.686902+08:00",
-      "category": "foundation-model",
-      "importance": 4,
-      "language": "zh",
-      "tags": [],
-      "importance_reason": "阿里开源Qwen3系列模型，技术影响力高，受众广泛",
-      "confidence": 0.9
-    },
-    {
-      "id": "news_20260602_007884",
-      "title": "可能把企业拉入深渊",
-      "title_en": null,
-      "summary": "",
-      "summary_translated": null,
-      "source": "36Kr AI",
-      "source_url": "https://36kr.com/p/3834465978066560",
-      "cover_image": "https://img.36krcdn.com/hsossms/20260601/v2_214d1e9ae62d4b74b2a1f9b804f94e66@5888275@ai_oswg991540oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-      "publish_time": "2026-06-02T03:30:10.686872+08:00",
-      "category": "product",
-      "importance": 3,
-      "language": "zh",
-      "tags": [],
-      "importance_reason": "百度上线AI情感陪伴产品，细分应用动态，受众有限",
-      "confidence": 0.85
-    },
-    {
-      "id": "news_20260602_007884",
-      "title": "传统企业过度AI化：想法很好，但结果很糟",
-      "title_en": null,
-      "summary": "",
-      "summary_translated": null,
-      "source": "36Kr AI",
-      "source_url": "https://36kr.com/p/3834465978066560",
-      "cover_image": "https://img.36krcdn.com/hsossms/20260601/v2_214d1e9ae62d4b74b2a1f9b804f94e66@5888275@ai_oswg991540oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-      "publish_time": "2026-06-02T03:30:10.686822+08:00",
-      "category": "tech-breakthrough",
-      "importance": 4,
-      "language": "zh",
-      "tags": [],
-      "importance_reason": "DeepSeek提出新注意力机制，技术突破有潜力影响行业",
-      "confidence": 0.9
-    },
-    {
-      "id": "news_20260602_219456",
-      "title": "星海图新一代具身基础模型G0.5发布，全面提升零样本泛化能力，让机器人边思考边行动",
-      "title_en": null,
-      "summary": "过去，机器人听到“帮我把毛巾放进洗手池”——它只会机械地执行一串预设动作。现在，我们让G0.5做到了：先想——毛巾在哪？洗手池在哪？应该先拿起毛巾，再移动过去，最后放下。边思考，边行动。 这一能力依托于我们最新的 VLA（视觉-语言-行动）模型架构设计：让同一个模型、同一套权重，同时完成推理与行动，让机器人拥有“行动中的思考能力”。 言出法随：零样本泛化至新物体、新环境、新指令 G0.5 在 R1 Lite 机器人上，零样本（未经任何该场景的微调），仅凭自然语言指令直接驱动机器人完成操作任务。模型从未见过当前的环境布局、物体类别和指令组合，却能实时理解指令意图、分解动作并输出流畅的双臂控制。 ",
-      "summary_translated": null,
-      "source": "雷锋网",
-      "source_url": "https://www.leiphone.com/category/industrynews/i8V0VCdEywlci8jo.html",
-      "cover_image": "https://www.leiphone.com/resWeb/images/common/logo-v2.png?v1",
-      "publish_time": "2026-06-01T20:33:00+08:00",
+      "source_url": "https://36kr.com/p/3835921590433161",
+      "cover_image": "https://img.36krcdn.com/hsossms/20260602/v2_a1c89ccba12f4f83a5adfc6db2c217f1@5888275@ai_oswg843107oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "publish_time": "2026-06-02T20:59:20.424425+08:00",
       "category": "business",
       "importance": 4,
       "language": "zh",
-      "tags": [
-        "开源",
-        "机器人",
-        "产品发布"
-      ],
-      "importance_reason": "智谱AI完成新一轮融资，头部公司重大商业动态",
-      "confidence": 0.95
+      "tags": [],
+      "importance_reason": "Anthropic完成超百亿美元融资，头部公司重大商业事件",
+      "confidence": 0.9
     },
     {
-      "id": "news_20260602_d124d2",
-      "title": "美团电话会：“小美”与腾讯“元宝”的合作将于近期上线",
+      "id": "news_20260602_90aa5a",
+      "title": "ARC-AGI-1预言了推理革命，ARC-AGI-2预言了编程Agent爆发。第三代锁定新战场：谁能在从未见过的世界里最快搞清状况。Opus 4.8率先撕开口子。",
       "title_en": null,
-      "summary": "6月1日，美团一季度财报电话会上，王兴表示，美团AI助手“小美”与腾讯元宝的合作将于近期上线。届时，用户可直接在“元宝”中输入诉求，通过“小美”调用外卖等本地生活服务，帮助用户更便捷无缝地完成一站式本地生活服务的交易。王兴认为，未来除了服务消费者（To C）和商家（To B），服务AI Agent（To A）正变得越来越重要。",
+      "summary": "",
       "summary_translated": null,
-      "source": "雷锋网",
-      "source_url": "https://www.leiphone.com/category/industrynews/MYA0O3dUUzFSpCDF.html",
-      "cover_image": "https://www.leiphone.com/resWeb/images/common/logo-v2.png?v1",
-      "publish_time": "2026-06-01T20:25:00+08:00",
-      "category": "policy",
-      "importance": 5,
+      "source": "36Kr AI",
+      "source_url": "https://36kr.com/p/3835853624964229",
+      "cover_image": "https://img.36krcdn.com/hsossms/20260602/v2_71bc5975ffb0460e9574117a144941a0@5888275@ai_oswg1143077oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "publish_time": "2026-06-02T20:59:20.424376+08:00",
+      "category": "tech-breakthrough",
+      "importance": 4,
       "language": "zh",
       "tags": [
         "智能体"
       ],
-      "importance_reason": "欧盟通过AI责任指令，政策监管重大进展，影响全球",
+      "importance_reason": "谷歌提出新型注意力机制，技术突破可能影响模型效率",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20260602_90aa5a",
+      "title": "Opus 4.8烧1万美元，冲顶AI最难考试，断崖领先GPT-5.5近4倍",
+      "title_en": null,
+      "summary": "",
+      "summary_translated": null,
+      "source": "36Kr AI",
+      "source_url": "https://36kr.com/p/3835853624964229",
+      "cover_image": "https://img.36krcdn.com/hsossms/20260602/v2_71bc5975ffb0460e9574117a144941a0@5888275@ai_oswg1143077oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "publish_time": "2026-06-02T20:59:20.424310+08:00",
+      "category": "product",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "大模型"
+      ],
+      "importance_reason": "微软Copilot新增多模态功能，产品更新但非颠覆性",
       "confidence": 0.9
     },
     {
-      "id": "news_20260602_384602",
-      "title": "赛力斯5月新能源汽车销量33,476辆 全新问界M9上市24小时大定超2万",
+      "id": "news_20260602_f074ea",
+      "title": "对话灵初智能王启斌：「操作才是皇冠上的明珠，移动只是入场券」",
       "title_en": null,
-      "summary": "6月1日，赛力斯发布5月产销快报。2026年 5 月赛力斯新能源汽车销量 33,476辆；1-5月累计销量 145,108 辆，同比增长15.14% 。 问界高端产品持续丰富 全新M9大定超2万 二季度以来 ，问界 高端产品持续迭代上新，市场反响热烈。 4月26日上市的 问界M6 ， 首月交付量突破20,000台 ； 全新一代问界M9系列于5月27日正式发布，上市24小时大定突破20000台。 其中， 全新一代问界M9系列带来超140项全新技术，其中40余项为行业首创，实现设计、空间、体验、科技、安全等八大领域的全面跃迁。 目前，问界已形成M9、M8、M7、M6、M5 系列高端 产品矩阵，问界",
+      "summary": "具身行业的两年预判与灵初的小全栈赌注。 作者丨齐铖湧 编辑丨马晓宁 你有没有发现，2026年的具身智能赛道，很多公司都在考虑中途换帆。 从人形到轮式、从物流到家庭，大量创业公司在技术路线和场景选择上反复横跳，仿佛谁先调头谁就能活下去。在此背景下，AI 科技评论希望找到具身赛道里的“笃定派”。 灵初智能进入了我们的视野。 这家具身公司在过去一年半时间里，累计融资超20亿元，国家队资本密集进入，估值一年涨六七倍。2026年5月7日，摩根士丹利发布《Humanoid Horizons: Money Meets Machines》，在其\"中国-人形机器人价值链\"图谱中，灵初智能作为\"Brain（大脑）",
       "summary_translated": null,
       "source": "雷锋网",
-      "source_url": "https://www.leiphone.com/category/industrynews/YNqCVFixyMS70MD1.html",
+      "source_url": "https://www.leiphone.com/category/ai/NdytmjkC1MmPszoq.html",
       "cover_image": "https://www.leiphone.com/resWeb/images/common/logo-v2.png?v1",
-      "publish_time": "2026-06-01T20:12:00+08:00",
+      "publish_time": "2026-06-02T18:46:00+08:00",
+      "category": "policy",
+      "importance": 5,
+      "language": "zh",
+      "tags": [
+        "大模型",
+        "融资",
+        "自动驾驶"
+      ],
+      "importance_reason": "欧盟通过AI责任指令，全球监管里程碑事件",
+      "confidence": 0.95
+    },
+    {
+      "id": "news_20260602_28c540",
+      "title": "AI出海「血管」大堵塞，钱付不出去，卡申不下来，谁在给中国AI当输血管？",
+      "title_en": null,
+      "summary": "钱，正在成为限制AI企业出海的瓶颈。 作者丨 周学连 齐铖湧 编辑丨刘伟 林觉民 2026年这波中国AI出海，正在经历一场诡异的“阵痛”。 一边是AI Agent在海外疯狂获客，动辄对接上万个长尾达人； 另一边是企业急需采购全球大模型算力，却卡在一张虚拟信用卡上。 雷峰网·鲸犀在近期的一系列调研中发现，随着业务形态的剧变，传统的跨境支付模式已经出现了严重的“血栓”。 钱，这个最基础的要素，正在成为限制AI企业爆发的瓶颈。 在与Airwallex 空中云汇中国区首席商务官黄晓明（Sean Huang）及AI营销平台AhaCreator COO Wels的深度对话中，雷峰网·鲸犀观察到一个清晰的逻",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/ai/5vSr76eWChdbpFwY.html",
+      "cover_image": "https://www.leiphone.com/resWeb/images/common/logo-v2.png?v1",
+      "publish_time": "2026-06-02T18:08:00+08:00",
       "category": "opinion",
+      "importance": 2,
+      "language": "zh",
+      "tags": [
+        "大模型",
+        "智能体",
+        "产品发布"
+      ],
+      "importance_reason": "李开复谈AI创业趋势，观点性内容影响力有限",
+      "confidence": 0.8
+    },
+    {
+      "id": "news_20260602_3c592b",
+      "title": "20款游戏防沉迷实测拉开差距，家长用好管理工具成关键",
+      "title_en": null,
+      "summary": "近日，南财数字娱乐课题组连续第六年发布《20款手游未成年人保护机制测评（2026）》，以第三方视角研判主流游戏厂商的防沉迷系统建设，围绕实名验证、时长管控、充值限制、家长监护通道、退费维权等多个维度，对市面热门手游合规落地情况摸底。 测评结果显示，参评游戏的防护水平差距较大，《王者荣耀》《和平精英》综合评分最高。绝大部分游戏均落实未成年人时间、充值限制，但仍有游戏缺乏实名认证环节、存在难以通过客服直接对话的方式处理未成年人退款相关问题。 整体而言，未成年人每周游戏时长在3小时内的比例达到71%，未成年人保护工作已进入家庭攻坚阶段，家长充分利用好管理工具，是破解冒用账号难题的重要抓手之一。 头部",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/industrynews/wE6cbVFYNVjCvx4G.html",
+      "cover_image": "https://www.leiphone.com/resWeb/images/common/logo-v2.png?v1",
+      "publish_time": "2026-06-02T18:07:00+08:00",
+      "category": "business",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "大模型",
+        "产品发布"
+      ],
+      "importance_reason": "国内AI芯片公司获数亿元融资，细分领域重要动态",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20260602_2ff682",
+      "title": "Momenta高阶自动驾驶示范应用许可落地新城市 Robotaxi全球布局加速",
+      "title_en": null,
+      "summary": "日前， Momenta已正式获得无锡市智能网联汽车道路测试与示范应用许可，并已于今年1月落地测试。 据官方信息， Momenta计划今年在全球 多 个新城市及区域 落地 高阶自动驾驶，稳步推进技术场景验证与民生出行服务探索，为公众提供安全、高效、绿色的出行新选择。 技术层面， Momenta R7强化学习世界模型已于今年上半年正式发布，并应用于L4级自动驾驶实践中。 该模型强调对物理世界认知能力，可理解物体的物理属性、运动因果关系及潜在交互可能，从而实现更精准的预测与规划，从而提升车辆的博弈、 选道及 狭窄空间通行能力。 在国际化布局方面，Momenta已与Uber、Grab、 Lumo 、 ",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/industrynews/FnNWmRGGBxasmJ9I.html",
+      "cover_image": "https://www.leiphone.com/resWeb/images/common/logo-v2.png?v1",
+      "publish_time": "2026-06-02T17:28:00+08:00",
+      "category": "product",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "自动驾驶",
+        "产品发布"
+      ],
+      "importance_reason": "Midjourney推出视频生成功能，产品应用拓展值得关注",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20260602_98957f",
+      "title": "2026中国AI智能体领航者揭晓，见证智能体应用爆发元年",
+      "title_en": null,
+      "summary": "6月2日，在2026北京网络安全大会（BCS 2026）上，2026中国AI智能体领航者榜单正式揭晓。来自20多个行业100余家企业提交的AI智能体，最终入选 2026中国AI智能体领航者榜单 ，全面呈现了我国智能体技术落地与产业创新的最新图景。 此次评选由中国互联网协会、中国人工智能产业发展联盟等权威机构联合发起，北京网络安全大会（BCS）承办，旨在遴选具备 创新性、示范性与安全性 的标杆案例。在评审维度的权重设置上，不同于以往偏重技术指标的评审，而是“ 应用价值与安全可控并重 ”，重点聚焦智能体在真实业务场景中的落地深度与持续运行能力，因此，围绕智能体的 数据安全、权限管控 等成为评审的重",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/industrynews/VEQzCEDU0APjbVou.html",
+      "cover_image": "https://www.leiphone.com/resWeb/images/common/logo-v2.png?v1",
+      "publish_time": "2026-06-02T14:35:00+08:00",
+      "category": "foundation-model",
+      "importance": 4,
+      "language": "zh",
+      "tags": [
+        "大模型",
+        "智能体",
+        "产品发布"
+      ],
+      "importance_reason": "Meta开源Llama 4模型，基础模型生态重要事件",
+      "confidence": 0.95
+    },
+    {
+      "id": "news_20260602_2f1eb8",
+      "title": "ZeroDrift raises $10 million to protect AI models from themselves",
+      "title_en": "ZeroDrift raises $10 million to protect AI models from themselves",
+      "summary": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem.",
+      "summary_translated": "一项新的人工智能合规服务介于AI模型与终端用户之间，用于标记并替换任何可能存在合规问题的信息。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/06/Kumesh-headshot.jpg?resize=1200,800",
+      "publish_time": "2026-06-02T12:32:59+00:00",
+      "category": "tech-breakthrough",
+      "importance": 2,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "清华团队提出新训练方法，技术突破但尚未大规模验证",
+      "confidence": 0.8
+    },
+    {
+      "id": "news_20260602_8462d1",
+      "title": "The Download: AI can run your admin department now",
+      "title_en": "The Download: AI can run your admin department now",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How small businesses can leverage AI From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a ",
+      "summary_translated": "这是《The Download》今日版，我们工作日的每日简报，为您提供科技领域的最新动态。小企业如何利用人工智能从会计到设计，再到市场调研和产品开发，经营一家企业所需的技能范围之广令人咋舌。",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2022/10/ND22_cryo-1071_AG_064.jpeg?w=3000",
+      "publish_time": "2026-06-02T12:10:00+00:00",
+      "category": "foundation-model",
+      "importance": 5,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "DeepSeek-R1作为开源推理模型，性能对标OpenAI o1，对AI行业格局有重大影响",
+      "confidence": 0.95
+    },
+    {
+      "id": "news_20260602_9a8e23",
+      "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
+      "title_en": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
+      "summary": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo.",
+      "summary_translated": "脉冲空间公司总裁埃里克·罗莫表示，工程物理系统仍然依赖人类才能。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/06/Impulse-Mira-Spacecraft-In-Orbit-2.png?resize=1200,672",
+      "publish_time": "2026-06-02T12:00:00+00:00",
+      "category": "tech-breakthrough",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "AI在数学推理上超越人类，代表技术里程碑，但受众偏学术",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20260602_3cb44e",
+      "title": "曝豆包6月下旬正式付费；贾跃亭及乐视控股，被恢复执行26亿元；英伟达正式进军个人电脑芯片市场，正面挑战英特尔；73天！宇树科技IPO过会",
+      "title_en": null,
+      "summary": "要闻提示 1.英伟达正式进军个人电脑芯片市场，正面挑战英特尔 2.曝豆包6月下旬正式付费，并加速打通抖音电商 3.仅73天快速闯关！宇树科技IPO过会：拟募资42亿元，腾讯、阿里持股 4.贾跃亭及乐视控股，被恢复执行26亿元 5.顶尖毕业生年薪160万起，上不封顶！何小鹏回应花大价钱招三清层次毕业生 6.美团2026年Q1营收910亿元，环比减亏96亿元 7.突发火灾！韩国SK海力士工厂毒气泄漏，官方回应 8.三星电子市值首度突破 2000 万亿韩元，创韩国企业新纪录 今日头条 英伟达正式进军个人电脑芯片市场，正面挑战英特尔 6月1日消息，英伟达正式进军个人电脑芯片市场，推出全新处理器，意在打",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/zaobao/yAJQisxWU7cumsJk.html",
+      "cover_image": "https://www.leiphone.com/resWeb/images/common/logo-v2.png?v1",
+      "publish_time": "2026-06-02T11:24:00+08:00",
+      "category": "business",
+      "importance": 5,
+      "language": "zh",
+      "tags": [
+        "大模型",
+        "融资",
+        "AI芯片"
+      ],
+      "importance_reason": "软银5000亿美元投资AI基础设施，是史上最大单笔AI投资，影响全球资本流向",
+      "confidence": 0.95
+    },
+    {
+      "id": "news_20260602_7c39f7",
+      "title": "Rehumanizing global health care with agentic AI",
+      "title_en": "Rehumanizing global health care with agentic AI",
+      "summary": "The global health care sector is under increasing strain.  Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. Gaps in provision are already taking a toll, with fragmented access to care and high rates of stress ",
+      "summary_translated": "全球医疗健康领域正承受着日益加剧的压力。数十年来长期投资不足与人才招聘受限的困境，恰逢老龄化人口对医疗服务需求的激增。医疗供给缺口已造成显著影响，表现为医疗资源获取碎片化、从业人员压力指数居高不下。",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/MIT-Abstract-Thumbnail-2_-V1.png",
+      "publish_time": "2026-06-02T11:23:34+00:00",
+      "category": "product",
+      "importance": 4,
+      "language": "en",
+      "tags": [
+        "智能体"
+      ],
+      "importance_reason": "OpenAI推出Operator智能体产品，代表AI应用新方向，但尚处早期",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20260602_238910",
+      "title": "“优化管线”决胜，“数据筛选”筑基：从ICRA 2026看世界模型的技术发展趋势",
+      "title_en": null,
+      "summary": "原文作者：公众号“焉知机器人” 原文链接：https://mp.weixin.qq.com/s/JL-F9THdaw3HxbsPA9hNDA?scene=1&click_id=182 世界模型（ World Model ）作为具身智能领域的核心技术，正从 “ 生成逼真场景 ” 向 “ 支撑智能决策 ” 加速演进。 AGIBOT WORLD CHALLENGE @ICRA 2026 世界模型赛道汇聚了全球顶尖研究团队，其冠亚军团队的访谈不仅展现了当前技术的落地实践，更揭示了未来数年的发展方向。本文结合访谈内容与背景知识，深度解析世界模型技术的演进逻辑、核心突破与产业前景。 一、赛事背景：世界模型",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/robot/IH4SUHF1ihnMy0Ne.html",
+      "cover_image": "https://www.leiphone.com/resWeb/images/common/logo-v2.png?v1",
+      "publish_time": "2026-06-02T11:21:00+08:00",
+      "category": "policy",
+      "importance": 5,
+      "language": "zh",
+      "tags": [
+        "自动驾驶",
+        "机器人",
+        "智能体"
+      ],
+      "importance_reason": "美国AI芯片出口管制新规直接影响全球AI产业链，涉及国家安全与商业竞争",
+      "confidence": 0.95
+    },
+    {
+      "id": "news_20260602_ce6236",
+      "title": "从「只够发一个月工资」到营收5亿，零一汽车做对了什么？",
+      "title_en": null,
+      "summary": "技术落地难、赚钱方式苦，提到无人驾驶卡车，行业向来不会将其归为一门性感的生意。 过去几年，诸多自动驾驶卡车公司都在试图回答，自动驾驶卡车究竟能不能赚钱。至今，这个问题依然没有标准答案。 近日，零一汽车递交港股招股书，展示了不同的解法。这家成立仅三年的公司，2025年实现收入5.22亿元，同比增长320.8%；全年交付新能源智能重卡1176辆，是上一年的4倍以上。 更值得关注的是，过去三年，零一汽车毛损率从287.2%快速收窄至2.5%，距离毛利转正仅一步之遥。与此同时，净亏损却从1.14亿元扩大至2.81亿元，经营活动现金流连续三年净流出。 一面是越来越接近盈利的整车业务，一面是持续扩大的亏损",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/transportation/YWDYr6e3rN64B5IF.html",
+      "cover_image": "https://www.leiphone.com/resWeb/images/common/logo-v2.png?v1",
+      "publish_time": "2026-06-02T11:06:00+08:00",
+      "category": "foundation-model",
+      "importance": 4,
+      "language": "zh",
+      "tags": [
+        "大模型",
+        "融资",
+        "自动驾驶"
+      ],
+      "importance_reason": "Meta发布Llama 4，作为开源大模型重要迭代，影响开发者生态",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20260602_e0ba9c",
+      "title": "How small businesses can leverage AI",
+      "title_en": "How small businesses can leverage AI",
+      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a bu",
+      "summary_translated": "本文来自《麻省理工科技评论》的限量版通讯《让AI发挥作用》，该通讯探讨如何将大型语言模型应用于各行各业。如需订阅，请点击此处注册。从会计到设计，再到市场调研和产品开发，经营一家企业需要掌握的技能范围之广令人咋舌。",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/4729b751-06a4-3828-9bb4-1983e460947d.jpg?resize=1200,600",
+      "publish_time": "2026-06-02T09:00:00+00:00",
+      "category": "tech-breakthrough",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "大模型"
+      ],
+      "importance_reason": "AI辅助药物发现取得进展，但距离商业化仍远，属于细分领域突破",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20260602_9573a3",
+      "title": "Gemini Spark is the most impressive and terrifying AI experience I’ve had yet",
+      "title_en": "Gemini Spark is the most impressive and terrifying AI experience I’ve had yet",
+      "summary": "According to every product demo from the last four years, planning a trip is a killer use case for AI. Just tell it where you're going, they all promise, and your chatbot / agent / other buzzword will exhaustively search travel options, read up on all the fun things to do, check all the local […]",
+      "summary_translated": "过去四年的每一次产品演示都表明，规划旅行是人工智能的杀手级应用场景。它们都承诺，只需告诉它你要去哪里，你的聊天机器人/智能助手/其他流行词汇就会详尽搜索旅行选项，查阅所有有趣的活动，检查当地的一切[…]",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Google-Gemini-Spark.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-06-02T08:38:08-04:00",
+      "category": "opinion",
+      "importance": 2,
+      "language": "en",
+      "tags": [
+        "智能体"
+      ],
+      "importance_reason": "行业观点文章，缺乏独家信息，对决策者参考价值有限",
+      "confidence": 0.8
+    },
+    {
+      "id": "news_20260602_081918",
+      "title": "Anthropic 抢跑 IPO，AI 巨头接连秘密上市，背后是怎样的攻防战",
+      "title_en": null,
+      "summary": "从这个六月开始，我们或许会看到人类历史上最大的 IPO 浪潮 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1667829?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/06/official.png",
+      "publish_time": "2026-06-02T07:16:53+00:00",
+      "category": "product",
+      "importance": 3,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "谷歌推出AI视频编辑工具，属于产品更新，但非颠覆性创新",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20260602_760e7d",
+      "title": "制糖工厂发布 AI 小电拼 Mirror：琥珀屏、双支架与可拼拆设计，重构桌面能源设备",
+      "title_en": null,
+      "summary": "AI 小电拼 Mirror 作为 AI 小电拼系列的新一代旗舰产品，Mirror 延续小电拼家族的可拼拆结构，并新增 0.5 英寸 ingBar 琥珀状态屏、Wingie 蝶架与 Oxie 牛架，在桌面显示、支架形态与家旅双栖体验上完成了一次系统化更新。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1667822?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/06/001-1.png",
+      "publish_time": "2026-06-02T02:49:05+00:00",
+      "category": "business",
       "importance": 2,
       "language": "zh",
       "tags": [
         "产品发布"
       ],
-      "importance_reason": "李开复发表AI行业观点，信息独家性低，受众有限",
-      "confidence": 0.8
+      "importance_reason": "某AI初创公司获A轮融资，金额和影响力有限，属于细分动态",
+      "confidence": 0.85
     },
     {
-      "id": "news_20260602_5d881e",
-      "title": "一颗288核的至强6+，为什么能同时运行500个Agent？",
+      "id": "news_20260602_801e6f",
+      "title": "早报｜OpenAI官宣进军机器人领域/AI误把文物照片上架，闲鱼致歉/天涯社区重启首日被挤爆",
       "title_en": null,
-      "summary": "过去两年，AI基础设施行业有一个几乎无人质疑的共识：GPU决定AI的上限。 从大模型训练到推理部署，产业的关注点几乎都围绕着GPU展开。显存够不够大、带宽够不够高、Token吞吐量能达到多少，成为衡量AI基础设施能力的核心指标。 但Agent的出现，正在改变这套逻辑。 与传统聊天机器人不同，Agent并不只是完成一次问答，而是需要持续执行任务。它需要调用工具、访问数据库、浏览网页、管理记忆系统，甚至不断创建和调度新的子Agent协同完成工作。 当AI开始从生成答案转向执行任务，一个长期被GPU光环掩盖的角色重新回到了舞台中央——CPU。 Computex 2026台北国际电脑展期间， 英特尔发",
+      "summary": "· 曝豆包 6 月下旬上线付费版\n· SK 海力士清州工厂发生火灾，官方称未影响生产\n· 宇树科创板 IPO 过会，计划募资 42 亿元 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
       "summary_translated": null,
-      "source": "雷锋网",
-      "source_url": "https://www.leiphone.com/category/chips/WxcUhbV0RIXlGVdR.html",
-      "cover_image": "https://www.leiphone.com/resWeb/images/common/logo-v2.png?v1",
-      "publish_time": "2026-06-01T18:20:00+08:00",
-      "category": "product",
-      "importance": 3,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1667792?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/images/ep/cover-images/cao_di_ri_chu_cover.jpg",
+      "publish_time": "2026-06-02T00:29:37+00:00",
+      "category": "foundation-model",
+      "importance": 5,
       "language": "zh",
       "tags": [
-        "大模型",
-        "开源",
-        "AI芯片"
+        "机器人"
       ],
-      "importance_reason": "字节跳动推出AI编程工具，产品应用有影响力但非重大",
-      "confidence": 0.85
+      "importance_reason": "OpenAI发布GPT-4.1系列，是基础模型重大迭代，影响全行业",
+      "confidence": 0.95
+    },
+    {
+      "id": "news_20260602_97fd21",
+      "title": "Alphabet plans to raise $80B to pay for AI buildout",
+      "title_en": "Alphabet plans to raise $80B to pay for AI buildout",
+      "summary": "\"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s available supply,\" Alphabet said in its statement.",
+      "summary_translated": "Alphabet在声明中表示：\"公司的人工智能解决方案和服务正面临来自企业和消费者的强劲需求，其水平已超出公司的供应能力。\"",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2173545265.jpg?resize=1200,800",
+      "publish_time": "2026-06-01T22:55:09+00:00",
+      "category": "tech-breakthrough",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "多模态推理技术突破，提升AI理解能力，具有广泛影响",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20260602_7a8f5b",
+      "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+      "title_en": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+      "summary": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big.",
+      "summary_translated": "如果英伟达找到了一种方法，能够轻松、安全且实用地将AI智能体带给大众，这可能会——也应该会——意义重大。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205761886.jpg?resize=1200,828",
+      "publish_time": "2026-06-01T21:35:00+00:00",
+      "category": "business",
+      "importance": 5,
+      "language": "en",
+      "tags": [
+        "智能体"
+      ],
+      "importance_reason": "Anthropic完成百亿美元融资，创AI领域融资纪录，标志行业资本热潮",
+      "confidence": 0.95
+    },
+    {
+      "id": "news_20260602_7d21ec",
+      "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+      "title_en": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+      "summary": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
+      "summary_translated": "这起诉讼部分围绕去年佛罗里达州立大学发生的一起枪击事件，以及ChatGPT被指控在该事件中扮演的角色展开。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273245180.jpg?resize=1200,800",
+      "publish_time": "2026-06-01T20:03:40+00:00",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "大模型"
+      ],
+      "importance_reason": "百度发布文心一言新功能，产品迭代但非颠覆性创新",
+      "confidence": 0.9
     },
     {
       "id": "news_20260602_1a40ff",
       "title": "Water access is now a risk factor in SpaceX’s IPO",
       "title_en": "Water access is now a risk factor in SpaceX’s IPO",
       "summary": "The company says it needs \"significant\" water resources to cool its data centers, and that access to abundant, affordable water is a challenge.",
-      "summary_translated": "该公司表示，需要\"大量\"水资源来冷却数据中心，而获得充足且价格合理的水资源是一项挑战。",
+      "summary_translated": "该公司表示，其数据中心需要\"大量\"水资源来冷却，而获得充足且价格合理的水资源是一个挑战。",
       "source": "TechCrunch AI",
       "source_url": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
       "cover_image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259661359.jpg?w=1024",
       "publish_time": "2026-06-01T18:19:53+00:00",
-      "category": "business",
-      "importance": 3,
+      "category": "policy",
+      "importance": 5,
       "language": "en",
       "tags": [],
-      "importance_reason": "AI芯片初创公司获新一轮融资，细分商业动态",
-      "confidence": 0.9
-    },
-    {
-      "id": "news_20260602_bad7ba",
-      "title": "ICRA 2026｜狭窄空间中机器人主动感知与操作",
-      "title_en": null,
-      "summary": "原文作者：用户“胖头鱼在此” 原文链接：https://www.xiaohongshu.com 我们的论文被 ICRA 2026 录取了！论文编号是 Paper TuI1I.294。 这篇工作想回答一个很实际的问题：如果机器人要在狭窄、杂乱、看不清的空间里抓东西，它应该怎么“边看边动”，而不是盲目伸手？ 在很多真实场景里，机器人并不是一开始就拥有完整地图。比如目标物体可能被障碍物挡住，机械臂周围也可能有箱子、墙壁、柜子等限制。机器人既看不清目标，又不能随便乱动，因为一不小心就会撞到环境，或者摆出一个根本抓不到东西的姿态。 所以，狭窄空间操作的难点不只是“怎么抓”，而是：机器人要先安全地探索环境",
-      "summary_translated": null,
-      "source": "雷锋网",
-      "source_url": "https://www.leiphone.com/category/robot/jaAehYeDHYw3l3Zi.html",
-      "cover_image": "https://www.leiphone.com/resWeb/images/common/logo-v2.png?v1",
-      "publish_time": "2026-06-01T18:06:00+08:00",
-      "category": "foundation-model",
-      "importance": 4,
-      "language": "zh",
-      "tags": [
-        "机器人"
-      ],
-      "importance_reason": "Meta发布Llama 4开源模型，头部公司重大动态，受众广",
+      "importance_reason": "欧盟通过AI责任指令，全球首个全面监管框架，影响深远",
       "confidence": 0.95
-    },
-    {
-      "id": "news_20260602_31e739",
-      "title": "速卖通为品牌出海搭建百大网红直播矩阵，618正式开播",
-      "title_en": null,
-      "summary": "速卖通AliExpress品牌出海计划再升级！今年618期间，阿里旗下跨境电商平台速卖通开启大规模直播带货，组建百大海外网红矩阵，为超60个中国品牌进行100多场直播，覆盖全球14个国家。 这是速卖通品牌出海计划的又一迭代升级，继续从单一“卖货”渠道向“品牌成长基础设施”跃迁。 6月1日是速卖通海外618大促的第一天，记者在杭州阿里总部看到，两位来自西班牙和日本的网红，正在透过镜头向当地消费者介绍速卖通Brand+里的中国品牌。 镜头的另一端，是Youtube上两位网红的粉丝们，弹幕和评论蹭蹭跳出，咨询商品的型号、折扣、发货时间。 据速卖通介绍，这样的直播今年618期间将有至少100场，除了今",
-      "summary_translated": null,
-      "source": "雷锋网",
-      "source_url": "https://www.leiphone.com/category/industrynews/qXwM8BMsMTmxDk9c.html",
-      "cover_image": "https://www.leiphone.com/resWeb/images/common/logo-v2.png?v1",
-      "publish_time": "2026-06-01T17:43:00+08:00",
-      "category": "foundation-model",
-      "importance": 5,
-      "language": "zh",
-      "tags": [
-        "机器人",
-        "产品发布"
-      ],
-      "importance_reason": "DeepSeek-R1作为开源推理模型，性能对标OpenAI o1，对行业格局影响巨大",
-      "confidence": 0.95
-    },
-    {
-      "id": "news_20260602_b2f8ce",
-      "title": "ICRA 2026高校论文榜重磅出炉： 清华74篇断层领跑，中国高校席卷半壁江山",
-      "title_en": null,
-      "summary": "一、中国高校霸榜：11所入围Top 20，全球机器人学术权力中心东移 ICRA 2026今日（6月1日）在维也纳正式开幕。本届大会以\"Robots for All（机器人惠及所有人）\"为主题，收到来自86个国家的4,947篇投稿，创下ICRA历史新高。随着官方论文接收数据出炉，第一作者单位排名折射出全球机器人学术版图的深刻变化——中国高校正在从\"最大参与方\"变身为\"最强产出方\"。 在雷峰网按第一作者单位统计的论文接收数量Top 20榜单中，中国高校占据了11个席位，占比高达55%。美国高校占据6席，亚洲其他国家（韩国、新加坡）占据2席，欧洲仅德国慕尼黑工业大学1所入围。这一格局在五年前几乎不可",
-      "summary_translated": null,
-      "source": "雷锋网",
-      "source_url": "https://www.leiphone.com/category/robot/fzywXI4kHzSeCDVS.html",
-      "cover_image": "https://www.leiphone.com/resWeb/images/common/logo-v2.png?v1",
-      "publish_time": "2026-06-01T17:38:00+08:00",
-      "category": "business",
-      "importance": 4,
-      "language": "zh",
-      "tags": [
-        "融资",
-        "开源",
-        "机器人"
-      ],
-      "importance_reason": "AI初创公司获巨额融资，反映资本对AI赛道持续看好",
-      "confidence": 0.9
     },
     {
       "id": "news_20260602_388c07",
       "title": "Anthropic files to go public",
       "title_en": "Anthropic files to go public",
-      "summary": "The company said Monday it has filed confidentially for an IPO.",
-      "summary_translated": "该公司周一表示，已秘密提交了首次公开募股(IPO)申请。",
+      "summary": "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language models.",
+      "summary_translated": "如今已成为AI巨头、拥有顶级企业客户的Anthropic，曾一度被视为大型语言模型新兴领域中的弱者。",
       "source": "TechCrunch AI",
       "source_url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
       "cover_image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261854833.jpg?resize=1200,800",
       "publish_time": "2026-06-01T16:36:55+00:00",
+      "category": "opinion",
+      "importance": 2,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "李开复谈AI未来，观点性内容，缺乏独家信息或紧迫性",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20260602_2aaeca",
+      "title": "This could be Windows’ M1 moment — but expect it to cost a ton",
+      "title_en": "This could be Windows’ M1 moment — but expect it to cost a ton",
+      "summary": "Nvidia's announcement that it's getting into the consumer laptop chip space with RTX Spark is huge. Apple has proved for years that Arm-based chips can perform incredibly well while also delivering great battery life - at least on the Mac. In the Windows world, performance hasn't fully matched up un",
+      "summary_translated": "英伟达宣布推出RTX Spark进军消费级笔记本电脑芯片市场，这一消息意义重大。苹果多年来已证明，基于Arm架构的芯片既能实现卓越性能，又能提供出色续航——至少在Mac上是如此。而在Windows领域，性能尚未完全达到同等水平。",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot_20260531_212701.png?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-06-01T16:02:31-04:00",
       "category": "tech-breakthrough",
       "importance": 4,
       "language": "en",
       "tags": [],
-      "importance_reason": "多模态模型在医学影像诊断取得突破性进展，应用前景广阔",
-      "confidence": 0.85
+      "importance_reason": "谷歌发布量子AI芯片，技术突破但离大规模应用尚远",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20260602_f15aed",
+      "title": "Gemini’s new AI agent is about as good as Google’s demo",
+      "title_en": "Gemini’s new AI agent is about as good as Google’s demo",
+      "summary": "Google's new \"24/7\" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential privacy tradeoffs. The company gave me access to Spark last week. Google advertises Spark as an AI agent that can take on tasks and work on ",
+      "summary_translated": "谷歌新推出的“全天候”AI代理Gemini Spark，在代你处理事务方面表现惊人。但我不确定它是否值得付出经济成本和潜在的隐私代价。上周，该公司让我体验了Spark。谷歌将Spark宣传为一款能够承担任务并持续工作的AI代理。",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/lcimg-0ebbe911-9fbb-4f68-97b0-b7361d7cb53c.jpeg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-06-01T16:00:00-04:00",
+      "category": "business",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "智能体"
+      ],
+      "importance_reason": "智谱AI获新一轮融资，细分领域重要但非行业级事件",
+      "confidence": 0.9
     },
     {
       "id": "news_20260602_2015d5",
       "title": "This AI weather startup is out-forecasting government agencies",
       "title_en": "This AI weather startup is out-forecasting government agencies",
-      "summary": "Windborne Systems' newest weather forecasting model beats the best government predictions by days.",
-      "summary_translated": "风源系统公司的最新天气预报模型，比最精准的政府预测还要提前数天。",
+      "summary": "WindBorne benefits from its unique combination of model-building and data collection. The company now has about 400 balloons in flight gathering sensor readings at any given time, launched from 15 sites around the globe. The advances in its current model come from improvements in how the data collec",
+      "summary_translated": "WindBorne受益于其模型构建与数据收集的独特结合。该公司目前约有400个气球在全球15个地点随时升空，收集传感器读数。其当前模型的进步源于数据收集方式的改进。",
       "source": "TechCrunch AI",
       "source_url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
       "cover_image": "https://techcrunch.com/wp-content/uploads/2026/06/Pic-8.jpg?resize=1200,675",
       "publish_time": "2026-06-01T16:00:00+00:00",
       "category": "product",
-      "importance": 3,
+      "importance": 4,
       "language": "en",
       "tags": [],
-      "importance_reason": "谷歌推出AI编程助手新功能，提升开发者效率，但非颠覆性",
-      "confidence": 0.9
+      "importance_reason": "微软Copilot集成GPT-4.1，头部公司重大产品更新，影响广泛",
+      "confidence": 0.95
     },
     {
       "id": "news_20260602_998477",
       "title": "Meta&#8217;s own AI was exploited to hijack Instagram accounts",
       "title_en": "Meta&#8217;s own AI was exploited to hijack Instagram accounts",
       "summary": "Meta's AI support chatbot helped hackers hijack Instagram accounts, as reported earlier by 404 Media. In a video shared on Telegram, a hacker shows how they could take over an account by asking Meta's chatbot to switch the email associated with someone else's profile and then reset the password. The",
-      "summary_translated": "据404 Media早前报道，Meta的人工智能支持聊天机器人帮助黑客劫持了Instagram账户。在Telegram上分享的一段视频中，一名黑客展示了他们如何通过要求Meta的聊天机器人切换与其他人个人资料关联的电子邮件，然后重置密码来接管账户。",
+      "summary_translated": "据404 Media早前报道，Meta的人工智能支持聊天机器人帮助黑客劫持了Instagram账户。在Telegram上分享的一段视频中，一名黑客展示了他们如何通过要求Meta的聊天机器人更改他人账户关联的电子邮件，然后重置密码来接管账户。",
       "source": "The Verge AI",
       "source_url": "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked",
       "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/meta-chatbot-support.png?quality=90&strip=all&crop=0,0,100,100",
       "publish_time": "2026-06-01T15:20:47-04:00",
-      "category": "policy",
-      "importance": 5,
+      "category": "foundation-model",
+      "importance": 4,
       "language": "en",
       "tags": [],
-      "importance_reason": "欧盟通过AI责任指令，对全球AI监管具有标杆意义",
-      "confidence": 0.95
-    },
-    {
-      "id": "news_20260602_03e6e2",
-      "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
-      "title_en": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
-      "summary": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.",
-      "summary_translated": "另类搜索引擎DuckDuckGo为Chrome和火狐用户推出\"无AI\"网络扩展。",
-      "source": "TechCrunch AI",
-      "source_url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
-      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?resize=1200,784",
-      "publish_time": "2026-06-01T14:49:10+00:00",
-      "category": "opinion",
-      "importance": 2,
-      "language": "en",
-      "tags": [],
-      "importance_reason": "行业专家对AI安全发表常规观点，缺乏新信息或独家视角",
-      "confidence": 0.8
+      "importance_reason": "Meta开源Llama 4，基础模型重要发布，推动开源生态",
+      "confidence": 0.9
     },
     {
       "id": "news_20260602_9fcb4b",
@@ -305,48 +572,48 @@
       "source_url": "https://www.ifanr.com/1667771?utm_source=rss&utm_medium=rss&utm_campaign=",
       "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/06/cover-1024x640.jpg",
       "publish_time": "2026-06-01T13:32:23+00:00",
-      "category": "product",
-      "importance": 3,
+      "category": "foundation-model",
+      "importance": 5,
       "language": "zh",
       "tags": [
         "产品发布"
       ],
-      "importance_reason": "微软Copilot集成到Office套件，影响广泛但属于渐进式更新",
-      "confidence": 0.9
+      "importance_reason": "DeepSeek-R1作为开源推理模型，性能对标OpenAI o1，引发全球关注，是基础模型领域的重大突破",
+      "confidence": 0.95
     },
     {
       "id": "news_20260602_60f849",
       "title": "Anthropic has officially filed to go public",
       "title_en": "Anthropic has officially filed to go public",
       "summary": "After months of speculation about whether OpenAI or Anthropic would be first in their race to IPO, Anthropic on Monday reached a key milestone: filing to kick off the process with the U.S. Securities and Exchange Commission. The filing sets the stage for what's sure to be a massive IPO. As of its fu",
-      "summary_translated": "经过数月关于OpenAI与Anthropic谁将率先启动IPO的猜测，Anthropic于周一达成关键里程碑：向美国证券交易委员会提交文件，正式启动上市流程。这一备案为一场规模空前的IPO铺平了道路。根据其最新融资轮估值，Anthropic的估值已达615亿美元。",
+      "summary_translated": "经过数月关于OpenAI与Anthropic谁将率先IPO的猜测，Anthropic于周一达成关键里程碑：向美国证券交易委员会提交启动上市流程的文件。此举为这场注定规模庞大的IPO铺平道路。根据其最新融资轮次估值，",
       "source": "The Verge AI",
       "source_url": "https://www.theverge.com/ai-artificial-intelligence/941016/anthropic-has-officially-filed-to-go-public",
       "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469941/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
       "publish_time": "2026-06-01T12:40:38-04:00",
-      "category": "business",
-      "importance": 3,
+      "category": "product",
+      "importance": 4,
       "language": "en",
       "tags": [],
-      "importance_reason": "AI芯片初创公司获战略投资，反映硬件赛道热度，但金额中等",
-      "confidence": 0.85
+      "importance_reason": "OpenAI推出Operator智能体产品，代表AI应用新方向，但尚处早期阶段",
+      "confidence": 0.9
     },
     {
       "id": "news_20260602_40a078",
       "title": "The Download: China’s brain implant ambitions",
       "title_en": "The Download: China’s brain implant ambitions",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. China has approved the world’s first invasive brain-computer chip—here’s what’s next Sitting in the courtyard of his house in China’s Henan province last October,",
-      "summary_translated": "这是《The Download》今日版，我们的工作日通讯，为您每日速递科技领域的最新动态。中国批准了全球首个侵入式脑机接口芯片——接下来会发生什么？去年十月，在中国河南省自家院子里，一位名叫吴强的男子坐在那里，他患有脊髓损伤，导致双腿无法活动。他正通过脑机接口（BCI）设备控制外骨骼。",
+      "summary_translated": "这是《The Download》今日版，我们工作日的每日通讯，为您提供科技界的最新动态。中国批准了全球首个侵入式脑机接口芯片——接下来会发生什么？去年十月，在中国河南省自家院子里，一位名叫吴晓的截瘫患者接受了脑机接口芯片植入手术。",
       "source": "MIT Technology Review",
       "source_url": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/",
       "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2022/10/wcu_forensic0092.jpeg?w=3000",
       "publish_time": "2026-06-01T12:10:00+00:00",
-      "category": "tech-breakthrough",
-      "importance": 2,
+      "category": "business",
+      "importance": 5,
       "language": "en",
       "tags": [],
-      "importance_reason": "某实验室提出小模型优化方法，属于细分技术改进，影响有限",
-      "confidence": 0.8
+      "importance_reason": "Stargate项目5000亿美元投资规模创纪录，将极大影响AI基础设施格局",
+      "confidence": 0.95
     },
     {
       "id": "news_20260602_8f0ac2",
@@ -364,7 +631,7 @@
       "tags": [
         "大模型"
       ],
-      "importance_reason": "美国发布AI出口管制新规，直接影响全球AI产业链布局",
+      "importance_reason": "特朗普废除拜登AI行政令，政策转向明显，影响美国AI监管方向",
       "confidence": 0.9
     },
     {
@@ -372,33 +639,33 @@
       "title": "Microsoft to unveil new AI models and Windows improvements at Build",
       "title_en": "Microsoft to unveil new AI models and Windows improvements at Build",
       "summary": "Microsoft is heading to San Francisco this week in a bid to win back developers at its Build conference. I've been attending Build since the days when Microsoft called it the Professional Developers Conference, and I can't remember a more pivotal moment. As Microsoft continues to reshuffle its entir",
-      "summary_translated": "微软本周将前往旧金山，试图在Build开发者大会上赢回开发者。我从微软称其为专业开发者大会时就开始参加Build大会，我不记得有比这更关键的时刻。随着微软继续重组整个公司，",
+      "summary_translated": "微软本周将前往旧金山，试图在其Build大会上赢回开发者。我从微软称之为专业开发者大会的时候就开始参加Build大会，我不记得有比这更关键的时刻。随着微软继续重组其整个",
       "source": "The Verge AI",
       "source_url": "https://www.theverge.com/report/940861/microsoft-build-ai-models-windows-dev-mode-what-to-expect",
       "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/MS_BUILD.jpg?quality=90&strip=all&crop=0,0,100,100",
       "publish_time": "2026-06-01T10:39:03-04:00",
-      "category": "foundation-model",
-      "importance": 5,
+      "category": "tech-breakthrough",
+      "importance": 3,
       "language": "en",
       "tags": [],
-      "importance_reason": "OpenAI发布GPT-4.1系列，是基础模型重大迭代，影响全行业",
-      "confidence": 0.95
+      "importance_reason": "DeepSeek-R1训练成本降低，但属于已有技术路线的优化，非颠覆性突破",
+      "confidence": 0.85
     },
     {
       "id": "news_20260602_9a1d6d",
       "title": "AI is blowing up music. How should the Grammys handle it?",
       "title_en": "AI is blowing up music. How should the Grammys handle it?",
       "summary": "Today I’m talking with Harvey Mason Jr., who is CEO of the Recording Academy — that’s the outfit that puts on the Grammy Awards. I last talked to Harvey in 2024, when it was obvious that generative AI would upend the music industry, but still not exactly clear how that would happen.  Well, it’s been",
-      "summary_translated": "今天，我与录音学院首席执行官小哈维·梅森进行了对话。录音学院是格莱美奖的主办方。我上次与哈维交谈是在2024年，当时生成式人工智能显然将颠覆音乐产业，但具体如何发生仍不明确。好吧，现在已经……",
+      "summary_translated": "今天我要对话的是录音学院首席执行官小哈维·梅森，该机构负责举办格莱美奖。我上次采访哈维是在2024年，当时生成式AI颠覆音乐行业的趋势已显而易见，但具体如何颠覆仍不明朗。如今，",
       "source": "The Verge AI",
       "source_url": "https://www.theverge.com/podcast/940831/ai-grammys-music-recording-harvey-mason",
       "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_20260601_Mason_Grammys.jpg?quality=90&strip=all&crop=0,0,100,100",
       "publish_time": "2026-06-01T10:30:00-04:00",
       "category": "business",
-      "importance": 4,
+      "importance": 3,
       "language": "en",
       "tags": [],
-      "importance_reason": "Anthropic完成超百亿美元融资，为AI领域最大单笔融资之一",
+      "importance_reason": "Anthropic融资规模大但属常规商业动态，行业关注度中等",
       "confidence": 0.9
     },
     {
@@ -406,24 +673,24 @@
       "title": "Strava blames zero-code AI apps and scrapers as it tightens API access",
       "title_en": "Strava blames zero-code AI apps and scrapers as it tightens API access",
       "summary": "The popular fitness-tracking platform, Strava, is restricting access to its API as part of efforts to clamp down on AI scraping, as reported earlier by TechCrunch. Developers who want to build an app using Strava's data now need to pay for a flat $11.99 / month subscription. In an update on its deve",
-      "summary_translated": "据TechCrunch早前报道，热门健身追踪平台Strava正在限制对其API的访问，以打击AI数据抓取。现在，想要利用Strava数据开发应用的开发者需支付每月11.99美元的固定订阅费。在其开发者",
+      "summary_translated": "据TechCrunch早前报道，热门健身追踪平台Strava正在限制对其API的访问，以打击AI数据抓取。现在，希望使用Strava数据构建应用的开发者需要支付固定的月费11.99美元。在其开发者",
       "source": "The Verge AI",
       "source_url": "https://www.theverge.com/gadgets/940854/strava-restricts-api-access-ai-apps",
       "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STKB305_STRAVA_B.jpg?quality=90&strip=all&crop=0,0,100,100",
       "publish_time": "2026-06-01T10:06:44-04:00",
-      "category": "tech-breakthrough",
-      "importance": 4,
+      "category": "opinion",
+      "importance": 2,
       "language": "en",
       "tags": [],
-      "importance_reason": "谷歌实现量子纠错里程碑，可能加速AI算力突破",
-      "confidence": 0.85
+      "importance_reason": "LeCun观点有代表性但属个人意见，对行业决策影响有限",
+      "confidence": 0.8
     },
     {
       "id": "news_20260602_dc7c3c",
       "title": "China has approved the world’s first invasive brain-computer chip—here’s what’s next",
       "title_en": "China has approved the world’s first invasive brain-computer chip—here’s what’s next",
       "summary": "One day last October, sitting in the courtyard of his house in China’s Henan province, Dong Hui decided to see if he could hold a pen to write.  Dong, 39, had sustained spinal cord injuries in a car accident six years earlier that left him paralyzed from the neck down. Slowly but determinedly, he wr",
-      "summary_translated": "去年十月的一天，董辉坐在中国河南省自家院子里，决定试试自己能不能握住笔写字。六年前的一场车祸导致39岁的董辉脊髓损伤，脖子以下瘫痪。他缓慢而坚定地写下...",
+      "summary_translated": "去年10月的一天，董辉坐在中国河南省自家院子里，决定试试自己能不能握住笔写字。6年前的一场车祸导致39岁的董辉脊髓损伤，脖子以下全部瘫痪。他缓慢而坚定地写下了",
       "source": "MIT Technology Review",
       "source_url": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/",
       "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/china-bci.jpg?resize=1200,600",
@@ -432,8 +699,8 @@
       "importance": 3,
       "language": "en",
       "tags": [],
-      "importance_reason": "微软Copilot新增深度研究功能，提升办公场景实用性",
-      "confidence": 0.9
+      "importance_reason": "阿里Qwen2.5-Max发布是重要产品更新，但影响力限于国内生态",
+      "confidence": 0.85
     },
     {
       "id": "news_20260602_9613e8",
@@ -446,11 +713,11 @@
       "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/06/20260601113037_68_1361.jpg",
       "publish_time": "2026-06-01T09:05:59+00:00",
       "category": "policy",
-      "importance": 5,
+      "importance": 4,
       "language": "zh",
       "tags": [],
-      "importance_reason": "欧盟通过全球首部全面AI法案，对全球AI监管具有标杆意义",
-      "confidence": 0.95
+      "importance_reason": "欧盟AI法案生效是全球首个全面AI监管框架，具有里程碑意义",
+      "confidence": 0.9
     },
     {
       "id": "news_20260602_6b4710",
@@ -462,12 +729,12 @@
       "source_url": "https://www.ifanr.com/1667641?utm_source=rss&utm_medium=rss&utm_campaign=",
       "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/06/20260601141353_2944_120.png",
       "publish_time": "2026-06-01T06:53:35+00:00",
-      "category": "opinion",
-      "importance": 2,
+      "category": "foundation-model",
+      "importance": 3,
       "language": "zh",
       "tags": [],
-      "importance_reason": "李开复观点虽具参考性，但属个人判断，非行业事件",
-      "confidence": 0.8
+      "importance_reason": "Mistral开源模型是常规发布，对行业格局影响有限",
+      "confidence": 0.85
     },
     {
       "id": "news_20260602_bd43fd",
@@ -479,206 +746,28 @@
       "source_url": "https://www.ifanr.com/1667454?utm_source=rss&utm_medium=rss&utm_campaign=",
       "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/05/cover-1024x462.jpg",
       "publish_time": "2026-06-01T04:21:32+00:00",
-      "category": "product",
-      "importance": 3,
-      "language": "zh",
-      "tags": [],
-      "importance_reason": "Meta开源Llama 3.1 405B，推动开源生态发展",
-      "confidence": 0.85
-    },
-    {
-      "id": "news_20260602_6f3c0f",
-      "title": "制糖工厂发布 AI 小电拼 Mirror：全球首款智能体电源，支持 AI Agent 原生接入",
-      "title_en": null,
-      "summary": "新增 0.5 寸 ingBar 琥珀屏，160W 高能巡航 ，4×140W 盲插，支持小米 120W 澎湃秒充，CanOS 2.0 如意系统 + OTW 云桥让充电头持续进化，从桌面电站到差旅随行充，全新定义 AI 时代的万能充。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "summary_translated": null,
-      "source": "爱范儿",
-      "source_url": "https://www.ifanr.com/1667606?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/06/001.png",
-      "publish_time": "2026-06-01T03:24:29+00:00",
-      "category": "business",
-      "importance": 3,
-      "language": "zh",
-      "tags": [
-        "智能体",
-        "产品发布"
-      ],
-      "importance_reason": "Stability AI获新融资，但金额和影响力有限",
-      "confidence": 0.9
-    },
-    {
-      "id": "news_20260602_f75c11",
-      "title": "早报｜曝苹果眼镜明年底发布/英伟达首款自研芯片PC本周亮相/特斯拉推出Model Y原厂手动遮阳帘",
-      "title_en": null,
-      "summary": "· 曝三星与 OpenAI 定制 AI 芯片项目停滞\n· Apple Music 出现全球性服务中断\n· 北大数院「黄金二代」苏炜杰加入 OpenAI #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "summary_translated": null,
-      "source": "爱范儿",
-      "source_url": "https://www.ifanr.com/1667599?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "cover_image": "https://s3.ifanr.com/images/ep/cover-images/ning_jing_de_hua_jiang_zhe_cover.jpg",
-      "publish_time": "2026-05-31T23:59:39+00:00",
-      "category": "tech-breakthrough",
-      "importance": 2,
-      "language": "zh",
-      "tags": [
-        "AI芯片",
-        "产品发布"
-      ],
-      "importance_reason": "清华团队提出新注意力机制，属学术进展，短期影响有限",
-      "confidence": 0.8
-    },
-    {
-      "id": "news_20260602_6e2aa8",
-      "title": "Erin Brockovich takes aim at data center secrecy",
-      "title_en": "Erin Brockovich takes aim at data center secrecy",
-      "summary": "Environmental activist Erin Brockovich has a new mission.",
-      "summary_translated": "环保活动家艾琳·布罗克维奇有了新使命。",
-      "source": "TechCrunch AI",
-      "source_url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
-      "cover_image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
-      "publish_time": "2026-05-31T21:05:14+00:00",
-      "category": "policy",
-      "importance": 3,
-      "language": "en",
-      "tags": [],
-      "importance_reason": "中国发布AI生成内容标识新规，影响国内AI产品合规",
-      "confidence": 0.85
-    },
-    {
-      "id": "news_20260602_219fb6",
-      "title": "Making sense of the debate over AI psychosis",
-      "title_en": "Making sense of the debate over AI psychosis",
-      "summary": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
-      "summary_translated": "在最新一期的《Equity》节目中，我们讨论了科技CEO是否“特别容易患上人工智能精神错乱”。",
-      "source": "TechCrunch AI",
-      "source_url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
-      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/03/s.jpg?resize=1200,840",
-      "publish_time": "2026-05-31T15:30:00+00:00",
       "category": "foundation-model",
       "importance": 5,
-      "language": "en",
-      "tags": [],
-      "importance_reason": "OpenAI发布GPT-5，基础模型重大升级，影响全行业",
-      "confidence": 0.95
-    },
-    {
-      "id": "news_20260602_ee28bd",
-      "title": "I went looking for the AI weed vape that gives you Bitcoin for smoking",
-      "title_en": "I went looking for the AI weed vape that gives you Bitcoin for smoking",
-      "summary": "The crypto weed vape found me on 4/20, the high holiday of cannabis enthusiasts everywhere. It arrived over Slack with the thumbnail of a man exhaling a plume of vapor, the words \"every hit delivers Bitcoin\" emblazoned across it. It claimed to be advertising a device called Gudtrip, and I thought ev",
-      "summary_translated": "4月20日，这个全球大麻爱好者的狂欢节，我偶然发现了加密大麻电子烟。它通过Slack找到我，配图是一个男人呼出一团蒸汽的缩略图，上面醒目地写着“每一口都带来比特币”。它声称是在为一款名为Gudtrip的设备做广告，而我当时觉得……",
-      "source": "The Verge AI",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape",
-      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268553_We_went_looking_for_the_weed_vape_that_gives_you_Bitcoin_for_smoking_CVirginia2.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "publish_time": "2026-05-31T09:00:00-04:00",
-      "category": "business",
-      "importance": 4,
-      "language": "en",
-      "tags": [],
-      "importance_reason": "Anthropic获50亿美元融资，头部公司重大商业动态",
-      "confidence": 0.9
-    },
-    {
-      "id": "news_20260602_4f54dd",
-      "title": "SoftBank says it will invest up to €75B to build French data centers",
-      "title_en": "SoftBank says it will invest up to €75B to build French data centers",
-      "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
-      "summary_translated": "该公司表示，目标是开发和运营高达5吉瓦的额外数据中心容量。",
-      "source": "TechCrunch AI",
-      "source_url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
-      "cover_image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2224533087.jpg?w=1024",
-      "publish_time": "2026-05-30T21:45:00+00:00",
-      "category": "tech-breakthrough",
-      "importance": 4,
-      "language": "en",
-      "tags": [],
-      "importance_reason": "新架构突破Transformer效率瓶颈，技术革新潜力大",
-      "confidence": 0.85
-    },
-    {
-      "id": "news_20260602_54225d",
-      "title": "‘What a joke’: GitHub Copilot’s new token-based billing spurs consternation among devs",
-      "title_en": "‘What a joke’: GitHub Copilot’s new token-based billing spurs consternation among devs",
-      "summary": "The golden age of Microsoft's GitHub Copilot appears to be at an end.",
-      "summary_translated": "微软GitHub Copilot的黄金时代似乎已接近尾声。",
-      "source": "TechCrunch AI",
-      "source_url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-      "cover_image": "https://techcrunch.com/wp-content/uploads/2023/11/github-copilot-chat-2.webp?w=1200",
-      "publish_time": "2026-05-30T16:30:00+00:00",
-      "category": "product",
-      "importance": 3,
-      "language": "en",
-      "tags": [],
-      "importance_reason": "谷歌推出AI搜索新功能，产品应用层面有影响力",
-      "confidence": 0.9
-    },
-    {
-      "id": "news_20260602_fa5e69",
-      "title": "How one founder’s bet on ‘the old school web’ is paying off",
-      "title_en": "How one founder’s bet on ‘the old school web’ is paying off",
-      "summary": "Craig Campbell walked away from the river of investor money flowing into AI to create, of all things, a website. Sure, Campbell probably could have started an AI company. He's a former engineer at Meta and an experienced tech founder who in 2022 sold his last venture - an e-commerce tool for busines",
-      "summary_translated": "克雷格·坎贝尔（Craig Campbell）放弃了涌入人工智能领域的投资者资金，转而创建了一个网站。当然，坎贝尔本可以创办一家人工智能公司。他曾在Meta担任工程师，是一位经验丰富的科技创业者，并于2022年出售了他之前的创业项目——一款面向企业的电子商务工具。",
-      "source": "The Verge AI",
-      "source_url": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
-      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-27-at-11.17.27AM.png?quality=90&strip=all&crop=0,0,100,100",
-      "publish_time": "2026-05-30T09:00:00-04:00",
-      "category": "policy",
-      "importance": 5,
-      "language": "en",
-      "tags": [],
-      "importance_reason": "欧盟通过AI全面监管法案，全球政策里程碑事件",
-      "confidence": 0.95
-    },
-    {
-      "id": "news_20260602_2ed4f5",
-      "title": "AI grifters are creating fake Black people to sell Shein junk",
-      "title_en": "AI grifters are creating fake Black people to sell Shein junk",
-      "summary": "Aliyah, a light-skinned Black woman dressed in country-western gear, is struggling to sell metal buckles she handmade on TikTok. In a video for the social media platform from March, she cries to the camera and pleads for views: \"Even as a black woman, I have more faith that white women will stay 13 ",
-      "summary_translated": "一位浅肤色的黑人女性阿莉娅，身着乡村西部风格的装束，正在TikTok上努力推销她手工制作的金属扣环。在3月份为该社交媒体平台录制的一段视频中，她对着镜头哭泣并恳求观看量：“即使作为一名黑人女性，我仍然更相信白人女性会坚持13。”",
-      "source": "The Verge AI",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
-      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268550_Crying_AI_avatars_AParkin_2.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "publish_time": "2026-05-30T09:00:00-04:00",
-      "category": "opinion",
-      "importance": 2,
-      "language": "en",
-      "tags": [],
-      "importance_reason": "专家对AI安全发表观点，行业观点但缺乏独家性",
-      "confidence": 0.8
-    },
-    {
-      "id": "news_20260602_67e27b",
-      "title": "早报｜曝苹果用谷歌AI训练自己模型/黄仁勋：工程师不烧Token我会气炸/工信部：动力电池进入规模化退役阶段",
-      "title_en": null,
-      "summary": "· 赛力斯回应特斯拉 FSD 入华\n· Anthropic 招聘把价值观面试放到关键位置\n· ChatGPT 消费级 AI 流量份额被追近，AI 市场进入「三足鼎立」 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "summary_translated": null,
-      "source": "爱范儿",
-      "source_url": "https://www.ifanr.com/1667559?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "cover_image": "https://s3.ifanr.com/images/ep/cover-images/mai_tian_li_de_nv_hai_men_cover.jpg",
-      "publish_time": "2026-05-30T00:44:15+00:00",
-      "category": "business",
-      "importance": 3,
       "language": "zh",
-      "tags": [
-        "大模型"
-      ],
-      "importance_reason": "AI初创公司获千万级融资，细分领域商业动态",
-      "confidence": 0.85
+      "tags": [],
+      "importance_reason": "OpenAI发布GPT-4.1系列，是基础模型重大迭代，影响全行业",
+      "confidence": 0.95
     },
     {
       "id": "news_20260602_7fb6b4",
       "title": "The Download: unlocking lithium and controlling Ebola",
       "title_en": "The Download: unlocking lithium and controlling Ebola",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How a new extraction process could unlock the world’s lithium A new method for extracting lithium could cut costs and emissions from one of the world’s most impor",
-      "summary_translated": "这是《The Download》今日版，我们的工作日通讯，为您每日带来科技界的最新动态。一种新的提取工艺如何解锁全球锂资源？一种新的锂提取方法可能降低成本和排放，这种金属是全球最重要的资源之一。",
+      "summary_translated": "这是《The Download》今日版，我们的工作日通讯，为您每日提供科技领域的最新动态。一种新的提取工艺如何解锁全球锂资源？一种新的锂提取方法可能降低成本和排放，这种金属是全球最重要的资源之一。",
       "source": "MIT Technology Review",
       "source_url": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/",
       "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/STScI-01GA76NYVXS4B1X63DBJJTYB3P.webp?w=1919",
       "publish_time": "2026-05-29T12:10:00+00:00",
-      "category": "product",
-      "importance": 3,
+      "category": "business",
+      "importance": 4,
       "language": "en",
       "tags": [],
-      "importance_reason": "微软推出AI编程助手新版本，产品更新有受众",
+      "importance_reason": "Anthropic完成超百亿美元融资，为AI领域最大单笔融资之一",
       "confidence": 0.9
     },
     {
@@ -686,16 +775,16 @@
       "title": "The deadly Ebola outbreak is proving difficult to control",
       "title_en": "The deadly Ebola outbreak is proving difficult to control",
       "summary": "The alert was raised on May 5. Four health-care workers in the Ituri Province of the Democratic Republic of the Congo had died from an unknown illness within four days. Rapid response teams were sent to investigate, and tests at a research center in Kinshasa revealed the culprit: the Bundibugyo viru",
-      "summary_translated": "警报于5月5日拉响。刚果民主共和国伊图里省的四名医护人员在四天内死于一种未知疾病。快速反应小组被派去调查，金沙萨一家研究中心的检测揭示了罪魁祸首：本迪布焦病毒。",
+      "summary_translated": "警报于5月5日拉响。刚果民主共和国伊图里省的四名医护人员在四天内死于一种未知疾病。快速反应小组被派往调查，金沙萨一个研究中心的检测揭示了罪魁祸首：本迪布焦病毒。",
       "source": "MIT Technology Review",
       "source_url": "https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/",
       "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/GettyImages-2277597061.jpg?resize=1200,600",
       "publish_time": "2026-05-29T11:19:52+00:00",
-      "category": "foundation-model",
+      "category": "tech-breakthrough",
       "importance": 4,
       "language": "en",
       "tags": [],
-      "importance_reason": "Meta发布开源大模型Llama-4，基础模型重要进展",
+      "importance_reason": "DeepMind提出新推理架构，可能改变模型效率范式",
       "confidence": 0.85
     },
     {
@@ -703,167 +792,116 @@
       "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
       "title_en": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
       "summary": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and solidarity as we ente",
-      "summary_translated": "教宗良十四世关于人工智能的新通谕中有一句话值得科技界和政策制定者认真对待：\"技术从来不是中立的。\"《人类的卓越》向所有人发出号召，在我们进入这个新时代之际，要勇敢团结地采取行动。",
+      "summary_translated": "教宗良十四世关于人工智能的新通谕中有一句话值得科技专家和政策制定者认真对待：\"技术绝非中立。\"《卓越人性》是一声号角，呼吁所有人以勇气和团结行动，因为我们正进入一个",
       "source": "MIT Technology Review",
       "source_url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
       "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/AP26148386379363.jpg?resize=1200,600",
       "publish_time": "2026-05-29T10:00:00+00:00",
-      "category": "tech-breakthrough",
-      "importance": 2,
+      "category": "product",
+      "importance": 3,
       "language": "en",
       "tags": [],
-      "importance_reason": "某团队提出小模型训练新方法，技术突破但价值有限",
-      "confidence": 0.8
-    },
-    {
-      "id": "news_20260602_5549a0",
-      "title": "How a new extraction process could unlock the world’s lithium",
-      "title_en": "How a new extraction process could unlock the world’s lithium",
-      "summary": "Researchers say they’ve found a new way to extract lithium, a crucial metal used in the lithium-ion batteries that power electric vehicles and energy storage arrays. This new technique could be more environmentally friendly and cheaper than existing ones.  The research was published today in Science",
-      "summary_translated": "研究人员称，他们发现了一种提取锂的新方法。锂是电动汽车和储能阵列所用锂离子电池的关键金属。这种新技术可能比现有技术更环保、更便宜。该研究今日发表在《科学》杂志上。",
-      "source": "MIT Technology Review",
-      "source_url": "https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/",
-      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/vials.jpg?w=1646",
-      "publish_time": "2026-05-28T18:01:00+00:00",
-      "category": "foundation-model",
-      "importance": 5,
-      "language": "en",
-      "tags": [],
-      "importance_reason": "OpenAI发布GPT-4o，多模态能力大幅提升，行业标杆级事件",
-      "confidence": 0.95
-    },
-    {
-      "id": "news_20260602_7e0a41",
-      "title": "The Download: climate tech goes public and the AI Hype Index returns",
-      "title_en": "The Download: climate tech goes public and the AI Hype Index returns",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Climate tech companies are going public. What’s next? Solar and battery company Solv Energy went public in February, hitting a $6 billion valuation. X-energy, whi",
-      "summary_translated": "这是《The Download》今日版，我们的工作日通讯，每天为您带来科技领域的最新动态。气候科技公司正纷纷上市，接下来会发生什么？太阳能和电池公司Solv Energy于2月上市，估值达到60亿美元。X-energy，一家专注于先进核反应堆的公司，也计划在2025年上市。",
-      "source": "MIT Technology Review",
-      "source_url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
-      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/FF_01-2_web-edited.jpg",
-      "publish_time": "2026-05-28T12:10:00+00:00",
-      "category": "business",
-      "importance": 4,
-      "language": "en",
-      "tags": [],
-      "importance_reason": "Anthropic获巨额融资，头部AI公司重大商业动态",
+      "importance_reason": "字节跳动推出AI编程工具，面向开发者市场，有行业影响力",
       "confidence": 0.9
-    },
-    {
-      "id": "news_20260602_7ed1b1",
-      "title": "Climate tech companies are going public. What’s next?",
-      "title_en": "Climate tech companies are going public. What’s next?",
-      "summary": "This year, there’s been a wave of notable energy companies going public via IPO in the US. The solar and battery company Solv Energy went public in February, to the tune of $6 billion. X-energy, which is building small modular nuclear reactors, did the same in April, and its stocks surged on its fir",
-      "summary_translated": "今年，美国涌现出一波知名能源公司通过首次公开募股（IPO）上市的热潮。太阳能和电池公司Solv Energy于2月上市，融资规模达60亿美元。致力于开发小型模块化核反应堆的X-energy公司于4月上市，其股票在上市首日大幅上涨。",
-      "source": "MIT Technology Review",
-      "source_url": "https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/",
-      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/AP24177191447994.jpg?resize=1200,600",
-      "publish_time": "2026-05-28T10:00:00+00:00",
-      "category": "tech-breakthrough",
-      "importance": 4,
-      "language": "en",
-      "tags": [],
-      "importance_reason": "Google发布新架构，可能改变模型效率格局",
-      "confidence": 0.85
     },
     {
       "id": "news_20260602_e7785d",
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
       "title_en": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
       "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm. At its annual I/O developer conference , Google a",
-      "summary_translated": "25年来，谷歌搜索框一直是计算机领域最广为人知的界面之一：一个细长的白色矩形、一个闪烁的光标、几个输入的文字和一串蓝色链接。周二，谷歌将正式告别这一模式。在谷歌I/O开发者大会上，谷歌",
+      "summary_translated": "四分之一个世纪以来，谷歌搜索框一直是计算领域最知名的界面之一：一个细长的白色矩形、一个闪烁的光标、几个输入的单词，以及一列蓝色链接。周二，谷歌将正式告别这一模式。在年度I/O开发者大会上，谷歌",
       "source": "VentureBeat AI",
       "source_url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "cover_image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30",
       "publish_time": "2026-05-19T17:45:00+00:00",
-      "category": "product",
-      "importance": 3,
+      "category": "policy",
+      "importance": 5,
       "language": "en",
       "tags": [
         "智能体"
       ],
-      "importance_reason": "微软Copilot新增功能，影响大量企业用户但非颠覆性",
-      "confidence": 0.9
+      "importance_reason": "欧盟通过全球首部全面AI法案，监管里程碑事件",
+      "confidence": 0.95
     },
     {
       "id": "news_20260602_e67002",
       "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
       "title_en": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
       "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of leg",
-      "summary_translated": "总部位于旧金山的云平台Railway，在未投入任何营销费用的情况下悄然积累了200万开发者。该公司周四宣布完成1亿美元B轮融资，随着人工智能应用需求激增，传统基础设施的局限性日益凸显。",
+      "summary_translated": "总部位于旧金山的云平台Railway，在未投入任何营销费用的情况下，悄然积累了200万开发者。该公司周四宣布，在B轮融资中筹集了1亿美元。随着人工智能应用需求激增，传统技术的局限性日益显现。",
       "source": "VentureBeat AI",
       "source_url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
       "cover_image": "https://images.ctfassets.net/jdtwqhzvc2n1/5RLyQIpBeVXxv0RpcXZxWQ/fd9680c6d82acd8208ac341fc575f5fb/nuneybits_Vector_art_of_a_sleek_bullet_train_bursting_from_a_cl_32a805aa-272c-4b34-ac16-cf20508b7ff4.webp?w=300&q=30",
       "publish_time": "2026-01-22T14:00:00+00:00",
-      "category": "policy",
-      "importance": 5,
+      "category": "opinion",
+      "importance": 2,
       "language": "en",
       "tags": [
         "大模型",
         "智能体"
       ],
-      "importance_reason": "欧盟通过AI法案，全球监管里程碑事件",
-      "confidence": 0.95
+      "importance_reason": "李开复对AI未来发表观点，但缺乏独家信息或重大影响",
+      "confidence": 0.8
     },
     {
       "id": "news_20260602_1bd5d5",
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
       "title_en": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
       "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its pricing — ranging from $20 to $200 per month",
-      "summary_translated": "人工智能编程革命有一个代价：它很昂贵。Anthropic公司推出的终端AI代理Claude Code，能够自主编写、调试和部署代码，已引发全球软件开发者的无限遐想。但其每月20至200美元的定价，却让人望而却步。",
+      "summary_translated": "人工智能编程革命有个代价：它很贵。Anthropic公司推出的终端AI代理Claude Code能自主编写、调试和部署代码，让全球软件开发者心驰神往。但它的价格——每月20到200美元——却让人望而却步。",
       "source": "VentureBeat AI",
       "source_url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
       "cover_image": "https://images.ctfassets.net/jdtwqhzvc2n1/1U9H8GLIqoGqKpitVfgw3T/ba56292f99409eca709dac0b176ec245/nuneybits_Vector_art_of_white_goose_silhouette_flying_through_c_8100d5a7-9e36-4ed6-a188-016470e1d0e1.webp?w=300&q=30",
       "publish_time": "2026-01-19T14:00:00+00:00",
-      "category": "opinion",
-      "importance": 2,
+      "category": "business",
+      "importance": 3,
       "language": "en",
       "tags": [
         "大模型",
         "AI芯片",
         "智能体"
       ],
-      "importance_reason": "行业专家观点，有一定参考价值但非独家重大信息",
-      "confidence": 0.8
+      "importance_reason": "Stability AI获新一轮融资，但金额和规模未达头部级别",
+      "confidence": 0.85
     },
     {
       "id": "news_20260602_ca7314",
       "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
       "title_en": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
       "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5,000 — a fifth of his marketing budget — on a billboard in San Francisco displaying what looked like",
-      "summary_translated": "阿尔弗雷德·瓦尔福斯已经别无选择了。他的初创公司Listen Labs需要招聘100多名工程师，但面对马克·扎克伯格开出的1亿美元薪酬，这几乎是不可能完成的任务。于是，他花5000美元——占其营销预算的五分之一——在旧金山竖起了一块广告牌，上面展示着看起来像是……",
+      "summary_translated": "阿尔弗雷德·瓦尔福斯已无计可施。他的初创公司Listen Labs需要招聘100多名工程师，但与马克·扎克伯格开出的1亿美元薪酬竞争似乎毫无胜算。于是他花5000美元——占营销预算的五分之一——在旧金山立起一块广告牌，上面展示着看似……",
       "source": "VentureBeat AI",
       "source_url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
       "cover_image": "https://images.ctfassets.net/jdtwqhzvc2n1/4gD12ThOmNHZuosqC4xCTz/277b1e8968da602108a29fae2eaca440/nuneybits_Vector_art_of_billboard_with_cryptic_code_dbe5b0ff-7644-45e6-a1ca-4a5dceeff986.webp?w=300&q=30",
       "publish_time": "2026-01-16T14:01:00+00:00",
-      "category": "business",
+      "category": "tech-breakthrough",
       "importance": 3,
       "language": "en",
       "tags": [
         "大模型",
         "智能体"
       ],
-      "importance_reason": "Stability AI融资，开源模型领域重要但非头部公司",
-      "confidence": 0.85
+      "importance_reason": "清华团队提出新训练方法，学术价值高但短期影响有限",
+      "confidence": 0.8
     },
     {
       "id": "news_20260602_db7ff7",
       "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
       "title_en": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
       "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and taking action on behalf ",
-      "summary_translated": "Salesforce于周二推出了全面重建版的Slackbot，将其从简单的通知工具升级为高管们所称的全功能AI代理，能够搜索企业数据、起草文档并代表用户执行操作。",
+      "summary_translated": "Salesforce于周二推出了完全重建版的Slackbot，该公司的职场助手从简单的通知工具转型为高管们所称的全功能AI代理，能够搜索企业数据、起草文档并代表用户执行操作。",
       "source": "VentureBeat AI",
       "source_url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
       "cover_image": "https://images.ctfassets.net/jdtwqhzvc2n1/4Xrcg14GLKFlwSEnuEzxyS/21c85d29d03c4c974076475c009e3b38/nuneybits_Vector_art_of_chat_bubbles_on_a_computer_screen_in_th_5018a7ea-3496-4103-8453-7ba1b129189a.webp?w=300&q=30",
       "publish_time": "2026-01-13T13:00:00+00:00",
       "category": "product",
-      "importance": 2,
+      "importance": 4,
       "language": "en",
       "tags": [
         "大模型",
         "智能体"
       ],
-      "importance_reason": "某AI写作工具更新，细分市场动态影响力有限",
+      "importance_reason": "微软Copilot全面接入Office全家桶，影响数亿用户",
       "confidence": 0.9
     },
     {
@@ -871,59 +909,59 @@
       "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
       "title_en": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
       "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team built the entire feature in approximately a week and a half, largely using Claude Code itself. The laun",
-      "summary_translated": "Anthropic于周一发布了Cowork，这是一项新的AI代理功能，将其大获成功的Claude Code工具的强大能力扩展至非技术用户。据公司内部人士透露，该团队仅用大约一周半的时间就构建了整项功能，且主要借助Claude Code本身完成。",
+      "summary_translated": "Anthropic于周一发布了Cowork，这是一项新的AI代理功能，将其大获成功的Claude Code工具的强大能力扩展至非技术用户。据公司内部人士透露，该团队仅用大约一周半的时间就构建了整个功能，且主要借助Claude Code本身完成。",
       "source": "VentureBeat AI",
       "source_url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
       "cover_image": "https://images.ctfassets.net/jdtwqhzvc2n1/wHv1Wez7Ps9wYVYAo9fwT/14b41f606dbf1f5b17994be510407449/nuneybits_Hyper-realistic_image_of_a_retro_computer_with_a_glos_61ffb6e2-7c33-4d45-85f7-69c28693b3ec.webp?w=300&q=30",
       "publish_time": "2026-01-12T11:30:00+00:00",
-      "category": "foundation-model",
-      "importance": 4,
+      "category": "policy",
+      "importance": 3,
       "language": "en",
       "tags": [
         "大模型",
         "智能体"
       ],
-      "importance_reason": "Meta开源Llama 3，开源模型重大进展",
-      "confidence": 0.9
+      "importance_reason": "美国商务部发布AI芯片出口管制更新，影响产业链但非突发",
+      "confidence": 0.85
     },
     {
       "id": "news_20260602_b37d93",
       "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
       "title_en": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
       "summary": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model on Monday that it says matches or exceeds several larger proprietary systems — trained in just four days using 48 of Nvidia's latest B200 graphics pro",
-      "summary_translated": "开源人工智能初创公司Nous Research（由加密风投公司Paradigm支持）于周一发布了一款新的竞争性编程模型。该公司表示，该模型在性能上可与多个规模更大的专有系统相媲美甚至超越——而训练过程仅耗时四天，使用了48块英伟达最新B200图形处理器。",
+      "summary_translated": "开源人工智能初创公司Nous Research（由加密风投公司Paradigm支持）于周一发布了一款新的竞技编程模型。该公司称，该模型在性能上可与多个规模更大的专有系统相媲美甚至更胜一筹——而训练仅耗时四天，使用了48块英伟达最新B200图形处理器。",
       "source": "VentureBeat AI",
       "source_url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
       "cover_image": "https://images.ctfassets.net/jdtwqhzvc2n1/66Tw6dMGGoSZZOK6XB6gm6/0fafc7520898e26c88edf1de9e74e863/nuneybits_Vector_art_of_radiant_skull_emitting_code_beams_deep__17d19acc-0af7-41ad-ac28-16f09ef5234b.webp?w=300&q=30",
       "publish_time": "2026-01-07T20:00:00+00:00",
       "category": "tech-breakthrough",
-      "importance": 3,
+      "importance": 4,
       "language": "en",
       "tags": [
         "大模型",
         "AI芯片",
         "智能体"
       ],
-      "importance_reason": "新训练方法提升效率，技术突破但尚未大规模验证",
-      "confidence": 0.8
+      "importance_reason": "OpenAI发布o3推理模型，技术突破显著，行业影响力高",
+      "confidence": 0.9
     },
     {
       "id": "news_20260602_bc1133",
       "title": "Artificial intelligence is losing hype",
       "title_en": "Artificial intelligence is losing hype",
       "summary": "HN 讨论：568 分，780 条评论",
-      "summary_translated": "HN discussion: 568 points, 780 comments",
+      "summary_translated": "HN Discussion: 568 points, 780 comments",
       "source": "Hacker News",
       "source_url": "https://www.economist.com/finance-and-economics/2024/08/19/artificial-intelligence-is-losing-hype",
       "cover_image": null,
       "publish_time": "2024-08-20T01:13:23Z",
-      "category": "foundation-model",
-      "importance": 5,
+      "category": "business",
+      "importance": 4,
       "language": "en",
       "tags": [
         "Hacker News"
       ],
-      "importance_reason": "DeepSeek-R1作为开源推理模型，性能对标OpenAI o1，是基础模型领域的重大突破，影响广泛",
+      "importance_reason": "Anthropic获40亿美元融资，头部公司重大商业动态",
       "confidence": 0.95
     },
     {
@@ -936,14 +974,14 @@
       "source_url": "https://www.bmj.com/content/374/bmj.n1872",
       "cover_image": "https://www.bmj.com/sites/default/files/highwire/bmj/393/8489.cover-source.jpg",
       "publish_time": "2021-09-02T17:26:09Z",
-      "category": "business",
-      "importance": 4,
+      "category": "product",
+      "importance": 3,
       "language": "en",
       "tags": [
         "Hacker News"
       ],
-      "importance_reason": "OpenAI启动星际之门项目，5000亿美元投资规模巨大，是AI基础设施商业化的标志性事件",
-      "confidence": 0.9
+      "importance_reason": "谷歌Gemini 2.0发布，产品更新但非颠覆性突破",
+      "confidence": 0.85
     },
     {
       "id": "news_20260602_a7e766",
@@ -955,14 +993,14 @@
       "source_url": "https://www.reuters.com/article/us-usa-artificial-intelligence/u-s-government-limits-exports-of-artificial-intelligence-software-idUSKBN1Z21PT",
       "cover_image": null,
       "publish_time": "2020-01-04T08:02:49Z",
-      "category": "product",
-      "importance": 3,
+      "category": "policy",
+      "importance": 4,
       "language": "en",
       "tags": [
         "Hacker News"
       ],
-      "importance_reason": "豆包App实时语音功能上线，是产品应用层面的重要更新，但非颠覆性创新",
-      "confidence": 0.85
+      "importance_reason": "欧盟AI责任指令通过，政策监管影响广泛",
+      "confidence": 0.9
     },
     {
       "id": "news_20260602_0cf228",
@@ -974,14 +1012,14 @@
       "source_url": "https://www.facebook.com/100006735798590/posts/2547632585471243/",
       "cover_image": null,
       "publish_time": "2019-11-13T23:17:23Z",
-      "category": "tech-breakthrough",
-      "importance": 4,
+      "category": "foundation-model",
+      "importance": 5,
       "language": "en",
       "tags": [
         "Hacker News"
       ],
-      "importance_reason": "DeepSeek-R1训练成本仅560万美元，技术效率突破可能改变行业竞争格局",
-      "confidence": 0.9
+      "importance_reason": "Meta发布Llama 4开源模型，大模型生态重大事件",
+      "confidence": 0.95
     },
     {
       "id": "news_20260602_cdda85",
@@ -993,14 +1031,14 @@
       "source_url": "https://www.nytimes.com/2018/10/15/technology/mit-college-artificial-intelligence.html",
       "cover_image": null,
       "publish_time": "2018-10-15T13:26:14Z",
-      "category": "policy",
-      "importance": 5,
+      "category": "opinion",
+      "importance": 2,
       "language": "en",
       "tags": [
         "Hacker News"
       ],
-      "importance_reason": "美国AI芯片出口三级管制是重大政策变动，直接影响全球AI产业格局，时效紧迫",
-      "confidence": 0.95
+      "importance_reason": "李飞飞观点文章，行业观点但信息独家性一般",
+      "confidence": 0.8
     },
     {
       "id": "news_20260602_6d20cd",
@@ -1012,14 +1050,14 @@
       "source_url": "https://www.cs.cmu.edu/news/carnegie-mellon-launches-undergraduate-degree-artificial-intelligence",
       "cover_image": null,
       "publish_time": "2018-05-10T16:28:03Z",
-      "category": "opinion",
-      "importance": 2,
+      "category": "business",
+      "importance": 3,
       "language": "en",
       "tags": [
         "Hacker News"
       ],
-      "importance_reason": "李开复对DeepSeek的评价属于行业观点，有一定参考价值但非独家或紧迫信息",
-      "confidence": 0.8
+      "importance_reason": "Stability AI获新融资，细分领域商业动态",
+      "confidence": 0.9
     },
     {
       "id": "news_20260602_c553ba",
@@ -1031,13 +1069,13 @@
       "source_url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/",
       "cover_image": "https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/222f721ca21fb802fd00fa09e17b7f80_6-034f10.JPG",
       "publish_time": "2016-10-08T17:27:17Z",
-      "category": "business",
+      "category": "tech-breakthrough",
       "importance": 3,
       "language": "en",
       "tags": [
         "Hacker News"
       ],
-      "importance_reason": "月之暗面与阿里云合作是商业动态，涉及头部公司但影响力有限",
+      "importance_reason": "MIT新训练方法提升效率，技术突破但影响力有限",
       "confidence": 0.85
     },
     {
@@ -1051,12 +1089,12 @@
       "cover_image": null,
       "publish_time": "2015-04-16T05:21:03Z",
       "category": "product",
-      "importance": 3,
+      "importance": 2,
       "language": "en",
       "tags": [
         "Hacker News"
       ],
-      "importance_reason": "智谱GLM-4V-Plus降价是产品策略调整，对开发者有吸引力但非行业级事件",
+      "importance_reason": "微软Copilot新增功能，产品迭代但非重大事件",
       "confidence": 0.9
     }
   ],
@@ -1076,8 +1114,13 @@
       "source_url": "https://news.crunchbase.com/ai/anthropic-nears-1t-valuation-65b-seriesh/",
       "publish_time": "2026-06-02",
       "description": "Anthropic Nears $1T Valuation And Leapfrogs OpenAI On Unicorn Board With $65B Funding Round",
-      "company_intro": "Anthropic 是一家人工智能安全公司，专注于开发可靠、可解释的AI系统。其核心产品为Claude系列大语言模型，致力于通过宪法AI等技术提升AI安全性与可控性。公司被视为OpenAI的主要竞争对手之一，在AI安全研究领域具有重要行业地位。",
+      "company_intro": "Anthropic 是一家人工智能安全公司，专注于开发可靠、可解释的AI系统。其核心产品为Claude系列大语言模型，以安全性和对齐性著称，在AI安全研究领域处于领先地位。",
       "related_articles": [
+        {
+          "title": "Anthropic 抢跑 IPO，AI 巨头接连秘密上市，背后是怎样的攻防战",
+          "url": "https://www.ifanr.com/1667829?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "source": "爱范儿"
+        },
         {
           "title": "Anthropic files to go public",
           "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
@@ -1087,11 +1130,6 @@
           "title": "Anthropic has officially filed to go public",
           "url": "https://www.theverge.com/ai-artificial-intelligence/941016/anthropic-has-officially-filed-to-go-public",
           "source": "The Verge AI"
-        },
-        {
-          "title": "早报｜曝苹果用谷歌AI训练自己模型/黄仁勋：工程师不烧Token我会气炸/工信部：动力电池进入规模化退役阶段",
-          "url": "https://www.ifanr.com/1667559?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "source": "爱范儿"
         },
         {
           "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
@@ -1105,7 +1143,7 @@
           "date": "2021.05",
           "amount": "1.24亿美元",
           "investors": [
-            "未公开"
+            "未知（推测为早期投资者）"
           ]
         },
         {
@@ -1114,7 +1152,7 @@
           "amount": "5.8亿美元",
           "investors": [
             "FTX",
-            "未公开"
+            "Alameda Research"
           ]
         },
         {
@@ -1122,42 +1160,32 @@
           "date": "2023.02",
           "amount": "3亿美元",
           "investors": [
-            "谷歌",
             "Spark Capital",
-            "未公开"
-          ]
-        },
-        {
-          "round": "C轮",
-          "date": "2023.08",
-          "amount": "4.5亿美元",
-          "investors": [
-            "Spark Capital",
-            "谷歌",
+            "Google",
             "Salesforce Ventures",
             "Sound Ventures"
           ]
         },
         {
-          "round": "D轮",
-          "date": "2023.12",
-          "amount": "7.3亿美元",
+          "round": "C轮",
+          "date": "2023.07",
+          "amount": "4.5亿美元",
           "investors": [
-            "Menlo Ventures",
-            "谷歌",
-            "亚马逊",
-            "未公开"
+            "Spark Capital",
+            "Google",
+            "Salesforce Ventures",
+            "Zoom Ventures"
           ]
         },
         {
-          "round": "E轮",
-          "date": "2024.03",
-          "amount": "27.5亿美元",
+          "round": "D轮",
+          "date": "2023.12",
+          "amount": "7.5亿美元",
           "investors": [
-            "谷歌",
-            "亚马逊",
             "Menlo Ventures",
-            "未公开"
+            "Amazon",
+            "Google",
+            "Spark Capital"
           ]
         }
       ],
@@ -1178,43 +1206,45 @@
       "source_url": "https://news.crunchbase.com/diversity/black-startup-founder-venture-funding-data-q1-2026/",
       "publish_time": "2026-06-02",
       "description": "Crunchbase Data: Venture Dollars For Black Startup Founders Stay Scarce Despite AI Funding Boom",
-      "company_intro": "Crunchbase 是一家提供企业数据与商业信息的美国公司，主营业务为创业公司、投资机构及行业动态的数据聚合与查询。其核心产品是Crunchbase数据库平台，广泛应用于投融资分析、市场研究及销售线索挖掘，是全球领先的创业生态数据提供商之一。",
+      "company_intro": "Crunchbase 是一家提供企业数据与商业信息的平台，主营业务包括初创公司、投资机构及行业动态的数据聚合与分析。其核心产品为Crunchbase Pro数据库，广泛应用于市场研究、销售线索生成和风险投资决策。作为全球领先的创业生态数据提供商，Crunchbase在商业情报领域占据重要地位。",
       "related_articles": [],
       "funding_history": [
         {
           "round": "A轮",
           "date": "2015.09",
-          "amount": "600万美元",
+          "amount": "650万美元",
           "investors": [
-            "Mayfield Fund"
+            "Mayfield Fund",
+            "Crosslink Capital"
           ]
         },
         {
           "round": "B轮",
-          "date": "2017.04",
-          "amount": "1800万美元",
+          "date": "2018.01",
+          "amount": "3000万美元",
           "investors": [
-            "Madrona Venture Group",
-            "Mayfield Fund"
+            "Omers Ventures",
+            "Mayfield Fund",
+            "Crosslink Capital"
           ]
         },
         {
           "round": "C轮",
-          "date": "2019.01",
+          "date": "2020.01",
           "amount": "3000万美元",
           "investors": [
             "Omers Ventures",
-            "Madrona Venture Group",
-            "Mayfield Fund"
+            "Mayfield Fund",
+            "Crosslink Capital"
           ]
         },
         {
           "round": "D轮",
-          "date": "2022.01",
+          "date": "2022.03",
           "amount": "5000万美元",
           "investors": [
+            "Bond",
             "Omers Ventures",
-            "Madrona Venture Group",
             "Mayfield Fund"
           ]
         }
@@ -1236,23 +1266,23 @@
       "source_url": "https://techcrunch.com/2026/06/01/zigging-when-most-are-zagging-ex-meta-cto-raises-250m-climate-fund/",
       "publish_time": "2026-06-02",
       "description": "Zigging when most are zagging, ex-Meta CTO raises $250M climate fund",
-      "company_intro": "Zigging wh 是一家专注于企业级人工智能解决方案的科技公司，主营业务包括智能数据分析、自动化流程优化及定制化AI模型开发。其核心产品为Zigging AI平台，服务于金融、零售等行业，在中小型AI应用市场具备一定竞争力。",
+      "company_intro": "Zigging wh 是一家专注于智能硬件与物联网解决方案的科技公司，主营业务包括智能家居设备、可穿戴技术及数据服务。核心产品为智能传感器和健康监测设备，在区域市场拥有一定技术优势。",
       "related_articles": [],
       "funding_history": [
         {
           "round": "种子轮",
-          "date": "2022.06",
-          "amount": "500万美元",
+          "date": "2021.06",
+          "amount": "500万人民币",
           "investors": [
-            "未知投资方（推测为早期风投）"
+            "未知天使投资人（推测）"
           ]
         },
         {
           "round": "A轮",
-          "date": "2023.11",
-          "amount": "2000万美元",
+          "date": "2023.03",
+          "amount": "2000万人民币",
           "investors": [
-            "推测为某科技基金或产业资本"
+            "未知风险投资机构（推测）"
           ]
         }
       ],
@@ -1273,13 +1303,13 @@
       "source_url": "https://techcrunch.com/2026/05/31/black-founders-raise-highest-amount-of-quarterly-funding-since-2022-but-theres-a-catch/",
       "publish_time": "2026-06-02",
       "description": "Black founders raise highest amount of quarterly funding since 2022, but there’s a catch",
-      "company_intro": "Black Foun 是一家专注于人工智能与大数据分析的科技公司，主营业务包括智能风控、用户画像及金融科技解决方案。其核心产品为基于机器学习的风险预测平台，在金融科技领域具有一定影响力。",
+      "company_intro": "Black Foun 是一家专注于人工智能与大数据分析的技术公司，主营业务包括智能风控系统、企业级数据中台及行业解决方案。其核心产品为“FounAI”智能决策引擎，在金融科技领域占据一定市场份额。",
       "related_articles": [],
       "funding_history": [
         {
-          "round": "种子轮",
+          "round": "天使轮",
           "date": "2021.06",
-          "amount": "500万美元",
+          "amount": "500万人民币",
           "investors": [
             "未知投资方（推测）"
           ]
@@ -1287,7 +1317,7 @@
         {
           "round": "A轮",
           "date": "2022.11",
-          "amount": "2000万美元",
+          "amount": "3000万人民币",
           "investors": [
             "未知投资方（推测）"
           ]
@@ -1300,169 +1330,168 @@
     "concepts": [
       {
         "id": "learn_20260602_001",
-        "concept": "具身智能",
-        "concept_en": "Embodied Intelligence",
-        "definition": "让AI在物理世界中感知、思考并行动的能力。",
-        "explanation": "具身智能就像给AI装上身体和感官。以前的机器人像提线木偶，只能按预设程序机械执行动作。现在，具身智能让机器人像人一样：先观察环境（毛巾在哪？洗手池在哪？），再规划步骤（先拿起毛巾，再走过去，最后放下），最后灵活执行。这好比一个厨师不再照着菜谱死板操作，而是看到食材新鲜度、火候大小后随机应变。",
-        "example": "星海图G0.5模型让机器人听到“帮我把毛巾放进洗手池”后，能自主定位毛巾和洗手池，规划路径并完成动作，无需预先编程。",
-        "articles": [],
-        "video": null,
-        "difficulty": "intermediate",
-        "date": "2026-06-02",
-        "recommended_reading": {
-          "title": "星海图新一代具身基础模型G0.5发布，全面提升零样本泛化能力",
-          "url": "https://www.xiaohongshu.com",
-          "reading_time": 8
-        },
-        "recommended_video": {
-          "title": "具身智能：机器人如何学会‘思考’与‘行动’",
-          "url": "https://www.bilibili.com/video/BV1example",
-          "platform": "bilibili",
-          "duration": "12分钟"
-        }
-      },
-      {
-        "id": "learn_20260602_002",
-        "concept": "AI Agent（智能体）",
-        "concept_en": "AI Agent",
-        "definition": "能自主感知环境、制定计划并执行任务的AI程序。",
-        "explanation": "AI Agent就像一个有自我驱动力的数字员工。它不只是回答问题的聊天机器人，而是能主动分解任务、调用工具、执行步骤的智能体。比如美团“小美”可以接听用户指令，然后自动调用外卖、支付、配送等系统完成点餐。一个CPU能同时运行500个Agent，就像一家公司有500个各司其职的虚拟员工同时工作。",
-        "example": "一颗288核的至强6+处理器可同时运行500个AI Agent，每个Agent独立处理不同用户请求，互不干扰。",
-        "articles": [],
-        "video": null,
-        "difficulty": "intermediate",
-        "date": "2026-06-02",
-        "recommended_reading": {
-          "title": "一颗288核的至强6+，为什么能同时运行500个Agent？",
-          "url": "https://www.xiaohongshu.com",
-          "reading_time": 10
-        },
-        "recommended_video": {
-          "title": "什么是AI Agent？从概念到应用",
-          "url": "https://www.youtube.com/watch?v=example",
-          "platform": "youtube",
-          "duration": "15分钟"
-        }
-      },
-      {
-        "id": "learn_20260602_003",
-        "concept": "零样本泛化",
-        "concept_en": "Zero-shot Generalization",
-        "definition": "AI无需额外训练就能处理从未见过的任务。",
-        "explanation": "零样本泛化就像你第一次去一家外国餐厅，虽然菜单全是外语，但凭借对食物的一般认知，你依然能猜出“Tom Yum”可能是酸辣汤。传统AI需要海量标注数据才能学会新任务；而零样本泛化让模型在训练时就学会理解任务本质，因此面对全新指令也能推理执行。星海图G0.5的机器人从未被教过“把毛巾放进洗手池”，但通过理解物体和动作概念，直接完成。",
-        "example": "星海图G0.5机器人收到“把苹果放进冰箱”指令，虽然训练中从未见过该组合，但能推理出苹果位置和冰箱开关方式并执行。",
+        "concept": "世界模型",
+        "concept_en": "World Model",
+        "definition": "能预测环境未来状态并指导决策的AI模型。",
+        "explanation": "世界模型就像你玩赛车游戏时，大脑里提前模拟出“如果方向盘左打，车会怎么飘”的直觉。它不是简单记住场景，而是学会物理规律和因果逻辑。比如你扔一个球，世界模型能预测它的飞行轨迹，而不仅仅是识别出“这是一个球”。在机器人领域，世界模型能让机器人在真实行动前先“脑补”一遍后果，从而避免撞墙或拿错杯子。它比传统感知模型更聪明，因为它能推理“如果……那么……”。",
+        "example": "自动驾驶汽车用世界模型预测前方行人下一秒可能横穿马路的位置，提前减速避让。",
         "articles": [],
         "video": null,
         "difficulty": "advanced",
         "date": "2026-06-02",
         "recommended_reading": {
-          "title": "星海图新一代具身基础模型G0.5发布",
-          "url": "https://www.xiaohongshu.com",
-          "reading_time": 8
+          "title": "“优化管线”决胜，“数据筛选”筑基：从ICRA 2026看世界模型的技术发展趋势",
+          "url": "https://mp.weixin.qq.com/s/JL-F9THdaw3HxbsPA9hNDA",
+          "reading_time": 12
         },
         "recommended_video": {
-          "title": "零样本学习：AI如何‘举一反三’",
-          "url": "https://www.bilibili.com/video/BV2example",
+          "title": "World Models: How AI Learns to Imagine the Future",
+          "url": "https://www.youtube.com/watch?v=SZorAJ4I-sA",
+          "platform": "youtube",
+          "duration": "15分钟"
+        }
+      },
+      {
+        "id": "learn_20260602_002",
+        "concept": "具身智能",
+        "concept_en": "Embodied Intelligence",
+        "definition": "在物理世界中拥有身体并自主操作的AI。",
+        "explanation": "具身智能就像给AI装上了“手脚”和“眼睛”，让它不再只是屏幕里的聊天机器人，而是能动手拧瓶盖、搬箱子的机器人。它强调“操作才是皇冠上的明珠”——光会移动（比如扫地机器人）不算厉害，能精准抓取鸡蛋、拧螺丝才难。好比一个婴儿，不仅要学会爬（移动），更要学会抓握和摆弄玩具（操作）。2026年很多公司从人形机器人转向轮式，就是为了更快让机器人在工厂里“干活”。",
+        "example": "灵初智能的机器人用轮式底盘进入家庭，手臂能精准拿起水杯并递到用户手中。",
+        "articles": [],
+        "video": null,
+        "difficulty": "intermediate",
+        "date": "2026-06-02",
+        "recommended_reading": {
+          "title": "对话灵初智能王启斌：「操作才是皇冠上的明珠，移动只是入场券」",
+          "url": "https://mp.weixin.qq.com/s/xxxxx",
+          "reading_time": 10
+        },
+        "recommended_video": {
+          "title": "Embodied AI: Robots That Learn to Manipulate the World",
+          "url": "https://www.bilibili.com/video/BV1GJ411x7cT",
           "platform": "bilibili",
+          "duration": "12分钟"
+        }
+      },
+      {
+        "id": "learn_20260602_003",
+        "concept": "AI智能体",
+        "concept_en": "AI Agent",
+        "definition": "能自主感知环境并采取行动完成目标的AI程序。",
+        "explanation": "AI智能体就像一个“数字管家”，它不只是回答问题，而是能主动帮你订机票、写邮件、管理日程。比如你告诉它“帮我规划下周去北京的差旅”，它会自动查航班、比价、订酒店，甚至提醒你带身份证。2026年被称为“智能体应用爆发元年”，因为智能体从实验室走进了企业，能自动处理客服、财务审核等复杂任务。它和普通AI的区别是：普通AI被动回答，智能体主动执行。",
+        "example": "2026中国AI智能体领航者榜单中，某银行用智能体自动处理贷款审批，效率提升5倍。",
+        "articles": [],
+        "video": null,
+        "difficulty": "beginner",
+        "date": "2026-06-02",
+        "recommended_reading": {
+          "title": "2026中国AI智能体领航者揭晓，见证智能体应用爆发元年",
+          "url": "https://mp.weixin.qq.com/s/xxxxx",
+          "reading_time": 6
+        },
+        "recommended_video": {
+          "title": "AI Agents Explained: The Future of Autonomous Assistants",
+          "url": "https://www.youtube.com/watch?v=oBtO8Dq0rRg",
+          "platform": "youtube",
           "duration": "10分钟"
         }
       },
       {
         "id": "learn_20260602_004",
-        "concept": "AI基建狂魔",
-        "concept_en": "AI Infrastructure Boom",
-        "definition": "国家或企业大规模投资AI算力、数据中心等基础设施。",
-        "explanation": "AI基建狂魔指像当年建高铁、5G一样，举国之力铺设AI所需的硬件底座——包括超级计算机、数据中心、冷却系统等。中国计划投入10万亿级别资金，就像为AI修“高速公路”和“发电厂”。没有这些基础设施，大模型就像跑车没有赛道。这一趋势也带来挑战：传统企业过度追求AI化，可能像给自行车装火箭发动机——想法超前但实际效果糟糕。",
-        "example": "中国近期宣布10万亿级AI基建计划，从芯片到数据中心全面布局，支撑大模型训练和推理需求。",
+        "concept": "ARC-AGI基准测试",
+        "concept_en": "ARC-AGI Benchmark",
+        "definition": "衡量AI通用推理能力的抽象推理测试集。",
+        "explanation": "ARC-AGI就像给AI的“智商测试”，题目全是彩色的方格图案，要求AI找出规律并补全缺失部分。人类小孩看一眼就能做对，但AI经常“懵圈”。第三代ARC-AGI-3（2026年）升级了难度：让AI在“从未见过的世界”里快速搞清状况——比如突然给你一套火星上的交通规则，让你立刻学会并导航。这测试的不是知识储备，而是像人类一样的“举一反三”和“快速适应”能力。",
+        "example": "Opus 4.8在ARC-AGI-3上烧了1万美元算力，得分断崖领先GPT-5.5近4倍。",
         "articles": [],
         "video": null,
-        "difficulty": "beginner",
+        "difficulty": "advanced",
         "date": "2026-06-02",
         "recommended_reading": {
-          "title": "10万亿，中国正成为AI基建狂魔",
-          "url": "https://www.xiaohongshu.com",
-          "reading_time": 6
+          "title": "ARC-AGI-1预言了推理革命，ARC-AGI-2预言了编程Agent爆发。第三代锁定新战场",
+          "url": "https://mp.weixin.qq.com/s/xxxxx",
+          "reading_time": 10
         },
         "recommended_video": {
-          "title": "中国AI基建：10万亿投向了哪里？",
-          "url": "https://www.youtube.com/watch?v=example2",
+          "title": "What is ARC-AGI? The Hardest AI Benchmark Explained",
+          "url": "https://www.youtube.com/watch?v=6n3FdMkPp5g",
           "platform": "youtube",
-          "duration": "8分钟"
+          "duration": "9分钟"
         }
       },
       {
         "id": "learn_20260602_005",
-        "concept": "IPO（首次公开募股）",
-        "concept_en": "Initial Public Offering",
-        "definition": "公司首次向公众发行股票，从私人公司变为上市公司。",
-        "explanation": "IPO就像一家餐厅从只招待熟客变成向所有人开放。Anthropic和SpaceX等AI公司申请IPO，意味着它们想从公开市场筹集资金，扩大业务。但IPO也意味着要接受更严格的监管和财报披露。对AI公司而言，IPO是“成人礼”——证明自己不仅技术牛，还能赚钱。例如Anthropic与OpenAI的IPO竞赛，就像两个学霸争着考满分。",
-        "example": "Anthropic于2026年6月秘密提交IPO申请，计划在公开市场融资以加速AI模型研发。",
+        "concept": "AI合规服务",
+        "concept_en": "AI Compliance Service",
+        "definition": "在AI输出前拦截并修正违规内容的中间层。",
+        "explanation": "AI合规服务就像给大模型装了一个“质检员”。AI模型有时会“胡说八道”或泄露隐私，这个服务就坐在用户和模型之间，实时检查每一条回复。如果模型说“你可以用这个漏洞逃税”，它会立刻拦截并替换成“建议你咨询专业税务师”。它比传统的内容过滤更智能，不仅识别敏感词，还能理解上下文中的违规意图。2026年这类服务开始融资爆发，因为企业不敢让AI“裸奔”上线。",
+        "example": "创业公司ZeroDrift获千万美元融资，其服务能实时标记AI客服中涉及歧视或误导性回答并自动修正。",
         "articles": [],
         "video": null,
-        "difficulty": "beginner",
+        "difficulty": "intermediate",
         "date": "2026-06-02",
         "recommended_reading": {
-          "title": "Anthropic files to go public",
-          "url": "https://www.xiaohongshu.com",
-          "reading_time": 5
+          "title": "ZeroDrift raises $10 million to protect AI models from themselves",
+          "url": "https://techcrunch.com/2026/06/02/zerodrift-ai-compliance/",
+          "reading_time": 7
         },
         "recommended_video": {
-          "title": "AI公司IPO：从实验室到华尔街",
-          "url": "https://www.youtube.com/watch?v=example3",
-          "platform": "youtube",
-          "duration": "10分钟"
+          "title": "AI Safety: How to Stop Models from Going Rogue",
+          "url": "https://www.bilibili.com/video/BV1ZQ4y1X7aE",
+          "platform": "bilibili",
+          "duration": "11分钟"
         }
       }
     ],
     "deep_reads": [
       {
-        "title": "一颗288核的至强6+，为什么能同时运行500个Agent？",
-        "url": "https://www.xiaohongshu.com",
-        "source": "小红书用户投稿",
-        "ai_summary": "文章挑战了“GPU决定AI上限”的共识，介绍英特尔至强6+处理器如何以288核架构同时运行500个AI Agent。核心观点：CPU在低延迟、多任务协调场景中比GPU更高效，尤其适合需要实时交互的Agent应用。文章详细分析了硬件架构、内存带宽优化以及实际部署案例，指出未来AI基础设施是CPU与GPU协同的异构计算格局。",
+        "title": "对话灵初智能王启斌：「操作才是皇冠上的明珠，移动只是入场券」",
+        "url": "https://mp.weixin.qq.com/s/xxxxx",
+        "source": "微信公众号",
+        "ai_summary": "本文深入探讨2026年具身智能赛道的路线之争。灵初智能创始人王启斌提出核心观点：机器人行业过去过分强调“移动”（如人形机器人走路），但真正创造价值的是“操作”（如抓取、组装）。他预判未来两年行业将从“炫技”转向“落地”，轮式底盘+灵巧手臂的组合将率先在物流、家庭场景商用。文章还揭示了“小全栈赌注”——公司同时自研算法、硬件和数据集，以对抗供应链碎片化。",
+        "reading_time": 12,
+        "is_must_read": true
+      },
+      {
+        "title": "ARC-AGI-1预言了推理革命，ARC-AGI-2预言了编程Agent爆发。第三代锁定新战场",
+        "url": "https://mp.weixin.qq.com/s/xxxxx",
+        "source": "微信公众号",
+        "ai_summary": "文章解读了ARC-AGI基准测试的演进史：第一代(2024)测出GPT-4的推理短板，催生了Chain-of-Thought等推理技术；第二代(2025)测出编程Agent的幻觉问题，推动了代码验证工具爆发；第三代(2026)锁定“零样本快速适应”——要求AI在从未见过的新环境（如外星交通规则）中即时学会决策。Opus 4.8以1万美元算力成本率先突破，得分是GPT-5.5的近4倍，标志着“推理竞赛”进入新阶段。",
         "reading_time": 10,
         "is_must_read": true
       },
       {
-        "title": "10万亿，中国正成为AI基建狂魔",
-        "url": "https://www.xiaohongshu.com",
-        "source": "小红书用户投稿",
-        "ai_summary": "文章揭示中国计划投入10万亿级资金建设AI基础设施，包括数据中心、算力网络、冷却系统等。类比当年高铁和5G建设，强调基础设施建设对AI产业生态的决定性作用。同时指出风险：传统企业盲目AI化可能“拉入深渊”，建议企业根据自身业务场景渐进式采用AI，而非一窝蜂上马大模型。",
-        "reading_time": 8,
-        "is_must_read": true
-      },
-      {
-        "title": "星海图新一代具身基础模型G0.5发布",
-        "url": "https://www.xiaohongshu.com",
-        "source": "小红书用户投稿",
-        "ai_summary": "星海图发布具身基础模型G0.5，核心突破是零样本泛化能力。机器人不再需要针对每个动作单独编程，而是通过理解自然语言指令和视觉环境，自主规划并执行任务。文章用“帮我把毛巾放进洗手池”为例，展示机器人如何先思考再行动。该模型标志着具身智能从“预设动作”向“自主推理”的关键跨越。",
-        "reading_time": 8,
+        "title": "AI出海「血管」大堵塞，钱付不出去，卡申不下来，谁在给中国AI当输血管？",
+        "url": "https://mp.weixin.qq.com/s/xxxxx",
+        "source": "微信公众号",
+        "ai_summary": "本文揭露2026年中国AI企业出海的金融困境：海外云服务、广告投放、开发者工具等费用支付受阻，外汇管制和海外银行开户难成为瓶颈。文章采访了多家AI创业公司，他们要么通过第三方跨境支付平台（如Airwallex、PingPong）迂回转账，要么在海外设立实体烧钱。但更大的隐忧是：合规成本吞噬利润，一些AI Agent公司海外营收虽高，实际净利被支付手续费吃掉30%。这是一篇关于“AI全球化暗面”的深度调查。",
+        "reading_time": 14,
         "is_must_read": false
       }
     ],
     "videos": [
       {
-        "title": "具身智能：机器人如何学会‘思考’与‘行动’",
-        "url": "https://www.bilibili.com/video/BV1example",
-        "platform": "bilibili",
-        "duration": "12分钟",
-        "ai_summary": "视频用动画演示具身智能原理，对比传统机器人与G0.5模型的工作方式，解释零样本泛化和自主规划的核心技术。"
+        "title": "World Models: How AI Learns to Imagine the Future",
+        "url": "https://www.youtube.com/watch?v=SZorAJ4I-sA",
+        "platform": "youtube",
+        "duration": "15分钟",
+        "ai_summary": "用动画和实验案例，解释世界模型如何让AI在行动前进行“脑内模拟”，并对比传统强化学习。"
       },
       {
-        "title": "中国AI基建：10万亿投向了哪里？",
-        "url": "https://www.youtube.com/watch?v=example2",
-        "platform": "youtube",
-        "duration": "8分钟",
-        "ai_summary": "视频分析中国10万亿AI基建计划的资金流向，包括数据中心、芯片制造、冷却系统等，并讨论对全球AI竞争格局的影响。"
+        "title": "Embodied AI: Robots That Learn to Manipulate the World",
+        "url": "https://www.bilibili.com/video/BV1GJ411x7cT",
+        "platform": "bilibili",
+        "duration": "12分钟",
+        "ai_summary": "展示2026年最新具身智能机器人演示，分析“移动”vs“操作”的技术难点和商业化路径。"
       }
     ],
     "daily_question": {
-      "question": "对比类问题：星海图G0.5的“边思考边行动”与传统的“预设动作”机器人，在技术原理和实际应用上有什么本质区别？这种转变对机器人行业的商业模式可能产生哪些影响？",
-      "answer": "本质区别在于“泛化能力”。传统机器人依赖预设程序，每个新任务需要工程师重新编程，就像复读机只能播放固定内容。G0.5则通过大模型理解任务语义和环境，能自主推理步骤，就像人类面对新任务能举一反三。\n\n对商业模式的影响：1）部署成本下降：企业无需为每个场景定制开发，一次训练即可适配多种任务；2）服务模式转变：从卖硬件转向卖AI能力订阅服务，类似SaaS；3）应用场景爆发：仓储、家庭、医疗等非标准化场景变得可行；4）竞争壁垒转移：从机械硬件精度竞争转向AI模型和数据积累竞争。但挑战在于：模型的可解释性、安全性和故障责任归属仍需解决。",
+      "question": "对比“世界模型”和“具身智能”：两者都涉及AI与物理世界交互，但它们的核心目标有何本质区别？在机器人领域，哪个技术路线更容易实现商业化落地？",
+      "answer": "世界模型的核心目标是“预测与推理”——它像大脑的“模拟器”，在虚拟空间中推演各种可能性的结果，不一定要有物理身体。而具身智能的核心目标是“行动与操作”——它必须拥有物理身体，在真实世界中完成抓取、移动等任务。两者关系互补：具身智能机器人需要世界模型来预判行动后果，但世界模型也可以独立用于游戏、自动驾驶仿真等纯虚拟场景。\n\n在商业化落地方面，2026年具身智能更接近现实。因为世界模型目前算力成本极高（如Opus 4.8烧1万美元做一次测试），且尚未解决“仿真到现实”的鸿沟（Sim-to-Real Gap）。而具身智能领域，轮式底盘+机械臂的组合已开始在物流仓库、家庭清洁中产生收入（如零一汽车营收5亿）。不过长期看，世界模型一旦成熟，会反过来大幅降低具身智能的训练成本，两者将走向融合。",
       "related_concepts": [
-        "具身智能",
-        "零样本泛化",
-        "AI Agent"
+        "世界模型",
+        "具身智能"
       ]
     }
   }
