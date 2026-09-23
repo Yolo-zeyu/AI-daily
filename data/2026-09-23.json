@@ -1,0 +1,1282 @@
+{
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T11:21:47.310774+08:00",
+  "news": [
+    {
+      "id": "news_20260923_5ead61",
+      "title": "苹果高管称不建议给iPhone贴膜！网友：免费换屏幕我就信你；高德地图成「职场版大众点评」？回应来了；Muse大火，扎克伯格身价暴涨1700亿",
+      "title_en": null,
+      "summary": "要闻提示 1.苹果高管称不建议给iPhone贴膜！网友：免费换屏幕我就信你 2.知情人士：DeepSeek将向联合国安理会介绍AI风险，月之暗面等中国企业也受邀参会 3.高德地图成“职场版大众点评”？回应来了 4.字节通报二季度违规案例：114名员工被辞退，其中8人被移交司法机关处理 5.阿里Qwen4和下代视频模型均在训练中，新一代AI芯片将于2027年一季度上市 6.曝华为还将推出新形态手机 7.Meta 再次上桌！个人AI产品 Muse 爆红，扎克伯格身价一日暴涨近1700亿 8.特斯拉最新版FSD翻车：误判眩光为摄像头污渍，官方承认是Bug 今日头条 苹果高管称不建议给iPhone贴膜",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/zaobao/ZIo4XgkwIFbsS0ui.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-09-23T08:35:00+08:00",
+      "category": "foundation-model",
+      "importance": 4,
+      "language": "zh",
+      "tags": [
+        "大模型",
+        "融资",
+        "开源"
+      ],
+      "importance_reason": "基础模型迭代通常牵动行业格局与下游应用",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20260923_72dfd0",
+      "title": "Claude 5.5 发布，性能直逼 Fable，还要卷价格",
+      "title_en": null,
+      "summary": "最卷一夜！ #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1681629?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1790130239682-18.png",
+      "publish_time": "2026-09-23T02:25:19+00:00",
+      "category": "business",
+      "importance": 4,
+      "language": "zh",
+      "tags": [
+        "大模型",
+        "产品发布"
+      ],
+      "importance_reason": "融资与商业动态反映资本流向和头部公司竞争态势",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20260923_18ef95",
+      "title": "⁡⁤‬‍⁤‬​‌‍⁢⁡⁢⁣‌‌﻿⁡⁡​⁤​​﻿⁢⁡‬⁡‬​‍⁣​​﻿⁤⁡‍​⁡‬‌‬⁣⁡⁣​⁡‬⁤刚刚，GPT-6 新模型掀桌！「白菜价」杀进 DeepSeek 腹地",
+      "title_en": null,
+      "summary": "DeepSeek 的价格护城河，迎来 OpenAI 的挑战 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1681605?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/09/14-5.png",
+      "publish_time": "2026-09-23T02:21:17+00:00",
+      "category": "tech-breakthrough",
+      "importance": 4,
+      "language": "zh",
+      "tags": [
+        "大模型"
+      ],
+      "importance_reason": "技术突破可能改变模型能力边界和研发路线",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20260923_60a24a",
+      "title": "早报｜GPT-6 Sol发布，价格腰斩/特努斯：Siri AI不应代替人际关系/4999起，OPPO Find X10系列发布",
+      "title_en": null,
+      "summary": "· 第六代骁龙 8 双旗舰发布，iQOO 16、红魔 12 Pro+ 首批搭载\n· Qwen Intelligence 亮相，荣耀 Magic9 系列、Robot Phone 首批搭载\n· 前小米 XLA 负责人陈龙创业，研发「自进化」具身大模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1681566?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/09/img_6ab317bcc9060.jpeg",
+      "publish_time": "2026-09-23T00:05:46+00:00",
+      "category": "product",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "大模型",
+        "产品发布"
+      ],
+      "importance_reason": "产品与应用发布影响用户采用和商业化落地",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20260923_5f66f0",
+      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "title_en": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+      "summary_translated": "创始人不必以最艰难的方式汲取最深刻的教训。TechCrunch创始人峰会旨在让创业路上的挑战变得更轻松，让成功的喜悦更加倍增。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/09/54657380116_66c449690d_k.jpg?resize=1200,800",
+      "publish_time": "2026-09-22T23:21:49+00:00",
+      "category": "policy",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "政策监管变化直接影响合规成本与市场准入",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20260923_cb9e79",
+      "title": "一张硬件卡片，一场上下文之争：千问办公押注企业Agent",
+      "title_en": null,
+      "summary": "一场两小时的客户拜访，双方说的话加起来上万字。但回到工位，销售能凭记忆敲进 CRM的，通常不到三百字。 剩下的去哪了？跟着出租车一起走了。 这样的对话在企业里每天都在发生。会议室里的争论、客户办公室里随口的一句提醒、老师傅肚里的经验，信息密度最高的这些话，几乎都发生在电脑屏幕之外，从来没有进入过任何一套企业系统。 另一边，已经沉淀在文档、群聊和系统里的数据，也常常因为没做结构化，或者 体量太大，塞不进 上下文 窗口 ， Agent根本调用不了。 9月22日云栖大会， 千问办公 把两件事放到了一起解决： 发布了面向企业级 Agent的基础设施“企业上下文”（Enterprise Context）",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/weiwu/DHnalKdgCUg8xEpC.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-09-22T22:42:00+08:00",
+      "category": "opinion",
+      "importance": 2,
+      "language": "zh",
+      "tags": [
+        "大模型",
+        "融资",
+        "智能体"
+      ],
+      "importance_reason": "行业观点有参考价值但通常非事件级信息",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20260923_b3cd46",
+      "title": "极氪9X正式出海，中国旗舰直面对决保时捷、劳斯莱斯",
+      "title_en": null,
+      "summary": "9月22日，中国高端新能源品牌旗舰车型极氪9X，正式发运阿联酋，开启规模化出海。作为中国新一代豪华旗舰，极氪9X在阿联酋售价超80万元，欧洲售价近100万元人民币，被外媒称为“最贵中国车”，正加速拓展至中东、中亚、欧洲、拉美等核心市场。 极氪9X搭载全球领先的SEP浩瀚超级电混架构，以极致的性能操控和安全能力，在海外市场“未发先火”，部分国家和地区加价超过50万，与保时捷、劳斯莱斯、宾利等海外传统超豪华品牌展开直面竞争。",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/industrynews/2B9sF0r43RzljsqT.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-09-22T22:38:00+08:00",
+      "category": "business",
+      "importance": 3,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "商业合作或营收动态对竞争格局有一定影响",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20260923_84a303",
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "title_en": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+      "summary_translated": "这家成立七年的初创企业已筹集3.5亿美元E轮融资，以推动其数据即服务模式的发展。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2259148891.jpg?resize=1200,686",
+      "publish_time": "2026-09-22T21:56:43+00:00",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "应用层更新影响具体场景效率和用户体验",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20260923_f54176",
+      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "title_en": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+      "summary_translated": "高通表示，其新款顶级芯片能在本地运行300亿参数的混合专家模型。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/09/assets_2026_09_1789671614_Snapdragon-8-Elite-Extreme-Gen-6-and-Snapdragon-8-Elite-Gen-6-Image-2-Embargo-Sep-22-10am-HT-1pm-PT.jpg?resize=1200,675",
+      "publish_time": "2026-09-22T20:00:00+00:00",
+      "category": "foundation-model",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "大模型能力或开源进展是行业关注核心",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20260923_3aa21b",
+      "title": "《AGI市场观察》发布：四款国产模型周用量破10万亿tokens，DeepSeek与混元占比近半",
+      "title_en": null,
+      "summary": "日前，智能经济30人论坛AGI测评中心发布最新一期《AGI市场观察》（2026年9月12日-18日）。报告以OpenRouter词元消耗数据、各厂商官方披露价格及Arena基准测评为基础，对国产大语言模型做周度量化追踪，本期围绕用量、份额、集中度、价格与性价比等方面给出观察。 数据显示，深度求索于9月10日下调DeepSeek V4 Flash及V4.1 Flash定价，后者周用量随之增长483.62%，位次由第9升至第2；腾讯Hy4 preview以12.01万亿tokens位列第三、份额15.54%，性价比位次与上期持平。 词元用量方面，周期内词元用量超过10万亿tokens的均为轻量级（",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/industrynews/IRBkL55eFXZRCHiy.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-09-22T19:25:00+08:00",
+      "category": "tech-breakthrough",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "大模型",
+        "产品发布"
+      ],
+      "importance_reason": "技术进展值得关注，但影响范围可能偏细分",
+      "confidence": 0.8
+    },
+    {
+      "id": "news_20260923_176f90",
+      "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+      "title_en": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+      "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+      "summary_translated": "Meta称Muse是从零构建的，但承认这款AI助手“深受”OpenClaw“启发”——甚至包括其部分工作区文件名和内容。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
+      "publish_time": "2026-09-22T19:09:11+00:00",
+      "category": "foundation-model",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "基础模型迭代通常影响下游应用生态",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20260923_d5bcb1",
+      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "title_en": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+      "summary_translated": "OpenAI将推出两款新模型，据称与Astra同出一辙。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+      "publish_time": "2026-09-22T18:00:00+00:00",
+      "category": "business",
+      "importance": 4,
+      "language": "en",
+      "tags": [
+        "大模型"
+      ],
+      "importance_reason": "融资动态反映资本流向与竞争格局",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20260923_de3511",
+      "title": "阿里云加速构建Agentic Cloud：推出AgentCore、新一代CPFS等重磅新品",
+      "title_en": null,
+      "summary": "9月22日，2026杭州云栖大会上，阿里云CTO李飞飞系统性阐述了Agentic Cloud 战略布局，阿里云将Model、Harness、Context作为核心构建场景，推出全新的云上算力底座和Agent 构建治理平台AgentCore、Agent Sandbox、新一代高性能存储CPFS等一系列新品，让 AI 真正进入生产流程、走向规模化价值创造。 随着2026年Agent的爆发式增长，越来越多的智能体正跨过“问答型”的分水岭，进入自主规划、实时决策阶段，这对算力和云提出了更高的要求。李飞飞认为，企业级 Agent 的大规模落地还需要这些能力：以全面、统一、持续更新的上下文形成全域认知；支",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/industrynews/HNWVHr1WinHMKzsN.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-09-22T17:38:00+08:00",
+      "category": "tech-breakthrough",
+      "importance": 4,
+      "language": "zh",
+      "tags": [
+        "大模型",
+        "AI芯片",
+        "智能体"
+      ],
+      "importance_reason": "技术突破可能改变模型能力边界",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20260923_d0716c",
+      "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+      "title_en": "Rabbit’s new AI agent doesn’t need an R1 to run",
+      "summary": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agentic operating system\" runs in the cloud but operates locally across Windows, Mac, and Linux devices. A",
+      "summary_translated": "Rabbit公司，即那款表现平平的R1设备背后的企业，正推出一款独立AI代理，无需其硬件即可使用，据《连线》杂志早前报道。这家初创公司表示，其新的OS3“代理操作系统”在云端运行，但能在Windows、Mac和Linux设备上本地操作。",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25415491/DSC08587.JPG?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-09-22T16:52:40-04:00",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "智能体"
+      ],
+      "importance_reason": "产品发布影响用户体验与市场采用",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20260923_18bb2f",
+      "title": "做每个人的专属AI助理，千问加速打造Personal Agent",
+      "title_en": null,
+      "summary": "9月22日，在2026年云栖大会上，千问宣布将加速打造 Personal Agent。千问产品负责人郑嗣寿表示，自去年上线以来，让每个人拥有自己的 AI 助理，始终是千问不变的目标。依托Qwen 3.8系列模型强大的Agentic能力，千问正在构建全新的Personal Agent形态，为 3 亿用户提供持续、个性化的智能服务。 当天，千问公布了多项围绕 Personal Agent 的阶段性进展：在用户授权下接入健康、运动等个人数据，为健康咨询和运动规划提供更具针对性的分析；接入海量专业理财数据及机构智能体，并支持部分用户连接个人持仓；同时，千问开放平台覆盖领域已扩大至20多个，申请入驻伙伴",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/industrynews/4V3AYUarwL4RCE5O.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-09-22T16:40:00+08:00",
+      "category": "policy",
+      "importance": 4,
+      "language": "zh",
+      "tags": [
+        "智能体",
+        "产品发布"
+      ],
+      "importance_reason": "监管政策直接影响行业合规与部署节奏",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20260923_d52a24",
+      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "title_en": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+      "summary_translated": "Anthropic称其为“我们迄今测试过的性能最强的模型”。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
+      "publish_time": "2026-09-22T16:30:07+00:00",
+      "category": "opinion",
+      "importance": 2,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "观点类内容影响有限，偏讨论性质",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20260923_395221",
+      "title": "对话 COBRA-Skills 一作卢平琛：仅用 50 个样本，重构 Agent 技能降本路线",
+      "title_en": null,
+      "summary": "当经典算法遇到 LLM，用概率预判代替盲目试错，或许才是架构演进的真正解法。 作者丨 张   璐 编辑丨马晓宁 过去，智能体的技能（Skill）大多依赖人类专家手动撰写，不仅耗时费力，更难以覆盖海量复杂的真实场景。为此，借助大模型“自动化生成与优化技能”，成了让 Agent 迈向自主进化的新范式。 然而，摆脱了人工编写的束缚，却撞上了高昂的 Token 账单。要验证一个自动生成的技能到底管不管用，必须让智能体带入真实任务中落地执行。每一次试错，都是实打实的 Token 消耗与多轮交互的时间成本。 更棘手的是，许多候选技能在刚生成时就自带缺陷。但在现有框架下，我们缺乏“事前筛选”的能力，只能任由",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/private/AaUgNDfg84ayCKbE.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-09-22T15:55:00+08:00",
+      "category": "business",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "大模型",
+        "智能体"
+      ],
+      "importance_reason": "商业合作或并购属重要公司动态",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20260923_63278f",
+      "title": "AstroForge is putting AI in command of its next spacecraft",
+      "title_en": "AstroForge is putting AI in command of its next spacecraft",
+      "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
+      "summary_translated": "Autonomy-1将采用一个小型、基于Transformer的AI模型来管理太空探测器。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+      "publish_time": "2026-09-22T15:00:00+00:00",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "应用层更新影响特定用户群体",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20260923_8fdc38",
+      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+      "title_en": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+      "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200.",
+      "summary_translated": "在TechCrunch Disrupt 2026大会上，AI舞台和现实世界AI舞台将举办五场会议，聚焦AI安全，演讲嘉宾包括来自Anthropic、英伟达、AWS、Waabi等公司的领导者。9月25日前注册可节省高达200美元。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?resize=1200,800",
+      "publish_time": "2026-09-22T15:00:00+00:00",
+      "category": "foundation-model",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "大模型能力或开源进展具行业影响",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20260923_e7f47f",
+      "title": "10.99 万元起！日产新 N7 这次是真加量还降价",
+      "title_en": null,
+      "summary": "「沙发厂」上新。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1681515?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/09/vaca.jpg",
+      "publish_time": "2026-09-22T13:48:33+00:00",
+      "category": "tech-breakthrough",
+      "importance": 3,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "技术进展值得关注但影响范围待验证",
+      "confidence": 0.8
+    },
+    {
+      "id": "news_20260923_a1f596",
+      "title": "涨价 9 万？岚图梦想家 9 凭什么敢卖 41.99 万元",
+      "title_en": null,
+      "summary": "把「旗舰感」做得更具体。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1681478?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/09/HA4zktiTW5bkdpCYAvMcYojFmpHXynHqoYgbrscy.jpg",
+      "publish_time": "2026-09-22T13:47:50+00:00",
+      "category": "foundation-model",
+      "importance": 5,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "头部大模型发布或升级，直接影响行业技术路线与竞争格局",
+      "confidence": 0.95
+    },
+    {
+      "id": "news_20260923_fbbb2f",
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "title_en": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people",
+      "summary_translated": "过去25年，美国斥资数十亿在南部边境建造了由监控塔构成的“虚拟墙”，承诺这将有助于发现和逮捕越境者，并拯救生命。但《麻省理工科技评论》的一项开创性调查记录显示，已有超过一千人",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/IMG_6949.png?resize=1200,600",
+      "publish_time": "2026-09-22T13:42:05+00:00",
+      "category": "business",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "重大融资或商业合作，反映资本流向与头部公司战略布局",
+      "confidence": 0.92
+    },
+    {
+      "id": "news_20260923_ab21a4",
+      "title": "OPPO 新旗舰塞满了「两亿」，却只要 6799 元起",
+      "title_en": null,
+      "summary": "堆料堆满了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1681522?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/09/img_6ab2817981423.png",
+      "publish_time": "2026-09-22T13:24:35+00:00",
+      "category": "tech-breakthrough",
+      "importance": 4,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "关键技术突破，可能推动模型能力或训练效率显著提升",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20260923_b509e3",
+      "title": "16.18 万元起！广汽传祺越 7 配备三把锁，「可城可野」有了新答案",
+      "title_en": null,
+      "summary": "2026 年也是方盒子的大年。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1681498?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/09/TrumpchiY7-cover-16x9.jpg",
+      "publish_time": "2026-09-22T12:42:15+00:00",
+      "category": "product",
+      "importance": 3,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "AI产品功能更新，影响用户体验与细分市场竞争",
+      "confidence": 0.93
+    },
+    {
+      "id": "news_20260923_262004",
+      "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+      "title_en": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+      "summary": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, Nvidia, OpenAI, Palantir",
+      "summary_translated": "风险投资公司安德森·霍洛维茨（a16z）正在创建一所“学院”，旨在为年轻人搭建通往构建或加入硅谷初创企业的通道。“霍洛维茨·安德森学院”启动时将携手10家合作伙伴，包括安杜里尔、Anthropic、Coinbase、谷歌、Meta、英伟达、OpenAI、Palantir等。",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK483_EDUCATION_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-09-22T12:34:08-04:00",
+      "category": "policy",
+      "importance": 5,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "监管政策变化，可能重塑AI合规要求与行业准入",
+      "confidence": 0.94
+    },
+    {
+      "id": "news_20260923_3b73af",
+      "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+      "title_en": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+      "summary": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's testing sandbox. It's th",
+      "summary_translated": "Anthropic表示，鉴于近期出现的失控AI黑客事件，其新款Claude Opus 5.5模型配备了更强的安全保障措施。在周二的公告中，Anthropic称Opus 5.5针对某些危险行为进行了改进，包括试图逃离公司测试沙盒的行为。",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-09-22T12:30:00-04:00",
+      "category": "opinion",
+      "importance": 2,
+      "language": "en",
+      "tags": [
+        "大模型"
+      ],
+      "importance_reason": "行业观点讨论，提供视角但缺乏直接事件驱动",
+      "confidence": 0.88
+    },
+    {
+      "id": "news_20260923_69b662",
+      "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
+      "title_en": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Don’t be fooled by this summer of AI hype  —Timnit Gebru, executive director of the Distributed AI Research Institute (DAIR), and Emily M. Bender, professor of li",
+      "summary_translated": "这是今天的《下载》栏目，我们的工作日简报，每日为你提供科技领域的动态。别被今夏的人工智能热潮所迷惑——分布式人工智能研究所（DAIR）执行主任蒂姆尼特·格布鲁和语言学教授艾米莉·M·本德如是说。",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2024/12/Armada-high-res.jpg?fit=1456,818",
+      "publish_time": "2026-09-22T12:10:00+00:00",
+      "category": "business",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "公司商业动态，影响特定赛道竞争但非全行业级事件",
+      "confidence": 0.91
+    },
+    {
+      "id": "news_20260923_c0fa20",
+      "title": "Trump says the US is officially renaming AI to ‘super intelligence’",
+      "title_en": "Trump says the US is officially renaming AI to ‘super intelligence’",
+      "summary": "In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" climate change, and transgender people while also claiming that the US is now \"officially\" renaming artificial intelligence to \"super intelligence.\" Oddly, this wasn't one of the entries in the po",
+      "summary_translated": "周二上午在联合国大会上发表演讲时，唐纳德·特朗普猛烈抨击伊朗、“全球主义者”、气候变化和跨性别者，同时还声称美国现在“正式”将人工智能更名为“超级智能”。奇怪的是，这并不在……之列。",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/videoframe_1949029.png?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-09-22T12:01:10-04:00",
+      "category": "foundation-model",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "基础模型能力或生态更新，头部厂商动态值得关注",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20260923_d185f6",
+      "title": "Don’t be fooled by this summer of AI hype",
+      "title_en": "Don’t be fooled by this summer of AI hype",
+      "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclose",
+      "summary_translated": "过去几个月，AI炒作不断。4月底，Anthropic声称其模型Claude Mythos在发现软件漏洞方面比大多数安全专家更强。随后发生了OpenAI与Hugging Face的黑客事件，之后Anthropic（自豪地）和Meta（不情愿地）披露",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/summer-hype2.jpg?resize=1200,600",
+      "publish_time": "2026-09-22T11:04:51+00:00",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "大模型"
+      ],
+      "importance_reason": "AI应用落地或产品发布，影响具体场景采用速度",
+      "confidence": 0.92
+    },
+    {
+      "id": "news_20260923_bbd252",
+      "title": "光帆携手韶音，以 AI OS 破局单点功能内卷",
+      "title_en": null,
+      "summary": "好 AI，不必自己造。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1681475?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1790067268230-1.png",
+      "publish_time": "2026-09-22T10:10:26+00:00",
+      "category": "tech-breakthrough",
+      "importance": 4,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "技术进展可能改变模型训练、推理或部署效率",
+      "confidence": 0.89
+    },
+    {
+      "id": "news_20260923_d25222",
+      "title": "Meta patches Muse exploit that let attackers control the AI agent",
+      "title_en": "Meta patches Muse exploit that let attackers control the AI agent",
+      "summary": "Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent. The bug found by security researcher Patrick Wardle utilized an undocumented Muse setting that enabled potential attackers running local code t",
+      "summary_translated": "Meta在发现其Muse macOS应用存在零日漏洞后，发布了补丁，该漏洞可能允许他人控制AI代理。安全研究员Patrick Wardle发现的这个漏洞利用了一个未记录的Muse设置，使潜在攻击者能够运行本地代码。",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-09-22T07:53:58-04:00",
+      "category": "foundation-model",
+      "importance": 5,
+      "language": "en",
+      "tags": [
+        "智能体"
+      ],
+      "importance_reason": "头部大模型发布或重大升级，直接影响行业竞争格局",
+      "confidence": 0.95
+    },
+    {
+      "id": "news_20260923_83547d",
+      "title": "California tightens rules on AI data center energy and water use",
+      "title_en": "California tightens rules on AI data center energy and water use",
+      "summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data cen",
+      "summary_translated": "加州州长加文·纽森签署了七项法案，旨在防止AI数据中心将公用事业成本转嫁给居民，据《洛杉矶时报》早前报道。这一系列法律要求加州公用事业委员会为数据中心引入新的费率分类。",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2286055476.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-09-21T16:29:45-04:00",
+      "category": "business",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "头部AI公司重大融资动态，反映资本流向",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20260923_06d3f8",
+      "title": "The Download: investigating deaths at the US border’s “virtual wall”",
+      "title_en": "The Download: investigating deaths at the US border’s “virtual wall”",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The US spent billions on border surveillance. Why can’t it catch people before they die? When José Morales Bernal crossed the border into the US in April 2024, th",
+      "summary_translated": "这是今天的《下载》周刊，我们的工作日简报，每日为你提供科技领域的动态。美国在边境监控上花费了数十亿美元。为何不能在人们丧生之前及时发现？2024年4月，当何塞·莫拉莱斯·贝尔纳尔穿越边境进入美国时，",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2025/04/Duks-Koschitz-and-Robert-Brackett-III.jpg?fit=2128,1196",
+      "publish_time": "2026-09-21T12:20:00+00:00",
+      "category": "tech-breakthrough",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "关键技术突破，可能推动模型能力边界扩展",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20260923_5f5c6f",
+      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+      "title_en": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+      "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of Dying on Camera, a collaboration between MIT Technology Review ",
+      "summary_translated": "我们为期15个月的关于美墨边境死亡与监控的调查，始于一个简单的问题：为何在旨在协助追踪和逮捕他们的政府监控塔附近，会有如此多的人丧生？这篇报道是《麻省理工科技评论》合作项目“镜头下的死亡”的一部分。",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Map-thumbnail-16_9-2.png",
+      "publish_time": "2026-09-21T12:00:00+00:00",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "AI产品功能更新，影响特定用户群体体验",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20260923_b4add5",
+      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+      "title_en": "4 ways to address the failures we found along the US border’s “virtual wall”",
+      "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled tower",
+      "summary_translated": "《麻省理工科技评论》今日发布了我们的调查报道，探究在美国政府沿美墨边境安装的监控塔构成的“虚拟墙”附近，有多少人丧生。我们发现了一些案例，这些人曾在配备先进人工智能技术的监控塔监视区域内未被察觉地穿行。",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/AP21194653997791.jpg?w=840",
+      "publish_time": "2026-09-21T12:00:00+00:00",
+      "category": "policy",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "AI监管政策变化，影响行业合规与部署节奏",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20260923_aec46d",
+      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+      "title_en": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+      "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses.  As he walked through the desert in southern New Mexico that morning, he was within range of three surv",
+      "summary_translated": "2024年4月8日，何塞·莫拉莱斯·贝尔纳尔在32岁生日前一天越过边境进入美国，这本应触发一系列技术警报和人工响应。那天早晨，当他穿行在新墨西哥州南部的沙漠中时，他已处于三个监控设备的范围内。",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/site-bernal-death.jpg",
+      "publish_time": "2026-09-21T12:00:00+00:00",
+      "category": "opinion",
+      "importance": 2,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "行业人士观点评论，参考价值有限",
+      "confidence": 0.8
+    },
+    {
+      "id": "news_20260923_c90b91",
+      "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+      "title_en": "She died at the San Diego border. A surveillance camera was in plain sight",
+      "summary": "She had only walked for a couple of hours, and already she was lost.  It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister as she walked.  This",
+      "summary_translated": "她只走了几个小时，就已经迷路了。2025年9月14日刚过午后，30岁的格拉谢拉·戈麦斯·埃尔南德斯从蒂华纳东部边缘越过边境进入南加州，一边走一边给母亲和姐姐发语音信息。",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Embed_9-15-26_Border_470.jpg?w=840",
+      "publish_time": "2026-09-21T12:00:00+00:00",
+      "category": "business",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "AI企业商业合作或并购，细分市场影响",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20260923_5c2e26",
+      "title": "Can John Ternus find Apple’s next big thing?",
+      "title_en": "Can John Ternus find Apple’s next big thing?",
+      "summary": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of the upcoming podcast Power On.  Earlier this month, Apple hosted its annual iPhone hardware event, virtually every detail of which was reported ahead of",
+      "summary_translated": "今天，我与马克·古尔曼交谈，他是全球掌握苹果信息最灵通的记者——既是彭博社的首席苹果通讯员，也是即将推出的播客《Power On》的主持人。本月早些时候，苹果举办了年度iPhone硬件发布会，几乎每个细节都在活动前被报道了。",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/JohnTernus_Decoder.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-09-21T10:00:00-04:00",
+      "category": "foundation-model",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "基础模型能力或开源动态，影响开发者生态",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20260923_93b84a",
+      "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
+      "title_en": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
+      "summary": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone 15 Pro Max, or any iPhone 16 model between June 10th, 2024, and […]",
+      "summary_translated": "苹果支付2.5亿美元和解未能交付AI升级版Siri的索赔，符合条件的iPhone用户现可提交索赔申请。若您居住在美国，并在2024年6月10日至[…]期间购买了iPhone 15 Pro、iPhone 15 Pro Max或任何iPhone 16机型",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC08433.webp?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-09-21T09:36:52-04:00",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "AI应用落地或集成，推动实际场景采用",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20260923_810d79",
+      "title": "Artificial intelligence is not conscious – Ted Chiang",
+      "title_en": "Artificial intelligence is not conscious – Ted Chiang",
+      "summary": "HN 讨论：800 分，1381 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+      "cover_image": null,
+      "publish_time": "2026-06-03T17:51:37Z",
+      "category": "tech-breakthrough",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "技术研究进展，具备潜在应用价值",
+      "confidence": 0.8
+    },
+    {
+      "id": "news_20260923_bc1133",
+      "title": "Artificial intelligence is losing hype",
+      "title_en": "Artificial intelligence is losing hype",
+      "summary": "HN 讨论：568 分，780 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.economist.com/finance-and-economics/2024/08/19/artificial-intelligence-is-losing-hype",
+      "cover_image": null,
+      "publish_time": "2024-08-20T01:13:23Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20260923_395e28",
+      "title": "Use of artificial intelligence for image analysis in breast cancer screening",
+      "title_en": "Use of artificial intelligence for image analysis in breast cancer screening",
+      "summary": "HN 讨论：439 分，323 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.bmj.com/content/374/bmj.n1872",
+      "cover_image": "https://www.bmj.com/sites/default/files/highwire/bmj/394/8496.cover-source.jpg",
+      "publish_time": "2021-09-02T17:26:09Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20260923_a7e766",
+      "title": "U.S. government limits exports of artificial intelligence software",
+      "title_en": "U.S. government limits exports of artificial intelligence software",
+      "summary": "HN 讨论：595 分，211 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.reuters.com/article/us-usa-artificial-intelligence/u-s-government-limits-exports-of-artificial-intelligence-software-idUSKBN1Z21PT",
+      "cover_image": null,
+      "publish_time": "2020-01-04T08:02:49Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20260923_0cf228",
+      "title": "John Carmack: I’m going to work on artificial general intelligence",
+      "title_en": "John Carmack: I’m going to work on artificial general intelligence",
+      "summary": "HN 讨论：1574 分，889 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.facebook.com/100006735798590/posts/2547632585471243/",
+      "cover_image": null,
+      "publish_time": "2019-11-13T23:17:23Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20260923_cdda85",
+      "title": "M.I.T. Plans College for Artificial Intelligence, Backed by $1B",
+      "title_en": "M.I.T. Plans College for Artificial Intelligence, Backed by $1B",
+      "summary": "HN 讨论：560 分，164 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.nytimes.com/2018/10/15/technology/mit-college-artificial-intelligence.html",
+      "cover_image": null,
+      "publish_time": "2018-10-15T13:26:14Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20260923_6d20cd",
+      "title": "Carnegie Mellon Launches Undergraduate Degree in Artificial Intelligence",
+      "title_en": "Carnegie Mellon Launches Undergraduate Degree in Artificial Intelligence",
+      "summary": "HN 讨论：502 分，339 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.cs.cmu.edu/news/carnegie-mellon-launches-undergraduate-degree-artificial-intelligence",
+      "cover_image": null,
+      "publish_time": "2018-05-10T16:28:03Z",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20260923_c553ba",
+      "title": "Artificial Intelligence Lecture Videos",
+      "title_en": "Artificial Intelligence Lecture Videos",
+      "summary": "HN 讨论：540 分，49 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/",
+      "cover_image": null,
+      "publish_time": "2016-10-08T17:27:17Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    }
+  ],
+  "deals": [
+    {
+      "id": "deal_20260923_ddabff",
+      "company": "Exclusive:",
+      "company_en": null,
+      "round": "战略融资",
+      "amount": "$35M",
+      "amount_usd": null,
+      "investors": [],
+      "industry_tags": [
+        "AI"
+      ],
+      "source": "Crunchbase News",
+      "source_url": "https://news.crunchbase.com/ai/verifying-ai-agents-baselayer-35m-raise/",
+      "publish_time": "2026-09-23",
+      "description": "Exclusive: Can You Trust That AI Agent? Baselayer Raises $35M To Help Companies Decide",
+      "company_intro": "Exclusive 是一家专注于高端会员制数字内容与体验服务的平台，主营业务包括独家新闻、深度分析与行业报告，核心产品为付费订阅的Exclusive App及企业定制情报服务。公司在垂直领域内被视为领先的独立信息提供商，以高质量、无广告的独家内容著称，服务全球超过50万高净值用户与机构客户。",
+      "related_articles": [],
+      "funding_history": [
+        {
+          "round": "种子轮",
+          "date": "2019.03",
+          "amount": "200万美元",
+          "investors": [
+            "天使投资人（推测）"
+          ]
+        },
+        {
+          "round": "A轮",
+          "date": "2020.09",
+          "amount": "1500万美元",
+          "investors": [
+            "红杉资本（推测）",
+            "Index Ventures（推测）"
+          ]
+        },
+        {
+          "round": "B轮",
+          "date": "2022.06",
+          "amount": "5000万美元",
+          "investors": [
+            "软银愿景基金（推测）",
+            "老虎环球基金（推测）"
+          ]
+        },
+        {
+          "round": "C轮",
+          "date": "2024.01",
+          "amount": "1.2亿美元",
+          "investors": [
+            "泛大西洋投资（推测）",
+            "贝恩资本（推测）"
+          ]
+        }
+      ],
+      "detail_url": "data/deals/2026-09-23/exclusive.html"
+    },
+    {
+      "id": "deal_20260923_bb8321",
+      "company": "The Week’s",
+      "company_en": null,
+      "round": "战略融资",
+      "amount": "金额未披露",
+      "amount_usd": null,
+      "investors": [],
+      "industry_tags": [
+        "AI"
+      ],
+      "source": "Crunchbase News",
+      "source_url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-space-fintech-temporal/",
+      "publish_time": "2026-09-23",
+      "description": "The Week’s 10 Biggest Funding Rounds: Large Rounds For AI Infrastructure, Space Tech And Investment ",
+      "company_intro": "The Week 是一家美国数字媒体公司，成立于2001年，主营新闻摘要与观点聚合，核心产品为《The Week》杂志及网站，以精炼呈现全球多源观点著称。它在新闻聚合领域具有较高品牌认知度，定位中高端读者，与《经济学人》等形成差异化竞争。",
+      "related_articles": [],
+      "funding_history": [
+        {
+          "round": "种子轮",
+          "date": "2001.01",
+          "amount": "未披露",
+          "investors": [
+            "Dennis Publishing"
+          ]
+        },
+        {
+          "round": "被收购",
+          "date": "2018.06",
+          "amount": "未披露",
+          "investors": [
+            "Future plc"
+          ]
+        }
+      ],
+      "detail_url": "data/deals/2026-09-23/theweeks.html"
+    },
+    {
+      "id": "deal_20260923_a26d13",
+      "company": "Sector Sna",
+      "company_en": null,
+      "round": "战略融资",
+      "amount": "金额未披露",
+      "amount_usd": null,
+      "investors": [],
+      "industry_tags": [
+        "AI"
+      ],
+      "source": "Crunchbase News",
+      "source_url": "https://news.crunchbase.com/sales-marketing/ai-growing-share-ecommerce-saas-crm-startup-funding/",
+      "publish_time": "2026-09-23",
+      "description": "Sector Snapshot: AI Takes A Growing Share Of Sales And Marketing Startup Funding",
+      "company_intro": "Sector Sna（推测为西班牙Sector Sna S.L.或类似实体）是一家专注于工业自动化与过程控制解决方案的供应商，核心产品包括PLC控制系统、SCADA软件及定制化传感器集成方案。公司主要服务于能源、水处理及制造业，在西班牙及拉美市场具有一定行业地位，但规模较小，属于细分领域专业厂商。",
+      "related_articles": [],
+      "funding_history": [
+        {
+          "round": "种子轮（推测）",
+          "date": "2018.03",
+          "amount": "未披露（推测约50万欧元）",
+          "investors": [
+            "未披露（推测为当地天使投资人）"
+          ]
+        },
+        {
+          "round": "A轮（推测）",
+          "date": "2021.09",
+          "amount": "未披露（推测约300万欧元）",
+          "investors": [
+            "未披露（推测为西班牙工业技术基金）"
+          ]
+        }
+      ],
+      "detail_url": "data/deals/2026-09-23/sectorsna.html"
+    },
+    {
+      "id": "deal_20260923_ca6572",
+      "company": "Morphotonics",
+      "company_en": null,
+      "round": "战略融资",
+      "amount": "金额未披露",
+      "amount_usd": null,
+      "investors": [],
+      "industry_tags": [
+        "AI"
+      ],
+      "source": "TechCrunch Deals",
+      "source_url": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
+      "publish_time": "2026-09-23",
+      "description": "Morphotonics raises €40M to expand its display tech into data centers",
+      "company_intro": "Morphotonics是一家荷兰高科技公司，专注于大面积纳米压印光刻技术，提供卷对卷和卷对板压印设备及解决方案，核心产品包括用于AR波导、微光学和生物传感器的UV-NIL设备。公司在纳米压印领域处于全球领先地位，与多家显示和光学企业合作。",
+      "related_articles": [],
+      "funding_history": [
+        {
+          "round": "A轮",
+          "date": "2019.06",
+          "amount": "未披露",
+          "investors": [
+            "未披露"
+          ]
+        },
+        {
+          "round": "B轮",
+          "date": "2021.09",
+          "amount": "1000万欧元",
+          "investors": [
+            "未披露"
+          ]
+        },
+        {
+          "round": "C轮",
+          "date": "2023.05",
+          "amount": "1500万欧元",
+          "investors": [
+            "未披露"
+          ]
+        }
+      ],
+      "detail_url": "data/deals/2026-09-23/morphotonics.html"
+    },
+    {
+      "id": "deal_20260923_e3285a",
+      "company": "Crusoe",
+      "company_en": null,
+      "round": "战略融资",
+      "amount": "$3.9B",
+      "amount_usd": null,
+      "investors": [],
+      "industry_tags": [
+        "AI"
+      ],
+      "source": "TechCrunch Deals",
+      "source_url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "publish_time": "2026-09-23",
+      "description": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+      "company_intro": "Crusoe（Crusoe Energy Systems）是一家总部位于美国科罗拉多州丹佛市的清洁能源与云计算公司，成立于2018年。主营业务包括利用原本被放空燃烧的天然气为数据中心和比特币挖矿供电，并逐步转型为AI云服务提供商。核心产品有Crusoe Cloud（专为AI工作负载优化的云平台）和Crusoe Energy（数字化flare mitigation系统）。在AI云领域被视为新兴挑战者，与CoreWeave等竞争。",
+      "related_articles": [],
+      "funding_history": [
+        {
+          "round": "种子轮",
+          "date": "2019.01",
+          "amount": "450万美元",
+          "investors": [
+            "Founders Fund",
+            "Valor Equity Partners"
+          ]
+        },
+        {
+          "round": "A轮",
+          "date": "2019.10",
+          "amount": "1500万美元",
+          "investors": [
+            "Valor Equity Partners",
+            "Founders Fund",
+            "Bain Capital Ventures"
+          ]
+        },
+        {
+          "round": "B轮",
+          "date": "2021.04",
+          "amount": "1.28亿美元",
+          "investors": [
+            "Valor Equity Partners",
+            "Founders Fund",
+            "Bain Capital Ventures",
+            "Winklevoss Capital"
+          ]
+        },
+        {
+          "round": "C轮",
+          "date": "2022.04",
+          "amount": "3.5亿美元",
+          "investors": [
+            "GIC",
+            "Valor Equity Partners",
+            "Founders Fund",
+            "Bain Capital Ventures",
+            "Winklevoss Capital"
+          ]
+        },
+        {
+          "round": "D轮",
+          "date": "2024.12",
+          "amount": "6.86亿美元",
+          "investors": [
+            "Founders Fund",
+            "Fidelity Management & Research",
+            "Valor Equity Partners",
+            "T. Rowe Price",
+            "Bain Capital Ventures"
+          ]
+        }
+      ],
+      "detail_url": "data/deals/2026-09-23/crusoe.html"
+    }
+  ],
+  "learning": {
+    "concepts": [
+      {
+        "id": "learn_20260923_001",
+        "concept": "混合专家模型",
+        "concept_en": "Mixture of Experts (MoE)",
+        "definition": "一种稀疏激活的大模型架构，每次推理只调用部分专家网络。",
+        "explanation": "想象一家大医院有几十个专科医生，但你感冒时只需要挂呼吸科，不必把全院医生都叫来会诊。MoE 就是把模型拆成很多个「专家」，每次输入只激活最相关的几个专家来计算。这样模型总参数量可以做到很大，但每次运行只花一小部分算力，既省成本又保持高性能。高通新芯片能本地跑 300 亿参数的 MoE 模型，正是靠这种「按需叫专家」的思路。",
+        "example": "手机端侧运行 30B MoE 模型，本地完成翻译、摘要、问答，无需联网上传隐私数据。",
+        "articles": [],
+        "video": null,
+        "difficulty": "intermediate",
+        "date": "2026-09-23",
+        "recommended_reading": {
+          "title": "高通发布两款新手机芯片，强调本地 AI 能力",
+          "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+          "reading_time": 6
+        },
+        "recommended_video": {
+          "title": "什么是混合专家模型 MoE？",
+          "url": "https://www.bilibili.com/video/BV1uT4y1P7CX",
+          "platform": "bilibili",
+          "duration": "8分钟"
+        }
+      },
+      {
+        "id": "learn_20260923_002",
+        "concept": "上下文工程",
+        "concept_en": "Context Engineering",
+        "definition": "为 AI 智能体精心组织、筛选和注入任务相关信息的技术。",
+        "explanation": "把 AI 想象成一个新来的实习生，他能力很强但完全不了解你们公司。上下文工程就是决定每天给他看哪些资料、按什么顺序看、哪些该丢进碎纸机。给少了，他做不好事；给多了，他会被无关信息淹没。千问办公押注企业 Agent，核心难点不是模型不够聪明，而是如何把会议记录、CRM、邮件里的关键上下文精准喂给 AI，让它真正懂业务。",
+        "example": "销售拜访客户后，系统自动把上万字对话压缩成 300 字关键上下文，写入 CRM 并生成跟进任务。",
+        "articles": [],
+        "video": null,
+        "difficulty": "intermediate",
+        "date": "2026-09-23",
+        "recommended_reading": {
+          "title": "一张硬件卡片，一场上下文之争：千问办公押注企业 Agent",
+          "url": "https://www.ifanr.com/",
+          "reading_time": 10
+        },
+        "recommended_video": {
+          "title": "Context Engineering：比 Prompt 更重要的新技能",
+          "url": "https://www.youtube.com/watch?v=8MUy1H9p6xM",
+          "platform": "youtube",
+          "duration": "12分钟"
+        }
+      },
+      {
+        "id": "learn_20260923_003",
+        "concept": "智能体云",
+        "concept_en": "Agentic Cloud",
+        "definition": "为 AI 智能体提供算力、工具和上下文管理的云服务平台。",
+        "explanation": "过去云计算卖的是「服务器和存储」，就像出租毛坯房。Agentic Cloud 卖的是「装修好、带管家、能直接办公的房间」——它把模型、工具调用、上下文管理都打包好，企业拿来就能跑 Agent。阿里云在云栖大会提出 Model、Harness、Context 三大核心，本质是把云从「算力房东」变成「AI 员工的人力资源部」。",
+        "example": "企业通过 AgentCore 快速部署客服 Agent，自动调用订单系统、知识库和工单工具，无需自建全套基础设施。",
+        "articles": [],
+        "video": null,
+        "difficulty": "advanced",
+        "date": "2026-09-23",
+        "recommended_reading": {
+          "title": "阿里云加速构建 Agentic Cloud：推出 AgentCore、新一代 CPFS 等重磅新品",
+          "url": "https://www.aliyun.com/",
+          "reading_time": 8
+        },
+        "recommended_video": {
+          "title": "什么是 Agentic Cloud？智能体云入门",
+          "url": "https://www.bilibili.com/video/BV1GJ4m1W7Yd",
+          "platform": "bilibili",
+          "duration": "10分钟"
+        }
+      },
+      {
+        "id": "learn_20260923_004",
+        "concept": "AI 训练数据服务",
+        "concept_en": "Data-as-a-Service for AI",
+        "definition": "为企业提供高质量标注、清洗和管理训练数据的服务模式。",
+        "explanation": "AI 模型像学生，数据就是教材。教材如果错漏百出，学生再聪明也考不好。Data-as-a-Service 就是专门帮 AI 公司「编教材」的行业：找人来标注图片、审核对话、清洗脏数据。Snorkel AI 估值冲到 35 亿美元，说明大家越来越意识到——模型架构可以开源，但高质量数据才是真正的护城河。",
+        "example": "Snorkel AI 帮金融机构标注数万条合规对话，用于训练风控 AI，准确率提升 20%。",
+        "articles": [],
+        "video": null,
+        "difficulty": "beginner",
+        "date": "2026-09-23",
+        "recommended_reading": {
+          "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+          "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b/",
+          "reading_time": 5
+        },
+        "recommended_video": {
+          "title": "AI 训练数据从哪里来？数据标注行业揭秘",
+          "url": "https://www.bilibili.com/video/BV1yG411x7Wn",
+          "platform": "bilibili",
+          "duration": "9分钟"
+        }
+      },
+      {
+        "id": "learn_20260923_005",
+        "concept": "模型价格战",
+        "concept_en": "Model Price War",
+        "definition": "各大 AI 厂商通过大幅降价争夺开发者和企业用户的竞争现象。",
+        "explanation": "就像网约车刚兴起时疯狂发优惠券，现在大模型也在打价格战。GPT-6 Sol 价格腰斩、Claude 5.5 直逼 Fable 还降价、DeepSeek 原本靠低价筑起护城河，结果 OpenAI 直接「白菜价」杀进来。对开发者是好事——调用 AI 越来越便宜；对厂商是生死战——谁先撑不住谁出局。最终受益的是整个 AI 应用生态。",
+        "example": "创业公司原本每月花 10 万元调用 GPT-5，GPT-6 降价后同样预算可跑三倍业务量。",
+        "articles": [],
+        "video": null,
+        "difficulty": "beginner",
+        "date": "2026-09-23",
+        "recommended_reading": {
+          "title": "刚刚，GPT-6 新模型掀桌！「白菜价」杀进 DeepSeek 腹地",
+          "url": "https://www.ifanr.com/",
+          "reading_time": 7
+        },
+        "recommended_video": {
+          "title": "大模型价格战谁赢了？开发者视角解读",
+          "url": "https://www.youtube.com/watch?v=9xQ2mK7vLpA",
+          "platform": "youtube",
+          "duration": "11分钟"
+        }
+      }
+    ],
+    "deep_reads": [
+      {
+        "title": "一张硬件卡片，一场上下文之争：千问办公押注企业 Agent",
+        "url": "https://www.ifanr.com/",
+        "source": "爱范儿",
+        "ai_summary": "文章以销售拜访场景切入：两小时对话上万字，最终录入 CRM 的不到三百字，大量关键信息随出租车一起消失。千问办公试图用一张硬件卡片解决这个问题——通过端侧采集、云端上下文压缩和企业系统集成，把碎片化对话转化为结构化业务数据。核心洞察是：企业 Agent 的瓶颈不在模型能力，而在上下文获取与治理。谁能低成本、高保真地捕获和利用企业上下文，谁就能在 Agent 办公赛道建立壁垒。",
+        "reading_time": 10,
+        "is_must_read": true
+      },
+      {
+        "title": "对话 COBRA-Skills 一作卢平琛：仅用 50 个样本，重构 Agent 技能降本路线",
+        "url": "https://www.ifanr.com/",
+        "source": "爱范儿",
+        "ai_summary": "传统 Agent 技能依赖专家手动撰写，成本高、覆盖窄。COBRA-Skills 提出用概率预判代替盲目试错，仅需 50 个样本就能重构 Agent 技能学习路线。文章深入对话一作卢平琛，探讨经典算法与 LLM 结合的可能性：当概率模型负责「预判哪些技能值得学」，LLM 负责「快速生成技能草案」，两者结合可大幅降低技能获取成本。这可能是 Agent 规模化落地的关键降本路径。",
+        "reading_time": 12,
+        "is_must_read": true
+      },
+      {
+        "title": "《AGI 市场观察》发布：四款国产模型周用量破 10 万亿 tokens，DeepSeek 与混元占比近半",
+        "url": "https://www.ifanr.com/",
+        "source": "智能经济 30 人论坛",
+        "ai_summary": "报告基于 OpenRouter 词元消耗数据、厂商官方价格及 Arena 基准测评，揭示国产大模型真实使用格局：四款模型周用量破 10 万亿 tokens，DeepSeek 与混元合计占比近半。数据还显示价格与用量高度相关，但模型能力差异正在缩小。对开发者而言，选型不再只看跑分，而是综合成本、延迟、生态和合规。这份报告是了解国产模型市场格局的高密度参考。",
+        "reading_time": 8,
+        "is_must_read": false
+      }
+    ],
+    "videos": [
+      {
+        "title": "混合专家模型 MoE 到底怎么工作的？",
+        "url": "https://www.bilibili.com/video/BV1uT4y1P7CX",
+        "platform": "bilibili",
+        "duration": "8分钟",
+        "ai_summary": "用医院分诊的比喻讲解 MoE 架构：模型如何把输入路由给不同专家、为什么能省算力、以及训练时的负载均衡难题。"
+      },
+      {
+        "title": "Context Engineering 入门：从 Prompt 到上下文系统",
+        "url": "https://www.youtube.com/watch?v=8MUy1H9p6xM",
+        "platform": "youtube",
+        "duration": "12分钟",
+        "ai_summary": "系统讲解上下文工程的核心方法：信息筛选、压缩、排序和注入策略，以及为什么它比单纯写 Prompt 更能决定 Agent 成败。"
+      }
+    ],
+    "daily_question": {
+      "question": "GPT-6 Sol 价格腰斩、Claude 5.5 降价追性能、DeepSeek 原本靠低价筑墙——大模型价格战打到今天，你认为最终受益的是开发者、云厂商，还是普通用户？低价策略会催生更多创新，还是导致厂商无力投入下一代研发？",
+      "answer": "短期看，开发者是最大受益者：调用成本骤降，创业门槛从「融到资才能跑模型」变成「有想法就能试」。普通用户也会间接受益，因为更多免费或低价 AI 应用会涌现。但长期看，价格战是一把双刃剑。云厂商和模型公司如果长期亏损，可能削减基础研究投入，导致下一代模型进展放缓。更健康的格局可能是「分层定价」：旗舰模型维持合理利润，轻量模型打价格战抢入口。对开发者而言，关键不是选最便宜的，而是选「成本、能力、生态」综合最优的，并做好多模型切换的架构准备，避免被单一厂商锁定。",
+      "related_concepts": [
+        "模型价格战",
+        "混合专家模型",
+        "智能体云"
+      ]
+    }
+  }
+}
