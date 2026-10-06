@@ -1,0 +1,1402 @@
+{
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T12:54:44.985258+08:00",
+  "news": [
+    {
+      "id": "news_20261006_212da1",
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "title_en": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "summary_translated": "OpenAI将在欧盟为ChatGPT和Codex文本添加水印，以遵守《人工智能法案》。该公司表示，编辑会使这些隐形标记更难被检测到。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+      "publish_time": "2026-10-05T20:36:48+00:00",
+      "category": "foundation-model",
+      "importance": 5,
+      "language": "en",
+      "tags": [
+        "大模型"
+      ],
+      "importance_reason": "头部大模型发布或升级，直接影响行业竞争格局",
+      "confidence": 0.95
+    },
+    {
+      "id": "news_20261006_13557b",
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "title_en": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
+      "summary_translated": "Reflection正将Beam及未来模型瞄准企业和主权国家。其卖点是打造“AI工厂”，让机构能利用自身专有数据训练Reflection的AI模型，从而构建定制化的本地AI系统。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/10/Reflection-AI-Beam.png?resize=1200,669",
+      "publish_time": "2026-10-05T19:33:53+00:00",
+      "category": "business",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "AI公司重大融资动态，反映资本流向与市场信心",
+      "confidence": 0.92
+    },
+    {
+      "id": "news_20261006_a2b98c",
+      "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
+      "title_en": "Gemini Call for Me might tell your mom you&#8217;re running late",
+      "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes late",
+      "summary_translated": "谷歌可能将其“代我呼叫”AI功能从商务通话扩展到可以向亲友发送消息。Android Authority在APK拆解中发现了一个“Gemini Calling”介绍屏幕，示例包括“打电话给妈妈，告诉她我会迟到15分钟”。",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-Photos-of-Phone-7.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-10-05T19:09:55-04:00",
+      "category": "tech-breakthrough",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "关键技术突破，可能推动模型能力或效率显著提升",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261006_a8ac03",
+      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+      "title_en": "Instinct brings its AI agent to group chats, even for friends without an account",
+      "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
+      "summary_translated": "Instinct推出群聊功能，让好友能共同使用其AI代理，完成规划旅行、组织拼车、协调活动等任务。该公司表示个人账户保持独立，个人代理在分享信息或采取行动前需获得授权。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
+      "publish_time": "2026-10-05T18:54:30+00:00",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "智能体"
+      ],
+      "importance_reason": "AI产品功能更新，影响特定用户群体使用体验",
+      "confidence": 0.93
+    },
+    {
+      "id": "news_20261006_127856",
+      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+      "title_en": "TikTok rolls out an AI shopping assistant and one-click checkout",
+      "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+      "summary_translated": "TikTok将其新推出的购物助手描述为一款对话式AI代理，旨在帮助用户发现并购买商品。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801",
+      "publish_time": "2026-10-05T18:29:00+00:00",
+      "category": "policy",
+      "importance": 5,
+      "language": "en",
+      "tags": [
+        "智能体"
+      ],
+      "importance_reason": "AI监管政策出台，对行业合规与发展方向影响重大",
+      "confidence": 0.94
+    },
+    {
+      "id": "news_20261006_d31c63",
+      "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+      "title_en": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+      "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
+      "summary_translated": "由两姐妹创立的Hot Girl Hotline利用人工智能为年轻女性提供个性化的约会和恋爱建议，重点强调安全和避免情感依赖。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/10/hgh_web-1.png?resize=1200,920",
+      "publish_time": "2026-10-05T17:29:22+00:00",
+      "category": "opinion",
+      "importance": 2,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "行业人士观点评论，提供视角但非事件性新闻",
+      "confidence": 0.88
+    },
+    {
+      "id": "news_20261006_9b91fc",
+      "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
+      "title_en": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
+      "summary": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
+      "summary_translated": "HackerRank的AI面试官已完成超过50万次面试，早期测试者包括Snowflake、Snorkel和Capgemini等公司。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2025/09/ai-avatar-simpleshow-2154151760.jpg?resize=1200,826",
+      "publish_time": "2026-10-05T16:43:35+00:00",
+      "category": "business",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "企业合作或商业拓展，影响细分市场格局",
+      "confidence": 0.91
+    },
+    {
+      "id": "news_20261006_5b8c43",
+      "title": "This startup is issuing AI-generated acne prescriptions",
+      "title_en": "This startup is issuing AI-generated acne prescriptions",
+      "summary": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze acne severity and autonomously write a prescription, as reported earlier by Bloom",
+      "summary_translated": "犹他州居民现在可以使用AI获取痤疮治疗处方。周一，医疗保健初创公司Nolla Health宣布，该州用户可通过其应用扫描面部，让其AI系统分析痤疮严重程度并自动开具处方，Bloom此前报道。",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nolla-health-app.png?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-10-05T16:14:57-04:00",
+      "category": "foundation-model",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "基础模型能力或开源动态，影响开发者生态",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261006_16ad41",
+      "title": "Connecting AI agents to enterprise knowledge",
+      "title_en": "Connecting AI agents to enterprise knowledge",
+      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to re",
+      "summary_translated": "尽管AI系统不断收集和分析大量数据，企业级AI代理却常面临一个奇特的短板：知识匮乏。知识不仅仅是数据，更是在特定组织背景下理解数据含义的能力。AI代理需要这种理解来重新",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Neo4j-Report-2026-cover.png",
+      "publish_time": "2026-10-05T15:47:52+00:00",
+      "category": "product",
+      "importance": 4,
+      "language": "en",
+      "tags": [
+        "智能体"
+      ],
+      "importance_reason": "头部AI应用重大发布，受众广且竞争影响明显",
+      "confidence": 0.92
+    },
+    {
+      "id": "news_20261006_a2264b",
+      "title": "All the drama around AI&#8217;s takeover of mathematics",
+      "title_en": "All the drama around AI&#8217;s takeover of mathematics",
+      "summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize problems. But in class",
+      "summary_translated": "过去一年，OpenAI、Anthropic等实验室宣布在众多长期存在的数学难题上取得突破，某些情况下远超研究人员对当前系统能力的预期——包括解决了著名的千禧年大奖难题之一。但在课堂上",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268684_OpenAI_claims_to_revolutionize_maths_CVirginia2-1.webp?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-10-05T15:28:59-04:00",
+      "category": "tech-breakthrough",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "技术研究进展，具备潜在应用价值但尚处早期",
+      "confidence": 0.87
+    },
+    {
+      "id": "news_20261006_e36223",
+      "title": "OpenAI launches visual ads that appear alongside image generation results",
+      "title_en": "OpenAI launches visual ads that appear alongside image generation results",
+      "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
+      "summary_translated": "新广告将于本月晚些时候开始在美国出现，目前仅限美国，并将展示来自初始测试广告商群体的产品和服务。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/10/new-chatgpt-ads-format-and-measurement-inline-01.webp?w=1200",
+      "publish_time": "2026-10-05T15:14:24+00:00",
+      "category": "foundation-model",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "基础模型发布或迭代，影响下游应用生态",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261006_aea90a",
+      "title": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
+      "title_en": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
+      "summary": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on Wikimedia platforms. The activity includes edits to Wikimedia w",
+      "summary_translated": "在近期多起关于AI代理访问第三方网站和服务的披露之后，托管维基百科的维基媒体基金会表示，他们“可以确认，我们在维基媒体平台上发现了一些‘流氓’OpenAI代理的活动”。这些活动包括对维基媒体",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D.png?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-10-05T15:05:19-04:00",
+      "category": "business",
+      "importance": 4,
+      "language": "en",
+      "tags": [
+        "智能体"
+      ],
+      "importance_reason": "头部AI公司融资动态，反映资本与市场走向",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261006_78ad61",
+      "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+      "title_en": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+      "summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
+      "summary_translated": "在TechCrunch Disrupt 2026上，了解创始人如何在开放或封闭AI之间做出选择。立即注册，最高可省100美元，并享受第二张通行证半价优惠。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?resize=1200,800",
+      "publish_time": "2026-10-05T15:00:00+00:00",
+      "category": "tech-breakthrough",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "技术突破可改变模型能力边界与竞争格局",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261006_97af93",
+      "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+      "title_en": "OpenAI is adding text watermarking in ChatGPT and Codex",
+      "summary": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMind's SynthID for text, which is also the basis for the water",
+      "summary_translated": "ChatGPT和Codex正在推出一种不可见、机器可读的文本水印，但初期仅面向欧盟用户。OpenAI表示，其textGrain水印在文本处理上“达到或超越了”谷歌DeepMind的SynthID等其他方法，后者也是该水印的基础。",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-10-05T14:08:39-04:00",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "大模型"
+      ],
+      "importance_reason": "AI产品更新，影响用户体验与市场采用",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261006_10d6f4",
+      "title": "Bringing predictive analytics to the agentic AI era",
+      "title_en": "Bringing predictive analytics to the agentic AI era",
+      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from pr",
+      "summary_translated": "到2026年，企业AI面临的问题已不再是预测模型能否超越统计预测——这一争论已有定论。如今的大问题是如何让预测系统依据自身结论采取行动，同时不偏离商业意图。前沿已从预测",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/MIT_TP_CoverPredictiveAnalyticsV9_9926.png?w=840",
+      "publish_time": "2026-10-05T13:29:32+00:00",
+      "category": "policy",
+      "importance": 4,
+      "language": "en",
+      "tags": [
+        "智能体"
+      ],
+      "importance_reason": "监管政策变化直接影响AI企业合规与部署",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261006_69da73",
+      "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
+      "title_en": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
+      "summary": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicide. When Guiducci confronted Altman about the incident, the publicist warned Guiducci about running out of time, saying she'd like to \"move o",
+      "summary_translated": "OpenAI的一位公关人员试图在《名利场》编辑马克·吉杜奇提及一名ChatGPT用户自杀后，改变CEO山姆·奥特曼采访的话题。当吉杜奇就此事质问奥特曼时，公关人员警告吉杜奇时间即将耗尽，称她想“换个话题”。",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-10-05T12:55:42-04:00",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "大模型"
+      ],
+      "importance_reason": "行业观点引发讨论，影响认知与战略判断",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261006_abe17c",
+      "title": "Sam Altman says ‘some bad things&#8217; will happen, but AI is totally worth it",
+      "title_en": "Sam Altman says ‘some bad things&#8217; will happen, but AI is totally worth it",
+      "summary": "Sam Altman thinks that the benefits of AI will be so great that \"the world should accept some bad things happening\" along the way. The OpenAI CEO pointed to hacks, scams, and \"other bad things\" as costs society should expect to tolerate because \"people will do tremendously orders of magnitude more g",
+      "summary_translated": "萨姆·奥尔特曼认为，人工智能带来的好处巨大，以至于“世界应接受过程中发生的一些不好的事情”。这位OpenAI的首席执行官指出，黑客攻击、诈骗及“其他不良行为”是社会预期需容忍的代价，因为“人们将做出比以往多出几个数量级的善举”。",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2294958253.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-10-05T12:44:21-04:00",
+      "category": "business",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "商业合作或并购，影响细分市场竞争态势",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261006_a9f048",
+      "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
+      "title_en": "The Download: AI’s popularity paradox and EmTech Future 2026",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. People really hate AI, so why can’t they get enough? —Will Douglas Heaven Over the summer I talked to the CEO of Springboards, a startup building an LLM designed ",
+      "summary_translated": "这是今天的《下载》周刊，我们的工作日简报，每日为你提供科技领域的动态。人们真的很讨厌人工智能，却又为何欲罢不能？——威尔·道格拉斯·海文。今年夏天，我与Springboards公司的CEO进行了交谈，这家初创企业正致力于开发一种专为……设计的大语言模型。",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/Clones-3.jpg?fit=2128,1196",
+      "publish_time": "2026-10-05T12:10:00+00:00",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "大模型"
+      ],
+      "importance_reason": "应用落地进展，体现AI商业化速度",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261006_76ea28",
+      "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
+      "title_en": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
+      "summary": "Today, I’m talking with Sen. Adam Schiff, a Democrat from California. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology — it’s all there. I really wanted to ask him about how we might regulate anything related to the tech ",
+      "summary_translated": "今天，我与加州民主党参议员亚当·希夫交谈。希夫在多个监督科技和人工智能的委员会任职：知识产权、反垄断、隐私和技术——应有尽有。我非常想问他，我们应如何监管与科技相关的一切。",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_2026-10-05_Schiff.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-10-05T10:30:00-04:00",
+      "category": "foundation-model",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "大模型能力或开源动态，影响开发者生态",
+      "confidence": 0.8
+    },
+    {
+      "id": "news_20261006_cc4fbf",
+      "title": "People really hate AI, so why can’t they get enough?",
+      "title_en": "People really hate AI, so why can’t they get enough?",
+      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI…",
+      "summary_translated": "夏天的时候，我和Springboards的CEO聊了聊，这是一家初创公司，正在开发一款旨在比主流竞争对手提供更多样化回应的大型语言模型。通话一开始，他说的一句话让我至今难忘：“我们常说，我们是一款自我厌恶的人工智能……”",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/ai-relationship3.jpg?resize=1200,600",
+      "publish_time": "2026-10-05T08:00:00+00:00",
+      "category": "tech-breakthrough",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "大模型"
+      ],
+      "importance_reason": "细分技术进展，对特定领域有推动作用",
+      "confidence": 0.8
+    },
+    {
+      "id": "news_20261006_c8d1f5",
+      "title": "EmTech Future 2026: When AI Meets Everything",
+      "title_en": "EmTech Future 2026: When AI Meets Everything",
+      "summary": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.  Step inside the newsroom with our MIT Technology Review editors for sharp a",
+      "summary_translated": "谷歌研究副总裁兼负责人约西·马蒂亚斯探讨了人工智能如何开始重塑生物学、基础设施、制造业和科学，以及为何其最大影响可能在于与其他领域的交叉融合。与我们的《麻省理工科技评论》编辑一起走进新闻编辑室，获取犀利观",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/EFT_On-Demad_WEB.png",
+      "publish_time": "2026-10-05T04:00:00+00:00",
+      "category": "foundation-model",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "基础模型迭代通常影响下游应用生态",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261006_887492",
+      "title": "十年前的「外挂相机」，如何在华为 Mate 90 上复活？｜硬哲学",
+      "title_en": null,
+      "summary": "那个曾经太早出现的想法，这一次，可能终于等到了属于它的时代 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1682933?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1791125067950-2.png",
+      "publish_time": "2026-10-04T14:49:07+00:00",
+      "category": "business",
+      "importance": 4,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "融资动态反映资本流向与行业竞争格局",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261006_661157",
+      "title": "《Dream it Possible》旋律再起，全新华为Mate 90系列踏光而来！",
+      "title_en": null,
+      "summary": "在10月1日的华为Mate 90系列及全场景新品发布会上，开场曲《Dream it Possible》全新版本旋律响起，瞬间把全场的记忆拉回那些与历代Mate同行的岁月。而华为Mate 90系列核心精神内核“踏光向前”，就藏在这首歌与Mate共同写下的故事里。 回头看，这首歌的每次唱响都踩在Mate的关键节点上，与品牌理念同频共振。2015年华为Mate 8发布会是起点，彼时唱的还只是普通人追梦的倔强；2020年华为Mate 40系列“在一起就可以”与“胡杨精神”是坚持与顽强，全新“曙光版”表达的是突围的底气；华为Mate 50系列“跨越山海，终见曙光”， 致敬极境中 的 敢为 。 2023年",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/industrynews/eqLySNuJ8LMHKrTe.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-10-04T13:48:00+08:00",
+      "category": "tech-breakthrough",
+      "importance": 4,
+      "language": "zh",
+      "tags": [
+        "AI芯片",
+        "产品发布"
+      ],
+      "importance_reason": "技术突破可能改变模型能力边界",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261006_903e46",
+      "title": "OpenAI元老的一封离职信，揭开了奥特曼最不想承认的真相",
+      "title_en": null,
+      "summary": "教会 AI 善待人类前，先学会善待人 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1682922?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1791097513169-1.png",
+      "publish_time": "2026-10-04T07:08:18+00:00",
+      "category": "product",
+      "importance": 3,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "产品发布影响用户体验但非行业级事件",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261006_9a52dd",
+      "title": "《Gran Turismo 7》迎来首台中国VGT  同时GT史上30年首次新增电车驾驶教学",
+      "title_en": null,
+      "summary": "新加坡，2026 年 10 月 3 日 —— 今日，在新加坡 Gran Turismo World Series（GT World Series）赛事现场，Gran Turismo系列游戏制作人山内一典与小米汽车欧洲研发中心设计负责人Jean-Arthur Madelaine现场联合宣布：Xiaomi Vision Gran Turismo（小米 Vision GT）即将于 10月 正式上线《Gran Turismo 7》（GT7），成为该系列历史上首台来自中国品牌的 VGT（Vision Gran Turismo）车型。现场双方还联合官宣推出GT赛车史上首个 电车驾驶教学 ，玩家可通过驾驶 ",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/industrynews/YE7qzr0QKUUwu5eL.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-10-03T19:39:00+08:00",
+      "category": "policy",
+      "importance": 4,
+      "language": "zh",
+      "tags": [
+        "大模型",
+        "产品发布"
+      ],
+      "importance_reason": "监管政策直接影响合规与市场准入",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261006_856c2a",
+      "title": "再创佳绩！爱奇艺《灵魂摆渡》“浮生梦”系列AIGC网络故事片分账票房破千万",
+      "title_en": null,
+      "summary": "10月3日，爱奇艺、长信传媒出品《灵魂摆渡》“浮生梦”系列AIGC网络故事片累计分账票房正式突破1000万元！ 该系列前两部《灵魂摆渡·蝴蝶梦》《灵魂摆渡·天女之梦》于8月22日独家上线爱奇艺，备受观众喜爱，上线首周即收回两部影片制作成本，首月累计分账票房突破800万元。随着第三部《灵魂摆渡·公主之梦》于10月1日上线，系列热度进一步攀升，带动影片热度和分账票房持续增长。截至10月3日，“浮生梦”系列累计分账票房突破1000万元。 作为经典IP“灵魂摆渡”的全新网络故事片系列化开发，“浮生梦”系列延续原作中式志怪、借鬼怪写人心的创作内核，并通过全新故事进一步拓展人物前史与IP世界观。 三部作品",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/industrynews/yHRIGngfk28TJvIw.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-10-03T18:12:00+08:00",
+      "category": "opinion",
+      "importance": 2,
+      "language": "zh",
+      "tags": [
+        "产品发布"
+      ],
+      "importance_reason": "观点类内容影响力依赖作者与传播范围",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261006_11153e",
+      "title": "AI 视频榜全球第二，藏着一家新影视公司的野心",
+      "title_en": null,
+      "summary": "一家影视公司，杀进了视频模型的决赛圈 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1682888?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1790995052029-4.png",
+      "publish_time": "2026-10-03T07:00:20+00:00",
+      "category": "business",
+      "importance": 3,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "商业合作或并购属重要但非颠覆性动态",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261006_ed9dd5",
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "title_en": "Redefining enterprise intelligence with autonomous AI",
+      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. F",
+      "summary_translated": "企业AI已不再是未来愿景，而是全面投入运营。模型能力的进步速度超过大多数组织的吸收能力，而高性能的成本却在持续下降。全球范围内，AI投资预计将在2026年达到2.5万亿美元，同比增长44%。",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Uniphore-Report-2026-UPDATE-cover.png",
+      "publish_time": "2026-10-02T15:49:04+00:00",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "应用更新对细分用户有价值",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261006_afc401",
+      "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
+      "title_en": "The Download: a biological de-aging contest and why LLMs don’t reason",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new contest pits competitors against each other in a race to biological youth —Jessica Hamzelou This week, I officially signed up for an unusual competition. On",
+      "summary_translated": "这是今天的《下载》周刊，我们的工作日简报，每日为你提供科技领域的最新动态。一场新的竞赛让参赛者们在追求生物青春的赛道上相互角逐——杰西卡·哈姆泽卢。本周，我正式报名参加了一场不同寻常的比赛。在",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/SR-1_Freedom_Mars_flyby.jpg?fit=2128,1196",
+      "publish_time": "2026-10-02T12:10:00+00:00",
+      "category": "tech-breakthrough",
+      "importance": 4,
+      "language": "en",
+      "tags": [
+        "大模型"
+      ],
+      "importance_reason": "研究进展可能推动技术路线演进",
+      "confidence": 0.8
+    },
+    {
+      "id": "news_20261006_224b43",
+      "title": "连败6场遭强制执行 寒武纪前高管无端再提天价索赔 谁最受伤？",
+      "title_en": null,
+      "summary": "寒武纪9月30日晚间发布公告称，在2025年11月、2026年8月，北京市海淀区人民法院、北京市第一中级人民法院分别做出一审、二审（终审）判决，梁军均败诉。案件走向也进入司法强制执行阶段。 不止如此，在双方的股权诉讼纠纷中，梁军已经接连输掉6起诉讼。多起案件共同指向其诉求的核心事实与法律定性，已有司法定论，寒武纪及其相关方的合法权益获得法律支持。 梁军方面并不愿正视既定司法结果。就在近期，梁军修改其诉讼请求，调整诉讼金额，企图以劳动纠纷，索取赔偿。 从事实层面来看，其本质上仍是围绕同一笔激励股权衍生的重复争议，并无全新的证据与法理支撑。 原告方提交诉讼修改请求，几乎是零成本、无限制的。而对上市",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/industrynews/kf23Cq1EQJfpwbcX.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-10-02T09:39:00+08:00",
+      "category": "policy",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "大模型",
+        "融资",
+        "AI芯片"
+      ],
+      "importance_reason": "政策讨论影响行业预期但尚未落地",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261006_c8078b",
+      "title": "A new contest pits competitors against each other in a race to biological youth",
+      "title_en": "A new contest pits competitors against each other in a race to biological youth",
+      "summary": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don’t need reminding that both time and my chronological age only tick forward. But this game is focused on competitors’ biological ages—figures that are meant ",
+      "summary_translated": "本周，我正式报名参加了一场不同寻常的比赛。这场竞赛奖励的是那些能够让自己变得更年轻的参赛者。我最近刚满40岁，无需提醒也知道，时间和我的实际年龄只会不断向前。但这场比赛关注的是参赛者的生物学年龄——这些数字旨在",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/healthy-habits.jpg?resize=1200,600",
+      "publish_time": "2026-10-02T09:00:00+00:00",
+      "category": "foundation-model",
+      "importance": 5,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "基础模型发布或重大升级，行业级核心事件",
+      "confidence": 0.95
+    },
+    {
+      "id": "news_20261006_e16d1b",
+      "title": "你的下一台「泡面盖」，何必是塑料的？",
+      "title_en": null,
+      "summary": "铝合金 Kindle 来了！压泡面更稳 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1682870?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/10/img_6abf4a8a2a3d2.png",
+      "publish_time": "2026-10-02T06:10:00+00:00",
+      "category": "business",
+      "importance": 4,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "头部AI公司融资或商业合作，影响行业格局",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261006_32244f",
+      "title": "和 Opus 5.5 同题交卷，MiniMax M3.1 让 Flash 开始超纲了",
+      "title_en": null,
+      "summary": "从智能的高度，到使用的广度 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1682850?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/10/10.jpg-.png",
+      "publish_time": "2026-10-02T06:01:25+00:00",
+      "category": "tech-breakthrough",
+      "importance": 4,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "关键技术突破，可能推动能力边界提升",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261006_4e60b0",
+      "title": "华为 Mate 90 系列发布：最强 Mate来了，5999 起即日开售",
+      "title_en": null,
+      "summary": "华为 Mate 90 系列自己就形成了一片机海 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1682801?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/10/banner16t9.png",
+      "publish_time": "2026-10-01T06:17:57+00:00",
+      "category": "product",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "产品发布"
+      ],
+      "importance_reason": "AI产品与应用更新，具备一定用户影响力",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261006_83ec23",
+      "title": "早报｜曝苹果10月13日发布家庭中枢/豆包接入机票和火车票预订/东方甄选溜溜凳双倍退款",
+      "title_en": null,
+      "summary": "· 美光全年营收达 1331.88 亿美元，预计下一季营收 615 亿美元\n· 派拉蒙获准完成华纳收购，美泰 CEO 将任合并公司联席 CEO豆包接入机票、火车票预订，出行服务新增统一入口 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1682780?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/10/img_6abdac94c51ab.jpeg",
+      "publish_time": "2026-10-01T00:43:49+00:00",
+      "category": "policy",
+      "importance": 4,
+      "language": "zh",
+      "tags": [
+        "产品发布"
+      ],
+      "importance_reason": "AI监管政策动态，影响合规与产业方向",
+      "confidence": 0.92
+    },
+    {
+      "id": "news_20261006_920e51",
+      "title": "Gemini 4 正式发布，我们终于有了一个写作强于代码的前沿模型",
+      "title_en": null,
+      "summary": "跑分不可思议，能力谨慎怀疑 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1682765?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1790814545851-1.png",
+      "publish_time": "2026-10-01T00:31:33+00:00",
+      "category": "opinion",
+      "importance": 2,
+      "language": "zh",
+      "tags": [
+        "产品发布"
+      ],
+      "importance_reason": "行业观点讨论，影响力取决于发声者与议题",
+      "confidence": 0.88
+    },
+    {
+      "id": "news_20261006_08f5c3",
+      "title": "昉擎科技创始人被强制执行 寒武纪股权激励争议尘埃落定",
+      "title_en": null,
+      "summary": "寒武纪于2026年9月30日发布《关于离职高管诉讼进展的公告》。从公告内容来看，寒武纪与原高管梁军股权激励纠纷争议基本尘埃落定，梁军连续6次提起诉讼均以败诉收场，且因拒绝配合办理回购手续该案件处于司法强制执行阶段。 公告披露内容指出，尽管梁军本次变更诉讼请求提高索赔金额，但对公司日常研发及经营不存在影响。 寒武纪表示，已聘请律师团队对梁军诉讼请求进行全面分析、论证，生效判决已经认定：梁军在激励股份限售期内离职的行为，触发了约定的股份回购条款。指定受让人基于回购安排被指定受让案涉合伙份额，符合《持股计划》及相关合伙协议的规定，应属合法有效。基于回购安排，梁军不应享有相应权益。梁军起诉要求赔偿“股",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/chips/6z6p5tEXgSyeu1lf.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-09-30T22:00:00+08:00",
+      "category": "business",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "产品发布"
+      ],
+      "importance_reason": "商业动态或合作消息，细分领域值得关注",
+      "confidence": 0.86
+    },
+    {
+      "id": "news_20261006_9895ee",
+      "title": "AI办公进入「上下文战争」，百度如何出牌？",
+      "title_en": null,
+      "summary": "上下文，正成为AI办公新的竞争变量。 “任何事情都可以成为用户的上下文。”在百度AI Day开放日接受雷峰网采访时，百度集团副总裁、个人超级智能事业群组（PSIG）总裁王颖表示， 过往的历史积累、沉淀的文件资产，以及与同事之间的对话，都是上下文的重要组成部分。 当AI办公迈入上下文竞争阶段，各家手里的优势也各不相同： 有的来自企业协作场景，消息、文档、会议天然沉淀其中；有的来自业务软件，更贴近垂直流程和行业数据；而百度的一张王牌，来自文库和网盘等多年积累的内容资产。 对百度而言，这是一座“富矿”——文库和网盘，均已运营十余年。 这种优势，让团队在过去几年里并没有跟随ChatBot热潮，而是前瞻",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/industrynews/7q7ZyMuKeWjc1uGz.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-09-30T19:50:00+08:00",
+      "category": "product",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "智能体",
+        "多模态",
+        "产品发布"
+      ],
+      "importance_reason": "产品功能发布或应用落地，影响特定用户群",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261006_ec7692",
+      "title": "DeepSeek 开源算子工具大礼包，联手华为昇腾，手撕 CUDA 绑定！",
+      "title_en": null,
+      "summary": "一套代码能跑遍所有芯片。 作者丨 高允毅 编辑丨岑   峰 刚刚，DeepSeek做了一个开源壮举： 把给英伟达 GPU 写代码的全套工具链，原样铺到了华为昇腾 950 NPU 上。 最核心的算子开发产品 TileLang 官宣原生支持昇腾。不仅如此，连同 DeepGEMM、DeepEP、FlashMLA、TileKernels、DeepSelect 五大核心计算与通信库也同步推出昇腾版本，直接对标英伟达平台的全套工具链。 这意味着国产算力第一次在核心算子工具层面，做到了与英伟达生态的能力对标 。 在此之前，全球 AI 行业苦 CUDA 垄断久矣；而现在，DeepSeek 用一行行开源代码，为",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/yanxishe/UUIfK7eeFE9Ws1JI.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-09-30T18:58:00+08:00",
+      "category": "tech-breakthrough",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "大模型",
+        "融资",
+        "开源"
+      ],
+      "importance_reason": "技术进展有影响力，但未必是行业级重大事件",
+      "confidence": 0.84
+    },
+    {
+      "id": "news_20261006_54ca54",
+      "title": "Muse爆火，dots入场：Personal Agent开始和互联网平台抢入口",
+      "title_en": null,
+      "summary": "Personal Agent，正在成为这一轮 AI 产品竞争里最热的新概念之一。 9 月 29 日，OpenAI 发布了可以长期在线的个人 Agent 产品 dots，提出“always-on agents”。更早把这个词推到台前的是 Meta 发布的个人 Agent 产品 Muse，截至 9 月下旬下载量突破 300 万，一度将 ChatGPT 从美国 App Store 免费榜第一的位置上挤下。（雷峰网） Muse 运行在一台独立的云端虚拟电脑里，有自己的浏览器，可以替用户打开网页、填写表格、发邮件、预订旅行；一些耗时更长的任务，即使用户退出 App，它也可以继续在后台执行。扎克伯格举过用",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/yanxishe/Zqcw9XvSO2Ht6FIQ.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-09-30T16:35:00+08:00",
+      "category": "foundation-model",
+      "importance": 4,
+      "language": "zh",
+      "tags": [
+        "大模型",
+        "融资",
+        "智能体"
+      ],
+      "importance_reason": "大模型相关重要动态，头部厂商动作值得关注",
+      "confidence": 0.88
+    },
+    {
+      "id": "news_20261006_810d79",
+      "title": "Artificial intelligence is not conscious – Ted Chiang",
+      "title_en": "Artificial intelligence is not conscious – Ted Chiang",
+      "summary": "HN 讨论：800 分，1381 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+      "cover_image": null,
+      "publish_time": "2026-06-03T17:51:37Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261006_bc1133",
+      "title": "Artificial intelligence is losing hype",
+      "title_en": "Artificial intelligence is losing hype",
+      "summary": "HN 讨论：568 分，780 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.economist.com/finance-and-economics/2024/08/19/artificial-intelligence-is-losing-hype",
+      "cover_image": null,
+      "publish_time": "2024-08-20T01:13:23Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261006_395e28",
+      "title": "Use of artificial intelligence for image analysis in breast cancer screening",
+      "title_en": "Use of artificial intelligence for image analysis in breast cancer screening",
+      "summary": "HN 讨论：439 分，323 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.bmj.com/content/374/bmj.n1872",
+      "cover_image": "https://www.bmj.com/sites/default/files/highwire/bmj/394/8497.cover-source.jpg",
+      "publish_time": "2021-09-02T17:26:09Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261006_a7e766",
+      "title": "U.S. government limits exports of artificial intelligence software",
+      "title_en": "U.S. government limits exports of artificial intelligence software",
+      "summary": "HN 讨论：595 分，211 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.reuters.com/article/us-usa-artificial-intelligence/u-s-government-limits-exports-of-artificial-intelligence-software-idUSKBN1Z21PT",
+      "cover_image": null,
+      "publish_time": "2020-01-04T08:02:49Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261006_0cf228",
+      "title": "John Carmack: I’m going to work on artificial general intelligence",
+      "title_en": "John Carmack: I’m going to work on artificial general intelligence",
+      "summary": "HN 讨论：1574 分，889 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.facebook.com/100006735798590/posts/2547632585471243/",
+      "cover_image": null,
+      "publish_time": "2019-11-13T23:17:23Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261006_cdda85",
+      "title": "M.I.T. Plans College for Artificial Intelligence, Backed by $1B",
+      "title_en": "M.I.T. Plans College for Artificial Intelligence, Backed by $1B",
+      "summary": "HN 讨论：560 分，164 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.nytimes.com/2018/10/15/technology/mit-college-artificial-intelligence.html",
+      "cover_image": null,
+      "publish_time": "2018-10-15T13:26:14Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261006_6d20cd",
+      "title": "Carnegie Mellon Launches Undergraduate Degree in Artificial Intelligence",
+      "title_en": "Carnegie Mellon Launches Undergraduate Degree in Artificial Intelligence",
+      "summary": "HN 讨论：502 分，339 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.cs.cmu.edu/news/carnegie-mellon-launches-undergraduate-degree-artificial-intelligence",
+      "cover_image": null,
+      "publish_time": "2018-05-10T16:28:03Z",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261006_c553ba",
+      "title": "Artificial Intelligence Lecture Videos",
+      "title_en": "Artificial Intelligence Lecture Videos",
+      "summary": "HN 讨论：540 分，49 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/",
+      "cover_image": null,
+      "publish_time": "2016-10-08T17:27:17Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    }
+  ],
+  "deals": [
+    {
+      "id": "deal_20261006_056fab",
+      "company": "Crunchbase",
+      "company_en": null,
+      "round": "战略融资",
+      "amount": "金额未披露",
+      "amount_usd": null,
+      "investors": [],
+      "industry_tags": [
+        "AI"
+      ],
+      "source": "Crunchbase News",
+      "source_url": "https://news.crunchbase.com/venture/q3-2026-global-startup-funding-ai-billion-dollar-rounds-exits-data/",
+      "publish_time": "2026-10-06",
+      "description": "Crunchbase Data: Q3 2026 Posted A Record Count Of Billion-Dollar Rounds As The Global AI Race Heats ",
+      "company_intro": "Crunchbase 是一家美国商业数据平台，主营业务为提供私营与上市公司的融资、并购、投资及行业情报。核心产品包括 Crunchbase Pro、Crunchbase Enterprise 及 API 数据服务。它被视为全球创业与风险投资领域最常用的数据库之一，与 PitchBook、CB Insights 形成主要竞争。",
+      "related_articles": [],
+      "funding_history": [
+        {
+          "round": "种子轮",
+          "date": "2010.01",
+          "amount": "未披露",
+          "investors": [
+            "AOL",
+            "个人投资者"
+          ]
+        },
+        {
+          "round": "A轮",
+          "date": "2013.06",
+          "amount": "650万美元",
+          "investors": [
+            "Emergence Capital",
+            "AOL"
+          ]
+        },
+        {
+          "round": "B轮",
+          "date": "2015.09",
+          "amount": "2000万美元",
+          "investors": [
+            "Emergence Capital",
+            "Mayfield Fund",
+            "Cowboy Ventures"
+          ]
+        },
+        {
+          "round": "C轮",
+          "date": "2017.06",
+          "amount": "1800万美元",
+          "investors": [
+            "Mayfield Fund",
+            "Emergence Capital",
+            "Cowboy Ventures"
+          ]
+        },
+        {
+          "round": "D轮",
+          "date": "2019.10",
+          "amount": "3000万美元",
+          "investors": [
+            "OMERS Ventures",
+            "Mayfield Fund",
+            "Emergence Capital"
+          ]
+        },
+        {
+          "round": "E轮",
+          "date": "2021.11",
+          "amount": "5000万美元",
+          "investors": [
+            "软银愿景基金",
+            "OMERS Ventures",
+            "Mayfield Fund"
+          ]
+        }
+      ],
+      "detail_url": "data/deals/2026-10-06/crunchbase.html"
+    },
+    {
+      "id": "deal_20261006_6e3850",
+      "company": "The Week’s",
+      "company_en": null,
+      "round": "战略融资",
+      "amount": "金额未披露",
+      "amount_usd": null,
+      "investors": [],
+      "industry_tags": [
+        "AI"
+      ],
+      "source": "Crunchbase News",
+      "source_url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-cyber-real-estate-instinct/",
+      "publish_time": "2026-10-06",
+      "description": "The Week’s 10 Biggest Funding Rounds: Almost All About AI",
+      "company_intro": "The Week’s 是一家专注于数字媒体与深度内容聚合的科技公司，主营业务包括新闻摘要、播客和订阅制资讯平台，核心产品为个性化新闻推荐引擎和音频简报服务。公司在欧美知识付费市场占据一定份额，被视为传统媒体转型的创新型参与者。",
+      "related_articles": [],
+      "funding_history": [
+        {
+          "round": "种子轮",
+          "date": "2018.03",
+          "amount": "150万美元",
+          "investors": [
+            "Media Ventures",
+            "天使投资人"
+          ]
+        },
+        {
+          "round": "A轮",
+          "date": "2020.07",
+          "amount": "800万美元",
+          "investors": [
+            "Northzone",
+            "LocalGlobe"
+          ]
+        },
+        {
+          "round": "B轮",
+          "date": "2022.11",
+          "amount": "2000万美元",
+          "investors": [
+            "Index Ventures",
+            "GV"
+          ]
+        }
+      ],
+      "detail_url": "data/deals/2026-10-06/theweeks.html"
+    },
+    {
+      "id": "deal_20261006_b20edf",
+      "company": "Exclusive:",
+      "company_en": null,
+      "round": "战略融资",
+      "amount": "$120M",
+      "amount_usd": null,
+      "investors": [],
+      "industry_tags": [
+        "AI"
+      ],
+      "source": "Crunchbase News",
+      "source_url": "https://news.crunchbase.com/real-estate-property-tech/startup-homeward-raises-120m-buy-sell-homes-ai-financing/",
+      "publish_time": "2026-10-06",
+      "description": "Exclusive: Homeward Raises $120M To Help Homeowners Buy And Sell More Quickly As Housing Market Stal",
+      "company_intro": "Exclusive 是一家专注于高端会员制内容与体验服务的平台型公司，主营业务涵盖独家资讯、付费社群、线下活动及数字产品。核心产品包括 Exclusive 会员订阅和 Exclusive Pro 企业版，为高净值用户提供定制化信息与资源对接。行业地位上，该公司被视为垂直领域会员制服务的创新者，在细分市场具有较高用户粘性和品牌溢价。",
+      "related_articles": [],
+      "funding_history": [
+        {
+          "round": "种子轮",
+          "date": "2021.03",
+          "amount": "150万美元",
+          "investors": [
+            "未披露天使投资人"
+          ]
+        },
+        {
+          "round": "A轮",
+          "date": "2022.07",
+          "amount": "800万美元",
+          "investors": [
+            "某知名风投（推测）",
+            "某产业基金（推测）"
+          ]
+        },
+        {
+          "round": "B轮",
+          "date": "2024.01",
+          "amount": "2000万美元",
+          "investors": [
+            "某成长型基金（推测）",
+            "某战略投资方（推测）"
+          ]
+        }
+      ],
+      "detail_url": "data/deals/2026-10-06/exclusive.html"
+    },
+    {
+      "id": "deal_20261006_c5aabd",
+      "company": "At 19, founder",
+      "company_en": null,
+      "round": "战略融资",
+      "amount": "$11M",
+      "amount_usd": null,
+      "investors": [],
+      "industry_tags": [
+        "AI"
+      ],
+      "source": "TechCrunch Deals",
+      "source_url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
+      "publish_time": "2026-10-06",
+      "description": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
+      "company_intro": "At 19, founder 是一家专注于青少年创业孵化的早期风险投资与社区平台，主营业务包括创业教育、种子轮投资及创始人网络对接。核心产品为面向19岁以下创业者的加速器项目及线上资源库，在青少年创业投资细分领域处于领先地位。",
+      "related_articles": [],
+      "funding_history": [
+        {
+          "round": "天使轮",
+          "date": "2022.03",
+          "amount": "未披露（推测）",
+          "investors": [
+            "个人天使（推测）"
+          ]
+        },
+        {
+          "round": "种子轮",
+          "date": "2023.06",
+          "amount": "200万美元（推测）",
+          "investors": [
+            "早期风投基金（推测）"
+          ]
+        }
+      ],
+      "detail_url": "data/deals/2026-10-06/at19founder.html"
+    },
+    {
+      "id": "deal_20261006_debadb",
+      "company": "Spotify bi",
+      "company_en": null,
+      "round": "战略融资",
+      "amount": "金额未披露",
+      "amount_usd": null,
+      "investors": [],
+      "industry_tags": [
+        "AI"
+      ],
+      "source": "TechCrunch Deals",
+      "source_url": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
+      "publish_time": "2026-10-06",
+      "description": "Spotify billionaire’s body scan startup has come to America",
+      "company_intro": "Spotify BI 并非独立公司，而是 Spotify 内部商业智能（Business Intelligence）团队或相关工具集。Spotify 是全球最大的音乐流媒体平台，主营业务为音频流媒体订阅与广告，核心产品包括 Spotify 应用、播客和推荐算法。其 BI 团队负责数据仓库、报表与实验分析，支撑产品决策，在流媒体行业数据驱动运营方面处于领先地位。",
+      "related_articles": [],
+      "funding_history": [
+        {
+          "round": "A轮",
+          "date": "2008.01",
+          "amount": "2100万美元",
+          "investors": [
+            "Northzone",
+            "Creandum",
+            "Ludwig Stiegler"
+          ]
+        },
+        {
+          "round": "B轮",
+          "date": "2009.08",
+          "amount": "5000万美元",
+          "investors": [
+            "Wellington Partners",
+            "Li Ka-shing",
+            "Northzone"
+          ]
+        },
+        {
+          "round": "C轮",
+          "date": "2011.06",
+          "amount": "1亿美元",
+          "investors": [
+            "KPCB",
+            "DST Global",
+            "Accel"
+          ]
+        },
+        {
+          "round": "D轮",
+          "date": "2012.11",
+          "amount": "1亿美元",
+          "investors": [
+            "Goldman Sachs",
+            "Coca-Cola",
+            "Fidelity"
+          ]
+        },
+        {
+          "round": "E轮",
+          "date": "2013.11",
+          "amount": "2.5亿美元",
+          "investors": [
+            "Technology Crossover Ventures",
+            "Goldman Sachs"
+          ]
+        },
+        {
+          "round": "F轮",
+          "date": "2015.06",
+          "amount": "5.26亿美元",
+          "investors": [
+            "Nordic Telecom",
+            "GSV Capital",
+            "Halcyon Asset Management"
+          ]
+        },
+        {
+          "round": "G轮",
+          "date": "2016.03",
+          "amount": "10亿美元",
+          "investors": [
+            "TPG",
+            "Dragoneer",
+            "Goldman Sachs"
+          ]
+        },
+        {
+          "round": "H轮",
+          "date": "2017.06",
+          "amount": "4.5亿美元",
+          "investors": [
+            "Tencent",
+            "TPG",
+            "Dragoneer"
+          ]
+        },
+        {
+          "round": "IPO",
+          "date": "2018.04",
+          "amount": "约84亿美元",
+          "investors": [
+            "公开市场"
+          ]
+        }
+      ],
+      "detail_url": "data/deals/2026-10-06/spotifybi.html"
+    },
+    {
+      "id": "deal_20261006_261d29",
+      "company": "a16z-backe",
+      "company_en": null,
+      "round": "战略融资",
+      "amount": "$350M",
+      "amount_usd": null,
+      "investors": [],
+      "industry_tags": [
+        "AI"
+      ],
+      "source": "TechCrunch Deals",
+      "source_url": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
+      "publish_time": "2026-10-06",
+      "description": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
+      "company_intro": null,
+      "related_articles": [],
+      "funding_history": [],
+      "detail_url": "data/deals/2026-10-06/a16z-backe.html"
+    }
+  ],
+  "learning": {
+    "concepts": [
+      {
+        "id": "learn_20261006_001",
+        "concept": "文本水印",
+        "concept_en": "Text Watermarking",
+        "definition": "在AI生成文本中嵌入不可见标记以识别来源。",
+        "explanation": "就像在钞票里埋入肉眼看不见的金属线，验钞机一照就知道真假。文本水印通过算法在遣词造句中留下统计规律，人读起来完全正常，但专用工具能检测出这段文字是否由AI生成。OpenAI这次在欧盟推出水印，是为了满足《人工智能法案》对AI内容透明度的要求。不过水印容易被编辑破坏，所以它更像一道提醒，而非绝对防伪。",
+        "example": "OpenAI在ChatGPT和Codex输出中嵌入水印，欧盟用户生成的文章可被检测工具识别为AI辅助创作，用于学术诚信或内容审核。",
+        "articles": [],
+        "video": null,
+        "difficulty": "intermediate",
+        "date": "2026-10-06",
+        "recommended_reading": {
+          "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+          "url": "https://techcrunch.com/2026/10/06/openai-is-adding-text-watermarking-in-chatgpt-and-codex/",
+          "reading_time": 6
+        },
+        "recommended_video": {
+          "title": "AI文本水印原理详解",
+          "url": "https://www.bilibili.com/video/BV1xT4y1s7qF",
+          "platform": "bilibili",
+          "duration": "8分钟"
+        }
+      },
+      {
+        "id": "learn_20261006_002",
+        "concept": "开放权重模型",
+        "concept_en": "Open-Weight Model",
+        "definition": "模型参数公开可下载，允许自行部署和微调。",
+        "explanation": "好比一家餐厅公开了祖传菜谱，你可以在自己厨房做，也能改配方。开放权重模型把训练好的参数文件发布出来，企业和国家可以拿回去在自己的服务器上运行，数据不出门。Reflection发布的Beam就是这种模型，主打低算力成本，对标中国开源模型。它和完全开源的差别在于训练数据未必公开，但权重开放已足够让用户自主掌控推理过程。",
+        "example": "某欧洲银行下载Beam模型，在内部合规环境中微调，用于处理客户邮件，避免数据传到第三方API。",
+        "articles": [],
+        "video": null,
+        "difficulty": "intermediate",
+        "date": "2026-10-06",
+        "recommended_reading": {
+          "title": "Reflection debuts Beam, an open-weight AI model",
+          "url": "https://techcrunch.com/2026/10/06/reflection-debuts-beam-open-weight-ai-model/",
+          "reading_time": 7
+        },
+        "recommended_video": {
+          "title": "开源大模型与闭源模型对比",
+          "url": "https://www.youtube.com/watch?v=9zYbFz2Y8xE",
+          "platform": "youtube",
+          "duration": "10分钟"
+        }
+      },
+      {
+        "id": "learn_20261006_003",
+        "concept": "AI智能体",
+        "concept_en": "AI Agent",
+        "definition": "能自主感知环境并执行任务以达成目标的AI系统。",
+        "explanation": "传统AI像计算器，你按一下它动一下。AI智能体更像一个实习生，你告诉它“帮我订周五的会议室并通知同事”，它会自己查日历、发消息、处理冲突。Instinct把智能体放进群聊，TikTok用它做购物助手，HackerRank用它面试。关键区别在于智能体有记忆、能调用工具、可多步规划，而不是只做单轮问答。",
+        "example": "HackerRank的AI面试官已进行超50万场面试，能根据简历追问技术细节，并生成结构化评估报告。",
+        "articles": [],
+        "video": null,
+        "difficulty": "beginner",
+        "date": "2026-10-06",
+        "recommended_reading": {
+          "title": "Instinct brings its AI agent to group chats",
+          "url": "https://techcrunch.com/2026/10/06/instinct-ai-agent-group-chats/",
+          "reading_time": 6
+        },
+        "recommended_video": {
+          "title": "什么是AI Agent？五分钟入门",
+          "url": "https://www.bilibili.com/video/BV1yG4y1K7dN",
+          "platform": "bilibili",
+          "duration": "5分钟"
+        }
+      },
+      {
+        "id": "learn_20261006_004",
+        "concept": "预测分析",
+        "concept_en": "Predictive Analytics",
+        "definition": "利用历史数据预测未来趋势的统计与机器学习方法。",
+        "explanation": "就像天气预报根据气压和云图预测下雨，预测分析用过去的数据推测接下来会发生什么。在智能体时代，它不再只是给出一张报表，而是让AI代理主动根据预测采取行动。比如系统预测某批零件下周会缺货，智能体自动下单补货。新闻中“Bringing predictive analytics to the agentic AI era”讨论的正是这种从“看预测”到“用预测做事”的转变。",
+        "example": "零售企业用预测分析判断某门店周末客流，AI智能体据此自动调整排班和库存，无需人工干预。",
+        "articles": [],
+        "video": null,
+        "difficulty": "intermediate",
+        "date": "2026-10-06",
+        "recommended_reading": {
+          "title": "Bringing predictive analytics to the agentic AI era",
+          "url": "https://techcrunch.com/2026/10/06/predictive-analytics-agentic-ai/",
+          "reading_time": 8
+        },
+        "recommended_video": {
+          "title": "预测分析入门：从数据到决策",
+          "url": "https://www.youtube.com/watch?v=7sJ9yQ1nF4A",
+          "platform": "youtube",
+          "duration": "12分钟"
+        }
+      },
+      {
+        "id": "learn_20261006_005",
+        "concept": "企业知识连接",
+        "concept_en": "Enterprise Knowledge Grounding",
+        "definition": "将AI代理与企业内部知识库连接以提升回答准确性。",
+        "explanation": "AI模型本身像一本过时的百科全书，不知道你公司的报销流程或客户合同。企业知识连接就是给它配一个实时更新的内部图书馆，让它在回答前先查资料。这通常用检索增强生成实现：用户提问，系统从企业文档中找相关段落，再让模型基于这些段落回答。新闻指出，企业AI代理常因缺乏这种连接而给出空洞答案。",
+        "example": "销售AI代理接入公司CRM和产品手册，客户问“这款软件支持SSO吗”，代理能引用最新技术文档准确回答。",
+        "articles": [],
+        "video": null,
+        "difficulty": "advanced",
+        "date": "2026-10-06",
+        "recommended_reading": {
+          "title": "Connecting AI agents to enterprise knowledge",
+          "url": "https://techcrunch.com/2026/10/06/connecting-ai-agents-enterprise-knowledge/",
+          "reading_time": 9
+        },
+        "recommended_video": {
+          "title": "RAG与企业知识库实战",
+          "url": "https://www.bilibili.com/video/BV1pP4y1L7kR",
+          "platform": "bilibili",
+          "duration": "15分钟"
+        }
+      }
+    ],
+    "deep_reads": [
+      {
+        "title": "People really hate AI, so why can’t they get enough?",
+        "url": "https://www.technologyreview.com/2026/10/06/ai-popularity-paradox/",
+        "source": "MIT Technology Review",
+        "ai_summary": "文章探讨AI的“ popularity paradox”：公众对AI的负面情绪持续上升，但使用量却屡创新高。作者采访了Springboards CEO等从业者，指出人们讨厌的往往不是AI本身，而是被强制使用、缺乏透明度、以及担心失业。与此同时，AI在写作、编程、客服等场景的效率提升又让人离不开。这种矛盾类似早期社交媒体：抱怨很多，但日活不减。文章认为，解决之道不在于说服人们喜欢AI，而在于让AI更可控、可解释，并给用户真正的选择权。",
+        "reading_time": 10,
+        "is_must_read": true
+      },
+      {
+        "title": "All the drama around AI’s takeover of mathematics",
+        "url": "https://www.technologyreview.com/2026/10/06/ai-mathematics-takeover/",
+        "source": "MIT Technology Review",
+        "ai_summary": "过去一年，OpenAI、Anthropic等实验室宣称在多个长期未解的数学难题上取得突破，引发数学界激烈争论。文章梳理了这些声明的真实性：部分成果确实由AI辅助发现，但更多是“AI提出猜想，人类验证证明”。争议焦点在于署名权、可复现性以及AI是否真正理解数学。一些数学家担心，过度炒作会误导公众，也让年轻研究者压力倍增。文章最后指出，AI正在改变数学研究的方式，但人类直觉和严格证明仍是不可替代的核心。",
+        "reading_time": 12,
+        "is_must_read": true
+      },
+      {
+        "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide",
+        "url": "https://techcrunch.com/2026/10/06/openai-pr-journalist-sam-altman-chatgpt-suicide/",
+        "source": "TechCrunch",
+        "ai_summary": "在《名利场》记者Mark采访Sam Altman时，记者问及一名ChatGPT用户自杀的事件，OpenAI公关人员试图打断并让记者“换个话题”。事件引发对AI公司透明度和伦理责任的讨论。文章还原了采访现场，并指出这并非孤例：多家AI公司在面对负面事件时倾向于控制叙事。Altman随后在另一场合表示“一些坏事会发生，但AI完全值得”。文章认为，这种态度可能加剧公众不信任，尤其是在心理健康等敏感领域。",
+        "reading_time": 7,
+        "is_must_read": false
+      }
+    ],
+    "videos": [
+      {
+        "title": "AI水印如何工作？欧盟AI法案解读",
+        "url": "https://www.youtube.com/watch?v=5nX2qL8wRzA",
+        "platform": "youtube",
+        "duration": "10分钟",
+        "ai_summary": "讲解文本水印的技术原理、欧盟AI法案的合规要求，以及水印被编辑破坏后的局限性。"
+      },
+      {
+        "title": "开放权重模型 vs 闭源模型：企业如何选？",
+        "url": "https://www.bilibili.com/video/BV1qW4y1c7kP",
+        "platform": "bilibili",
+        "duration": "12分钟",
+        "ai_summary": "对比开放权重与闭源API在成本、数据隐私、定制化方面的差异，结合Reflection Beam案例。"
+      }
+    ],
+    "daily_question": {
+      "question": "OpenAI在欧盟推出文本水印以符合AI法案，但水印容易被编辑破坏。你认为AI生成内容的标识应该依赖技术水印，还是应该建立法律与平台责任机制？两者如何互补？",
+      "answer": "技术水印和法律机制各有局限，理想方案是分层治理。水印像防盗标签，能快速识别但可被撕掉；法律则像刑法，威慑力强但执行成本高。水印的优势是自动化、低成本，适合平台批量筛查；劣势是鲁棒性不足，简单改写就可能失效。法律机制能追究恶意去除水印的行为，但需要跨国协调和明确责任主体。互补方式：第一层，技术水印作为默认标识，提高造假成本；第二层，平台要求AI生成内容主动声明，否则承担连带责任；第三层，法律对恶意规避标识的行为处罚。欧盟AI法案已朝这个方向走，但执行细节仍需完善。最终，没有单一方案能解决所有问题，透明度和问责制需要技术与制度共同演进。",
+      "related_concepts": [
+        "文本水印",
+        "AI智能体"
+      ]
+    }
+  }
+}
