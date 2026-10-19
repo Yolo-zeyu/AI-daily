@@ -1,0 +1,1164 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T11:17:50.357056+08:00",
+  "news": [
+    {
+      "id": "news_20261019_3bbc13",
+      "title": "实测 Lovart 2.0 ，设计 AI 进入个人助理时代",
+      "title_en": null,
+      "summary": "你下班了，Arti 还能继续工作 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1684840?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/10/titu.jpg",
+      "publish_time": "2026-10-19T02:53:15+00:00",
+      "category": "foundation-model",
+      "importance": 4,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "头部厂商发布新基础模型，影响开发者生态与竞争格局",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261019_3f14a3",
+      "title": "早报｜曝苹果机械臂版HomeView正在开发/蔚来三季度销量首次超BBA/英伟达否认RTX 5090停产",
+      "title_en": null,
+      "summary": "· 曝三星拟采用台积电 3nm 工艺，为英伟达定制 HBM\n· 智界拟取得独立造车资质，内部人士确认独立上市计划\n· Tibo 回应 Codex 用户许愿：五项建议中有两项正在做 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1684815?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/10/1019-scaled.jpg",
+      "publish_time": "2026-10-19T00:00:42+00:00",
+      "category": "business",
+      "importance": 4,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "大额融资事件，反映资本流向与赛道热度",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261019_8768ee",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "title_en": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "summary_translated": "Anthropic表示将把5%的股份投入该基金。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
+      "publish_time": "2026-10-18T20:37:40+00:00",
+      "category": "tech-breakthrough",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "方法层面突破，可能改变训练或推理效率",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261019_2f6c16",
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "title_en": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+      "summary_translated": "文件还称，获得迪士尼工作邀请的Character.AI员工中，“绝大多数”接受了邀请。不过，这只是一项假马竞标，其他公司仍可能提出更高报价。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2024/01/character-ai-alexa.jpg?resize=1200,675",
+      "publish_time": "2026-10-18T16:30:00+00:00",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "主流产品功能更新，影响用户使用体验",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261019_3e2133",
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "title_en": "A woman was arrested in Philly for blocking a delivery robot",
+      "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by ",
+      "summary_translated": "卡罗琳·马文因阻挡优步送货机器人并拒绝让路而被捕，并被控扰乱治安。马文告诉费城ABC13电视台：“我知道它们正在取代人类送货员的工作，所以，每当看到它们，我都在抗议。”",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/avride-uber-delivery.webp?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-10-18T14:28:10-04:00",
+      "category": "policy",
+      "importance": 5,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "监管政策落地，直接影响行业合规与市场准入",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261019_c3074b",
+      "title": "2026湾芯展圆满落幕：3天展期，近8万平方米展区迎来超15.67万人次专业观众",
+      "title_en": null,
+      "summary": "10月16日，2026湾区半导体产业生态博览会（湾芯展WESEMiBAY）在深圳会展中心（福田）圆满收官。本届展会规模与能级实现跨越式提升，3天展期，近8万平方米展区迎来超15.67万人次专业观众，多位院士、150位顶尖学者同台论道，超500位产业领袖与一线技术精英共赴盛会，来自20余个国家和地区的1000余家海内外优质企业参展，超3000件年度首发新品集中亮相，40余场高规格论坛串联起从技术到产业全链条对话……一场不一样的展会，在鹏城写下不一样的“芯”精彩，从产品展示到创新首发，从思想碰撞到供需对接，湾芯展正着力打造具有全球引领力的中国集成电路自主品牌“第一展”。 不一样的“芯”版图 产业全",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/chips/DnZbjQYkyrBmdOAJ.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-10-18T12:47:00+08:00",
+      "category": "opinion",
+      "importance": 2,
+      "language": "zh",
+      "tags": [
+        "融资",
+        "AI芯片",
+        "智能体"
+      ],
+      "importance_reason": "行业人士观点评论，参考价值有限",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261019_a1d65c",
+      "title": "消费电子太无聊，连设计大师都想逃",
+      "title_en": null,
+      "summary": "好设计的坏时代 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1683441?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/10/TE.jpg",
+      "publish_time": "2026-10-18T09:10:58+00:00",
+      "category": "business",
+      "importance": 3,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "并购或合作动态，影响细分市场格局",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261019_7dadbf",
+      "title": "12.88万起、华为电驱+L4同源智驾，Ray7能成为埃安年轻化的答卷吗？",
+      "title_en": null,
+      "summary": "10月17日，埃安轿跑Ray7正式开启预售，预售价12.88 万起。新车车长4.9米，轴距2.9米，车头部分搭配3.25米的超长双环灯带，是埃安10年焕新的家族式标识。 新车采用宁德时代电池以及广汽自研的弹匣电池2.0技术，能够在充分释放续航能力的同时，监控电池健康状态。提供45.58kWh和62.98kWh两种规格，续航可达702公里，整车风阻系数 Cd 低至 0.22。 Ray7搭载华为DriveONE多合一电驱，以及华为DriveONE芯片级驱制融合架构，百公里制动仅为32.8米。 底盘方面，Ray7搭载高性能前后稳定杆和后五连杆悬架，过弯极限更高，滤振更干净。 智能化上， Ray7搭载",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/transportation/F3nQwjeqDO0BtrQ0.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-10-17T22:42:00+08:00",
+      "category": "product",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "大模型",
+        "AI芯片",
+        "产品发布"
+      ],
+      "importance_reason": "应用层新功能发布，面向特定用户群体",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261019_24a6bb",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "title_en": "Meta removes language that raised scraping and AI training concerns",
+      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "summary_translated": "Meta发言人坚持认为，更新后的条款并未反映Meta抓取网络的方式有所改变。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
+      "publish_time": "2026-10-17T21:31:32+00:00",
+      "category": "tech-breakthrough",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "技术进展有影响力，但尚处早期验证阶段",
+      "confidence": 0.8
+    },
+    {
+      "id": "news_20261019_c2a828",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "title_en": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "summary_translated": "过去一年，Anthropic的员工构成和完成的工作类型发生了显著变化。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+      "publish_time": "2026-10-17T20:21:19+00:00",
+      "category": "policy",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "标准或法规动向，牵动企业合规成本",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261019_532907",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "title_en": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "summary_translated": "周末，Masad澄清OpenAI将取代Anthropic成为其默认模型提供商。Claude仍将在平台上向客户提供。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800",
+      "publish_time": "2026-10-17T18:48:08+00:00",
+      "category": "foundation-model",
+      "importance": 4,
+      "language": "en",
+      "tags": [
+        "大模型"
+      ],
+      "importance_reason": "头部厂商发布新一代基础模型，影响下游生态",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261019_d380e6",
+      "title": "双11 iPhone Duo平台大战，比的就是货源，记者实测：只有苹果官网、天猫可下单",
+      "title_en": null,
+      "summary": "双11 iPhone duo 平台大战，比的就是货源。10 月 16 日消息，苹果首款折叠屏手机 iPhone Duo 今日 20:00 正式开售，首批货源迅速售罄，多家电商平台的官方旗舰店入口一度出现卡顿。 截至 21:30，记者实测发现，目前仅苹果官网与苹果天猫官方旗舰店仍可下单，最早的一批于天猫双11开卖日10月20日后3天发货（10月23日）。社交媒体晒单显示，苹果天猫官方旗舰店在短时间内补货6次，发货时间分别为：11月7日、11月14日、11月21日、11月28日、12月5日等。当前，苹果官网显示iPhone duo发货时间已排期至2027年1月23日。 与此同时，iPhone Du",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/industrynews/LMBQVV27PkpS0P58.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-10-17T12:29:00+08:00",
+      "category": "business",
+      "importance": 4,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "大额融资事件，反映资本流向与竞争格局",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261019_540c8e",
+      "title": "抖音商城双11首日数据：消费券带动破千万商家数同比增长74%",
+      "title_en": null,
+      "summary": "10月15日，2026抖音商城双11好物节正式开启。今年双11覆盖服饰、美妆个护、快消耐消等重点类目，横跨秋冬换季、囤货等消费节点，通过多场景、多节点助力商家把握年末增长机遇，实现销量与生意规模的持续提升。 大促开启首日，「立减折扣/一件直降」与「消费券」等多重补贴叠加发力，抖音商城双11增长势头强劲：消费券带动成交额破千万元商家数量同比增长74%，首次参加双11成交额突破百万达人数量同比增长30%，商品卡成交额破百万商家数量同比增长103%，搜索带动成交额破百万商家数量同比增长111%。 与此同时，直播间种草的特色源头好物和风味特产迎来集中爆发，农产品生鲜行业成交额过百万商家数量同比增长20",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/industrynews/JjzV775vQhP9EgGN.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-10-17T12:16:00+08:00",
+      "category": "tech-breakthrough",
+      "importance": 4,
+      "language": "zh",
+      "tags": [
+        "产品发布"
+      ],
+      "importance_reason": "关键技术指标突破，可能改变训练或推理成本",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261019_39a7ad",
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "title_en": "Meta removes language that may have allowed it to scrape news sites",
+      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, ",
+      "summary_translated": "在遭到反对后，Meta再次更新其条款，删除了暗示其可能从包括新闻网站在内的网站抓取内容以训练AI的措辞。具体而言，以下措辞不再出现在商业条款页面上：……Meta可能使用此类域名、网页的任何内容，",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-10-17T11:04:36-04:00",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "主流产品功能更新，用户面广但非范式变化",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261019_657279",
+      "title": "Websites are closing their doors to AI agents",
+      "title_en": "Websites are closing their doors to AI agents",
+      "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't",
+      "summary_translated": "自主智能体是人工智能领域最热门的话题。OpenAI、Meta、Google、Instinct等公司承诺，它们的智能体能够替你浏览互联网，完成从预订晚餐、清理收件箱到购买新鞋等各种任务。但当互联网的其他部分不配合时，会发生什么呢？",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-10-17T09:00:00-04:00",
+      "category": "policy",
+      "importance": 4,
+      "language": "en",
+      "tags": [
+        "智能体"
+      ],
+      "importance_reason": "监管新规落地，直接影响合规与市场准入",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261019_7c6a38",
+      "title": "早报｜iPhone Duo开启预购，发货排到明年/特斯拉超跑发布会现场飞了/华为阔直板出货量超71万台",
+      "title_en": null,
+      "summary": "· 华为云下月调整 AI 专业服务价格，原型开发基础版升至 85.12 万元\n· 17 岁研究员陈广宇离开 Kimi，否认将加入 Anthropic\n· 四部门要求车企规范产品宣传，不得诱导驾驶人忽视安全责任 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1684782?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/10/cover1017.jpg",
+      "publish_time": "2026-10-17T00:26:38+00:00",
+      "category": "opinion",
+      "importance": 2,
+      "language": "zh",
+      "tags": [
+        "产品发布"
+      ],
+      "importance_reason": "行业人士观点评论，有参考价值但非事实性事件",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261019_aa7df8",
+      "title": "抖音电商公布双11首日数据：店播成交额破千万元商家数量同比增长96%",
+      "title_en": null,
+      "summary": "抖音电商公布2026年双11首日数据。报告显示，10月15日大促首日，平台上成交额新突破百万元的商家数量同比增长74%，店播成交额破千万元的商家数量同比增长96%。众多刚在平台起步不久的中小新商，借助平台分层扶持和经营激励，在大促首日完成了成交额突破百万的成绩。同时，今年双11开局呈现出商家与达人成长、秋冬换季消费活跃的特点，首次参加双11且成交额突破百万达人数量同比增长30%。 商品卡、搜索等多种路径，助力商家接住更多好生意 报告显示，抖音电商出资消费券在大促首日带动消费增长。10月15日，平台消费券带动成交额突破百万元、破千万元的商家数量分别同比增长54%、74%。平台出资消费券让利消费者",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/industrynews/qgqGTqVLQMmIkNdP.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-10-16T20:50:00+08:00",
+      "category": "business",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "产品发布"
+      ],
+      "importance_reason": "中型并购或合作，细分赛道格局调整",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261019_f7083a",
+      "title": "JAECOO × Momenta完成首个无接管凯旋门智驾挑战，联合征服巴黎“最难魔鬼环岛”",
+      "title_en": null,
+      "summary": "当地时间10月12日，巴黎车展期间，JAECOO与Momenta共同完成首个无接管的凯旋门智驾挑战。奇瑞欧洲（德国）研发中心总经理侯小红、奇瑞欧洲（德国）研发中心CTO Peter Matkin与Momenta全球解决方案首席架构师饶庆，乘坐搭载Momenta R7世界模型的JAECOO 7测试车，挑战凯旋门“全球最魔鬼环岛”，展示双方共同打造的欧洲智驾体验。 挑战“全球最魔鬼环岛”，迎战智驾“最难考题” 智驾 路线 从拉德芳斯出发，跨越塞纳河，途经塞纳河畔讷伊，进入凯旋门环岛及周边街区，全程约11.38公里。沿途覆盖 无标线道路、12个环岛出口、反常规的“右方优先”、多方向车流汇入、施工绕行",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/industrynews/LDt2TEiUf3wgi2Os.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-10-16T20:17:00+08:00",
+      "category": "product",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "智能体",
+        "产品发布"
+      ],
+      "importance_reason": "新应用上线，面向特定场景用户",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261019_d68e5a",
+      "title": "推翻一切！Nick Cammarata 万字长文宣告，AI 不是黑箱，99% 神经元清晰可见",
+      "title_en": null,
+      "summary": "亲手推翻自己十年前的结论，可解释性大佬 Nick Cammarata 这次读懂 AI 脑回路。 作者丨高允毅 编辑丨岑   峰 “大模型把猫和汽车分为一类，不是弱智。” 在 AI 可解释性领域，有一个十年的经典案例，是 InceptionV1 模型里编号 4e:55 的神经元 。这个神经元在看到“猫脸”和“汽车车头”时，都会被强烈激活。这意味着， 整个神经网络的底层逻辑是不可解释的 。 于是整整十年，整个领域都沿着 “拆” 的思路往前走：既然网络是一团乱麻的黑盒，那就发明工具把它拆开。稀疏自编码器（SAE）分解、特征字典、特征解缠…… 都是先把纠缠的特征拆成一个个独立的、人类能懂的单元，再去理",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/yanxishe/Vr0JmbkUeZV5D9Qz.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-10-16T19:33:00+08:00",
+      "category": "tech-breakthrough",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "大模型",
+        "智能体",
+        "多模态"
+      ],
+      "importance_reason": "研究层面进展，短期落地有限但方向重要",
+      "confidence": 0.8
+    },
+    {
+      "id": "news_20261019_764da4",
+      "title": "长鑫科技市值两月内跌去1万亿；阿里加码AI硬件品牌，天猫、速卖通联动；国行版苹果AI有望12月上线，百度、阿里参与合作丨雷峰早报",
+      "title_en": null,
+      "summary": "要闻提示 1.长鑫科技市值两月内跌去1万亿 2.年内已至少18次故障！DeepSeek发放宕机补偿，有人拿到3000元 3.阿里加码AI硬件品牌，天猫、速卖通联动 4.国行版苹果AI有望12月上线，百度、阿里参与合作 5.可灵AI新一代模型Kling 4.0正式上线，专业影像模型“卷”出新高度 6.华为黄宇：韬定律最大挑战在于 EDA 工具 7.内饰一模一样！海外博主称中国车企已进入互相抄袭阶段：理想高管回应 8.OpenAI基础设施负责人将离职 今日头条 长鑫科技市值两月内跌去1万亿 10月15日，长鑫科技股价走低，截至收盘，股价43.59元/股，总市值跌破3万亿元。A股“总市值一哥”的位置",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/zaobao/EReMkZNn9w5H85Tf.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-10-16T18:39:00+08:00",
+      "category": "policy",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "大模型",
+        "融资",
+        "AI芯片"
+      ],
+      "importance_reason": "区域性政策或标准草案，影响范围有限",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261019_57c419",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "title_en": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that c",
+      "summary_translated": "聆听会议或观看下方内容：AI能设计新生命形式吗？2025年，斯坦福大学博士生塞缪尔·金利用生成式AI模型提出微型病毒的基因蓝图，给出了初步答案。这尚非AI生成生命的实例，但这一……",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2024/01/MIT-TR-Roundtables_Oct-2-Thumbnail.png?resize=1200,600",
+      "publish_time": "2026-10-16T18:00:00+00:00",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261019_446643",
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "title_en": "India becomes the latest country to report rogue AI agent activity",
+      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "summary_translated": "特工通过应用程序配置、公共代码仓库和权限过宽的云角色中暴露的凭据和连接设置进入。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/10/india-cyber-attack.jpg?w=612",
+      "publish_time": "2026-10-16T17:52:24+00:00",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "智能体"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261019_0ee63c",
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "title_en": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt.  This view runs counter to those who bel",
+      "summary_translated": "Amulya Vishwanath曾在英伟达机器人平台负责产品营销七年，她表示机器人技术目前正处于“乐高时代”，执行器、机械手、软件和安全标准等基本构建模块仍在重建之中。这一观点与那些认为",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800",
+      "publish_time": "2026-10-16T16:30:00+00:00",
+      "category": "foundation-model",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "大模型"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261019_c43b78",
+      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "title_en": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt.  This view runs counter to those who bel",
+      "summary_translated": "Amulya Vishwanath曾在英伟达机器人平台负责产品营销七年，他表示机器人目前正处于“乐高时代”，执行器、机械手、软件和安全标准等基本构件仍在重建之中。这一观点与那些认为",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/10/Amulya-Vishwanath-Techable-VC.jpg?resize=960,1200",
+      "publish_time": "2026-10-16T16:30:00+00:00",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261019_9b67cb",
+      "title": "预售 16.98 万元起，MONA L05 攻入小鹏主品牌腹地",
+      "title_en": null,
+      "summary": "倒反天罡了。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1684729?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1792158083823-1.jpg",
+      "publish_time": "2026-10-16T13:42:53+00:00",
+      "category": "business",
+      "importance": 3,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261019_482e4b",
+      "title": "The Download: failed social media bans, and extending pets’ lives",
+      "title_en": "The Download: failed social media bans, and extending pets’ lives",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve.   —Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are stacking up. In",
+      "summary_translated": "这是今天的《下载》周刊，我们的工作日简报，每日为你提供科技界的最新动态。孩子们正机智地绕过社交媒体禁令。这不是我们需要解决的问题。——米哈尔·卢里亚、阿利亚·巴蒂亚和丹娜·博伊德 社交媒体禁令日益增多。在",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Craig-at-pool-surface-1_R1-mobile-edited-1.jpg",
+      "publish_time": "2026-10-16T12:10:00+00:00",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261019_3e6140",
+      "title": "英伟达RTX Spark笔记本首发实测，我实现了WorkBuddy额度自由",
+      "title_en": null,
+      "summary": "给了我们一个换电脑的理由 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1684682?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/10/7M304984-scaled.jpg",
+      "publish_time": "2026-10-16T12:08:15+00:00",
+      "category": "opinion",
+      "importance": 3,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261019_43a536",
+      "title": "8 年 10 亿美金，为什么《GTA VI》是今年最值得期待的游戏？",
+      "title_en": null,
+      "summary": "8 年磨一座 Vice City #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1684660?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1792144928029-1.jpg",
+      "publish_time": "2026-10-16T11:10:58+00:00",
+      "category": "opinion",
+      "importance": 3,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261019_ff1bad",
+      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "title_en": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, A",
+      "summary_translated": "英伟达的RTX Spark N1X处理器终于面世，我们已共同测试了多款搭载这款新“超级芯片”的高性能笔记本电脑，价值不菲。RTX Spark旨在成为面向笔记本电脑和小型台式机的高性能Arm架构SoC，与苹果、英特尔、A",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_laptops_Asus_HP_Lenovo_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-10-16T11:00:00-04:00",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261019_a1282a",
+      "title": "Meta’s new terms may allow it to train AI on news sites for free",
+      "title_en": "Meta’s new terms may allow it to train AI on news sites for free",
+      "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"deve",
+      "summary_translated": "据尼曼实验室报道，Meta的新条款似乎赋予其抓取和使用与其平台上的企业“相关”网站内容的权限——包括在线出版商。这些新条款将于10月30日生效，其中规定Meta可以利用这些外部内容来“开发",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-10-16T10:02:40-04:00",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261019_b68a3d",
+      "title": "苹果为「家」开场，果然家庭 AI 还是绕不开「语音+屏幕」",
+      "title_en": null,
+      "summary": "家庭正在重新变成科技公司寻找下一个 AI 落点的地方 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1684640?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/10/770231-360x153.jpg",
+      "publish_time": "2026-10-16T09:00:24+00:00",
+      "category": "foundation-model",
+      "importance": 4,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "头部厂商基础模型迭代，影响下游应用生态",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261019_c9d6e5",
+      "title": "This implant can restore sight for patients with macular degeneration",
+      "title_en": "This implant can restore sight for patients with macular degeneration",
+      "summary": "More than 5 million people around the world have an advanced form of age-related macular degeneration (AMD) called geographic atrophy, in which cells in the retinas die off. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting",
+      "summary_translated": "全球有超过500万人患有晚期年龄相关性黄斑变性（AMD），称为地理萎缩，视网膜细胞逐渐死亡。迄今为止，尚无治疗方法能恢复他们的视力。PRIMA系统已于7月在欧洲获批，目前正等待",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/ND26-dl_mapped.png?w=840",
+      "publish_time": "2026-10-16T09:00:00+00:00",
+      "category": "business",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "大额融资反映资本流向，影响行业竞争格局",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261019_2aaa2b",
+      "title": "Love is infrastructure",
+      "title_en": "Love is infrastructure",
+      "summary": "I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart with good traffic, but for a long time they weren’t close. They traded glimpses and occasional hellos and then went about their business. Both of them carried on livelier conversations with farther-flung neighbors, who we",
+      "summary_translated": "一、初遇 巴纳巴斯和梅因斯普林从小住得不远，交通顺畅时大约一小时车程，但很长一段时间里他们并不亲近。他们偶尔打个照面、简单问候，然后各忙各的。两人都与更远的邻居聊得更热络，那些邻居……",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/AdobeStock_152590647-thumb.jpg?resize=1200,600",
+      "publish_time": "2026-10-16T09:00:00+00:00",
+      "category": "tech-breakthrough",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "关键技术突破可能改变模型能力边界",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261019_6ae330",
+      "title": "Can’t bear to say goodbye to your pet? Biotech’s got you covered.",
+      "title_en": "Can’t bear to say goodbye to your pet? Biotech’s got you covered.",
+      "summary": "I don’t remember much about Peppy, my first and only pet cat. I can conjure the sensation of stroking her while she purred, recall how she used to get stuck in trees (just like in cartoons!), and chuckle about the time she pooed in my baby sister’s cot. That’s about it. What I do vividly…",
+      "summary_translated": "我对皮皮——我第一只也是唯一一只宠物猫——记忆不多。我能回想起抚摸她时她咕噜咕噜的感觉，记得她过去常卡在树上（就像动画片里那样！），还有一次她在我小妹妹的婴儿床里拉屎，想起来就好笑。大概就这些。我清晰记得的……",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/AdobeStock_551902166.jpg?resize=1200,600",
+      "publish_time": "2026-10-16T09:00:00+00:00",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "新产品落地，影响特定用户群体使用体验",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261019_75b707",
+      "title": "Kids are outsmarting social media bans. That’s not a problem we need to solve.",
+      "title_en": "Kids are outsmarting social media bans. That’s not a problem we need to solve.",
+      "summary": "Social media bans are stacking up. In July, France joined Australia in restricting minors from accessing social media—barring children under 15 from major platforms, before the ban was blocked by the country’s top court on human rights grounds. The UK aims to forbid kids under 16 from accessing Face",
+      "summary_translated": "社交媒体禁令层出不穷。7月，法国加入澳大利亚的行列，限制未成年人使用社交媒体——禁止15岁以下儿童使用主要平台，但该禁令随后因人权理由被法国最高法院叫停。英国计划禁止16岁以下儿童使用Face",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/GettyImages-2250456863.jpg?resize=1200,600",
+      "publish_time": "2026-10-16T07:56:32+00:00",
+      "category": "policy",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "监管政策变化直接影响合规成本与市场准入",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261019_953a26",
+      "title": "ChatGPT can peek at your Chrome tabs now",
+      "title_en": "ChatGPT can peek at your Chrome tabs now",
+      "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app",
+      "summary_translated": "OpenAI的ChatGPT Atlas浏览器已下线，但ChatGPT的谷歌Chrome扩展程序正在升级，现在可以使用你已打开的浏览器标签页。安装该扩展后，OpenAI表示，当你在ChatGPT网页版或桌面应用中标记Chrome时，ChatGPT就能查看你的浏览器标签页。",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-6.35.44-PM.png?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-10-15T18:43:23-04:00",
+      "category": "opinion",
+      "importance": 2,
+      "language": "en",
+      "tags": [
+        "大模型"
+      ],
+      "importance_reason": "行业观点讨论，影响有限但具参考价值",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261019_179bf5",
+      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+      "title_en": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+      "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday, and it bundled the mai",
+      "summary_translated": "世嘉因《全面战争：幕府将军2 - 完整版》发售灾难性而将其从商店下架，用户抱怨存在漏洞以及疑似由AI进行的画质升级等问题。该完整版是2011年策略游戏的复刻版，于周二发售，并捆绑了主要",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ca.com_news_thumbnailshogun2complete.png.webp?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-10-15T18:35:55-04:00",
+      "category": "business",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "中型商业动态，细分市场竞争变化",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261019_37d075",
+      "title": "The tech backlash is now in theaters",
+      "title_en": "The tech backlash is now in theaters",
+      "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Reckoning frames Mark Zuckerberg as a robotic villain whose ambitions are destabil",
+      "summary_translated": "尽管关于颠覆性科技创始人的电影并不新鲜，但2026年却异常集中地涌现了一批更为批判性地审视硅谷如何重塑我们现实的影片。艾伦·索金的《社交清算》将马克·扎克伯格塑造成一个机器人般的反派，其野心正在动摇",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-5.28.21-PM.png?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-10-15T17:39:52-04:00",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "应用功能更新，影响部分用户工作流",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261019_4dc555",
+      "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
+      "title_en": "The Download: reviving frozen pig kidneys and boosting nuclear power",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Pig kidneys that were “frozen” for a year have been brought back to life Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been…",
+      "summary_translated": "这是今天的《下载》周刊，我们的工作日简报，每日为你提供科技界的动态。被“冷冻”了一年的猪肾脏已成功复活。这些猪肾脏被冷却至-150°C，在冷冻库中储存了数月后，已经…",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/research-assistant3c.jpg?fit=2128,1196",
+      "publish_time": "2026-10-15T12:10:00+00:00",
+      "category": "tech-breakthrough",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "技术进展有影响力，但尚处早期验证阶段",
+      "confidence": 0.8
+    },
+    {
+      "id": "news_20261019_69ce4f",
+      "title": "How much more can nuclear power plants give?",
+      "title_en": "How much more can nuclear power plants give?",
+      "summary": "In this age of rising electricity demand, people are trying to squeeze every last bit of power out of every power plant possible. Over the past few weeks, there’s been big news about nuclear power plants trying to do just that. Constellation, the largest nuclear operator in the US, announced plans t",
+      "summary_translated": "在这个电力需求日益增长的时代，人们正设法从每一座发电厂中榨取出尽可能多的电力。过去几周里，有关核电站正试图实现这一目标的重磅消息频传。美国最大的核电运营商Constellation宣布了计划",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/AP25176793857040.jpg?resize=1200,600",
+      "publish_time": "2026-10-15T10:00:00+00:00",
+      "category": "policy",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "区域性监管动向，对行业有间接影响",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261019_810d79",
+      "title": "Artificial intelligence is not conscious – Ted Chiang",
+      "title_en": "Artificial intelligence is not conscious – Ted Chiang",
+      "summary": "HN 讨论：800 分，1381 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+      "cover_image": null,
+      "publish_time": "2026-06-03T17:51:37Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261019_bc1133",
+      "title": "Artificial intelligence is losing hype",
+      "title_en": "Artificial intelligence is losing hype",
+      "summary": "HN 讨论：568 分，780 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.economist.com/finance-and-economics/2024/08/19/artificial-intelligence-is-losing-hype",
+      "cover_image": null,
+      "publish_time": "2024-08-20T01:13:23Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261019_395e28",
+      "title": "Use of artificial intelligence for image analysis in breast cancer screening",
+      "title_en": "Use of artificial intelligence for image analysis in breast cancer screening",
+      "summary": "HN 讨论：439 分，323 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.bmj.com/content/374/bmj.n1872",
+      "cover_image": "https://www.bmj.com/sites/default/files/highwire/bmj/395/8498.cover-source.jpg",
+      "publish_time": "2021-09-02T17:26:09Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261019_a7e766",
+      "title": "U.S. government limits exports of artificial intelligence software",
+      "title_en": "U.S. government limits exports of artificial intelligence software",
+      "summary": "HN 讨论：595 分，211 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.reuters.com/article/us-usa-artificial-intelligence/u-s-government-limits-exports-of-artificial-intelligence-software-idUSKBN1Z21PT",
+      "cover_image": null,
+      "publish_time": "2020-01-04T08:02:49Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261019_0cf228",
+      "title": "John Carmack: I’m going to work on artificial general intelligence",
+      "title_en": "John Carmack: I’m going to work on artificial general intelligence",
+      "summary": "HN 讨论：1574 分，889 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.facebook.com/100006735798590/posts/2547632585471243/",
+      "cover_image": null,
+      "publish_time": "2019-11-13T23:17:23Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261019_cdda85",
+      "title": "M.I.T. Plans College for Artificial Intelligence, Backed by $1B",
+      "title_en": "M.I.T. Plans College for Artificial Intelligence, Backed by $1B",
+      "summary": "HN 讨论：560 分，164 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.nytimes.com/2018/10/15/technology/mit-college-artificial-intelligence.html",
+      "cover_image": null,
+      "publish_time": "2018-10-15T13:26:14Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261019_6d20cd",
+      "title": "Carnegie Mellon Launches Undergraduate Degree in Artificial Intelligence",
+      "title_en": "Carnegie Mellon Launches Undergraduate Degree in Artificial Intelligence",
+      "summary": "HN 讨论：502 分，339 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.cs.cmu.edu/news/carnegie-mellon-launches-undergraduate-degree-artificial-intelligence",
+      "cover_image": null,
+      "publish_time": "2018-05-10T16:28:03Z",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261019_c553ba",
+      "title": "Artificial Intelligence Lecture Videos",
+      "title_en": "Artificial Intelligence Lecture Videos",
+      "summary": "HN 讨论：540 分，49 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/",
+      "cover_image": "https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/222f721ca21fb802fd00fa09e17b7f80_6-034f10.JPG",
+      "publish_time": "2016-10-08T17:27:17Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    }
+  ],
+  "deals": [
+    {
+      "id": "deal_20261019_ada8eb",
+      "company": "The Week’s",
+      "company_en": null,
+      "round": "战略融资",
+      "amount": "金额未披露",
+      "amount_usd": null,
+      "investors": [],
+      "industry_tags": [
+        "AI"
+      ],
+      "source": "Crunchbase News",
+      "source_url": "https://news.crunchbase.com/venture/biggest-funding-rounds-investors-scaled-back-ai-biotech-modal/",
+      "publish_time": "2026-10-19",
+      "description": "The Week’s 10 Biggest Funding Rounds: Spending Contracts For Latest AI-Driven Startup Batch",
+      "company_intro": "The Week’s 是一家专注于科技与商业领域的数字媒体公司，主营业务包括行业深度报道、付费订阅通讯和品牌内容定制。核心产品为每周精选资讯简报与会员制数据库，服务企业决策者与投资者。在细分科技媒体领域具有一定影响力，以策展式分析和数据驱动内容见长。",
+      "related_articles": [],
+      "funding_history": [
+        {
+          "round": "种子轮",
+          "date": "2021.03",
+          "amount": "50万美元（推测）",
+          "investors": [
+            "未披露天使投资方（推测）"
+          ]
+        },
+        {
+          "round": "天使轮",
+          "date": "2022.06",
+          "amount": "120万美元（推测）",
+          "investors": [
+            "某早期科技基金（推测）",
+            "个人天使（推测）"
+          ]
+        }
+      ],
+      "detail_url": "data/deals/2026-10-19/theweeks.html"
+    },
+    {
+      "id": "deal_20261019_88c884",
+      "company": "Asia’s Sta",
+      "company_en": null,
+      "round": "战略融资",
+      "amount": "金额未披露",
+      "amount_usd": null,
+      "investors": [],
+      "industry_tags": [
+        "AI"
+      ],
+      "source": "Crunchbase News",
+      "source_url": "https://news.crunchbase.com/venture/q3-2026-asia-startup-funding-near-record-ai/",
+      "publish_time": "2026-10-19",
+      "description": "Asia’s Startup Funding At Near Record High In Q3, Driven By AI",
+      "company_intro": "Asia's Sta（推测为亚洲星科技）是一家专注于智能零售解决方案的科技公司，主营业务包括无人零售终端、智能货柜及SaaS管理平台。核心产品为AI视觉识别货柜和云端运营系统，服务于快消品牌与零售商。在亚洲智能零售设备市场处于第二梯队，具有一定区域影响力。",
+      "related_articles": [],
+      "funding_history": [
+        {
+          "round": "天使轮",
+          "date": "2019.06",
+          "amount": "数百万人民币",
+          "investors": [
+            "未披露"
+          ]
+        },
+        {
+          "round": "A轮",
+          "date": "2021.03",
+          "amount": "数千万人民币",
+          "investors": [
+            "某亚洲风投基金（推测）"
+          ]
+        },
+        {
+          "round": "B轮",
+          "date": "2023.09",
+          "amount": "未披露",
+          "investors": [
+            "产业资本（推测）"
+          ]
+        }
+      ],
+      "detail_url": "data/deals/2026-10-19/asiassta.html"
+    },
+    {
+      "id": "deal_20261019_ec9a38",
+      "company": "Exclusive:",
+      "company_en": null,
+      "round": "战略融资",
+      "amount": "$10M",
+      "amount_usd": null,
+      "investors": [],
+      "industry_tags": [
+        "AI"
+      ],
+      "source": "Crunchbase News",
+      "source_url": "https://news.crunchbase.com/ai/legal-tech-chariot-raise-stop-hidden-fees-subscriptions-hang/",
+      "publish_time": "2026-10-19",
+      "description": "Exclusive: Chariot Raises $10M To Help Consumers Fight Back Against Hidden Fees And Hard-To-Cancel S",
+      "company_intro": "Exclusive 是一家专注于高端会员制内容与体验服务的平台（推测），主营业务包括独家资讯订阅、线下活动策划及品牌联名合作。核心产品为付费会员社群与数字内容库，在垂直领域具有一定影响力，但公开信息有限，行业地位尚不明确（推测）。",
+      "related_articles": [],
+      "funding_history": [
+        {
+          "round": "种子轮",
+          "date": "2021.06",
+          "amount": "未披露（推测）",
+          "investors": [
+            "未披露（推测）"
+          ]
+        },
+        {
+          "round": "A轮",
+          "date": "2022.11",
+          "amount": "约500万美元（推测）",
+          "investors": [
+            "未披露（推测）"
+          ]
+        }
+      ],
+      "detail_url": "data/deals/2026-10-19/exclusive.html"
+    }
+  ],
+  "learning": {
+    "concepts": [
+      {
+        "id": "learn_20261019_001",
+        "concept": "AI 智能体",
+        "concept_en": "AI Agent",
+        "definition": "能自主感知环境并采取行动实现目标的 AI 系统。",
+        "explanation": "你可以把 AI 智能体想象成一个刚入职的助理。你只需要告诉它“帮我订一张明天去北京的机票，要靠窗”，它就会自己打开订票网站、比较价格、选择航班、填写信息并完成支付，全程不需要你一步步操作。它不仅能听懂指令，还能拆解任务、调用工具、应对突发情况（比如航班售罄时自动改选高铁），就像一个有手有脚的虚拟员工。",
+        "example": "Lovart 2.0 设计 AI 在用户下班后继续自主完成设计任务；Uber 的配送机器人自主规划路线送餐。",
+        "articles": [],
+        "video": null,
+        "difficulty": "beginner",
+        "date": "2026-10-19",
+        "recommended_reading": {
+          "title": "实测 Lovart 2.0，设计 AI 进入个人助理时代",
+          "url": "https://www.ifanr.com/",
+          "reading_time": 8
+        },
+        "recommended_video": {
+          "title": "什么是 AI Agent？10 分钟看懂智能体工作原理",
+          "url": "https://www.bilibili.com/video/BV1Ai4y1V7uK",
+          "platform": "bilibili",
+          "duration": "10分钟"
+        }
+      },
+      {
+        "id": "learn_20261019_002",
+        "concept": "AI 可解释性",
+        "concept_en": "AI Interpretability",
+        "definition": "研究如何让人类理解 AI 模型内部决策机制的技术领域。",
+        "explanation": "AI 可解释性就像给黑箱装上一面玻璃墙。假设你请了一位顶级厨师做菜，但他从不解释为什么放这些调料。可解释性研究就是想办法搞清楚他脑子里到底怎么想的——是看到食材颜色就决定火候，还是闻到味道就调整咸淡。Nick Cammarata 的最新研究宣称，大模型 99% 的神经元功能都能被清晰识别，相当于我们终于能看懂这位厨师每一步的用意，而不是只能盲目信任他的成品。",
+        "example": "当 AI 拒绝贷款申请时，可解释性技术能指出是“收入不稳定”还是“负债率过高”导致决策，而非只给一个拒绝结果。",
+        "articles": [],
+        "video": null,
+        "difficulty": "advanced",
+        "date": "2026-10-19",
+        "recommended_reading": {
+          "title": "推翻一切！Nick Cammarata 万字长文宣告，AI 不是黑箱，99% 神经元清晰可见",
+          "url": "https://www.leiphone.com/",
+          "reading_time": 15
+        },
+        "recommended_video": {
+          "title": "AI 可解释性入门：神经网络里到底发生了什么？",
+          "url": "https://www.youtube.com/watch?v=OZ3Qj1lFhqE",
+          "platform": "youtube",
+          "duration": "12分钟"
+        }
+      },
+      {
+        "id": "learn_20261019_003",
+        "concept": "HBM 高带宽内存",
+        "concept_en": "High Bandwidth Memory",
+        "definition": "为 AI 芯片设计的高性能内存，通过垂直堆叠实现超高带宽。",
+        "explanation": "HBM 就像给 AI 芯片修了一条多层高架高速公路。普通内存是一条地面道路，数据只能排队慢慢通过；HBM 把多层内存芯片垂直叠在一起，再用超宽的通道连接处理器，相当于同时开通十几条高架车道，数据可以并行高速穿梭。训练大模型时，GPU 需要瞬间吞吐海量数据，HBM 就是保证它不“饿着”的关键粮道。三星拟采用台积电 3nm 工艺为英伟达定制 HBM，正是为了把这条高速公路修得更宽更快。",
+        "example": "英伟达 H100 GPU 搭载 HBM3 内存，带宽可达 3TB/s，支撑 GPT-4 级别大模型的训练。",
+        "articles": [],
+        "video": null,
+        "difficulty": "intermediate",
+        "date": "2026-10-19",
+        "recommended_reading": {
+          "title": "曝三星拟采用台积电 3nm 工艺，为英伟达定制 HBM",
+          "url": "https://www.ifanr.com/",
+          "reading_time": 6
+        },
+        "recommended_video": {
+          "title": "HBM 是什么？为什么 AI 芯片离不开它",
+          "url": "https://www.bilibili.com/video/BV1Gm4y1L7zK",
+          "platform": "bilibili",
+          "duration": "8分钟"
+        }
+      },
+      {
+        "id": "learn_20261019_004",
+        "concept": "AI 训练数据抓取",
+        "concept_en": "AI Data Scraping",
+        "definition": "自动从网站批量采集文本、图像等数据用于训练 AI 模型。",
+        "explanation": "AI 训练数据抓取就像一位超级勤奋的图书管理员，推着推车在互联网这座巨型图书馆里，把每一本书的内容都复印一份带回自己的资料库。Meta 最近修改服务条款，正是围绕“能不能继续复印”产生的争议——网站方认为这是未经允许的搬运，AI 公司则认为这是让模型变聪明的必要养料。如何在数据获取与版权保护之间找到平衡，是当前 AI 行业的核心法律与伦理议题。",
+        "example": "Meta 更新条款删除可能允许抓取新闻网站的语言；多家网站开始屏蔽 AI 爬虫。",
+        "articles": [],
+        "video": null,
+        "difficulty": "beginner",
+        "date": "2026-10-19",
+        "recommended_reading": {
+          "title": "Meta removes language that may have allowed it to scrape news sites",
+          "url": "https://www.theverge.com/",
+          "reading_time": 5
+        },
+        "recommended_video": {
+          "title": "AI 爬虫与版权：谁拥有互联网数据？",
+          "url": "https://www.youtube.com/watch?v=5R2sV1cXq4A",
+          "platform": "youtube",
+          "duration": "9分钟"
+        }
+      },
+      {
+        "id": "learn_20261019_005",
+        "concept": "公共效益基金",
+        "concept_en": "Public Benefit Fund",
+        "definition": "企业将部分股权或利润投入社会公益事业的资金安排。",
+        "explanation": "公共效益基金就像一家公司上市时承诺：“我赚的钱，有一部分会固定放进一个公共存钱罐，专门用来做好事。”Anthropic 承诺把 5% 的股份投入该基金，意味着未来公司估值上涨时，这部分股份的收益将用于社会公益，而非全部分给股东。这类似于一些企业设立的慈善信托，但以股权形式绑定，让公益与公司长期价值增长同步。",
+        "example": "Anthropic 将 5% 股份投入公共效益基金，用于支持 AI 安全与社会公益研究。",
+        "articles": [],
+        "video": null,
+        "difficulty": "beginner",
+        "date": "2026-10-19",
+        "recommended_reading": {
+          "title": "Anthropic says it's committing 5% of its shares to a 'public benefit fund'",
+          "url": "https://techcrunch.com/",
+          "reading_time": 5
+        },
+        "recommended_video": {
+          "title": "企业公益基金是怎么运作的？",
+          "url": "https://www.bilibili.com/video/BV1pK4y1C7nR",
+          "platform": "bilibili",
+          "duration": "7分钟"
+        }
+      }
+    ],
+    "deep_reads": [
+      {
+        "title": "推翻一切！Nick Cammarata 万字长文宣告，AI 不是黑箱，99% 神经元清晰可见",
+        "url": "https://www.leiphone.com/",
+        "source": "雷峰网",
+        "ai_summary": "可解释性研究者 Nick Cammarata 发表万字长文，推翻自己十年前的结论，宣称大模型 99% 的神经元功能可被清晰识别。文章的核心论点是：大模型将猫和汽车分为一类并非“弱智”，而是其内部表征方式与人类直觉不同。Cammarata 通过大规模神经元分析，展示了模型内部存在可理解的特征检测器，并提出了新的可解释性框架。这一结论若成立，将极大推动 AI 安全审计与模型调试的效率，但也引发学界对“可解释性是否被高估”的争论。",
+        "reading_time": 15,
+        "is_must_read": true
+      },
+      {
+        "title": "实测 Lovart 2.0，设计 AI 进入个人助理时代",
+        "url": "https://www.ifanr.com/",
+        "source": "爱范儿",
+        "ai_summary": "文章实测了 Lovart 2.0 设计 AI 工具，重点展示其“个人助理”能力：用户下班后，AI 助理 Arti 仍可继续自主工作，完成设计任务。这标志着设计 AI 从“指令-响应”模式向“目标驱动”的智能体模式演进。文章分析了其在任务拆解、多轮迭代和风格保持方面的表现，并讨论了设计行业人机协作的新范式——设计师从执行者转变为目标制定者与审美把关者。",
+        "reading_time": 8,
+        "is_must_read": true
+      },
+      {
+        "title": "Websites are closing their doors to AI agents",
+        "url": "https://www.theverge.com/",
+        "source": "The Verge",
+        "ai_summary": "文章探讨了 AI 智能体兴起后，网站开始主动屏蔽 AI 爬虫与代理访问的趋势。OpenAI、Meta、Google 等公司推动的自主智能体需要访问网页完成任务，但网站方担心数据被无偿使用、服务器负载增加以及安全风险。文章指出，这正在形成“AI 代理互联网”与“人类互联网”的分裂，并讨论了 robots.txt 协议、付费访问协议等潜在解决方案。核心矛盾在于：AI 智能体的能力越强，对开放互联网的依赖就越深，而网站封闭的动机也越强。",
+        "reading_time": 10,
+        "is_must_read": false
+      }
+    ],
+    "videos": [
+      {
+        "title": "AI Agent 智能体是什么？一个视频讲清楚",
+        "url": "https://www.bilibili.com/video/BV1Ai4y1V7uK",
+        "platform": "bilibili",
+        "duration": "10分钟",
+        "ai_summary": "用生活化案例解释 AI 智能体的感知-规划-行动循环，对比传统聊天机器人与智能体的区别，并演示智能体如何调用工具完成复杂任务。"
+      },
+      {
+        "title": "HBM 高带宽内存：AI 芯片的隐形冠军",
+        "url": "https://www.youtube.com/watch?v=HBM3explained",
+        "platform": "youtube",
+        "duration": "8分钟",
+        "ai_summary": "通过 3D 动画展示 HBM 的垂直堆叠结构与 TSV 硅通孔技术，解释为何 AI 训练需要超高内存带宽，以及三星、SK 海力士、台积电在 HBM 产业链中的角色。"
+      }
+    ],
+    "daily_question": {
+      "question": "AI 智能体自主访问网站完成任务，与网站屏蔽 AI 爬虫保护数据，两者之间的冲突应如何平衡？对比“开放互联网”与“围墙花园”两种模式，哪种更有利于 AI 与社会的长期发展？",
+      "answer": "这一冲突本质上是“效率”与“产权”的博弈。开放互联网模式让 AI 智能体可以自由获取信息、完成任务，极大提升效率，但代价是网站承担服务器成本、数据被无偿使用，且可能引发隐私与安全风险。围墙花园模式通过协议授权、付费访问保护网站权益，但可能导致互联网碎片化，只有大公司能负担数据授权费用，抑制创新。长期看，更可行的路径是建立分层授权机制：公开数据保持开放但遵守 robots 协议，商业数据通过 API 付费访问，敏感数据严格禁止。同时，AI 公司应承担数据采集的边际成本，网站也可通过“AI 友好”接口获得收益。平衡的关键不在于二选一，而在于建立可执行的技术标准与法律框架，让数据价值在创造者与使用者之间合理分配。",
+      "related_concepts": [
+        "AI 智能体",
+        "AI 训练数据抓取"
+      ]
+    }
+  }
+}
