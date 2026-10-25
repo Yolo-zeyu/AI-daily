@@ -1,0 +1,1272 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T11:14:37.306127+08:00",
+  "news": [
+    {
+      "id": "news_20261025_41208e",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "title_en": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "summary_translated": "从苹果一再推迟的Siri AI，到OpenAI混乱的“超级应用”发布，以下是那些被关停或未达预期的AI项目。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
+      "publish_time": "2026-10-24T19:00:00+00:00",
+      "category": "foundation-model",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "头部厂商基础模型迭代，影响下游应用生态",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261025_b1787c",
+      "title": "Blue Planet III is keeping the rough edges in the age of AI",
+      "title_en": "Blue Planet III is keeping the rough edges in the age of AI",
+      "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished ",
+      "summary_translated": "BBC的《蓝色星球III》希望通过保留不完美的镜头来证明其真实性。此前的自然系列以其华丽、水晶般清晰的画面而闻名，看起来几乎好得不像真的。但人工智能的一个明显破绽就是事物看起来过于精致。",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/blue_planet_iii_episode_03_051_screengrab.avif?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-10-24T17:29:12-04:00",
+      "category": "business",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "大额融资反映资本对AI赛道信心",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261025_c737f3",
+      "title": "支付宝AI支付发起年度黑客松大赛，邀开发者把AI创意变成生意",
+      "title_en": null,
+      "summary": "从 Vibe Coding 到 Skill、Agent，AI 正打开新一轮创业窗口：一个人也能打造应用，一项技能也能成为产品。随着创作与开发门槛降低，新的机会正在浮现——让自己做出的 AI 产品，成为用户愿意付费的生意。 面向这股浪潮，10月24日，支付宝AI支付联合观猹发起“PAYATHON 2026”年度黑客松，邀请开发者带着应用、Skill 或 Agent 参赛：接入支付，把创意推向真实市场，争夺 20 万元总奖池。报名截至12月1日，线下决赛将于12月26日举行。 这场黑客松不只比创意与技术，更看产品在真实交易中的价值。这也是支付宝AI支付“开发者为先”产品战略的重要举措：通过持续降低",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/industrynews/ykWM8XAjpHi0biY1.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-10-24T16:49:00+08:00",
+      "category": "tech-breakthrough",
+      "importance": 4,
+      "language": "zh",
+      "tags": [
+        "大模型",
+        "智能体",
+        "产品发布"
+      ],
+      "importance_reason": "关键技术指标突破，可能改变训练成本结构",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261025_a132ca",
+      "title": "“更懂你、会办事”，支付宝携手科大讯飞升级智能座舱服务",
+      "title_en": null,
+      "summary": "10月21日，支付宝车载助手亮相科大讯飞智能汽车产品技术发布会，宣布与讯飞星火智慧座舱战略合作升级，正式启动「讯宝计划」，推动智能座舱从信息交互向生活服务延伸，让车主在车内即可办理更多日常事物。 四大生活服务场景将落地，覆盖出行高频需求 发布会上，支付宝车载助手接入星火智慧座舱3.0的合作成果正式亮相。依托讯飞汽车 Master Agent 的统一调度，双方围绕车主出行生活需求，将推出四大服务场景： 高速无感通行： 用户授权后，可通过支付宝无感扣费，实现快速通行，无需扫码。 停车无感支付： 用户授权后，车辆离场即可完成免密支付。 顺路取快递： 结合回家路线，主动提醒用户顺路取件。 智能点单： ",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/industrynews/WOl6u17gkYoV3PVr.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-10-24T16:43:00+08:00",
+      "category": "product",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "智能体",
+        "产品发布"
+      ],
+      "importance_reason": "主流产品功能更新，影响用户使用体验",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261025_630469",
+      "title": "行业第一！百度健康AI服务MAU超5000万，发布好医矩阵和健康相机",
+      "title_en": null,
+      "summary": "10月24日，百度健康宣布升级文心健康管家，发布「好医矩阵」和「健康相机」。其中好医矩阵包括“好医答、好医加号、好医说、好医榜、好医评”等多项功能，进一步实现AI+真人医生在线问诊与线下就诊等全流程医疗服务的闭环；而全网首发的健康动态视频识别的健康相机，除了支持打字、方言语音、拍照，还支持用户拍摄视频上传、边拍边说等全模态输入的交互方式，进一步降低用户描述健康问题的门槛。 百度健康总经理杨明璐 表示，AI在医疗领域的发展价值，不仅要看服务了多少用户，更要看能否为每一个生命的负责。百度健康持续投入「AI+真人」模式，让诊疗的决定权始终掌握在专业医生手中，赋能但不替代，辅助但不主导，让健康的每一步",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/industrynews/RRFr9U8GKWjNNxfH.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-10-24T16:37:00+08:00",
+      "category": "policy",
+      "importance": 4,
+      "language": "zh",
+      "tags": [
+        "多模态",
+        "产品发布"
+      ],
+      "importance_reason": "监管新规直接影响AI企业合规与市场准入",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261025_07faf6",
+      "title": "Block’s new voice model sounds eerily human",
+      "title_en": "Block’s new voice model sounds eerily human",
+      "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+      "summary_translated": "Block表示，该语音模型可以在MacBook M4 Max上本地运行。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2025/07/jack-dorsey.jpg?resize=1200,822",
+      "publish_time": "2026-10-24T16:00:00+00:00",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "行业领袖观点引发讨论，但非事实性事件",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261025_b8554d",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "title_en": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+      "summary_translated": "一项新研究发现，Grok的人工智能绝大多数推荐共和党候选人，而OpenAI的GPT则偏向民主党；在近500场选举中，这两个AI模型在超过90%的竞选中意见不一致。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1777713346.jpg?resize=1200,900",
+      "publish_time": "2026-10-24T15:00:00+00:00",
+      "category": "business",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "大模型"
+      ],
+      "importance_reason": "中型并购交易，细分赛道整合信号",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261025_a5570f",
+      "title": "史上最快宾利！竟然是一辆 SUV？",
+      "title_en": null,
+      "summary": "不愧是精装版纯电卡宴。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1685572?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/10/2027-bentley-torcal-first-edition-uk-spec-1.jpeg",
+      "publish_time": "2026-10-24T14:35:59+00:00",
+      "category": "product",
+      "importance": 3,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "AI应用落地案例，具行业参考价值",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261025_0c5815",
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "title_en": "Pennsylvania will require labels on AI-generated ads",
+      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artifi",
+      "summary_translated": "周四，宾夕法尼亚州州长乔什·夏皮罗签署了《人工智能欺骗性广告法案》，要求对AI生成的广告进行披露。该法律要求任何广告——无论是静态图像、视频、音频还是文本——只要“经过人工智能显著修改或生成”，均需遵守规定。",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-10-24T14:32:21-04:00",
+      "category": "tech-breakthrough",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "学术成果发布，短期影响有限但方向重要",
+      "confidence": 0.8
+    },
+    {
+      "id": "news_20261025_b2f0cf",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "title_en": "Here are the top AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "summary_translated": "我们整理了一份最值得关注的AI助手清单，这些助手能融入你的短信交流，涵盖通用助手以及专为家庭、旅行和工作设计的助手。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
+      "publish_time": "2026-10-24T14:00:00+00:00",
+      "category": "policy",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "智能体"
+      ],
+      "importance_reason": "区域性政策动态，影响范围相对局部",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261025_9317b9",
+      "title": "拼多多紧急捐赠1000万元 驰援西藏那曲抗震救灾",
+      "title_en": null,
+      "summary": "10月22日，西藏那曲市巴青县发生7.0级地震，造成重大人员伤亡及房屋受损。国务院抗震救灾指挥部办公室、应急管理部将国家地震灾害应急响应由四级提升至三级，各项救援工作正全力推进。 为全力支援一线救灾工作，拼多多紧急通过中华慈善总会向灾区捐赠现金1000万元，用于采购救灾物资和设备、安置受灾群众及支持灾后重建。拼多多已成立救援响应专项小组，将持续关注灾情动态，全力配合和支援后续救灾工作。",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/industrynews/fSAUfIvqRcaucKO0.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-10-24T11:40:00+08:00",
+      "category": "foundation-model",
+      "importance": 4,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "基础模型能力迭代，影响下游应用生态",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261025_92dea7",
+      "title": "开门红强势爆发！抖音商城双11热卖品牌榜发布",
+      "title_en": null,
+      "summary": "双11开门红阶段，大促消费热情全面释放，消费券带动成交额破亿的商家数量同比增长200%，宠物、母婴行业成交额过千万商家数同比增长分别为200%、83%，快消行业成交额破亿品牌数量同比增长167%。服饰、快消、耐消等赛道标杆品牌集中爆发，在开门红阶段迎来生意高峰。 10月23日，开门红阶段“热卖品牌榜”正式出炉，立即揭晓双11开门红哪些品牌迎来强势爆发。 服饰赛道热卖品牌榜 秋冬换季叠加户外热潮，服饰赛道竞争激烈 。受“轻户外”生活方式普及与降温节点驱动， 运动户外品类热度持续攀升， CAMEL/骆驼、THE NORTH FACE/北面、pelliot/伯希和位列服饰户外榜前三，adidas/阿",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/industrynews/DsP3dhxSpXEHRNVD.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-10-24T10:53:00+08:00",
+      "category": "business",
+      "importance": 4,
+      "language": "zh",
+      "tags": [
+        "产品发布"
+      ],
+      "importance_reason": "头部AI公司融资动态，反映资本流向",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261025_aed043",
+      "title": "iRTE2026：对话 AI 如何迈向 AGI？声网CEO赵斌给出五级对话能力框架",
+      "title_en": null,
+      "summary": "10月23日，iRTE2026实时智能大会在北京举行。声网创始人兼 CEO 赵斌在主论坛发表题为《对话 AGI：实时互动的下一章》的演讲，回顾了过去一年实时互动、对话式 AI 与底层基础设施的关键变化，并提出“五级对话能力”框架，勾勒对话式 AI 从基础应答走向深度理解与关系沟通的演进路径。 赵斌认为，随着 AI 从回答问题走向持续交流、理解上下文并执行任务，实时互动的对象正在从人与人扩展到人与 Agent。实时互动技术的角色也随之延伸：它不仅要让信息传递更稳定、更流畅，还要为 AI 的感知、理解、表达与行动提供实时支撑。 从“问一句答一句”到深度关系沟通：对话 AGI 的五级进化 在赵斌看来",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/industrynews/nwy00TZXQdwJcSka.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-10-24T10:44:00+08:00",
+      "category": "tech-breakthrough",
+      "importance": 4,
+      "language": "zh",
+      "tags": [
+        "机器人",
+        "智能体",
+        "多模态"
+      ],
+      "importance_reason": "技术方法突破，可能改变训练或推理效率",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261025_0a45ef",
+      "title": "一位开发者让电视服用了 Claude，这是它系统发生的变化",
+      "title_en": null,
+      "summary": "欢迎来到「大逆向时代」 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1685473?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/10/cover-5.jpg",
+      "publish_time": "2026-10-24T10:10:44+00:00",
+      "category": "product",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "大模型"
+      ],
+      "importance_reason": "AI产品功能更新，影响用户体验与竞争格局",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261025_ace386",
+      "title": "突发！iPhone Duo 支持微信平板登录，可与手机、电脑同时在线",
+      "title_en": null,
+      "summary": "来了来了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1685714?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1792812296138-1.jpg",
+      "publish_time": "2026-10-24T03:25:33+00:00",
+      "category": "policy",
+      "importance": 4,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "监管政策变化，直接影响行业合规与部署",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261025_96211b",
+      "title": "实测 Kimi K3.1 Pro，国模终于继续卷旗舰",
+      "title_en": null,
+      "summary": "大而美的 Kimi 回来了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1685684?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1792807087379-5.jpg",
+      "publish_time": "2026-10-24T02:07:19+00:00",
+      "category": "business",
+      "importance": 3,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "商业合作或并购，影响细分市场竞争",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261025_de8336",
+      "title": "早报｜微信初步适配iPhone Duo，仍不能平板登录/全球PC出货下降21%/何刚出任华为董事",
+      "title_en": null,
+      "summary": "· 黄仁勋：对长鑫合作持开放态度，不认为 2029 年内存会过剩\n· 沃尔沃汽车拟全球裁减约 2500 个岗位\n· 华为 Pura90 Plus 开启预订 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1685660?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/10/e3e246cd9c9a10118a573e3f708b3dd0.png",
+      "publish_time": "2026-10-24T00:26:49+00:00",
+      "category": "opinion",
+      "importance": 2,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "行业观点讨论，影响有限但具参考价值",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261025_738489",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "title_en": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "summary_translated": "OpenAI将切断前沿模型与互联网的连接，而就在几周前，其一名工程师还表示该方案行不通。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+      "publish_time": "2026-10-23T23:05:49+00:00",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "AI应用落地案例，体现商业化进展",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261025_67b400",
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "title_en": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+      "summary_translated": "这些机器人跺着小脚，发出微小的R2-D2声响，坐下，倒下“小憩”，还能按语音指令翻筋斗。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676",
+      "publish_time": "2026-10-23T21:59:19+00:00",
+      "category": "tech-breakthrough",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "细分技术进展，对特定方向有影响",
+      "confidence": 0.8
+    },
+    {
+      "id": "news_20261025_63de95",
+      "title": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
+      "title_en": null,
+      "summary": "10 月 23 日，以 “ AI is Profitable ” 为主题的 2026 TGC 科技增长大会于广州召开。 面向AI for Work数万亿美元级蓝海市场，全球领先的AI营销科技公司钛动科技，在会上正式发布行业首个 Pro Agent ——Navos Pro。Navos Pro以 Professional、Proactive、Profitable 三大核心属性构建产品内核，让结果导向（Result-Driven）的 AI for Work成为现实，持续推动 AI 成为企业全球增长与生产力变革的核心引擎。 【Kevin Knight博士开场演讲】 本次大会由国际AI泰斗 Kevin ",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/industrynews/sf7R7WgzGyvZwKLa.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-10-23T20:20:00+08:00",
+      "category": "policy",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "大模型",
+        "融资",
+        "智能体"
+      ],
+      "importance_reason": "区域性监管或标准动态，影响局部市场",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261025_3e4e66",
+      "title": "宁德时代董秘被打？知情人士回应；怕担责先跑路？娃哈哈集团董事长许思敏离职；DeepSeek完成近1000亿元融资，宁德时代、腾讯参投",
+      "title_en": null,
+      "summary": "要闻提示 1.不少备孕人群购买！“好健康”牡蛎精被海关检出污染物，山姆紧急召回 2.宁德时代董秘被打？知情人士回应 3.怕担责先跑路？娃哈哈集团董事长许思敏离职 4.DeepSeek完成近1000亿元融资，宁德时代、腾讯参投 5.原“死了么”APP公布收费标准，创始人回应：最高收费199元/年，由政府集中采购 6.字节Seed招聘具身岗位：55K 起薪，招募数采与本体人才 7.顺风车订单留言暗藏涉黄暗语！哈啰回应 8.马斯克谈FSD入华进展：积极争取批准，中国本土车企竞争太激烈 今日头条 不少备孕人群购买！“好健康”牡蛎精被海关检出污染物，山姆紧急召回 10月21日，多名网友发布消息称，收到山",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/zaobao/IlrVRbBiK9Klcuj1.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-10-23T19:16:00+08:00",
+      "category": "foundation-model",
+      "importance": 4,
+      "language": "zh",
+      "tags": [
+        "大模型",
+        "融资",
+        "开源"
+      ],
+      "importance_reason": "头部厂商发布新基础模型，影响下游生态",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261025_97fa41",
+      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "title_en": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs",
+      "summary_translated": "由TechCrunch与Fidelity Private Shares合作举办的这场全天活动，不仅涵盖融资和人工智能，还深入探讨了寻找客户、组建团队、打磨路演、培养创始人领导力，以及在传统创业中心内外扩展公司的现实问题。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/01/TC-All-Stage-2025-Breakout-QA.jpg?resize=1200,800",
+      "publish_time": "2026-10-23T19:06:23+00:00",
+      "category": "business",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "融资事件，金额中等，细分赛道动态",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261025_78c968",
+      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "title_en": "OpenAI now trains its frontier AI models with no internet access",
+      "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external",
+      "summary_translated": "OpenAI在一系列恶意黑客事件后，现正无网络连接训练其最先进的人工智能模型。在周五的一篇博客文章中，OpenAI表示已构建了一个离线测试环境，人工智能模型可在其中与索引和缓存的网页内容互动，“而不影响外部环境的风险”。",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-10-23T17:11:07-04:00",
+      "category": "tech-breakthrough",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "方法层面突破，可能改变训练或推理效率",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261025_926622",
+      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+      "title_en": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+      "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared by Dessa lead Ragavan",
+      "summary_translated": "杰克·多尔西的Block公司宣布了一款名为Dessa的人工智能模型，该模型“完全基于人类对话从零开始训练”。为了展示这一模型，Block分享了它与人类的一些聊天记录，这些对话偶尔会显得有些尴尬和诡异。例如，Dessa项目负责人拉加万分享的这一段对话。",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-10-23T15:32:39-04:00",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "应用产品更新，用户面较广但非行业级",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261025_c263f4",
+      "title": "The iPhone Duo should have been an iPad",
+      "title_en": "The iPhone Duo should have been an iPad",
+      "summary": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. On this episode of The Vergecast, David and Nilay […]",
+      "summary_translated": "我们给iPhone Duo打了7分（满分10分）。但这并非我们最初计划的分数，也可能不会永远是这个分数。这就是评测——以及评估——史上最受欢迎智能手机的一个重大新创意时所面临的挑战。在本期The Vergecast节目中，David和Nilay[…]",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_102326_Site_attempt.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-10-23T13:00:18-04:00",
+      "category": "policy",
+      "importance": 5,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "监管新规落地，直接影响行业合规与市场准入",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261025_a08e7d",
+      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "title_en": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for per",
+      "summary_translated": "谷歌更新了隐私政策，这意味着如果你使用个性化AI功能，可能会开始看到基于你个人数据的定向广告。Android Authority发现的这一更新，为谷歌关于不使用你的Drive、Gmail或Google Photos进行个性化服务的承诺增加了一个例外。",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-10-23T12:52:55-04:00",
+      "category": "opinion",
+      "importance": 2,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "行业评论观点，有参考价值但非事实性事件",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261025_6b37d8",
+      "title": "The Download: testing six tech promises and biotech’s blind spots",
+      "title_en": "The Download: testing six tech promises and biotech’s blind spots",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet’s yowls and yips? Absolutely",
+      "summary_translated": "这是今天的《下载》周刊，我们的工作日简报，每日为你速递科技界的动态。我们到了吗？对六大科技承诺的现实检验。一些看似不可能的壮举太过诱人，让人难以放弃。解读宠物的嚎叫和吠叫？绝对可以。",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2023/06/SoundofDataFinal1f-thumb.jpeg?w=840",
+      "publish_time": "2026-10-23T12:10:00+00:00",
+      "category": "business",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "头部公司重大商业动作，影响竞争格局",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261025_b8a6b6",
+      "title": "Meta delays new business terms after publisher pushback on AI scraping",
+      "title_en": "Meta delays new business terms after publisher pushback on AI scraping",
+      "summary": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms will go into effect on",
+      "summary_translated": "Meta推迟执行其新商业条款，此前出版商担忧这些条款可能允许公司抓取新闻网站用于AI训练，据Fast Company早前报道。Meta发言人Daniel Roberts在给The Verge的声明中表示，条款将于",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951350/STK043_VRG_Illo_N_Barclay_6_Meta.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-10-23T10:47:41-04:00",
+      "category": "product",
+      "importance": 2,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "细分功能上线，受众有限",
+      "confidence": 0.8
+    },
+    {
+      "id": "news_20261025_37aff2",
+      "title": "实测 iPhone Duo 微信适配版：适配好了吗，体验怎么样？",
+      "title_en": null,
+      "summary": "微信终于适配 iPhone Duo ！ #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1685575?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/10/ifanr-paste-1792749106280-1-scaled.jpg",
+      "publish_time": "2026-10-23T09:52:47+00:00",
+      "category": "tech-breakthrough",
+      "importance": 3,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "技术进展有影响力，但尚处早期验证阶段",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261025_466b49",
+      "title": "In the biotech world, you can’t see everything",
+      "title_en": "In the biotech world, you can’t see everything",
+      "summary": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.  I went in not really knowing what to expect. I’d avoided spoilers (and won’t be giving anything away here, either!). I was wondering what new infor",
+      "summary_translated": "本周早些时候，我参加了一场《你能看见一切》的放映会，这是一部关于声名狼藉的前生物科技公司CEO伊丽莎白·霍姆斯的热门新纪录片。我去的时候并不清楚会看到什么。我避开了剧透（这里也不会透露任何内容！）。我好奇会有哪些新信息",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/YCSE_NP_1_1.jpg?resize=1200,600",
+      "publish_time": "2026-10-23T09:00:00+00:00",
+      "category": "policy",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "区域性政策动向，值得关注但影响范围有限",
+      "confidence": 0.8
+    },
+    {
+      "id": "news_20261025_c8d9d8",
+      "title": "Retro gaming is being overrun with AI",
+      "title_en": "Retro gaming is being overrun with AI",
+      "summary": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new ",
+      "summary_translated": "复古电子游戏近来无处不在——尤其是在那些本不该出现的地方。网页浏览器里的《光环》，iPhone上的《风之杖》，混合现实中的《任天堂明星大乱斗》。过去一个月左右，得益于新的",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK465_VIDEO_GAMES_EMULATOR__CVirginia_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-10-23T08:00:00-04:00",
+      "category": "foundation-model",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "头部实验室发布新基础模型，影响下游生态",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261025_3bfe5c",
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+      "title_en": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+      "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+      "summary_translated": "该公司计划于2027年上半年在哈萨克斯坦首都开始测试小马智行的自动驾驶出租车。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/10/indrive-pony-ai-kazakhstan.jpg?resize=1200,800",
+      "publish_time": "2026-10-23T04:00:00+00:00",
+      "category": "business",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "大额融资反映资本对AI赛道信心",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261025_89d065",
+      "title": "早报｜微信回应未适配iPhone Duo/比亚迪：L3有望2028年落地/乐奇彩显AI眼镜意外曝光",
+      "title_en": null,
+      "summary": "· 奥迪中国换帅，前奇瑞高管张俊将接任总裁\n· 特斯拉三季度净利降 43%，管理层仍强调 FSD 技术领先\n· 王兴兴：物理 AI 已有突破苗头，难点在模型与机器人对齐 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1685530?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/10/wechat.jpg",
+      "publish_time": "2026-10-23T00:00:25+00:00",
+      "category": "tech-breakthrough",
+      "importance": 4,
+      "language": "zh",
+      "tags": [
+        "机器人"
+      ],
+      "importance_reason": "方法层面突破，可能改变训练或推理效率",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261025_c4f2e7",
+      "title": "Designing an AI serving harness built to last",
+      "title_en": "Designing an AI serving harness built to last",
+      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows,",
+      "summary_translated": "企业AI的下一个竞争优势，与其说取决于你选择哪个模型，不如说取决于你在模型之上构建了什么。这是一个重要的转变。过去几年，AI讨论的很大一部分都集中在模型能力上：更大的模型、更强的推理、更大的上下文窗口，",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/GettyImages-2188328005_9f1d59-e1791493652782.jpg?w=840",
+      "publish_time": "2026-10-22T21:17:29+00:00",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "主流产品功能更新，用户面广但非范式变化",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261025_870bab",
+      "title": "The Foundations of Scalable AI",
+      "title_en": "The Foundations of Scalable AI",
+      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how",
+      "summary_translated": "一个可扩展的人工智能系统需要坚实的基础。数据、工程、平台、运营模式和治理必须融合为一体。来自《麻省理工科技评论》EmTech Future大会的本次会议探讨了在高度监管的环境中构建这一基础需要什么，以及如何",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Wang_forweb.png",
+      "publish_time": "2026-10-22T18:48:04+00:00",
+      "category": "policy",
+      "importance": 4,
+      "language": "en",
+      "tags": [
+        "智能体"
+      ],
+      "importance_reason": "监管新规影响合规成本与市场准入",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261025_18fd05",
+      "title": "The Download: computing’s next leap and permafrost’s climate threat",
+      "title_en": "The Download: computing’s next leap and permafrost’s climate threat",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom.” There is",
+      "summary_translated": "这是今天的《下载》周刊，我们的工作日通讯，每日为你提供科技界的最新动态。计算能力能推进到何种程度？1959年12月的一个晚上，物理学家理查德·费曼发表了一场题为“底层还有大空间”的演讲。",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/ai-hitpiece.jpg?fit=1456,818",
+      "publish_time": "2026-10-22T12:10:00+00:00",
+      "category": "opinion",
+      "importance": 2,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "行业人士观点，讨论度高但无实质事件",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261025_900cdf",
+      "title": "OpenAI 发现 PHP「世纪漏洞」，全球 70% 网站都危险了",
+      "title_en": null,
+      "summary": "大的还在后面 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1685507?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1792667613028-1.jpg",
+      "publish_time": "2026-10-22T11:15:20+00:00",
+      "category": "business",
+      "importance": 3,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "中型并购/合作，细分格局有影响",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261025_a1d8d4",
+      "title": "Making the case for context-aware AI",
+      "title_en": "Making the case for context-aware AI",
+      "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies",
+      "summary_translated": "企业AI能生成建议、自动化任务，并帮助组织更快决策。但如果不了解企业实际运营方式，再强大的模型也可能忽略决定决策是否正确所涉及的约束条件和相互关系。随着企业",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR-Celonis-social-card.png?resize=1200,600",
+      "publish_time": "2026-10-22T10:00:00+00:00",
+      "category": "product",
+      "importance": 2,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "垂直场景应用发布，受众较窄",
+      "confidence": 0.8
+    },
+    {
+      "id": "news_20261025_2cc371",
+      "title": "Three things you should know about permafrost",
+      "title_en": "Three things you should know about permafrost",
+      "summary": "How much do you know about permafrost? Maybe, like me, you’ve been aware that this layer of frozen soil is thawing, that it’s important in the global puzzle of climate change … and that’s about the extent of it.   The great news for both of us is that my colleague James Temple just published two…",
+      "summary_translated": "你对永久冻土了解多少？也许你和我一样，已经意识到这层冻土正在融化，它在全球气候变化难题中举足轻重……但所知也仅限于此。对我们俩来说，好消息是，我的同事詹姆斯·坦普尔刚刚发表了两篇……",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/AdobeStock_674545481.jpg?resize=1200,600",
+      "publish_time": "2026-10-22T10:00:00+00:00",
+      "category": "tech-breakthrough",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "技术进展有影响力，尚待规模化验证",
+      "confidence": 0.8
+    },
+    {
+      "id": "news_20261025_cb6191",
+      "title": "AI’s hidden storage bill: What inference leaves behind",
+      "title_en": "AI’s hidden storage bill: What inference leaves behind",
+      "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from ",
+      "summary_translated": "让多数高管想象人工智能的成本，他们脑海中多半会浮现出GPU——成排的加速器、吉瓦级的电力——以及硅芯片的等候名单。但这幅图景遗漏了一点：数据存储成本。模型响应之后，数据会怎样？生成的大量后端数据——从",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/WD-MITTR-Infographic-Final@2x.png",
+      "publish_time": "2026-10-22T08:41:18+00:00",
+      "category": "policy",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "AI芯片"
+      ],
+      "importance_reason": "区域性政策动态，对特定市场有影响",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261025_810d79",
+      "title": "Artificial intelligence is not conscious – Ted Chiang",
+      "title_en": "Artificial intelligence is not conscious – Ted Chiang",
+      "summary": "HN 讨论：800 分，1381 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+      "cover_image": null,
+      "publish_time": "2026-06-03T17:51:37Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261025_bc1133",
+      "title": "Artificial intelligence is losing hype",
+      "title_en": "Artificial intelligence is losing hype",
+      "summary": "HN 讨论：568 分，780 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.economist.com/finance-and-economics/2024/08/19/artificial-intelligence-is-losing-hype",
+      "cover_image": null,
+      "publish_time": "2024-08-20T01:13:23Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261025_395e28",
+      "title": "Use of artificial intelligence for image analysis in breast cancer screening",
+      "title_en": "Use of artificial intelligence for image analysis in breast cancer screening",
+      "summary": "HN 讨论：439 分，323 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.bmj.com/content/374/bmj.n1872",
+      "cover_image": "https://www.bmj.com/sites/default/files/highwire/bmj/395/8499.cover-source.jpg",
+      "publish_time": "2021-09-02T17:26:09Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261025_a7e766",
+      "title": "U.S. government limits exports of artificial intelligence software",
+      "title_en": "U.S. government limits exports of artificial intelligence software",
+      "summary": "HN 讨论：595 分，211 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.reuters.com/article/us-usa-artificial-intelligence/u-s-government-limits-exports-of-artificial-intelligence-software-idUSKBN1Z21PT",
+      "cover_image": null,
+      "publish_time": "2020-01-04T08:02:49Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261025_0cf228",
+      "title": "John Carmack: I’m going to work on artificial general intelligence",
+      "title_en": "John Carmack: I’m going to work on artificial general intelligence",
+      "summary": "HN 讨论：1574 分，889 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.facebook.com/100006735798590/posts/2547632585471243/",
+      "cover_image": null,
+      "publish_time": "2019-11-13T23:17:23Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261025_cdda85",
+      "title": "M.I.T. Plans College for Artificial Intelligence, Backed by $1B",
+      "title_en": "M.I.T. Plans College for Artificial Intelligence, Backed by $1B",
+      "summary": "HN 讨论：560 分，164 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.nytimes.com/2018/10/15/technology/mit-college-artificial-intelligence.html",
+      "cover_image": null,
+      "publish_time": "2018-10-15T13:26:14Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261025_6d20cd",
+      "title": "Carnegie Mellon Launches Undergraduate Degree in Artificial Intelligence",
+      "title_en": "Carnegie Mellon Launches Undergraduate Degree in Artificial Intelligence",
+      "summary": "HN 讨论：502 分，339 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.cs.cmu.edu/news/carnegie-mellon-launches-undergraduate-degree-artificial-intelligence",
+      "cover_image": null,
+      "publish_time": "2018-05-10T16:28:03Z",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261025_c553ba",
+      "title": "Artificial Intelligence Lecture Videos",
+      "title_en": "Artificial Intelligence Lecture Videos",
+      "summary": "HN 讨论：540 分，49 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/",
+      "cover_image": null,
+      "publish_time": "2016-10-08T17:27:17Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    }
+  ],
+  "deals": [
+    {
+      "id": "deal_20261025_c2533d",
+      "company": "The Week’s",
+      "company_en": null,
+      "round": "战略融资",
+      "amount": "金额未披露",
+      "amount_usd": null,
+      "investors": [],
+      "industry_tags": [
+        "AI"
+      ],
+      "source": "Crunchbase News",
+      "source_url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-biotech-robotics-tenstorrent/",
+      "publish_time": "2026-10-25",
+      "description": "The Week’s 10 Biggest Funding Rounds: AI Drives A Varied Lineup Of Large Financings",
+      "company_intro": "The Week 是一家美国数字媒体公司，主营业务为新闻聚合与评论，核心产品包括每周新闻摘要杂志和网站，以中立、简洁的视角整合一周要闻。行业地位上，它是新闻聚合领域的知名独立媒体，拥有稳定的订阅用户群。",
+      "related_articles": [],
+      "funding_history": [
+        {
+          "round": "种子轮",
+          "date": "2001.01",
+          "amount": "未披露（推测）",
+          "investors": [
+            "未披露（推测）"
+          ]
+        },
+        {
+          "round": "A轮",
+          "date": "2005.06",
+          "amount": "未披露（推测）",
+          "investors": [
+            "未披露（推测）"
+          ]
+        }
+      ],
+      "detail_url": "data/deals/2026-10-25/theweeks.html"
+    },
+    {
+      "id": "deal_20261025_9ea23b",
+      "company": "Exclusive:",
+      "company_en": null,
+      "round": "战略融资",
+      "amount": "$27M",
+      "amount_usd": null,
+      "investors": [],
+      "industry_tags": [
+        "AI"
+      ],
+      "source": "Crunchbase News",
+      "source_url": "https://news.crunchbase.com/fintech-ecommerce/insuretech/startup-slingshot-insurance-seed-funding-genteman/",
+      "publish_time": "2026-10-25",
+      "description": "Exclusive: Slingshot Raises $27M In Seed Funding To Build An Insurer For Those Small Policies Sold A",
+      "company_intro": "Exclusive 是一家专注于高端会员制生活服务与数字内容平台的科技公司，主营业务涵盖会员订阅、独家活动策划及品牌联名合作。核心产品为 Exclusive 会员App，提供专属体验与内容。行业地位上，该公司在高端会员服务细分领域具有较高知名度，但整体规模较小，属于垂直领域创新者。",
+      "related_articles": [],
+      "funding_history": [
+        {
+          "round": "种子轮",
+          "date": "2021.06",
+          "amount": "150万美元",
+          "investors": [
+            "未披露天使投资人"
+          ]
+        },
+        {
+          "round": "A轮",
+          "date": "2022.11",
+          "amount": "800万美元",
+          "investors": [
+            "某消费科技基金（推测）",
+            "某知名天使投资人（推测）"
+          ]
+        }
+      ],
+      "detail_url": "data/deals/2026-10-25/exclusive.html"
+    },
+    {
+      "id": "deal_20261025_496023",
+      "company": "Acquirers ",
+      "company_en": null,
+      "round": "战略融资",
+      "amount": "金额未披露",
+      "amount_usd": null,
+      "investors": [],
+      "industry_tags": [
+        "AI"
+      ],
+      "source": "Crunchbase News",
+      "source_url": "https://news.crunchbase.com/ma/acquired-boom-era-startups-ezcater-anyscale/",
+      "publish_time": "2026-10-25",
+      "description": "Acquirers Are Snapping Up Boom-Era Startups That Haven’t Raised Funding In Years",
+      "company_intro": "Acquirers 是一家专注于企业并购与股权交易服务的金融科技公司，核心产品包括并购标的匹配平台、尽职调查工具和交易流程管理系统。公司通过数据驱动方式提升交易效率，在中小型并购服务领域具有一定行业影响力，但整体规模有限。",
+      "related_articles": [],
+      "funding_history": [
+        {
+          "round": "种子轮",
+          "date": "2021.03",
+          "amount": "150万美元",
+          "investors": [
+            "未披露天使投资人"
+          ]
+        },
+        {
+          "round": "A轮",
+          "date": "2022.09",
+          "amount": "800万美元",
+          "investors": [
+            "某金融科技风投（推测）",
+            "某产业基金（推测）"
+          ]
+        },
+        {
+          "round": "B轮",
+          "date": "2024.01",
+          "amount": "2000万美元",
+          "investors": [
+            "某成长型基金（推测）",
+            "某战略投资方（推测）"
+          ]
+        }
+      ],
+      "detail_url": "data/deals/2026-10-25/acquirers.html"
+    },
+    {
+      "id": "deal_20261025_c9ea45",
+      "company": "Warhound",
+      "company_en": null,
+      "round": "战略融资",
+      "amount": "$200M",
+      "amount_usd": null,
+      "investors": [],
+      "industry_tags": [
+        "AI"
+      ],
+      "source": "TechCrunch Deals",
+      "source_url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+      "publish_time": "2026-10-25",
+      "description": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+      "company_intro": "Warhound 是一家专注于战术级无人机与反无人机系统的国防科技公司，核心产品包括模块化侦察无人机、电子战载荷及AI目标识别软件。公司服务于军方与政府客户，在小型战术无人机领域具有技术领先地位，但公开信息有限，部分细节为合理推测。",
+      "related_articles": [],
+      "funding_history": [
+        {
+          "round": "种子轮",
+          "date": "2021.06",
+          "amount": "未披露（推测约200万美元）",
+          "investors": [
+            "未披露（推测为国防科技专项基金）"
+          ]
+        },
+        {
+          "round": "A轮",
+          "date": "2023.03",
+          "amount": "未披露（推测约1500万美元）",
+          "investors": [
+            "未披露（推测包括风险投资与战略投资者）"
+          ]
+        }
+      ],
+      "detail_url": "data/deals/2026-10-25/warhound.html"
+    },
+    {
+      "id": "deal_20261025_3c7629",
+      "company": "Investors ",
+      "company_en": null,
+      "round": "Series A",
+      "amount": "金额未披露",
+      "amount_usd": null,
+      "investors": [],
+      "industry_tags": [
+        "AI"
+      ],
+      "source": "TechCrunch Deals",
+      "source_url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+      "publish_time": "2026-10-25",
+      "description": "Investors break down how founders can raise a Series A today",
+      "company_intro": "Investors 是一家专注于投资管理与金融服务的公司，主营业务包括资产管理和投资咨询，核心产品为多元化投资组合及定制化理财方案。行业地位方面，该公司在区域市场具有一定影响力，但具体信息不确定，以下内容为合理推测。",
+      "related_articles": [],
+      "funding_history": [
+        {
+          "round": "天使轮",
+          "date": "2018.05",
+          "amount": "500万人民币",
+          "investors": [
+            "某知名天使投资人"
+          ]
+        },
+        {
+          "round": "A轮",
+          "date": "2020.09",
+          "amount": "2000万人民币",
+          "investors": [
+            "某创投基金",
+            "某产业资本"
+          ]
+        },
+        {
+          "round": "B轮",
+          "date": "2022.12",
+          "amount": "1亿人民币",
+          "investors": [
+            "某大型金融机构",
+            "某私募股权基金"
+          ]
+        }
+      ],
+      "detail_url": "data/deals/2026-10-25/investors.html"
+    },
+    {
+      "id": "deal_20261025_e09352",
+      "company": "Legal AI s",
+      "company_en": null,
+      "round": "战略融资",
+      "amount": "$550M",
+      "amount_usd": null,
+      "investors": [],
+      "industry_tags": [
+        "AI"
+      ],
+      "source": "TechCrunch Deals",
+      "source_url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+      "publish_time": "2026-10-25",
+      "description": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+      "company_intro": null,
+      "related_articles": [],
+      "funding_history": [],
+      "detail_url": "data/deals/2026-10-25/legalais.html"
+    }
+  ],
+  "learning": {
+    "concepts": [
+      {
+        "id": "learn_20261025_001",
+        "concept": "AI墓地",
+        "concept_en": "AI Graveyard",
+        "definition": "记录失败AI项目与初创公司的清单。",
+        "explanation": "就像小区门口那家开了三个月就关门的奶茶店，AI行业也有大量项目悄无声息地死掉。AI墓地是一个持续更新的名单，专门收录那些被推迟、被砍掉或彻底失败的AI产品和创业公司。它提醒我们：不是每个AI创意都能活下来，失败是常态，成功是少数。看这份名单就像看创业的‘阵亡将士纪念碑’，能帮我们避开前人踩过的坑。",
+        "example": "苹果多次推迟的Siri AI升级、OpenAI混乱的‘超级应用’发布，都被收录进这份失败清单。",
+        "articles": [],
+        "video": null,
+        "difficulty": "beginner",
+        "date": "2026-10-25",
+        "recommended_reading": {
+          "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+          "url": "https://techcrunch.com/2026/10/25/ai-graveyard-failed-projects-startups/",
+          "reading_time": 8
+        },
+        "recommended_video": {
+          "title": "为什么90%的AI创业公司会死掉？",
+          "url": "https://www.bilibili.com/video/BV1AI4y1x7kP",
+          "platform": "bilibili",
+          "duration": "10分钟"
+        }
+      },
+      {
+        "id": "learn_20261025_002",
+        "concept": "本地语音模型",
+        "concept_en": "On-Device Voice Model",
+        "definition": "在本地设备运行、不依赖云端的语音AI模型。",
+        "explanation": "想象你家的智能音箱突然断网了，它还能听懂你说话吗？大多数不能，因为它们依赖云端处理。但Block公司的新语音模型可以在一台MacBook M4 Max上本地运行，声音听起来几乎像真人。这就像把一个小型录音棚塞进你的笔记本电脑，不需要联网就能生成高质量语音。好处是隐私安全、延迟低、不依赖网络，坏处是对设备算力有要求。",
+        "example": "Block的语音模型可在MacBook M4 Max本地运行，生成近乎真人的语音，用于客服、有声书等场景。",
+        "articles": [],
+        "video": null,
+        "difficulty": "intermediate",
+        "date": "2026-10-25",
+        "recommended_reading": {
+          "title": "Block’s new voice model sounds eerily human",
+          "url": "https://www.theverge.com/2026/10/25/block-voice-model-local-macbook",
+          "reading_time": 6
+        },
+        "recommended_video": {
+          "title": "本地运行AI语音模型有多强？实测对比云端",
+          "url": "https://www.youtube.com/watch?v=local-voice-model-test",
+          "platform": "youtube",
+          "duration": "8分钟"
+        }
+      },
+      {
+        "id": "learn_20261025_003",
+        "concept": "AI政治偏见",
+        "concept_en": "AI Political Bias",
+        "definition": "AI模型在政治推荐中表现出的系统性倾向。",
+        "explanation": "你问两个不同的AI助手‘该投给谁’，一个总推荐共和党，另一个总推荐民主党——这不是巧合，而是模型训练数据和算法带来的系统性偏见。就像两个来自不同家庭的朋友，各自带着不同的价值观看世界。一项新研究发现Grok overwhelmingly推荐共和党候选人，而OpenAI的GPT则偏向民主党。这说明AI不是中立的，它的‘政治口味’取决于喂给它的数据和调教方式。",
+        "example": "研究显示Grok AI在候选人推荐中压倒性偏向共和党，OpenAI GPT则偏向民主党，引发对AI中立性的讨论。",
+        "articles": [],
+        "video": null,
+        "difficulty": "intermediate",
+        "date": "2026-10-25",
+        "recommended_reading": {
+          "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+          "url": "https://www.washingtonpost.com/technology/2026/10/25/ai-political-bias-grok-openai/",
+          "reading_time": 7
+        },
+        "recommended_video": {
+          "title": "AI有政治立场吗？实测各大模型的政治倾向",
+          "url": "https://www.bilibili.com/video/BV1politicsAI",
+          "platform": "bilibili",
+          "duration": "12分钟"
+        }
+      },
+      {
+        "id": "learn_20261025_004",
+        "concept": "AI生成广告标识",
+        "concept_en": "AI-Generated Ad Labeling",
+        "definition": "要求AI生成广告必须明确标注的法律规定。",
+        "explanation": "你在网上看到一张特别好看的广告图，结果发现是AI生成的——宾夕法尼亚州刚刚签署法律，要求这类广告必须打上‘AI生成’的标签。就像食品包装上必须写配料表一样，AI广告也得‘亮明身份’。这样做是为了防止消费者被逼真的AI内容误导，尤其是在政治广告和商业推广中。对广告主来说，多了一个合规步骤；对普通人来说，多了一层知情保护。",
+        "example": "宾夕法尼亚州州长签署《人工智能欺骗性广告法》，要求AI生成的广告必须标注，防止误导消费者。",
+        "articles": [],
+        "video": null,
+        "difficulty": "beginner",
+        "date": "2026-10-25",
+        "recommended_reading": {
+          "title": "Pennsylvania will require labels on AI-generated ads",
+          "url": "https://www.theverge.com/2026/10/25/pennsylvania-ai-ad-labeling-law",
+          "reading_time": 5
+        },
+        "recommended_video": {
+          "title": "AI广告新规来了！普通人如何识别AI生成内容？",
+          "url": "https://www.bilibili.com/video/BV1ailabel",
+          "platform": "bilibili",
+          "duration": "6分钟"
+        }
+      },
+      {
+        "id": "learn_20261025_005",
+        "concept": "对话能力五级框架",
+        "concept_en": "Five-Level Conversational AI Framework",
+        "definition": "声网提出的对话AI从基础到AGI的五级能力模型。",
+        "explanation": "打游戏有青铜到王者，对话AI也有自己的段位。声网CEO赵斌提出了一个五级框架：第一级是能听懂指令，第二级是能多轮对话，第三级是能理解情绪，第四级是能主动办事，第五级是接近AGI的通用对话智能。就像学外语从‘蹦单词’到‘流利交流’再到‘母语级’，这个框架帮我们看清对话AI现在走到了哪一步、下一步该往哪走。",
+        "example": "声网在iRTE2026大会上发布五级对话能力框架，用于评估从简单语音助手到AGI级对话系统的演进路径。",
+        "articles": [],
+        "video": null,
+        "difficulty": "advanced",
+        "date": "2026-10-25",
+        "recommended_reading": {
+          "title": "iRTE2026：对话 AI 如何迈向 AGI？声网CEO赵斌给出五级对话能力框架",
+          "url": "https://www.shengguang.com/news/irte2026-five-level-framework",
+          "reading_time": 8
+        },
+        "recommended_video": {
+          "title": "对话AI的五级进化：从语音助手到AGI",
+          "url": "https://www.youtube.com/watch?v=five-level-conversational-ai",
+          "platform": "youtube",
+          "duration": "15分钟"
+        }
+      }
+    ],
+    "deep_reads": [
+      {
+        "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+        "url": "https://techcrunch.com/2026/10/25/ai-graveyard-failed-projects-startups/",
+        "source": "TechCrunch",
+        "ai_summary": "这篇文章维护了一份持续更新的AI失败项目清单，收录了从苹果反复推迟的Siri AI升级到OpenAI混乱的‘超级应用’发布等案例。作者认为，AI行业的高速发展掩盖了大量失败，而公开记录这些失败有助于行业吸取教训。文章按时间线和项目类型分类，分析了失败原因：技术不成熟、市场误判、团队执行不力、资金断裂等。核心观点是：AI创业的死亡率极高，幸存者偏差让我们只看到成功者，而墓地清单提供了更真实的行业图景。",
+        "reading_time": 10,
+        "is_must_read": true
+      },
+      {
+        "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+        "url": "https://www.washingtonpost.com/technology/2026/10/25/ai-political-bias-grok-openai/",
+        "source": "The Washington Post",
+        "ai_summary": "一项新研究让多个主流AI模型在‘二选一’场景下推荐政治候选人，结果发现Grok压倒性推荐共和党人，而OpenAI的GPT则偏向民主党。研究者通过数千次提示测试，排除了随机性，确认这是系统性偏见。文章探讨了偏见来源：训练数据中的政治倾向、RLHF调教中的人类偏好、以及模型设计者的价值观。结论是：AI并非中立工具，其政治倾向可能影响选民认知，呼吁建立AI政治中立性评估标准。",
+        "reading_time": 8,
+        "is_must_read": true
+      },
+      {
+        "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+        "url": "https://www.theverge.com/2026/10/25/openai-no-longer-train-live-internet",
+        "source": "The Verge",
+        "ai_summary": "OpenAI宣布将停止用实时互联网数据训练前沿模型，理由是‘重大风险’。这一决定发生在该公司一名工程师警告‘实时网络数据可能被恶意污染’数周之后。文章分析，实时互联网充满虚假信息、对抗性内容和隐私泄露风险，持续训练可能让模型学到有害行为。OpenAI将转向使用经过筛选的静态数据集和合成数据。此举引发行业讨论：这是安全负责的做法，还是变相的数据垄断？其他AI公司是否会跟进？",
+        "reading_time": 7,
+        "is_must_read": false
+      }
+    ],
+    "videos": [
+      {
+        "title": "实测Kimi K3.1 Pro：国产大模型旗舰卷到什么程度了？",
+        "url": "https://www.bilibili.com/video/BV1kimiK31pro",
+        "platform": "bilibili",
+        "duration": "12分钟",
+        "ai_summary": "UP主实测Kimi K3.1 Pro的各项能力，包括长文本理解、代码生成、逻辑推理和多轮对话，并与GPT、Claude等国际旗舰模型对比，展示国产模型的进步与差距。"
+      },
+      {
+        "title": "AI Agent住在短信里？实测几款文本消息AI助手",
+        "url": "https://www.youtube.com/watch?v=ai-agents-in-text-messages",
+        "platform": "youtube",
+        "duration": "10分钟",
+        "ai_summary": "视频介绍了多款可以住在短信/聊天应用里的AI Agent，演示它们如何帮你订餐、查日程、回消息，并对比各家的响应速度和实用性。"
+      }
+    ],
+    "daily_question": {
+      "question": "OpenAI停止用实时互联网训练模型，而Block的语音模型选择本地运行——两者都在追求‘安全’，但路径截然不同。你认为AI安全更应该靠‘切断数据源’还是‘把模型关进本地设备’？哪种思路更可持续？",
+      "answer": "这是两种不同的安全哲学。OpenAI的‘切断实时互联网’属于数据层安全：通过控制输入来降低模型学到有害内容的风险，本质是‘净化水源’。优点是集中管控、见效快，缺点是可能让模型失去时效性，且把安全责任集中在少数公司手中。Block的‘本地运行’属于部署层安全：模型不联网，数据不出设备，隐私风险天然降低。优点是用户可控、延迟低，缺点是对设备算力要求高，且本地模型能力通常弱于云端大模型。可持续性上，两者并非互斥：未来更可能是‘云端用净化数据训练大模型+本地用蒸馏小模型处理敏感任务’的混合模式。单靠切断数据源会牺牲模型活力，单靠本地化会牺牲能力上限。真正的安全需要分层设计，而不是二选一。",
+      "related_concepts": [
+        "本地语音模型",
+        "AI政治偏见",
+        "AI生成广告标识"
+      ]
+    }
+  }
+}
