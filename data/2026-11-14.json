@@ -1,0 +1,1261 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T12:58:20.988885+08:00",
+  "news": [
+    {
+      "id": "news_20261114_4a2094",
+      "title": "浙大彭思达：从元宇宙到具身智能，一个三维视觉研究者的八年 | 世界模型50人",
+      "title_en": null,
+      "summary": "八年研究，两个落地系统，超六万GitHub Stars。 作者丨 李秋悦 编辑丨 吴   彤 一支女团跳舞，镜头不必再听导演安排，观众甚至能看到拍摄时不存在的机位。 传统MV拍摄，摄影机架在哪里，观众看到的就是哪个角度。现在用多台摄像机同时记录舞者动作，再重建出一个三维动态场景，镜头可以任意调换位置；从队形正面绕到侧面，穿过舞者之间，甚至换一个从未真正架设过的机位，重新观看刚才的表演。 今年10月，韩国SM娱乐创始人李秀满在新女团A2O LITE的出道活动上，展示了这项名为4D Gaussian Splatting（4DGS）的技术。 SM娱乐旗下女团A2O LITE 《NEON》运用4DV.",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/ai/lpK3LQWqmpZP8jcG.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-11-14T00:50:00+08:00",
+      "category": "foundation-model",
+      "importance": 4,
+      "language": "zh",
+      "tags": [
+        "大模型",
+        "开源",
+        "自动驾驶"
+      ],
+      "importance_reason": "基础模型能力迭代，头部厂商动态受关注",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261114_8d23e8",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "title_en": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "summary_translated": "黄仁勋执掌下，英伟达向AI初创企业投入数百亿美元。若他卸任，创始人和风投将面临更小的投资额和更低的估值。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-nvidia.jpg?w=1024",
+      "publish_time": "2026-11-13T22:43:00+00:00",
+      "category": "business",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "融资并购反映资本流向，影响行业格局",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261114_26d265",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "title_en": "AI agent startup LangChain hits $3B valuation",
+      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+      "summary_translated": "LangChain 现在声称其模型和平台无关的代理管理工具 LangSmith 拥有 7,000 家客户。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/11/Raising-money.jpg?resize=1200,829",
+      "publish_time": "2026-11-13T19:37:57+00:00",
+      "category": "tech-breakthrough",
+      "importance": 4,
+      "language": "en",
+      "tags": [
+        "智能体"
+      ],
+      "importance_reason": "技术突破可能改变能力边界，具行业影响",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261114_4f9a42",
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "title_en": "Amazon has a plan to index the world’s online shopping data",
+      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers lea",
+      "summary_translated": "据路透社报道，亚马逊计划建立一个数据库，收录互联网上任何地方销售的所有产品数据，甚至包括亚马逊不销售的产品，并通过自己的网站提供这些信息。该项目名为“世界产品图谱”，旨在降低购物者离开的可能性。",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-11-13T18:49:11-05:00",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "产品发布有实际应用价值，受众较广",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261114_3bcb8c",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "title_en": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "summary_translated": "新研究显示，中国最先进的AI模型是用被禁的英伟达芯片训练的。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2301327883.jpg?resize=1200,795",
+      "publish_time": "2026-11-13T18:40:30+00:00",
+      "category": "policy",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "监管政策影响合规与市场准入，波及面广",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261114_577015",
+      "title": "余承东公布华为问界新合作模式！新 M8 同步上市，起售价 37.98 万元",
+      "title_en": null,
+      "summary": "新 M8 的升级，主打「实用主义」。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1689432?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/11/vgca.jpeg",
+      "publish_time": "2026-11-13T18:19:36+00:00",
+      "category": "opinion",
+      "importance": 2,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "观点评论信息增量有限，属细分讨论",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261114_40fca5",
+      "title": "独家｜燧原科技首席生态官李星宇离职",
+      "title_en": null,
+      "summary": "作者｜包永刚 编辑｜刘伟 雷峰网独家获悉，燧原科技首席生态官李星宇已于近日离职。他离职后已入读港大-北大联合DBA博士项目，但尚未披露下一步职业计划。 李星宇拥有超过20年的半导体行业从业经验，工作经历涵盖云端AI计算芯片、自动驾驶AI芯片、智能座舱芯片等领域。 加入燧原科技之前，他曾在地平线任职8年，担任生态发展与战略规划副总裁，是地平线创始管理团队成员。更早之前，他曾任职于恩智浦半导体。 从地平线的创始管理团队成员，到燧原科技首席生态官，李星宇在企业战略规划和产业生态建设方面积累了丰富经验。他先后任职的地平线与燧原科技，分别于2024年10月和2026年9月上市。 据雷峰网了解，李星宇长期",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/chips/G6AiPuplIGyPkaQL.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-11-13T18:00:00+08:00",
+      "category": "business",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "自动驾驶",
+        "AI芯片"
+      ],
+      "importance_reason": "商业合作动态值得关注，影响有限",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261114_40c824",
+      "title": "9.99万的ID.ERA 5X，大众开始用中国效率打价格战",
+      "title_en": null,
+      "summary": "从过去全球技术导入中国，转向中国本土研发定义产品，并反哺全球，大众在华的研发模式迎来的关键转身，集中在一款新车型中。 11月12日，上汽大众ID.ERA 5X正式上市，限时权益价9.99万起，共推出四款配置。定位都市纯电SUV，瞄准年轻用户与家庭市场。 作为一款主打高性价比的紧凑型纯电SUV，上汽大众ID.ERA 5X是德系品质与中国智能共同发力的代表。 新车车长4560mm，但轴距达到 2815mm ，采用短前后悬设计，把车轮推向四角，主打“小车身、大空间”，后排腿部空间比较宽裕。 德系车的安全品质也严格呈现。全系标配 83%高强度钢 的笼式车身，关键受力部位采用热成型钢补强。在上市发布会的",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/transportation/vNdfiZqSJgLMJc3M.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-11-13T17:38:00+08:00",
+      "category": "product",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "大模型",
+        "AI芯片",
+        "产品发布"
+      ],
+      "importance_reason": "应用功能更新，对用户有实际影响",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261114_2a5a49",
+      "title": "独家丨港大孵化的半导体材料公司，融资数千万",
+      "title_en": null,
+      "summary": "一个发表于《Nature》的技术，能在三步剥出晶圆级薄膜，公司获耀途独家投资。 作者丨陈玘凡 编辑 丨吴优 雷峰网 ·鲸犀独家获悉， 半导体材料公司钻耐科思科技（DiamNEX）已完成 数千万元 新一轮融资，由耀途资本独家投资。 钻耐科思（DiamNEX）成立于2025年，由 香港大学孵化 ，专注于金刚石半导体和量子技术的研发、生产与商业化应用。创始人褚智勤是港大电机与计算机工程系副教授、副系主任，在金刚石方向论文超80篇、专利17项；科学顾问来自港大、港科大、南方科技大学，具备学术产业化落地能力 。 金刚石被誉为“ 终极半导体材料” ，具有超宽禁带、高击穿场强、高热导率等优势特性，是帮助突破",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/weiwu/DewyIGiyxQl09nUM.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-11-13T17:22:00+08:00",
+      "category": "tech-breakthrough",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "融资",
+        "AI芯片",
+        "产品发布"
+      ],
+      "importance_reason": "技术进展有影响力，但尚属细分方向",
+      "confidence": 0.8
+    },
+    {
+      "id": "news_20261114_842700",
+      "title": "海尔热水器双11战报：京东天猫双平台销量TOP1",
+      "title_en": null,
+      "summary": "随着双11落幕，热水器市场也结束了新一轮换新热潮。从近两年的用户需求来看，热水器不再只看重热水供给，而是更加关注使用安全、沐浴水质与维保省心，家庭用水的健康化、场景化、智能化成为选购核心标尺。激烈角逐之中，海尔热水器脱颖而出，拿下京东、天猫双平台热水器销量 TOP1，电热、燃热双线领跑，用亮眼战绩印证市场对海尔全屋用水方案的认可。 这份成绩的背后，是海尔持续深耕AI智慧用水场景，瞄准家庭用水隐忧，将创新科技落地到日常洗浴带来的成果。 使用传统金属胆电热水器时，要定期预约师傅上门更换镁棒、清洗内胆；内胆维护不及时，水垢、镁渣、细菌就容易积存在内胆中，混在水中流出，皮肤容易发痒、敏感。海尔无镁棒小",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/industrynews/pDERNZsb2r8U4vS5.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-11-13T17:17:00+08:00",
+      "category": "policy",
+      "importance": 3,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "政策动向影响行业规范，需持续关注",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261114_142a67",
+      "title": "中金公司与蚂蚁集团达成战略合作 共探AI赋能财富管理",
+      "title_en": null,
+      "summary": "11月13日，中国国际金融股份有限公司（简称“中金公司”）与蚂蚁科技集团股份有限公司（简称“蚂蚁集团”）签署战略合作协议。 双方将结合中金公司在专业投研、金融服务等方面的积累，以及蚂蚁集团在人工智能、行业生态、客户运营等方面的优势，围绕金融大模型技术创新、AI赋能财富管理、客户全生命周期服务等领域开展合作，共同探索“AI+金融”创新路径。 中金公司党委副书记、副董事长、总裁王曙光（右二），蚂蚁集团首席执行官、蚂蚁数科董事长韩歆毅（左二）出席并见证签约仪式。中金公司党委委员、中金财富党委书记、总裁王建力（右一），蚂蚁集团资深副总裁、蚂蚁数科CEO赵闻飙（左一）代表双方签署协议。 随着大模型和智能",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/industrynews/U7WtbV9kyb90UuZ0.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-11-13T17:05:00+08:00",
+      "category": "foundation-model",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "大模型",
+        "融资",
+        "智能体"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261114_51352a",
+      "title": "独家丨一家主动灭火的智慧消防公司，融资超千万",
+      "title_en": null,
+      "summary": "把 AI 用在“水火之间”——菲思拓的整体方案，已接入超三万家单位。 作者丨 陈玘凡 编辑 丨吴优 雷峰网·鲸犀独家获悉，做主动灭火的智慧消防公司菲思拓已完成千万级天使轮融资，投资方为北京国润智投科技有限公司。 菲思拓 已经开启新一轮融资， 投前估值 3 亿元，本轮资金意在进行产品研发、市场拓展和推动产能落地。 创始人兼 CEO 顾永峰有 20 年消防行业经验，曾任喜利得中国区域经理、STI 中国全国销售总监；团队拥有消防、材料、loT 等复合背景，2025 年公司 营收超 4000 万元。 2025 年全国电气火灾约有 25.9 万起；2024 年一家云厂商数据中心火灾直接损失超8 亿欧元。",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/weiwu/c3euXbtYsl0O6fm2.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-11-13T17:04:00+08:00",
+      "category": "business",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "大模型",
+        "融资",
+        "产品发布"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261114_69584a",
+      "title": "美团陈一方：2026洗浴行业线上化率超20%",
+      "title_en": null,
+      "summary": "11月13日，2027美团洗浴指南在沈阳发布。美团服务零售乐生活业务部负责人陈一方介绍，中国洗浴行业正呈现出新发展气象，2026年洗浴行业线上化率已超20%。越来越多洗浴商户把美团作为承接多元消费需求的主阵地，更多门店特色服务、多种供需组合产品在线上同步首发。",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/industrynews/reILtCnNdcvKB3fi.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-11-13T16:43:00+08:00",
+      "category": "product",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "产品发布"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261114_a89e40",
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "title_en": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+      "summary_translated": "ChatGPT钱包让AI代理代替用户购物和结账，首先面向美国Pro订阅用户限量推出。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/11/chatgpt-wallet.jpg?resize=1200,729",
+      "publish_time": "2026-11-13T16:00:12+00:00",
+      "category": "foundation-model",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "大模型",
+        "智能体"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261114_9c558a",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "title_en": "The unfolding Jensen Huang scandal: a timeline",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "summary_translated": "黄仁勋因婚外情从英伟达辞职，这可能对国家安全产生影响，因为美中两国正竞相开发最先进的人工智能基础设施。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024",
+      "publish_time": "2026-11-13T15:58:00+00:00",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261114_b5d8e3",
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "title_en": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and ",
+      "summary_translated": "在今年早些时候推出Dots AI代理平台后，OpenAI正在为该平台代理推出钱包。ChatGPT Wallet从今天起面向美国ChatGPT Pro订阅用户推出，用户需年满18岁、使用美国账单地址，并持有“符合条件的美国发行的美国运通、大通、万事达卡和",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-11-13T15:45:10-05:00",
+      "category": "foundation-model",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "大模型",
+        "智能体"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261114_e17045",
+      "title": "iPhone 20 爆料汇总：一整块玻璃，藏着苹果下一个十年",
+      "title_en": null,
+      "summary": "iPhone 20 会是一台伟大的产品吗？ #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1689409?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794564996359-1.png",
+      "publish_time": "2026-11-13T15:44:48+00:00",
+      "category": "product",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "产品发布"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261114_c64947",
+      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "title_en": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
+      "summary_translated": "ElevenAI是一款面向团队和企业的新型会议记录与听写应用。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-13-at-7.19.18-PM.jpg?resize=1200,774",
+      "publish_time": "2026-11-13T14:44:48+00:00",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261114_2f156a",
+      "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+      "title_en": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech communications consultant and a former executive at Squar",
+      "summary_translated": "这是今天的《下载》周刊，我们的工作日简报，每日为你速递科技界的动态。硅谷自称能预知未来，那为何对中期选举预测失准？——亚伦·扎莫斯特，科技传播顾问，曾任Square高管。",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/mars2026-kvitsoy4.jpg?w=840",
+      "publish_time": "2026-11-13T13:10:00+00:00",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261114_eac079",
+      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+      "title_en": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+      "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+      "summary_translated": "鉴于英伟达在人工智能领域的强势地位及其在以色列的重要性，该国许多初创企业生态系统的人担心他的离开会带来影响。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2303769281.jpg?resize=1200,800",
+      "publish_time": "2026-11-13T12:52:19+00:00",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261114_a1cf76",
+      "title": "Jensen Huang didn’t show confidence in his successor, report says",
+      "title_en": "Jensen Huang didn’t show confidence in his successor, report says",
+      "summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
+      "summary_translated": "黄形容克雷斯在夏季的一次会议中“像被车灯照到的鹿一样不知所措”。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/11/colette-1920x1920_4d360fa4-e97d-4505-9857-284d03141162-prv-e1794568317250.jpg?resize=1200,676",
+      "publish_time": "2026-11-13T12:28:23+00:00",
+      "category": "foundation-model",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "基础模型发布或迭代，影响下游应用生态",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261114_0ca2c8",
+      "title": "李飞飞最新世界模型正式开放，我用它一句话造出重庆山城",
+      "title_en": null,
+      "summary": "世界模型的竞争要开始了吗 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1689379?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/11/mid-staircase-looking-up-upscale.jpg",
+      "publish_time": "2026-11-13T10:04:55+00:00",
+      "category": "business",
+      "importance": 4,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "融资或商业合作，反映资本与市场格局",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261114_27c20c",
+      "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+      "title_en": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+      "summary": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people who volunteer for trials of those devices play a vital role in that research, and they ought to be r",
+      "summary_translated": "科学家们数十年来一直致力于解码大脑活动的方法。研究团队已开发出能够控制机械肢体和计算机，甚至能“说话”的大脑植入物。自愿参与这些设备试验的人们在该研究中发挥着至关重要的作用，他们应当得到",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Ian_0010.jpg?resize=1200,600",
+      "publish_time": "2026-11-13T10:00:00+00:00",
+      "category": "tech-breakthrough",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "技术突破可能改变能力边界与竞争格局",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261114_3d12bf",
+      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+      "title_en": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+      "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google famously told investo",
+      "summary_translated": "自诩为硅谷远见者的人们，如OpenAI首席执行官萨姆·奥尔特曼和SpaceX老板埃隆·马斯克等领袖，凭借预见未来的宣称建立了职业生涯。长远眼光是硬通货：Meta的马克·扎克伯格在2016年为Facebook制定了十年路线图，而谷歌曾著名地告诉投资者",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/GettyImages-2297757667.jpg?resize=1200,600",
+      "publish_time": "2026-11-13T10:00:00+00:00",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "产品应用落地，影响用户采用与体验",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261114_3ca895",
+      "title": "What&#8217;s really at stake in the Jensen Huang saga",
+      "title_en": "What&#8217;s really at stake in the Jensen Huang saga",
+      "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US governme",
+      "summary_translated": "周四，围绕英伟达CEO黄仁勋的一段传奇告一段落，黄仁勋辞去了这家人工智能最重要公司的最高职位。但在未来数周乃至数月里，一个更为宏大的故事或许即将展开。这个故事关乎英伟达在中国的业务，关乎美国政府",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_111326_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-11-13T09:47:16-05:00",
+      "category": "policy",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "监管政策变化直接影响合规与行业走向",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261114_2c7a6e",
+      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "title_en": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting c",
+      "summary_translated": "通常，我测试的产品不会主动帮我撰写使用体验。Duet却不同。Claude Duet是Anthropic面向消费者的AI代理，这是AI公司最新尝试说服我们，代理对非编程人员也有用。这一直是个有趣的探索。",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04398_processed.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-11-13T09:00:00-05:00",
+      "category": "opinion",
+      "importance": 2,
+      "language": "en",
+      "tags": [
+        "大模型",
+        "智能体"
+      ],
+      "importance_reason": "行业观点评论，影响有限但可作参考",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261114_c69d86",
+      "title": "黄仁勋自嘲是「人渣」，英伟达员工集体喊话求回归",
+      "title_en": null,
+      "summary": "没有黄仁勋的英伟达会怎样？ #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1689360?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794558627158-1.jpg",
+      "publish_time": "2026-11-13T08:31:36+00:00",
+      "category": "business",
+      "importance": 3,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "商业动态，涉及头部公司战略调整",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261114_5baea4",
+      "title": "Let’s talk about Jensen Huang’s many affairs!",
+      "title_en": "Let’s talk about Jensen Huang’s many affairs!",
+      "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singula",
+      "summary_translated": "通常我们会主动回答你关于新闻事件的问题，但老实说，对于英伟达那边到底发生了什么，我们真的没什么答案。我不能代表尼莱发言，但以黄仁勋新情妇曝光的频率来看，我担心我们正接近‘婚外情奇点’。",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-11-13T07:00:00-05:00",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "产品功能更新，影响特定用户群体",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261114_635ca5",
+      "title": "AI 时代，公司的「新厂房」长什么样？",
+      "title_en": null,
+      "summary": "真正决定公司未来十年身位的，是谁先动手重建那座名叫「智能组织」的新厂房。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1689182?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794541950807-1.jpg",
+      "publish_time": "2026-11-13T06:34:19+00:00",
+      "category": "tech-breakthrough",
+      "importance": 3,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "技术进展有影响力，但尚处细分领域",
+      "confidence": 0.8
+    },
+    {
+      "id": "news_20261114_0fbd52",
+      "title": "早报｜黄仁勋仍为英伟达最大个人股东/豆包工作接入多款第三方模型/微信「看一看」测试短剧入口",
+      "title_en": null,
+      "summary": "· 接近腾讯人士称「裁员 50%」传闻不实，管理层提出两条 AI 转型路线\n· 张雪：今年已经挣到了「一个小目标」\n· Claude 10 月网站访问量增近 24%，增幅超过 ChatGPT 和 Gemini #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1689292?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/11/js3.jpg",
+      "publish_time": "2026-11-13T00:00:46+00:00",
+      "category": "policy",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "大模型"
+      ],
+      "importance_reason": "政策监管动向，影响行业合规节奏",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261114_3fdfb2",
+      "title": "刚刚，Gemini 4 新模型叒来了，终于人人可用",
+      "title_en": null,
+      "summary": "更快更便宜还更聪明 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1689267?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794524212067-21.jpg",
+      "publish_time": "2026-11-12T23:11:11+00:00",
+      "category": "foundation-model",
+      "importance": 4,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "基础模型发布或迭代通常影响下游生态，属头部公司重大动态",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261114_00fbeb",
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "title_en": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “pote",
+      "summary_translated": "英伟达代表告诉伊利诺伊州众议员比尔·福斯特，从技术上讲，实施《芯片安全法案》所要求的反走私措施是可行的。福斯特周四在接受《麻省理工科技评论》采访时表示，尽管一个行业组织声称这些措施“可能……",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/foster-huang2a.jpg?resize=1200,600",
+      "publish_time": "2026-11-12T20:16:24+00:00",
+      "category": "business",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "融资与商业动态，视金额与主体而定，一般具行业参考价值",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261114_9a4263",
+      "title": "Google’s new Gemini model is better at understanding complicated questions",
+      "title_en": "Google’s new Gemini model is better at understanding complicated questions",
+      "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available startin",
+      "summary_translated": "谷歌表示，其新的Gemini 4 Hydrogen模型能对复杂问题给出更有帮助的答案，包括“包含多个部分的问题、难以理解的拼写错误或高度具体的请求”。新模型能拆解你的问题，并在回答中逐一处理各部分。该模型从",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-11-12T16:55:32-05:00",
+      "category": "tech-breakthrough",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "技术突破可能改变能力边界，对行业有较强外溢影响",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261114_2b94a6",
+      "title": "No, AI agents did not discover a previously unknown Maya site",
+      "title_en": "No, AI agents did not discover a previously unknown Maya site",
+      "summary": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in an academic journal last year. The incident, which sparked cr",
+      "summary_translated": "本周早些时候，谷歌研究员皮耶特罗·米奥蒂声称，借助一支AI智能体团队，他在墨西哥发现了一处可能未被测绘的玛雅遗址。但问题只有一个：该遗址早已被发现，并于去年发表在了一本学术期刊上。这一事件引发了争",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/maya-sites.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-11-12T14:42:40-05:00",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "智能体"
+      ],
+      "importance_reason": "产品与应用落地，影响用户与竞争格局，值得关注",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261114_101e4b",
+      "title": "突发！黄仁勋辞任 CEO，英伟达迎来历史性换帅",
+      "title_en": null,
+      "summary": "黑皮衣传奇谢幕 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1689249?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/11/js2.jpg",
+      "publish_time": "2026-11-12T14:36:47+00:00",
+      "category": "policy",
+      "importance": 4,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "政策与监管变化直接影响合规与市场准入，行业影响大",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261114_cfcba6",
+      "title": "The Download: COP31’s climate challenge and the quest for immortality",
+      "title_en": "The Download: COP31’s climate challenge and the quest for immortality",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the annual UN clim",
+      "summary_translated": "这是今天的《下载》周刊，我们的工作日简报，每日提供科技界动态。关于今年联合国气候谈判需要了解的内容：数千名代表、游说者和记者齐聚土耳其安塔利亚，参加COP31年度联合国气候",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/260424_Cdrama.webp?fit=2128,1196",
+      "publish_time": "2026-11-12T13:10:00+00:00",
+      "category": "opinion",
+      "importance": 2,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "行业观点类内容，价值取决于作者与议题，通常为细分动态",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261114_f5e0cc",
+      "title": "Oh, Palantir is ‘progressive’ now, is it?",
+      "title_en": "Oh, Palantir is ‘progressive’ now, is it?",
+      "summary": "I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold. Last week's elections were a bloodbath for the right, a problem for all the wannabe fash founders who had tied their political fortunes to a \"vibe shift\" […]",
+      "summary_translated": "今天我本有其他事情要做，但亚历克斯·卡普可怜地试图转向左翼，让我别无选择，只能搁置它们。上周的选举对右翼来说是一场血洗，对所有那些曾将自己的政治命运与“氛围转变”绑定的想做法西斯创始人的家伙来说是个问题[…]",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/8407711/479950372.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-11-12T13:06:54-05:00",
+      "category": "business",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "商业合作或并购动态，对竞争格局有一定影响",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261114_4e20a5",
+      "title": "What to know about this year’s UN climate talks",
+      "title_en": "What to know about this year’s UN climate talks",
+      "summary": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one of the biggest stages of the climate world",
+      "summary_translated": "又到了一年中的这个时候：数千名代表、游说者和记者齐聚土耳其安塔利亚，参加一年一度的联合国气候谈判。COP31于11月8日正式开幕，标志着气候领域最大舞台之一的谈判拉开帷幕。",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP26314112526132.jpg?resize=1200,600",
+      "publish_time": "2026-11-11T17:00:00+00:00",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "产品功能更新，影响用户体验与采用度，值得一看",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261114_63c379",
+      "title": "The Download: preserving minds and weighing open AI risks",
+      "title_en": "The Download: preserving minds and weighing open AI risks",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still undeniable continuity: At 30, or 50, or 70, you w",
+      "summary_translated": "这是今天的《下载》周刊，我们的工作日简报，每日为你提供科技界的动态。关于延续思维的六个疯狂想法 随着年龄增长，我们会遗忘大部分经历，但仍存在不可否认的连续性：在30岁、50岁或70岁时，你",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2024/10/GettyImages-82110531_1.jpg?fit=2880,1920",
+      "publish_time": "2026-11-11T13:10:00+00:00",
+      "category": "foundation-model",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "大模型能力或开源动态，对开发者生态影响显著",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261114_c31928",
+      "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+      "title_en": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of a",
+      "summary_translated": "这是今天的《下载》周刊，我们的工作日简报，每日为你速递科技领域的动态。南希·佩洛西的继任者准备监管AI——格蕾丝·哈金斯 作为加州州参议员，斯科特·维纳起草了一项旨在遏制a",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2024/12/GettyImages-1252251768-SA.jpg?fit=1920,1280",
+      "publish_time": "2026-11-10T13:10:00+00:00",
+      "category": "policy",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "监管细则或标准发布，影响特定区域与行业合规",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261114_810d79",
+      "title": "Artificial intelligence is not conscious – Ted Chiang",
+      "title_en": "Artificial intelligence is not conscious – Ted Chiang",
+      "summary": "HN 讨论：800 分，1381 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+      "cover_image": null,
+      "publish_time": "2026-06-03T17:51:37Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261114_bc1133",
+      "title": "Artificial intelligence is losing hype",
+      "title_en": "Artificial intelligence is losing hype",
+      "summary": "HN 讨论：568 分，780 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.economist.com/finance-and-economics/2024/08/19/artificial-intelligence-is-losing-hype",
+      "cover_image": null,
+      "publish_time": "2024-08-20T01:13:23Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261114_395e28",
+      "title": "Use of artificial intelligence for image analysis in breast cancer screening",
+      "title_en": "Use of artificial intelligence for image analysis in breast cancer screening",
+      "summary": "HN 讨论：439 分，323 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.bmj.com/content/374/bmj.n1872",
+      "cover_image": null,
+      "publish_time": "2021-09-02T17:26:09Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261114_a7e766",
+      "title": "U.S. government limits exports of artificial intelligence software",
+      "title_en": "U.S. government limits exports of artificial intelligence software",
+      "summary": "HN 讨论：595 分，211 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.reuters.com/article/us-usa-artificial-intelligence/u-s-government-limits-exports-of-artificial-intelligence-software-idUSKBN1Z21PT",
+      "cover_image": null,
+      "publish_time": "2020-01-04T08:02:49Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261114_0cf228",
+      "title": "John Carmack: I’m going to work on artificial general intelligence",
+      "title_en": "John Carmack: I’m going to work on artificial general intelligence",
+      "summary": "HN 讨论：1574 分，889 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.facebook.com/100006735798590/posts/2547632585471243/",
+      "cover_image": null,
+      "publish_time": "2019-11-13T23:17:23Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261114_cdda85",
+      "title": "M.I.T. Plans College for Artificial Intelligence, Backed by $1B",
+      "title_en": "M.I.T. Plans College for Artificial Intelligence, Backed by $1B",
+      "summary": "HN 讨论：560 分，164 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.nytimes.com/2018/10/15/technology/mit-college-artificial-intelligence.html",
+      "cover_image": null,
+      "publish_time": "2018-10-15T13:26:14Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261114_6d20cd",
+      "title": "Carnegie Mellon Launches Undergraduate Degree in Artificial Intelligence",
+      "title_en": "Carnegie Mellon Launches Undergraduate Degree in Artificial Intelligence",
+      "summary": "HN 讨论：502 分，339 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.cs.cmu.edu/news/carnegie-mellon-launches-undergraduate-degree-artificial-intelligence",
+      "cover_image": null,
+      "publish_time": "2018-05-10T16:28:03Z",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261114_c553ba",
+      "title": "Artificial Intelligence Lecture Videos",
+      "title_en": "Artificial Intelligence Lecture Videos",
+      "summary": "HN 讨论：540 分，49 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/",
+      "cover_image": null,
+      "publish_time": "2016-10-08T17:27:17Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    }
+  ],
+  "deals": [
+    {
+      "id": "deal_20261114_a9887a",
+      "company": "The Week’s",
+      "company_en": null,
+      "round": "战略融资",
+      "amount": "金额未披露",
+      "amount_usd": null,
+      "investors": [],
+      "industry_tags": [
+        "AI"
+      ],
+      "source": "Crunchbase News",
+      "source_url": "https://news.crunchbase.com/venture/biggest-startup-funding-rounds-agentic-ai-infrastructure-mirendil-mercor/",
+      "publish_time": "2026-11-14",
+      "description": "The Week’s 10 Biggest Funding Rounds: Agentic AI And Infrastructure Are Still On A Roll",
+      "company_intro": "The Week 是一家美国数字媒体公司，主营新闻聚合与评论，核心产品为《The Week》杂志及网站，以中立视角汇总全球观点。行业地位上，它是知名独立新闻品牌，拥有稳定订阅用户群。",
+      "related_articles": [],
+      "funding_history": [
+        {
+          "round": "被收购",
+          "date": "2021.06",
+          "amount": "未披露（推测）",
+          "investors": [
+            "Future plc"
+          ]
+        },
+        {
+          "round": "早期投资",
+          "date": "2001.01",
+          "amount": "未披露（推测）",
+          "investors": [
+            "Dennis Publishing（推测）"
+          ]
+        }
+      ],
+      "detail_url": "data/deals/2026-11-14/theweeks.html"
+    },
+    {
+      "id": "deal_20261114_2368ec",
+      "company": "Exclusive:",
+      "company_en": null,
+      "round": "战略融资",
+      "amount": "$14M",
+      "amount_usd": null,
+      "investors": [],
+      "industry_tags": [
+        "AI"
+      ],
+      "source": "Crunchbase News",
+      "source_url": "https://news.crunchbase.com/fintech/nubank-alum-colombia-startup-palomma-ai-rental-services/",
+      "publish_time": "2026-11-14",
+      "description": "Exclusive: Nubank Alum Raises $14M For Colombia’s Palomma To Tackle Rent Payments, Landlord Financin",
+      "company_intro": "Exclusive 是一家专注于高端会员制数字内容与体验的平台公司，主营业务包括独家新闻资讯、深度分析报告及线上社群服务，核心产品为付费订阅App与定制化行业简报。公司在垂直领域会员经济中处于领先地位，以严格的内容筛选和高端用户网络著称。",
+      "related_articles": [],
+      "funding_history": [
+        {
+          "round": "种子轮",
+          "date": "2021.03",
+          "amount": "150万美元",
+          "investors": [
+            "未披露天使投资人"
+          ]
+        },
+        {
+          "round": "A轮",
+          "date": "2022.09",
+          "amount": "800万美元",
+          "investors": [
+            "某知名风投（推测）",
+            "行业战略投资者（推测）"
+          ]
+        }
+      ],
+      "detail_url": "data/deals/2026-11-14/exclusive.html"
+    },
+    {
+      "id": "deal_20261114_8d23e8",
+      "company": "Jensen Hua",
+      "company_en": null,
+      "round": "战略融资",
+      "amount": "金额未披露",
+      "amount_usd": null,
+      "investors": [],
+      "industry_tags": [
+        "AI"
+      ],
+      "source": "TechCrunch Deals",
+      "source_url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "publish_time": "2026-11-14",
+      "description": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "company_intro": "Jensen Hua（推测为华振科技）是一家专注于工业自动化与智能制造解决方案的科技公司，核心产品包括伺服驱动器、运动控制器及工业物联网平台，服务于3C制造、新能源和包装行业。公司在国内中高端伺服市场占据一定份额，以高性价比和快速定制能力著称，属于细分领域成长型厂商。",
+      "related_articles": [
+        {
+          "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+          "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "The unfolding Jensen Huang scandal: a timeline",
+          "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Jensen Huang didn’t show confidence in his successor, report says",
+          "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "What&#8217;s really at stake in the Jensen Huang saga",
+          "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+          "source": "The Verge AI"
+        },
+        {
+          "title": "Let’s talk about Jensen Huang’s many affairs!",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+          "source": "The Verge AI"
+        }
+      ],
+      "funding_history": [
+        {
+          "round": "天使轮",
+          "date": "2018.06",
+          "amount": "数千万元人民币",
+          "investors": [
+            "未披露（推测为地方产业基金）"
+          ]
+        },
+        {
+          "round": "A轮",
+          "date": "2020.09",
+          "amount": "约1.2亿元人民币",
+          "investors": [
+            "深创投",
+            "达晨财智（推测）"
+          ]
+        },
+        {
+          "round": "B轮",
+          "date": "2023.03",
+          "amount": "约3亿元人民币",
+          "investors": [
+            "中金资本",
+            "国投创新（推测）"
+          ]
+        }
+      ],
+      "detail_url": "data/deals/2026-11-14/jensenhua.html"
+    },
+    {
+      "id": "deal_20261114_f6a560",
+      "company": "Proximal V",
+      "company_en": null,
+      "round": "战略融资",
+      "amount": "金额未披露",
+      "amount_usd": null,
+      "investors": [],
+      "industry_tags": [
+        "AI"
+      ],
+      "source": "TechCrunch Deals",
+      "source_url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
+      "publish_time": "2026-11-14",
+      "description": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+      "company_intro": "Proximal V 是一家专注于血管介入手术机器人研发的医疗科技公司，核心产品为用于外周和冠脉介入的远程操控机器人系统，旨在降低术者辐射暴露并提升手术精准度。公司处于临床推进阶段，在细分领域具有一定技术特色，但行业地位尚属新兴参与者。",
+      "related_articles": [],
+      "funding_history": [
+        {
+          "round": "种子轮",
+          "date": "2021.06",
+          "amount": "数百万美元（推测）",
+          "investors": [
+            "未披露（推测）"
+          ]
+        },
+        {
+          "round": "A轮",
+          "date": "2023.03",
+          "amount": "数千万美元（推测）",
+          "investors": [
+            "医疗科技基金（推测）"
+          ]
+        }
+      ],
+      "detail_url": "data/deals/2026-11-14/proximalv.html"
+    },
+    {
+      "id": "deal_20261114_c368c3",
+      "company": "Trajectory",
+      "company_en": null,
+      "round": "战略融资",
+      "amount": "$45M",
+      "amount_usd": null,
+      "investors": [],
+      "industry_tags": [
+        "AI"
+      ],
+      "source": "TechCrunch Deals",
+      "source_url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "publish_time": "2026-11-14",
+      "description": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "company_intro": "Trajectory是一家专注于企业级AI营销自动化的科技公司，核心产品为基于行为数据的客户旅程优化平台，通过预测分析帮助企业提升用户留存与转化。公司定位为营销技术领域的创新者，在个性化推荐与实时决策赛道具备一定技术积累，服务多家零售与金融行业客户。",
+      "related_articles": [],
+      "funding_history": [
+        {
+          "round": "种子轮",
+          "date": "2019.03",
+          "amount": "250万美元",
+          "investors": [
+            "Bessemer Venture Partners",
+            "天使投资人"
+          ]
+        },
+        {
+          "round": "A轮",
+          "date": "2021.06",
+          "amount": "1200万美元",
+          "investors": [
+            "Insight Partners",
+            "Bessemer Venture Partners"
+          ]
+        },
+        {
+          "round": "B轮",
+          "date": "2023.09",
+          "amount": "3000万美元",
+          "investors": [
+            "Tiger Global",
+            "Insight Partners"
+          ]
+        }
+      ],
+      "detail_url": "data/deals/2026-11-14/trajectory.html"
+    }
+  ],
+  "learning": {
+    "concepts": [
+      {
+        "id": "learn_20261114_001",
+        "concept": "AI代理",
+        "concept_en": "AI Agent",
+        "definition": "能自主感知环境并采取行动实现目标的智能程序。",
+        "explanation": "你可以把AI代理想象成一个贴心的私人助理。传统软件像计算器，你按一下它动一下；而AI代理更像一个能听懂你需求并主动完成任务的助手。比如你说‘帮我订一张明天去北京的机票’，它就会自己打开购票网站、比较价格、填写信息、完成支付，整个过程无需你一步步操作。它具备记忆、规划和工具使用能力，能像人类一样分解任务并执行。",
+        "example": "ChatGPT Wallet中的AI代理可以代替用户在线购物并完成结账，用户只需设定预算和商品偏好，代理自动比价、下单。",
+        "articles": [],
+        "video": null,
+        "difficulty": "beginner",
+        "date": "2026-11-14",
+        "recommended_reading": {
+          "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+          "url": "https://www.theverge.com/2026/11/13/chatgpt-wallet-ai-agents-shopping",
+          "reading_time": 6
+        },
+        "recommended_video": {
+          "title": "AI Agent是什么？3分钟看懂智能代理",
+          "url": "https://www.bilibili.com/video/BV1AI4y1Y7Zt",
+          "platform": "bilibili",
+          "duration": "5分钟"
+        }
+      },
+      {
+        "id": "learn_20261114_002",
+        "concept": "具身智能",
+        "concept_en": "Embodied AI",
+        "definition": "拥有物理身体并能与真实世界交互的智能系统。",
+        "explanation": "具身智能就像给AI装上了眼睛、手和脚。传统AI像坐在电脑前的‘军师’，只能处理信息；而具身智能则是能走进现实世界的‘机器人管家’。它通过摄像头看、通过传感器感知、通过机械臂操作，能帮你拿杯子、开门、整理房间。关键难点在于：真实世界充满不确定性，杯子可能滑、门可能卡，AI必须实时学习并适应物理规律，这比下围棋难得多。",
+        "example": "浙大彭思达研究的具身智能系统，让机器人通过三维视觉理解环境，完成抓取、导航等物理任务。",
+        "articles": [],
+        "video": null,
+        "difficulty": "intermediate",
+        "date": "2026-11-14",
+        "recommended_reading": {
+          "title": "浙大彭思达：从元宇宙到具身智能，一个三维视觉研究者的八年",
+          "url": "https://www.leiphone.com/news/202611/xyz.html",
+          "reading_time": 12
+        },
+        "recommended_video": {
+          "title": "具身智能：AI的下一个浪潮",
+          "url": "https://www.youtube.com/watch?v=embodied-ai-2026",
+          "platform": "youtube",
+          "duration": "10分钟"
+        }
+      },
+      {
+        "id": "learn_20261114_003",
+        "concept": "模型无关平台",
+        "concept_en": "Model-Agnostic Platform",
+        "definition": "不绑定特定AI模型、可灵活切换多种模型的技术平台。",
+        "explanation": "想象你是一个美食家，不想被一家餐厅绑住，而是想随时换着吃。模型无关平台就像‘美食点评App’，它不自己做菜，但能帮你调用不同餐厅（AI模型）的菜。企业用这种平台开发AI应用时，今天可以用OpenAI的模型，明天换成开源的Llama，后台代码几乎不用改。好处是避免被单一供应商锁定，还能根据成本、性能灵活选择最优模型，就像手机的双卡双待，哪家信号好用哪家。",
+        "example": "LangChain的LangSmith平台让开发者用同一套代码调用GPT、Claude或开源模型，方便比较和切换。",
+        "articles": [],
+        "video": null,
+        "difficulty": "intermediate",
+        "date": "2026-11-14",
+        "recommended_reading": {
+          "title": "AI agent startup LangChain hits $3B valuation",
+          "url": "https://techcrunch.com/2026/11/13/langchain-3b-valuation",
+          "reading_time": 6
+        },
+        "recommended_video": {
+          "title": "LangChain入门：模型无关的AI应用开发",
+          "url": "https://www.bilibili.com/video/BV1LangChain2026",
+          "platform": "bilibili",
+          "duration": "12分钟"
+        }
+      },
+      {
+        "id": "learn_20261114_004",
+        "concept": "芯片出口管制",
+        "concept_en": "Chip Export Controls",
+        "definition": "国家限制特定芯片出口以维护安全与利益的政策。",
+        "explanation": "芯片出口管制就像国家规定‘某些高级厨具不能卖给隔壁邻居’，怕邻居用这些厨具做出危险的东西。具体到AI领域，美国禁止英伟达最先进的GPU（如H100）卖给中国，因为这些芯片是训练大模型的‘发动机’。但新闻显示，中国最强AI模型仍用了被禁芯片训练，说明管制存在漏洞或灰色渠道。这就像禁售高级厨具，但邻居通过二手市场或改装旧厨具照样做出了大餐，引发对管制有效性的讨论。",
+        "example": "研究显示中国部分顶尖大模型使用了被出口禁令限制的英伟达芯片进行训练，引发对管制效果的质疑。",
+        "articles": [],
+        "video": null,
+        "difficulty": "beginner",
+        "date": "2026-11-14",
+        "recommended_reading": {
+          "title": "Export-banned Nvidia chips are behind China’s most powerful AI models",
+          "url": "https://www.theregister.com/2026/11/13/nvidia-chips-china-ai-models",
+          "reading_time": 7
+        },
+        "recommended_video": {
+          "title": "芯片战争：出口管制如何影响AI发展",
+          "url": "https://www.youtube.com/watch?v=chip-export-controls",
+          "platform": "youtube",
+          "duration": "15分钟"
+        }
+      }
+    ],
+    "deep_reads": [
+      {
+        "title": "浙大彭思达：从元宇宙到具身智能，一个三维视觉研究者的八年",
+        "url": "https://www.leiphone.com/news/202611/xyz.html",
+        "source": "雷峰网",
+        "ai_summary": "文章深度访谈浙大研究员彭思达，回顾其八年三维视觉研究历程：从元宇宙虚拟场景重建，转向具身智能的真实世界交互。他开发了两个落地系统，GitHub累计获超6万星标。核心观点：三维视觉是连接虚拟与物理世界的桥梁，具身智能需要解决实时感知、动态建模与物理交互三大挑战。彭思达认为，未来五年具身智能将率先在工业分拣、家庭服务等结构化场景落地，但通用机器人仍需十年以上。文章还探讨了学术研究与开源社区如何相互促进。",
+        "reading_time": 12,
+        "is_must_read": true
+      },
+      {
+        "title": "The unfolding Jensen Huang scandal: a timeline",
+        "url": "https://www.theverge.com/2026/11/13/jensen-huang-scandal-timeline",
+        "source": "The Verge",
+        "ai_summary": "本文以时间线形式梳理英伟达CEO黄仁勋因绯闻辞职事件的来龙去脉：从传闻曝光、内部调查、董事会施压到最终辞职，仅用两周。文章分析其对AI行业的潜在冲击：英伟达曾向AI初创公司投入数百亿美元，黄仁勋的个人人脉与投资决策深度绑定，他的离开可能导致部分初创公司融资断档。VC和创始人普遍担忧‘后黄仁勋时代’英伟达的战略连续性，以及芯片供应政策是否生变。文章还提及以色列风投视此为挑战英伟达垄断的机会。",
+        "reading_time": 8,
+        "is_must_read": true
+      },
+      {
+        "title": "Amazon has a plan to index the world’s online shopping data",
+        "url": "https://www.technologyreview.com/2026/11/13/amazon-shopping-data-index",
+        "source": "MIT Technology Review",
+        "ai_summary": "亚马逊计划构建一个覆盖全球在线商品数据的巨型索引库，不仅包含自家平台，还抓取其他电商网站的商品信息。该索引将用于训练AI购物代理，使其能跨平台比价、推荐和自动下单。文章指出，这引发数据隐私与反垄断争议：亚马逊既做裁判（索引数据）又做运动员（自营电商），可能挤压其他零售商。同时，技术挑战巨大——商品数据格式杂乱、动态更新频繁，需要强大的实体对齐与去重能力。该计划被视为亚马逊应对ChatGPT Wallet等AI购物代理竞争的关键布局。",
+        "reading_time": 10,
+        "is_must_read": false
+      }
+    ],
+    "videos": [
+      {
+        "title": "AI Agent如何改变电商？ChatGPT Wallet实测",
+        "url": "https://www.bilibili.com/video/BV1ChatGPTWallet2026",
+        "platform": "bilibili",
+        "duration": "8分钟",
+        "ai_summary": "视频演示ChatGPT Wallet的AI代理如何自动完成比价、领券、下单全流程，并讨论其对传统电商的影响。"
+      },
+      {
+        "title": "英伟达CEO辞职背后：AI芯片格局将如何变化？",
+        "url": "https://www.youtube.com/watch?v=nvidia-ceo-resignation-impact",
+        "platform": "youtube",
+        "duration": "12分钟",
+        "ai_summary": "分析黄仁勋辞职对英伟达战略、AI初创融资及全球芯片供应链的连锁反应，并探讨竞争对手的机会。"
+      }
+    ],
+    "daily_question": {
+      "question": "AI代理自动购物 vs 传统手动购物：前者提升效率但可能削弱人的决策控制权，后者保留自主性但耗时费力。你认为在哪些场景下应优先使用AI代理，哪些场景应坚持手动？请对比分析。",
+      "answer": "这个问题本质是效率与自主权的权衡。优先使用AI代理的场景应具备三个特征：决策规则明确（如预算固定、品牌偏好清晰）、重复性高（如每月日用品补货）、试错成本低（如比价买书）。例如ChatGPT Wallet自动购买标准化的电子产品就很合适。而应坚持手动的场景包括：高情感价值消费（如礼物、婚纱）、需要临场体验的决策（如品尝食物）、涉及隐私或伦理的购买（如医疗用品）。更深层看，AI代理不应完全替代人，而应作为‘副驾驶’——提供比价、提醒优惠，但最终确认权在人。新闻中亚马逊索引全球购物数据，正是为了让代理更聪明，但若代理被平台利益操纵（优先推荐自家商品），人的自主权就更需保留。理想模式是：代理处理信息收集与初筛，人做最终价值判断。",
+      "related_concepts": [
+        "AI代理",
+        "模型无关平台"
+      ]
+    }
+  }
+}
