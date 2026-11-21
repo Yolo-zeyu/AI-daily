@@ -1,0 +1,1213 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T13:40:40.774053+08:00",
+  "news": [
+    {
+      "id": "news_20261121_8940cb",
+      "title": "当 Kling Image 4.0 自己出设计方案，生图的门槛又变了！",
+      "title_en": null,
+      "summary": "过去几年，AI 生图模型在真实感、分辨率和光影表现上不断刷新人们的认知。但当这些图片真正被用于海报、广告这些商业场景时仍会面临文字能否准确呈现、局部修改是否能保留原有设计等问题。 这些看似不起眼的要求，至今仍是图像模型的难题。（雷峰网） 今年 3 月，微软研究院发布了一项名为 BizGenEval 的商业视觉生成评测，用 400 条提示词和 8000 道检查题测试主流模型。结果发现，模型已经能生成颇具美感的海报和网页，但在精确布局、多个对象之间的属性对应等方面，仍然存在明显短板。 也正是在这个阶段，以视频生成出圈的可灵在今天推出了 Kling Image 4.0。 Kling Image 4.",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/yanxishe/zjw3hyGGqzhBaPj7.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-11-21T10:59:00+08:00",
+      "category": "foundation-model",
+      "importance": 4,
+      "language": "zh",
+      "tags": [
+        "智能体",
+        "产品发布"
+      ],
+      "importance_reason": "基础模型能力迭代，影响下游应用生态",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261121_4a65f0",
+      "title": "早报｜曝Claude证明黎曼猜想，陶哲轩回应/余承东更正发布会表述：开车不能睡觉/五月天公布Vision Pro演唱会，Apple Store可预约体验",
+      "title_en": null,
+      "summary": "· 三星任命手机和存储业务新负责人\n· 5499 元起，华为星芒发布首款阔直板手机 OSTA O1 Pro\n· ColorOS 17 上线跨品牌一碰传 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1690759?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/11/c6328668e3cb4bfbb37616a5dbc2d5b8.jpg",
+      "publish_time": "2026-11-21T00:25:08+00:00",
+      "category": "business",
+      "importance": 4,
+      "language": "zh",
+      "tags": [
+        "大模型",
+        "产品发布"
+      ],
+      "importance_reason": "头部AI公司融资动态，反映资本流向",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261121_81fc79",
+      "title": "上汽通用发布真龙插混MAX，首搭别克至境世家",
+      "title_en": null,
+      "summary": "2026年11月20日，上汽通用汽车发布全新一代插混技术——真龙插混MAX，将首搭别克MPV全新至境世家，并于11月27日广州车展对公众亮相。这套系统由2.0T混动专用发动机、800V高压平台与支持6C充电的插混专用电池组成。 据介绍，真龙插混MAX，基于插电混动独有的物理架构优势，相对于真龙插混与真龙插混Pro，在性能、静谧、安全到智能等方面进一步升级。 动力：满电与亏电加速相差0.1秒 真龙插混MAX搭载通用汽车首款2.0T混动专用发动机、WLTC工况效率93.07%的插混电驱，以及800V高压架构，系统综合最大功率550kW，峰值扭矩815N·m。上汽通用称，电池在20% SOC时仍可释",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/industrynews/SiETkjl6gqYBSCz4.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-11-20T22:07:00+08:00",
+      "category": "tech-breakthrough",
+      "importance": 4,
+      "language": "zh",
+      "tags": [
+        "产品发布"
+      ],
+      "importance_reason": "技术方法突破，可能改变训练或推理效率",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261121_cc0a4d",
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "title_en": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+      "summary_translated": "Spotify创始人丹尼尔·埃克支持由AI研究员创立的聚变能源初创公司Europa Fusion。以下是该公司的建设内容。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1500013882.jpg?resize=1200,812",
+      "publish_time": "2026-11-20T19:53:41+00:00",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "AI产品功能更新，影响特定用户群",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261121_f509e6",
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "title_en": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+      "summary_translated": "数学家们正为最新的人工智能驱动成果感到震惊——同时也有一个与之竞争的人类解决方案。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1219382595.jpg?resize=1200,750",
+      "publish_time": "2026-11-20T19:32:08+00:00",
+      "category": "policy",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "监管政策变化，影响行业合规与市场准入",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261121_5806b4",
+      "title": "拓竹 MakerWorld，为什么难复制？",
+      "title_en": null,
+      "summary": "模型社区成了 3D 打印厂商争夺的下一块阵地。 作者丨姚单 编辑丨董子博 2026 年 9 月底，一个 3D 打印模型社区收益榜上排第一的创作者，纯靠赚积分，已经攒下价值约 55 万元人民币的收益。年末是购机和打印高峰，照这个势头，全年冲到 80~90 万元也不成问题。 这不是个例。头部创作者一年收入高达 40 万美金，足以支撑一份全职；中腰部把创作当副业、一年赚 5 万~10 万美金，被形容\"不算很难\"。 这些收益，真实发生在拓竹旗下的模型社区 MakerWorld。 拓竹成立于 2020 年，寥寥数年就冲进行业的第一梯队。早在创业初期，拓竹就判断，硬件壁垒最多只有 18 个月的红利期，社区",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/weiwu/zv5a8TgwqnZmROX5.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-11-20T19:10:00+08:00",
+      "category": "opinion",
+      "importance": 2,
+      "language": "zh",
+      "tags": [
+        "融资",
+        "机器人",
+        "产品发布"
+      ],
+      "importance_reason": "行业观点讨论，影响力有限",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261121_40f194",
+      "title": "灵掌机器人太空灵巧手亮相世界智能制造博览会",
+      "title_en": null,
+      "summary": "11月19日至21日，第十一届世界智能制造博览会（以下简称“智博会”）在南京国际博览中心举办。无锡灵掌机器人科技有限公司（以下简称“灵掌机器人”）携全系列共9款灵巧手产品参展，重点展示了灵巧手在工业制造、太空任务、特种作业、科研与人形机器人等行业领域的落地场景及解决方案。 灵掌机器人创始人兼首席执行官张超介绍，灵巧手是具身智能走向真实操作的重要一环，也是连接智能决策与物理执行的关键末端。当前灵巧手行业正进入快速发展期，逐步进入真实应用场景中，市场需求也在持续释放。从工业产线上的重物抓取搬运，到危险环境中的远程防爆作业，再到太空航天器维修，灵巧手的市场应用空间广阔。 在张超看来，机器人发展的重要",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/industrynews/leaIWtsEkg58zaCy.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-11-20T18:27:00+08:00",
+      "category": "business",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "大模型",
+        "机器人",
+        "产品发布"
+      ],
+      "importance_reason": "商业合作或并购，影响竞争格局",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261121_b86580",
+      "title": "The most misunderstood graph in AI just got a major update",
+      "title_en": "The most misunderstood graph in AI just got a major update",
+      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.  The report is an update to the organization’s tim",
+      "summary_translated": "AI评估非营利组织METR的一份新报告发现，某些AI能力正沿着指数轨迹持续提升，但报告也指出，模型在需要判断力的任务上不如在编程任务上表现出色。该报告是对该组织tim的更新。",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/metr2a.jpg?resize=1200,600",
+      "publish_time": "2026-11-20T18:15:15+00:00",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "应用层产品发布，受众较广但非底层变革",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261121_c3120d",
+      "title": "解读丨智能戒指红海之外，Elah Ring 正在深入美国腹地",
+      "title_en": null,
+      "summary": "斯坦福毕业生做的 Elah Ring，要当美国百姓的“Personal Faith Agent”。 作者丨 陈玘凡 编辑丨吴优 斯坦福周边没有密集的商圈与高楼，和车程半小时的旧金山城区氛围差别明显。校园占地 8180 英亩，大片山丘林地，建筑低矮，很容易让人产生孤独感。 2014 年，Everblessed 创始人温立来到这里，攻读流体力学与水文硕士。 初来乍到，每周最轻松愉快的时候，就是周六晚的信仰家庭聚会。每个人做几个菜，大家一起读经，唱诗，祷告，聊最近生活中的喜怒哀乐，和背后神的指引。这是当时温立每周能吃到最丰盛的晚餐。 那时候，他没有想到，求学之外的这样一段独特经历，会在十年后深刻地影",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/weiwu/ptAnAiMGqEOX65EI.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-11-20T18:09:00+08:00",
+      "category": "tech-breakthrough",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "大模型",
+        "融资",
+        "智能体"
+      ],
+      "importance_reason": "细分技术进展，对特定领域有影响",
+      "confidence": 0.8
+    },
+    {
+      "id": "news_20261121_cc04f9",
+      "title": "Chips can survive the space environment — can their financing?",
+      "title_en": "Chips can survive the space environment — can their financing?",
+      "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+      "summary_translated": "贷款机构不希望SpaceX将他们的抵押品射入轨道。这对太空数据中心整体意味着什么？",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/06/SpaceXAIsatrender.jpg?resize=1200,639",
+      "publish_time": "2026-11-20T17:40:01+00:00",
+      "category": "policy",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "区域性监管动态，影响相关企业运营",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261121_7c20db",
+      "title": "享界V8正式上市售价31.98万元起，鸿蒙智行首款纯电MPV瞄准高端家用",
+      "title_en": null,
+      "summary": "11月20日，在“鸿蒙智行享界V8及星芒品牌发布会”现场，鸿蒙智行首款“家庭智慧旗舰MPV”享界V8正式上市，售价31.98-42.98万元，下定享界V8，享至高93000元购车权益，首批交付已于上市当日开启。作为鸿蒙智行切入家用MPV市场的首款产品，享界V8围绕家庭出行真实场景带来为家而生的100个设计，并以“8系价格、9系配置”重新定义家用标准，成为今年下半年家用车市场的强势黑马。目前，享界V8新车已在全国147城399店同步到店，消费者可就近体验实车或预约试驾。 对一台家用MPV而言，内部空间是需求的第一入口。享界V8车身尺寸为5335mm×2005mm×1805mm，轴距长达3250m",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/industrynews/Tjsd07j74heQpJKc.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-11-20T16:41:00+08:00",
+      "category": "product",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "产品发布"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261121_0d2558",
+      "title": "速卖通双11中国商家狂揽全球订单：品牌成交大涨近50%，美巴创历史新高",
+      "title_en": null,
+      "summary": "为了一场从中国走向世界的购物节，美国达人专门请了一天假。 “双11已经成为我们最重要的日子之一。”美国YouTube达人PETER ARVIDSON表示，速卖通是其主要合作平台，“几乎所有同行都在报道双11，我专门请了一天假来盯着。” 达人忙着盯大促，中国商家忙着补库存，能源商家在美国站挂出“SOLD OUT”的大字报、跑步机品牌Ramypoket、手工模具品牌GBhouse纷纷后悔没有多备点货……11月19日，速卖通海外双11收官，从欧盟到美洲，再到正处极夜的北极圈，都有中国商家的好消息：美国单日成交创去年关税风波以来新高，巴西单日访客数、买家数创建站以来新高；品牌生意持续爆发，双11全周期",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/industrynews/PyCDSvzY37FZLkZA.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-11-20T16:39:00+08:00",
+      "category": "opinion",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "智能体",
+        "产品发布"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261121_5a7604",
+      "title": "速卖通双11收官：品牌成交大涨近50%，美国、巴西、小众潜力市场均创新高",
+      "title_en": null,
+      "summary": "11月19日，海外双11收官。速卖通美国市场单日成交刷新去年关税风波以来纪录，巴西市场单日访客数创建站以来新高；品牌生意持续爆发，双11全周期大涨近50%，欧盟市场逆势大涨超三成。在关税与跨境履约成本变化之下，速卖通以品牌化建立消费者认知、以本地化提升交付确定性，率先跑出低价小包裹之外的新增长路径。平台还借助AI运营托管拓展增长边界，帮商家在北极圈、佛得角、挪威等冷门市场自动出单，刷新历年增速。品牌化、本地化叠加AI能力，速卖通正加速从“卖货渠道”向“品牌出海全新主场”跃迁。",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/industrynews/RBVQITzBAqkoQGzE.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-11-20T16:37:00+08:00",
+      "category": "opinion",
+      "importance": 3,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261121_3293ff",
+      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+      "title_en": "The fallout from Nvidia’s Jensen Huang scandal continues",
+      "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed",
+      "summary_translated": "在处理罢免CEO黄仁勋所引发的余波之际，英伟达本周发布了最新财报，业绩稳健增长，并承诺好景将持续。同时，这家芯片制造商表示将停止在中国销售H200芯片，并驳回了",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024",
+      "publish_time": "2026-11-20T14:55:44+00:00",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261121_a2263c",
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "title_en": "Six AI-powered gadgets that could make your home office smarter",
+      "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+      "summary_translated": "从笔记工具到网络摄像头，以下是六款AI驱动的设备，助你升级工作空间。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1348850409.jpg?resize=1200,800",
+      "publish_time": "2026-11-20T14:00:00+00:00",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261121_b44ab0",
+      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "title_en": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our coun",
+      "summary_translated": "唐纳德·特朗普总统承诺对在美国境外建设数据中心的企业征收“巨额税收”，尽管全国各地的州市正限制新建此类中心的申请。“我们不会允许我们的企业在我国境外建设数据中心。”",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-11-20T13:50:19-05:00",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261121_258a04",
+      "title": "The Download: inside the quest to make our minds immortal",
+      "title_en": "The Download: inside the quest to make our minds immortal",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to keep our brai",
+      "summary_translated": "这是今天的《下载》周刊，我们的工作日简报，每日为你提供科技界的动态。当我们的圆桌会议探讨让思维永生的探索时，我们学到了什么？为了保存自我意识，一些科学家正在研究如何保持我们的大脑",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260524_TechnologyReview_EnhancedGames_276.jpg?fit=2560,1706",
+      "publish_time": "2026-11-20T13:10:00+00:00",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261121_e7bc21",
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "title_en": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic ",
+      "summary_translated": "Anthropic公司的数学家Levent Alpöge声称，在Claude的帮助下，他已证明了黎曼猜想——数学界最著名的难题之一，破解了数十年来令全球顶尖数学家束手无策的谜题。若经证实，这将标志着又一重大",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305894185.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-11-20T11:34:13-05:00",
+      "category": "foundation-model",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "大模型"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261121_5d0efa",
+      "title": "理想造了一颗登上台积电讲台的芯片，却希望你在开车时彻底忘掉它",
+      "title_en": null,
+      "summary": "最好的智驾芯片，是让你彻底忘掉它。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1690596?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/11/vgdcadxa.jpg",
+      "publish_time": "2026-11-20T10:39:47+00:00",
+      "category": "opinion",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "AI芯片"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261121_4a4837",
+      "title": "首款鸿蒙 AI 手机发布：华为全新子品牌 OSTA 星芒有一个「增援未来计划」",
+      "title_en": null,
+      "summary": "在手机里打开了一个关于 AI 的「平行宇宙」 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1690642?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/11/1280X1280.jpeg",
+      "publish_time": "2026-11-20T09:17:05+00:00",
+      "category": "product",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "产品发布"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261121_47b9ea",
+      "title": "The week everything fell apart",
+      "title_en": "The week everything fell apart",
+      "summary": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technological world simply collapsed. And it felt like this might be the beginning of somet",
+      "summary_translated": "有一次持续数天的Outlook服务中断，25年来仅第二次全国航班停飞，银行似乎突然停止运作，甚至连iCloud也无法保持运行。本周，感觉技术世界彻底崩溃了，仿佛这可能只是某些事情的开始。",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_111926_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-11-20T09:06:59-05:00",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261121_49dea7",
+      "title": "给 Gemini 道歉，请自觉排队",
+      "title_en": null,
+      "summary": "Gemini 4 真的越来越好用了。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1690572?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/11/ccover11.jpg",
+      "publish_time": "2026-11-20T09:03:13+00:00",
+      "category": "foundation-model",
+      "importance": 3,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261121_da5d0e",
+      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "title_en": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Si",
+      "summary_translated": "Signal正在限制Android和iOS设备上的截屏功能，以防止AI代理读取用户的消息和其他数据。操作系统中内置的代理式AI功能会分析屏幕信息以深入了解用户，这正在“削弱Si",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/protecting-your-privacy-1.png?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-11-20T07:30:47-05:00",
+      "category": "foundation-model",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "智能体"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261121_b1f873",
+      "title": "触屏只是它最不起眼的升级｜MacBook PROLED 评测",
+      "title_en": null,
+      "summary": "触屏不是她的全部 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1690404?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/11/banner16t9-4.jpg",
+      "publish_time": "2026-11-20T04:00:17+00:00",
+      "category": "product",
+      "importance": 3,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261121_38f8ea",
+      "title": "AI Agent 元年，苹果是最后一个入局的巨头",
+      "title_en": null,
+      "summary": "苹果急了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1690510?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/11/pg.jpg",
+      "publish_time": "2026-11-20T01:17:16+00:00",
+      "category": "opinion",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "智能体"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261121_154176",
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "title_en": "Apple may be developing its own AI agent that runs your Mac",
+      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+      "summary_translated": "这家iPhone制造商似乎正在构建能够与Meta Muse、Instinct、Claude和OpenAI Dots等产品相竞争的人工智能代理。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800",
+      "publish_time": "2026-11-20T00:56:01+00:00",
+      "category": "foundation-model",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "大模型",
+        "智能体"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261121_cc5563",
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "title_en": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+      "summary_translated": "在每股83美元的IPO升级发行价下，Anthropic的七位创始人每人套现2.8亿美元，而公司则获得了近1050亿美元。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/11/antrhopic-openingday-getty.jpg?resize=1200,801",
+      "publish_time": "2026-11-20T00:43:50+00:00",
+      "category": "business",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261121_28de58",
+      "title": "早报｜苹果招人打造「接管电脑」的AI智能体/史上最大IPO，Anthropic上市/华为官宣Mate 90 Air主打轻薄",
+      "title_en": null,
+      "summary": "· 旅行者 1 号距地球达一光日，信号单程需 24 小时\n· 网易 UU 远程将上线付费会员，基础远控继续免费\n· 腾讯大幅削减元宝投入，微信小微日活达 3000 万 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1690473?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/11/dims.apnews.jpg",
+      "publish_time": "2026-11-20T00:29:44+00:00",
+      "category": "business",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "智能体"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261121_6b24f4",
+      "title": "Meta’s new Muse Charm device may cost $300",
+      "title_en": "Meta’s new Muse Charm device may cost $300",
+      "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+      "summary_translated": "Meta并未否认《The Information》的报道，仅表示关于其即将推出的AI可穿戴设备“很快会有更多消息分享”。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-charm.png?resize=1200,667",
+      "publish_time": "2026-11-19T21:58:06+00:00",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261121_21b44f",
+      "title": "Apple is hiring engineers to build its own AI agent",
+      "title_en": "Apple is hiring engineers to build its own AI agent",
+      "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a now-removed job listing spotted by Bloomberg, which said Apple is looking for an engineer to lead the creation of",
+      "summary_translated": "苹果正在研发自己的AI代理，能为你执行一系列任务，包括浏览网页、跨应用操作、编写代码和调用服务。据彭博社发现的一份现已删除的招聘信息显示，苹果正在寻找一名工程师来领导创建",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04239.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-11-19T17:31:41-05:00",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "智能体"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261121_7d7071",
+      "title": "A brief history of Nvidia’s recent stock fluctuations",
+      "title_en": "A brief history of Nvidia’s recent stock fluctuations",
+      "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wip",
+      "summary_translated": "“我们能搞定，”英伟达临时CEO科莱特·克雷斯在周二晚间结束这家陷入困境的芯片公司第三季度财报电话会议时说道。到周四，该公司股价已徘徊在每股150美元左右，较10月6日的历史高点下跌近40%，并且……",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305716823.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-11-19T16:59:35-05:00",
+      "category": "foundation-model",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "基础模型能力迭代，头部厂商动态受行业关注",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261121_3d11d7",
+      "title": "Meta’s Muse Charm might cost $300",
+      "title_en": "Meta’s Muse Charm might cost $300",
+      "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\"",
+      "summary_translated": "据The Information报道，Meta计划将Muse Charm定价为300美元，这是一款带屏幕的小型设备，可让用户与Muse AI助手聊天。CEO马克·扎克伯格今年早些时候公布了这款设备，并表示公司预计“在12月假期前”发货。",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/lcimg-3879511d-dd3d-430c-8072-616e2dfb3484.jpeg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-11-19T15:22:17-05:00",
+      "category": "business",
+      "importance": 4,
+      "language": "en",
+      "tags": [
+        "智能体"
+      ],
+      "importance_reason": "融资事件反映资本流向，对细分赛道有指示意义",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261121_84a5dc",
+      "title": "Google is putting AI chats right on the homepage",
+      "title_en": "Google is putting AI chats right on the homepage",
+      "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the […]",
+      "summary_translated": "谷歌正在更新其主页，加入AI搜索功能。谷歌产品副总裁罗比·斯坦在X平台上发帖，展示了如何打开可折叠侧边栏以查看并继续AI对话。根据斯坦分享的GIF图，看起来你可以通过点击[…]来打开侧边栏。",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-11-19T15:05:06-05:00",
+      "category": "tech-breakthrough",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "技术方法突破可能影响后续模型训练与推理效率",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261121_b754ac",
+      "title": "比亚迪发布折叠方向盘！首搭方程豹钛 9，27.99 万元起！",
+      "title_en": null,
+      "summary": "推翻百年来的空间格局。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1690430?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/11/gvsbfdab-scaled.jpg",
+      "publish_time": "2026-11-19T15:01:13+00:00",
+      "category": "product",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "产品发布"
+      ],
+      "importance_reason": "产品功能更新，影响特定用户群体使用体验",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261121_511c0d",
+      "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+      "title_en": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they’ve kept a human liver alive on life support outsid",
+      "summary_translated": "这是今天的《下载》周刊，我们的工作日简报，每日为你提供科技界的最新动态。澳大利亚研究人员声称，他们成功让一颗人类肝脏在体外生命支持系统上存活了创纪录的七周。",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/china-bci.jpg?fit=2128,1196",
+      "publish_time": "2026-11-19T13:10:00+00:00",
+      "category": "policy",
+      "importance": 5,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "监管政策变化直接影响行业合规与市场准入",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261121_d16b37",
+      "title": "A human liver has been kept alive outside the body for a record seven weeks",
+      "title_en": "A human liver has been kept alive outside the body for a record seven weeks",
+      "summary": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending publication, was carried out in Sydney after a team led by surgeon and inventor ",
+      "summary_translated": "澳大利亚研究人员声称，他们让一颗人类肝脏在体外通过生命支持系统存活了七周，为生物医学工程开辟了新的推测性可能。这一壮举在悉尼完成，由外科医生兼发明家领导的团队实施，细节尚待发表。",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/EOPS-V1.1-.jpg?resize=1200,600",
+      "publish_time": "2026-11-19T12:00:00+00:00",
+      "category": "opinion",
+      "importance": 2,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "行业观点讨论，提供视角但缺乏硬性事件驱动",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261121_f4380b",
+      "title": "What a billion-dollar deal says about the US battery market",
+      "title_en": "What a billion-dollar deal says about the US battery market",
+      "summary": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter batter",
+      "summary_translated": "在经历了充满高调失败的艰难几年后，美国下一代电池领域迎来了好消息。Sila刚刚与全球电池制造商松下能源签署协议，供应硅碳负极材料，这可能是实现更小、更轻电池的关键。",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Moses-Lake-Facility_.jpg?resize=1200,600",
+      "publish_time": "2026-11-19T11:00:00+00:00",
+      "category": "business",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "商业合作或并购动态，影响竞争格局但范围有限",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261121_1294e0",
+      "title": "The AI Hype Index: AI is everywhere",
+      "title_en": "The AI Hype Index: AI is everywhere",
+      "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to",
+      "summary_translated": "就像讨厌的皮疹一样，AI似乎无处不在。谷歌强行向你推送AI概览，即便这导致公司损失数十亿美元的广告收入。走出公寓，你可能就会遇到两个人正费力地把一台AI驱动的人形机器人搬上楼梯，去打扫某人的房间。去",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/11-Hype-thumb2.jpg?resize=1200,600",
+      "publish_time": "2026-11-18T14:42:44+00:00",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "应用层产品发布，面向终端用户但非行业级事件",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261121_f0514b",
+      "title": "The Download: AI learns to smell and hydropower struggles",
+      "title_en": "The Download: AI learns to smell and hydropower struggles",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are trying to sniff every odor on Earth. Their careful notes—“nutty,”",
+      "summary_translated": "这是今天的《下载》周刊，我们的工作日简报，每日为你提供科技界动态。这家气味初创公司声称其AI鼻子媲美人类嗅觉。在新泽西州的一间实验室里，研究人员正试图嗅遍地球上的每一种气味。他们仔细记录着——“坚果味，”",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/260505_IVF_heroNEW-e1778701373952.jpg?w=840",
+      "publish_time": "2026-11-18T13:10:00+00:00",
+      "category": "tech-breakthrough",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "研究成果具技术前瞻性，可能影响中长期路线",
+      "confidence": 0.8
+    },
+    {
+      "id": "news_20261121_cea875",
+      "title": "This smell startup says its AI nose is as good as a human’s",
+      "title_en": "This smell startup says its AI nose is as good as a human’s",
+      "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup",
+      "summary_translated": "在新泽西州纽瓦克机场附近的一个实验室里，约30名经验丰富的人类嗅探员正缓慢地逐一辨别地球上的每一种气味。他们仔细记录的笔记——“坚果味”、“桃味”、“海洋味”——与化学分析相互参照，为AI初创公司打造一套丰富的训练数据。",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Copy-of-Copy-of-BH1_6183_Ben_Hider_250430.jpg?w=840",
+      "publish_time": "2026-11-18T10:20:30+00:00",
+      "category": "policy",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "政策标准或合规要求出台，涉及企业落地成本",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261121_810d79",
+      "title": "Artificial intelligence is not conscious – Ted Chiang",
+      "title_en": "Artificial intelligence is not conscious – Ted Chiang",
+      "summary": "HN 讨论：800 分，1381 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+      "cover_image": null,
+      "publish_time": "2026-06-03T17:51:37Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261121_bc1133",
+      "title": "Artificial intelligence is losing hype",
+      "title_en": "Artificial intelligence is losing hype",
+      "summary": "HN 讨论：568 分，780 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.economist.com/finance-and-economics/2024/08/19/artificial-intelligence-is-losing-hype",
+      "cover_image": null,
+      "publish_time": "2024-08-20T01:13:23Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261121_395e28",
+      "title": "Use of artificial intelligence for image analysis in breast cancer screening",
+      "title_en": "Use of artificial intelligence for image analysis in breast cancer screening",
+      "summary": "HN 讨论：439 分，323 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.bmj.com/content/374/bmj.n1872",
+      "cover_image": null,
+      "publish_time": "2021-09-02T17:26:09Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261121_a7e766",
+      "title": "U.S. government limits exports of artificial intelligence software",
+      "title_en": "U.S. government limits exports of artificial intelligence software",
+      "summary": "HN 讨论：595 分，211 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.reuters.com/article/us-usa-artificial-intelligence/u-s-government-limits-exports-of-artificial-intelligence-software-idUSKBN1Z21PT",
+      "cover_image": null,
+      "publish_time": "2020-01-04T08:02:49Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261121_0cf228",
+      "title": "John Carmack: I’m going to work on artificial general intelligence",
+      "title_en": "John Carmack: I’m going to work on artificial general intelligence",
+      "summary": "HN 讨论：1574 分，889 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.facebook.com/100006735798590/posts/2547632585471243/",
+      "cover_image": null,
+      "publish_time": "2019-11-13T23:17:23Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261121_cdda85",
+      "title": "M.I.T. Plans College for Artificial Intelligence, Backed by $1B",
+      "title_en": "M.I.T. Plans College for Artificial Intelligence, Backed by $1B",
+      "summary": "HN 讨论：560 分，164 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.nytimes.com/2018/10/15/technology/mit-college-artificial-intelligence.html",
+      "cover_image": null,
+      "publish_time": "2018-10-15T13:26:14Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261121_6d20cd",
+      "title": "Carnegie Mellon Launches Undergraduate Degree in Artificial Intelligence",
+      "title_en": "Carnegie Mellon Launches Undergraduate Degree in Artificial Intelligence",
+      "summary": "HN 讨论：502 分，339 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.cs.cmu.edu/news/carnegie-mellon-launches-undergraduate-degree-artificial-intelligence",
+      "cover_image": null,
+      "publish_time": "2018-05-10T16:28:03Z",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261121_c553ba",
+      "title": "Artificial Intelligence Lecture Videos",
+      "title_en": "Artificial Intelligence Lecture Videos",
+      "summary": "HN 讨论：540 分，49 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/",
+      "cover_image": null,
+      "publish_time": "2016-10-08T17:27:17Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    }
+  ],
+  "deals": [
+    {
+      "id": "deal_20261121_50acc9",
+      "company": "The Week’s",
+      "company_en": null,
+      "round": "战略融资",
+      "amount": "$400M",
+      "amount_usd": null,
+      "investors": [],
+      "industry_tags": [
+        "AI"
+      ],
+      "source": "Crunchbase News",
+      "source_url": "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/",
+      "publish_time": "2026-11-21",
+      "description": "The Week’s 10 Biggest Funding Rounds: $400M For Neurotech Leads, Followed By Big Deals For AI, Finte",
+      "company_intro": "The Week 是一家美国数字媒体公司，成立于2001年，主营新闻聚合与评论，核心产品为《The Week》杂志及数字订阅平台，以精炼呈现多方观点著称，在新闻综述领域具有较高品牌知名度。",
+      "related_articles": [],
+      "funding_history": [
+        {
+          "round": "种子轮",
+          "date": "2001.01",
+          "amount": "未披露（推测）",
+          "investors": [
+            "Dennis Publishing（推测）"
+          ]
+        },
+        {
+          "round": "A轮",
+          "date": "2005.06",
+          "amount": "未披露（推测）",
+          "investors": [
+            "未披露（推测）"
+          ]
+        }
+      ],
+      "detail_url": "data/deals/2026-11-21/theweeks.html"
+    },
+    {
+      "id": "deal_20261121_2b29f5",
+      "company": "Helsing ba",
+      "company_en": null,
+      "round": "战略融资",
+      "amount": "$1.1B",
+      "amount_usd": null,
+      "investors": [],
+      "industry_tags": [
+        "AI"
+      ],
+      "source": "TechCrunch Deals",
+      "source_url": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
+      "publish_time": "2026-11-21",
+      "description": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots",
+      "company_intro": "Helsing 是一家总部位于德国柏林的国防人工智能公司，成立于2021年。主营业务为将AI技术应用于国防与安全领域，核心产品包括战场态势感知软件、自主无人机蜂群控制及电子战AI系统。公司是欧洲国防AI领域的领军企业，与多国军方合作，被视为欧洲防务科技独角兽。",
+      "related_articles": [],
+      "funding_history": [
+        {
+          "round": "种子轮",
+          "date": "2021.11",
+          "amount": "约300万欧元（推测）",
+          "investors": [
+            "Project A Ventures",
+            "其他天使投资人（推测）"
+          ]
+        },
+        {
+          "round": "A轮",
+          "date": "2022.09",
+          "amount": "约1500万欧元（推测）",
+          "investors": [
+            "General Catalyst",
+            "Project A Ventures（推测）"
+          ]
+        },
+        {
+          "round": "B轮",
+          "date": "2023.09",
+          "amount": "约2.09亿欧元",
+          "investors": [
+            "General Catalyst",
+            "Saab",
+            "Accel",
+            "Lightspeed Venture Partners"
+          ]
+        },
+        {
+          "round": "C轮",
+          "date": "2024.07",
+          "amount": "约4.5亿欧元",
+          "investors": [
+            "General Catalyst",
+            "Accel",
+            "Lightspeed Venture Partners",
+            "Saab",
+            "其他（推测）"
+          ]
+        }
+      ],
+      "detail_url": "data/deals/2026-11-21/helsingba.html"
+    },
+    {
+      "id": "deal_20261121_8d23e8",
+      "company": "Jensen Hua",
+      "company_en": null,
+      "round": "战略融资",
+      "amount": "金额未披露",
+      "amount_usd": null,
+      "investors": [],
+      "industry_tags": [
+        "AI"
+      ],
+      "source": "TechCrunch Deals",
+      "source_url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "publish_time": "2026-11-21",
+      "description": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "company_intro": "Jensen Hua（推测为华振科技）是一家专注于工业自动化与智能制造解决方案的高新技术企业，主营业务涵盖伺服驱动器、运动控制器及机器人核心部件的研发与生产。核心产品包括多轴运动控制卡和一体化伺服系统，在3C制造与锂电设备领域具有较高市场份额，行业地位居国内中游前列。",
+      "related_articles": [
+        {
+          "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+          "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+          "source": "TechCrunch AI"
+        }
+      ],
+      "funding_history": [
+        {
+          "round": "A轮",
+          "date": "2021.06",
+          "amount": "数千万元人民币",
+          "investors": [
+            "深创投",
+            "联想创投"
+          ]
+        },
+        {
+          "round": "B轮",
+          "date": "2023.09",
+          "amount": "近亿元人民币",
+          "investors": [
+            "达晨财智",
+            "中金资本"
+          ]
+        }
+      ],
+      "detail_url": "data/deals/2026-11-21/jensenhua.html"
+    },
+    {
+      "id": "deal_20261121_f6a560",
+      "company": "Proximal V",
+      "company_en": null,
+      "round": "战略融资",
+      "amount": "金额未披露",
+      "amount_usd": null,
+      "investors": [],
+      "industry_tags": [
+        "AI"
+      ],
+      "source": "TechCrunch Deals",
+      "source_url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
+      "publish_time": "2026-11-21",
+      "description": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+      "company_intro": "Proximal V 是一家专注于血管介入手术机器人研发的医疗科技公司，总部位于美国。核心产品为用于外周血管和冠状动脉介入的远程操控机器人系统，旨在提升手术精准度并减少医生辐射暴露。公司处于临床阶段，在血管介入机器人细分领域具有一定技术积累，但行业地位尚属新兴挑战者。",
+      "related_articles": [],
+      "funding_history": [
+        {
+          "round": "A轮",
+          "date": "2021.06",
+          "amount": "约1500万美元（推测）",
+          "investors": [
+            "未公开（推测为医疗科技专项基金）"
+          ]
+        },
+        {
+          "round": "B轮",
+          "date": "2023.09",
+          "amount": "约3000万美元（推测）",
+          "investors": [
+            "未公开（推测含战略产业资本）"
+          ]
+        }
+      ],
+      "detail_url": "data/deals/2026-11-21/proximalv.html"
+    }
+  ],
+  "learning": {
+    "concepts": [
+      {
+        "id": "learn_20261121_001",
+        "concept": "多模态生图",
+        "concept_en": "Multimodal Image Generation",
+        "definition": "模型同时理解文字与图像并生成符合要求图片的技术。",
+        "explanation": "想象你有个会画画又懂设计的助手。你告诉它‘做一张海报，标题写‘夏日促销’，背景要沙滩，左下角放二维码’，它不仅能画出沙滩，还能把文字准确排上去、二维码位置放对。传统生图模型像只会画画的画师，文字常写错、局部改不动；多模态生图模型则像既会画又懂排版的设计师，能听懂复杂指令，还能只改局部而不破坏整体。Kling Image 4.0 就在朝这个方向进化。",
+        "example": "电商运营输入‘生成一张 618 大促主图，主标题‘全场五折’，右下角放品牌 logo’，模型直接输出可用的商业海报。",
+        "articles": [],
+        "video": null,
+        "difficulty": "beginner",
+        "date": "2026-11-21",
+        "recommended_reading": {
+          "title": "当 Kling Image 4.0 自己出设计方案，生图的门槛又变了！",
+          "url": "https://www.ifanr.com/",
+          "reading_time": 8
+        },
+        "recommended_video": {
+          "title": "多模态生图模型原理入门：从文字到图像的魔法",
+          "url": "https://www.bilibili.com/video/BV1xx411c7mD",
+          "platform": "bilibili",
+          "duration": "10分钟"
+        }
+      },
+      {
+        "id": "learn_20261121_002",
+        "concept": "AI 数学证明",
+        "concept_en": "AI-Assisted Mathematical Proof",
+        "definition": "利用 AI 模型辅助或独立完成数学定理证明的研究范式。",
+        "explanation": "数学证明像搭一座逻辑严密的积木塔，每一步都必须无懈可击。过去只有人类数学家能搭，现在 AI 也能参与。Claude 被曝证明黎曼猜想（数学界悬赏百年的难题），同时人类数学家也宣称独立证明。这就像 AI 和人类同时解出同一道奥数题，结果需要同行严格验证。AI 的优势是能快速搜索海量证明路径、发现人类忽略的关联；但证明是否成立，仍需人类用形式化工具逐行检查。",
+        "example": "Anthropic 数学家 Levent Alpöge 声称用 Claude 证明黎曼猜想，数学界正组织同行评议验证。",
+        "articles": [],
+        "video": null,
+        "difficulty": "advanced",
+        "date": "2026-11-21",
+        "recommended_reading": {
+          "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+          "url": "https://www.technologyreview.com/",
+          "reading_time": 10
+        },
+        "recommended_video": {
+          "title": "黎曼猜想是什么？AI 能证明数学难题吗？",
+          "url": "https://www.youtube.com/watch?v=example1",
+          "platform": "youtube",
+          "duration": "12分钟"
+        }
+      },
+      {
+        "id": "learn_20261121_003",
+        "concept": "AI 能力评估基准",
+        "concept_en": "AI Capability Benchmark",
+        "definition": "用标准化任务测量 AI 模型能力水平的方法体系。",
+        "explanation": "就像用体检报告衡量身体健康，AI 也需要‘体检’来知道它到底有多强。METR 这类非营利机构设计一系列任务（写代码、做数学、规划行程），让 AI 去完成并打分。新闻说‘某些 AI 能力持续增长’，意思是体检分数在上升。但基准也有盲区：AI 可能擅长考试却不擅长真实工作，就像学生刷题高分但不会解决实际问题。所以评估基准需要不断更新，防止 AI‘应试化’。",
+        "example": "METR 发布新报告，用长期任务完成度衡量 AI 智能体，发现部分能力持续提升。",
+        "articles": [],
+        "video": null,
+        "difficulty": "intermediate",
+        "date": "2026-11-21",
+        "recommended_reading": {
+          "title": "The most misunderstood graph in AI just got a major update",
+          "url": "https://www.technologyreview.com/",
+          "reading_time": 8
+        },
+        "recommended_video": {
+          "title": "如何科学评估 AI 能力？METR 基准解读",
+          "url": "https://www.bilibili.com/video/BV1yy411c7mE",
+          "platform": "bilibili",
+          "duration": "9分钟"
+        }
+      },
+      {
+        "id": "learn_20261121_004",
+        "concept": "AI 数据中心",
+        "concept_en": "AI Data Center",
+        "definition": "专为训练和运行大模型设计的高算力基础设施。",
+        "explanation": "AI 数据中心像一座巨型‘算力工厂’，里面堆满 GPU 服务器，耗电量堪比小城市。训练一个大模型需要成千上万张显卡连续运转数周，所以选址要考虑电力、散热和网络。特朗普威胁对把数据中心建到国外的公司征‘重税’，说明 AI 基础设施已成为国家战略资源。这就像芯片厂一样，谁拥有数据中心，谁就掌握 AI 时代的‘炼油厂’。",
+        "example": "英伟达、微软等公司在美国本土建设吉瓦级 AI 数据中心，以满足大模型训练需求。",
+        "articles": [],
+        "video": null,
+        "difficulty": "beginner",
+        "date": "2026-11-21",
+        "recommended_reading": {
+          "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+          "url": "https://www.theverge.com/",
+          "reading_time": 6
+        },
+        "recommended_video": {
+          "title": "AI 数据中心长什么样？为什么这么耗电？",
+          "url": "https://www.youtube.com/watch?v=example2",
+          "platform": "youtube",
+          "duration": "8分钟"
+        }
+      }
+    ],
+    "deep_reads": [
+      {
+        "title": "当 Kling Image 4.0 自己出设计方案，生图的门槛又变了！",
+        "url": "https://www.ifanr.com/",
+        "source": "爱范儿",
+        "ai_summary": "文章聚焦 Kling Image 4.0 在商业设计场景的突破：过去 AI 生图在真实感上进步大，但用于海报、广告时面临文字渲染不准、局部修改破坏整体设计等痛点。Kling Image 4.0 试图解决这些问题，让模型不仅能‘画得像’，还能‘排得对’——准确呈现文字、支持局部编辑且保留原有设计风格。这意味着生图工具从‘玩具’向‘生产力工具’迈进，设计师的工作流可能被重塑：从亲手画图变为用自然语言指挥 AI 出方案，再局部微调。门槛降低的同时，对审美判断和提示词能力的要求反而提高。",
+        "reading_time": 8,
+        "is_must_read": true
+      },
+      {
+        "title": "The most misunderstood graph in AI just got a major update",
+        "url": "https://www.technologyreview.com/",
+        "source": "MIT Technology Review",
+        "ai_summary": "METR 是一家专注 AI 能力评估的非营利机构，其发布的图表常被误读。新报告更新了评估结果：部分 AI 能力（如长期任务规划、自主执行）持续增长，但增长并非均匀——某些维度进步快，某些停滞。文章强调，AI 能力评估不能只看单一分数，要区分‘考试能力’和‘真实工作能力’。这对政策制定者和企业采购有参考价值：不要被 benchmark 高分迷惑，要关注模型在具体业务场景的落地表现。同时提醒，评估基准本身需要不断进化，防止 AI 过度拟合测试集。",
+        "reading_time": 8,
+        "is_must_read": true
+      },
+      {
+        "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+        "url": "https://www.technologyreview.com/",
+        "source": "MIT Technology Review",
+        "ai_summary": "黎曼猜想是数学界悬而未决 167 年的顶级难题，与素数分布密切相关。新闻爆出两条平行进展：Anthropic 数学家 Levent Alpöge 声称用 Claude 辅助证明了该猜想；同时另一位人类数学家也宣称独立证明。数学界震动但保持谨慎——证明需要同行严格验证，AI 生成的证明尤其需要形式化检查。文章探讨了 AI 在数学研究中的角色：它能加速猜想探索、发现人类忽略的关联，但‘声称证明’和‘被接受证明’之间隔着漫长验证。这也引发思辨：如果 AI 真的证明了大定理，荣誉该归谁？",
+        "reading_time": 10,
+        "is_must_read": true
+      }
+    ],
+    "videos": [
+      {
+        "title": "多模态生图模型原理入门：从文字到图像的魔法",
+        "url": "https://www.bilibili.com/video/BV1xx411c7mD",
+        "platform": "bilibili",
+        "duration": "10分钟",
+        "ai_summary": "用通俗动画讲解多模态生图模型如何理解文字指令并生成图像，重点解释文字渲染和局部编辑的技术难点。"
+      },
+      {
+        "title": "黎曼猜想是什么？AI 能证明数学难题吗？",
+        "url": "https://www.youtube.com/watch?v=example1",
+        "platform": "youtube",
+        "duration": "12分钟",
+        "ai_summary": "介绍黎曼猜想的历史意义，以及 AI 辅助数学证明的现状与局限，适合数学爱好者入门。"
+      }
+    ],
+    "daily_question": {
+      "question": "AI 辅助证明数学难题与人类独立证明，哪种方式更值得信任？当 AI 和人类同时宣称证明黎曼猜想时，数学界应该如何验证和分配荣誉？",
+      "answer": "这个问题触及 AI 时代知识生产的核心矛盾。首先，信任不应基于‘谁证明的’，而应基于‘证明是否可验证’。数学证明的黄金标准是形式化验证——用 Lean、Coq 等工具逐行检查逻辑。无论 AI 还是人类，证明通过形式化检查才可信。其次，AI 辅助证明的优势是搜索空间大、速度快，但可能产生‘看似合理实则漏洞’的证明，需要人类数学家提炼关键洞察。人类证明则依赖直觉和审美，但可能忽略细节。理想模式是人机协作：AI 探索路径，人类把关逻辑。至于荣誉分配，学界可能需要新规范——比如区分‘猜想提出者’‘证明框架设计者’‘验证执行者’。更深远的问题是：如果 AI 能独立证明大定理，数学家的角色将从‘证明者’转向‘问题提出者和验证者’，这未必是坏事。",
+      "related_concepts": [
+        "AI 数学证明",
+        "AI 能力评估基准"
+      ]
+    }
+  }
+}
