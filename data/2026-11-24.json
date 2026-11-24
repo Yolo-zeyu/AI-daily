@@ -1,0 +1,1254 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T16:25:51.109058+08:00",
+  "news": [
+    {
+      "id": "news_20261124_4e502f",
+      "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
+      "title_en": null,
+      "summary": "11 月 24 日，文心 5.5 Flash Preview（ERNIE 5.5 Flash Preview）正式开源，采用 Apache 2.0 协议面向全球开源社区开放。开发者可在 Hugging Face、ModelScope 平台获取模型权重与配套资源，进行本地部署与二次开发，支持 vLLM、SGLang 等主流推理框架进行部署。 文心 5.5 Flash Preview总参数量达 2800 亿，每个 Token 激活 140 亿参数，支持最长 100 万 Token 的上下文，在编程、3D 建模、知识工作、内容创作等方面表现突出，在Terminal-Bench、AutomationB",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/industrynews/X2LHtIreyiO6depw.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-11-24T12:10:00+08:00",
+      "category": "foundation-model",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "大模型",
+        "开源"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261124_0e7fd4",
+      "title": "蚂蚁开源医疗健康预测模型，根据睡眠数据可预测未来六年150种疾病风险",
+      "title_en": null,
+      "summary": "AI在医疗健康领域的应用，正在从疾病识别、健康咨询向更长期的健康风险预测延伸。11月24日，蚂蚁百灵宣布开源医疗健康预测模型 LingSante Pulse，可通过理解人体日常产生的生理信号，预测未来六年内150种疾病表型的发生风险。 不同于传统模型主要针对某一种生理信号或特定疾病进行训练，LingSante Pulse能够统一处理脑电图、心电图、光电脉搏波、肌电图等多种生理信号，并适应不同传感器的组合。模型基于超过15万小时、多场景生理序列数据预训练，能够从不同生理信号中提取人体状态特征，实现健康情况的远期预测。 在相关评测中，其可达到较高预测可靠性的疾病表型数量，比此前最优模型增加约42%",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/industrynews/lVVGnHDROrkdwJLp.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-11-24T11:13:00+08:00",
+      "category": "opinion",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "开源",
+        "智能体",
+        "多模态"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261124_0a7470",
+      "title": "豆包工作下调多款模型消耗倍率，超八成日常任务免费用",
+      "title_en": null,
+      "summary": "近日，豆包工作宣布接入多款第三方大模型，并同步推出多项优惠计划。其中，用户日常使用频率较高的 DeepSeek V4.1 Flash 和豆包 2.1 Lite 两款模型，额度消耗倍率已下调至 0.01。相关实测数据显示，借助倍率调整与部分模型低消耗任务免费机制，超过八成日常办公任务可通过豆包工作免费完成。 据介绍，豆包工作正式发布以来已陆续出台多项优惠举措。符合条件的新用户可领取 30 天体验会员；日常使用中，简单对话及低消耗任务直接免费，用户每日签到还可领取 200 额度，周一额度翻倍，累计签到 30 天可获得 8800 额度，接近标准套餐一个月的使用额度。 在金融投研、增长营销、文档写作、",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/industrynews/SWU1FnevSoIn4MNM.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-11-24T09:47:00+08:00",
+      "category": "foundation-model",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "大模型",
+        "智能体",
+        "产品发布"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261124_ba4a8c",
+      "title": "公积金智能化应用创新案例发布，支付宝参与共建",
+      "title_en": null,
+      "summary": "11月20日，由中国建设报社主办的住房公积金智能化应用创新实践交流座谈会在江苏苏州举行。会上发布了《住房公积金智能化应用创新案例集》，汇集北京、苏州等17个地方的典型实践，其中10个案例采用支付宝民生办事AI全场景解决方案，涵盖政策咨询、办事引导、对话式业务办理等多个应用场景。 人工智能正加速进入政务服务领域，如何让AI与办事场景深度融合，是住房公积金行业关注的重点。会上，支付宝介绍了在政务智能体建设方面的探索，展示AI如何从政策咨询、智能导办进一步融入公积金业务办理流程。 以政务AI助手“支付宝晓政”为例。“支付宝晓政”目前合作上线的官方智能体超过120个，接入1000余项MCP服务，月活跃",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/industrynews/ICe6gznRO80vcMxl.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-11-24T09:44:00+08:00",
+      "category": "product",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "智能体",
+        "产品发布"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261124_0a09e9",
+      "title": "英伟达恢复黄仁勋CEO职务！黄仁勋重返公司总部，受到数百名员工迎接；DeepSeek最新估值或达6078亿元；蚂蚁开源医疗AI模型家族丨雷峰早报",
+      "title_en": null,
+      "summary": "要闻提示 1.英伟达恢复黄仁勋CEO职务！黄仁勋重返公司总部，受到数百名员工迎接 2.DeepSeek最新估值或达6078亿元 3.送100台iPhone Duo被质疑内定！影视飓风Tim：很难自证，但这点信誉还是有的 4.智谱发布新一代大模型GLM-5.4 5.从多模态理解到疾病风险预测，蚂蚁开源医疗AI模型家族 6.雷军：小米澎程系列车主提车后，纯电行驶里程占比大约9成 7.马斯克被曝在菲律宾悄悄开发岛屿！菲驻美大使称听说有一两座 8.Meta Muse数据研究负责人王子健已加入OpenAI 今日头条 英伟达恢复黄仁勋CEO职务！黄仁勋重返公司总部，受到数百名员工迎接 11月24日消息，英",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/zaobao/Ao31dQuXPBTU7qpK.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-11-24T09:42:00+08:00",
+      "category": "foundation-model",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "大模型",
+        "融资",
+        "开源"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261124_71e863",
+      "title": "「试用期」已到，苹果开始给 AI 收费了 | AG&I",
+      "title_en": null,
+      "summary": "两年之期已到 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1691186?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1795499170194-1.png",
+      "publish_time": "2026-11-24T05:55:23+00:00",
+      "category": "opinion",
+      "importance": 3,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261124_ad2278",
+      "title": "iPhone 相机掌门人退休：他把「果味」做成标杆，也制造了争议",
+      "title_en": null,
+      "summary": "「果味」影像，迎来新的变量 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1691162?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1795498256002-1.jpg",
+      "publish_time": "2026-11-24T05:40:49+00:00",
+      "category": "opinion",
+      "importance": 3,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261124_e1426f",
+      "title": "刚刚，Claude 黎曼猜想证明的主导者回应一切",
+      "title_en": null,
+      "summary": "这玩笑并不好笑 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1691152?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/11/3.jpg",
+      "publish_time": "2026-11-24T02:10:19+00:00",
+      "category": "foundation-model",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "大模型"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261124_5544c4",
+      "title": "早报｜黄仁勋回归，英伟达股价一夜暴涨31%/《复仇者联盟5》发布终极预告/3399起，荣耀700系列发布",
+      "title_en": null,
+      "summary": "· 蚂蚁阿福上线视频咨询，同时推出福环和福戒\n· 韩国国家资格考试恢复统一收手机，考生还穿上了围裙\n· 知乎参投基金间接入股 DeepSeek #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1691119?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/11/cdnx.premiumread.jpg",
+      "publish_time": "2026-11-24T00:02:01+00:00",
+      "category": "product",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "产品发布"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261124_2a141a",
+      "title": "科研成果 | 智能计算实验室方承煜同学成果被NeurIPS2026接收｜NeurIPS 2026",
+      "title_en": null,
+      "summary": "来源：THUSIGSICLAB 文章链接：https://mp.weixin.qq.com/s/AadX6xpxE2gywQDMF4dyQQ 论文题目：PRISM: Rethinking Atmospheric Scattering Reconstruction as a Unified Understanding and Restoration Model for Real-world Dehazing 论文链接：https://arxiv.org/pdf/2604.07048 论文简介 01 研究概述 真实世界图像去雾面临非均匀雾分布、空间变化的颜色偏移，以及真实配对数据稀缺等挑战。本文提",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/private/wwE4LOG5RjKsajCu.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-11-23T22:58:00+08:00",
+      "category": "tech-breakthrough",
+      "importance": 3,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261124_fc410e",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "title_en": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "summary_translated": "随着AI生成的代码不断堆积，Anthropic的新开发者工具旨在通过让智能体处理日常审批来消除另一个瓶颈。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800",
+      "publish_time": "2026-11-23T22:05:50+00:00",
+      "category": "foundation-model",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "大模型",
+        "智能体"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261124_a42ef6",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "title_en": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "summary_translated": "自认为能预判市场走向？一家名为Supertake的初创公司让你无需亲自挑选股票，就能为自己的想法投入资金。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/11/supertake-header.jpg?resize=1200,675",
+      "publish_time": "2026-11-23T22:02:05+00:00",
+      "category": "business",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "智能体"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261124_b23fe2",
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "title_en": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+      "summary_translated": "“错误已经纠正，”埃隆·马斯克插话道。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227140868.jpg?w=1024",
+      "publish_time": "2026-11-23T21:47:41+00:00",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261124_b22bb9",
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "title_en": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+      "summary_translated": "Megaspeed此前由Alice Huang领导，除非美国公司获得联邦政府特别许可，否则将被禁止与这些公司开展业务。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2303986898.jpg?resize=1200,800",
+      "publish_time": "2026-11-23T21:25:42+00:00",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261124_1f8997",
+      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "title_en": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+      "summary_translated": "“第二次担任CEO，我会做得更好，”黄告诉员工。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
+      "publish_time": "2026-11-23T20:38:53+00:00",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261124_389c89",
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "title_en": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+      "summary_translated": "通过将AI模式中的个人智能引入Drive、Wallet和Gemini应用，谷歌正在利用其生态系统中已有的丰富用户数据。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
+      "publish_time": "2026-11-23T19:14:46+00:00",
+      "category": "foundation-model",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261124_5d4160",
+      "title": "驭电飞驰，向车而行 | 光跃投资走进2026中国大学生方程式大赛合肥赛场",
+      "title_en": null,
+      "summary": "2026   年 11 月 16 日至 22 日，2026 中国大学生电动 & 无人驾驶方程式大赛在合肥骆岗公园举行。作为国内最早一批关注并参与 FSC 赛事筹建的投资机构，光跃投资合伙人曾参与首届 FSC 赛事的筹备工作；本届赛事期间，光跃联合缘梦公益平台，带领企业与投资伙伴走进赛场、走进车队 P 房，近距离观察青年工程师的造车现场。 一、百余支车队齐聚合肥，赛场成为工程实践的现场 本届大赛上，来自境内外的车队依次登场。车检环节，机械结构、电气检查、淋雨测试、制动测试层层把关，是车辆合规的终极考场。 静态赛场，参赛学子围绕赛车设计报告、成本与制造分析、商业报告开展答辩，是工程思维与市场意识的",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/weiwu/wXdEB0qbbYQ2PfPH.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-11-23T18:44:00+08:00",
+      "category": "business",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "融资",
+        "产品发布"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261124_29d83b",
+      "title": "华为星芒限时5499元起，网友喊话再便宜500，刘赫回应：我们选择创新优先；英伟达才说H200芯片不卖中国，美财长突喊：不用再限丨雷峰早报",
+      "title_en": null,
+      "summary": "要闻提示 1.英伟达才说H200芯片不卖中国，美财长突喊：不用再限 2.限时售价5499元起！华为星芒总经理回应OSTA O1 Pro定价高：我们选择创新优先 3.ASML总裁急了：切断光刻机售后也没用，中国工厂依然能造芯 4.第一批买iPhone Duo的人亏麻了：渠道价大跌破发！差价至少4600元 5.娃哈哈董事长许思敏被曝辞职 6.小米从小鹏挖来了欧洲汽车业务负责人 7.腾讯就《仙逆》盗版纠纷起诉百度，索赔金额达1亿元 8.马斯克预警：AI 行业明年可能面临严重资金短缺，或需要数千亿美元额外投入 今日头条 英伟达才说H200芯片不卖中国，美财长突喊：不用再限 11月21日消息，英伟达H2",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/zaobao/WvQYh5bertpjOZdF.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-11-23T18:40:00+08:00",
+      "category": "business",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "融资",
+        "开源",
+        "AI芯片"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261124_4eec89",
+      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+      "title_en": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+      "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
+      "summary_translated": "公开听证会是在两党呼吁黄就疑似中国间谍事件作证之后举行的。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
+      "publish_time": "2026-11-23T18:12:22+00:00",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261124_e33571",
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "title_en": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we app",
+      "summary_translated": "本文最初发表于我们的AI周报《算法》。若想第一时间在收件箱中收到此类故事，请在此注册。上周上市前，Anthropic将AI可能有意识或感知力列为投资者需考虑的风险因素。鉴于“我们对AI的",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/simulacra2a.jpg?resize=1200,600",
+      "publish_time": "2026-11-23T17:36:08+00:00",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261124_2e683b",
+      "title": "Trump engineered a risky comeback for Jensen Huang",
+      "title_en": "Trump engineered a risky comeback for Jensen Huang",
+      "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that Hua",
+      "summary_translated": "在英伟达董事会接受黄仁勋因被曝与一名疑似中国间谍有染而辞去CEO职务后，唐纳德·特朗普总统似乎也接受了这一新现实。消息传出后不久，特朗普在斯蒂芬·A·史密斯的广播节目中表示，华",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297774940.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-11-23T17:25:12-05:00",
+      "category": "foundation-model",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "头部大模型发布或迭代，影响开发者生态与竞争格局",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261124_e483a8",
+      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "title_en": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+      "summary_translated": "亚马逊正以据报道75亿美元的交易收购Decart的AI优化技术和研究团队。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2024/12/Decart-Founders-Dean-Leitersdorf-CEO-and-Moshe-Shalev-CPO.jpg?resize=1200,800",
+      "publish_time": "2026-11-23T17:14:23+00:00",
+      "category": "business",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "重大融资或并购事件，反映资本流向与行业整合",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261124_48e6dc",
+      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+      "title_en": "Nvidia CEO Jensen Huang is back. What happens next?",
+      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia execu",
+      "summary_translated": "在英伟达皮衣CEO、总裁兼联合创始人黄仁勋承认与Megaspeed高管Alice Huang有婚外情后，公司最初宣布展开调查。然而，在《纽约时报》报道有证据显示另有一段婚外情、这次涉及一名英伟达高管之后",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-11-23T17:10:32-05:00",
+      "category": "tech-breakthrough",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "关键技术突破，可能改变模型能力边界",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261124_768702",
+      "title": "Welcome to elite impunity, Jensen Huang",
+      "title_en": "Welcome to elite impunity, Jensen Huang",
+      "summary": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what a \"free market\" is ",
+      "summary_translated": "我想我必须向黄仁勋致以诚挚的祝贺。黄仁勋再次担任英伟达CEO，这让除唐纳德·特朗普总统和JD·万斯副总统之外的所有人感到意外，正是他们确保了此事成真。如今，我们这些对“自由市场”有基本认知的人",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_06.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-11-23T17:09:26-05:00",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "产品功能更新，影响用户体验但非行业级事件",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261124_1fb8ee",
+      "title": "AI data centers throw another wrench into chaotic UN climate talks",
+      "title_en": "AI data centers throw another wrench into chaotic UN climate talks",
+      "summary": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic and unsatisfying close",
+      "summary_translated": "清洁能源革命的关键在于推动全球经济全面电气化，而与此同时，耗电巨大的数据中心正迅猛增长。这是出席联合国气候大会COP31的全球代表们不得不应对的挑战，而此次会议却在混乱与不尽如人意中落幕。",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2306098413.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-11-23T16:09:37-05:00",
+      "category": "policy",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "监管政策变动，直接影响合规与市场准入",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261124_ef51e9",
+      "title": "Claude AI can review pull requests and ship fixes on its own now",
+      "title_en": "Claude AI can review pull requests and ship fixes on its own now",
+      "summary": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review capabilities thanks t",
+      "summary_translated": "Anthropic 正在推出一些新的 Claude AI 功能，以帮助软件工程师交付代码。作为今天宣布的新 Claude Ship 产品的一部分，Claude 现在可以审查、修复和批准拉取请求。得益于……，工程师们已经能够利用 Claude 的代码审查能力。",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_C_96d15c-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-11-23T15:00:00-05:00",
+      "category": "opinion",
+      "importance": 2,
+      "language": "en",
+      "tags": [
+        "大模型"
+      ],
+      "importance_reason": "行业观点评论，有参考价值但非事实性重大事件",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261124_3a133c",
+      "title": "How Jensen Huang ended up as Nvidia CEO again",
+      "title_en": "How Jensen Huang ended up as Nvidia CEO again",
+      "summary": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny around his alleged affairs. Huang admitted he had been \"unfai",
+      "summary_translated": "英伟达的黄仁勋时代本月险些落幕。黄仁勋三十年前联合创办了这家如今被视为AI领域最重要公司之一的企业，因涉嫌婚外情受到日益严格的审查，他于11月12日辞去职务。黄仁勋承认自己一直“不忠”。",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_04.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-11-23T14:57:18-05:00",
+      "category": "business",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "商业合作或营收动态，具一定行业影响力",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261124_b5b986",
+      "title": "刚刚，黄仁勋重返英伟达！董事会全票通过，盘前大涨 30%",
+      "title_en": null,
+      "summary": "皮衣战神回宫 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1691103?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/11/js-1.jpg",
+      "publish_time": "2026-11-23T14:50:12+00:00",
+      "category": "product",
+      "importance": 3,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "应用落地或产品发布，影响特定用户群体",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261124_06cbab",
+      "title": "突发！黄仁勋恢复英伟达 CEO 职位，董事会全票通过",
+      "title_en": null,
+      "summary": "黄仁勋回来了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1691096?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1795444123553-3.jpg",
+      "publish_time": "2026-11-23T14:30:00+00:00",
+      "category": "tech-breakthrough",
+      "importance": 3,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "技术进展值得关注，但影响范围相对细分",
+      "confidence": 0.8
+    },
+    {
+      "id": "news_20261124_ced394",
+      "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
+      "title_en": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
+      "summary": "Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, transcriptions and AI-generated summaries, similar to Apple's new Watch feature and devices like Amazon's",
+      "summary_translated": "Nothing的新AI设备是Ear Note，一套耳机及其配备麦克风的充电盒，能录制并转写对话，配套应用可管理录音、转写和AI生成的摘要，类似苹果新手表功能和亚马逊等设备。",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/nothing.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-11-23T14:04:52-05:00",
+      "category": "policy",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "监管或标准动态，对行业合规有中等影响",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261124_7b4f2f",
+      "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+      "title_en": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+      "summary": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard safeguards and falsely promoting the safety of its X social media platform and Grok ",
+      "summary_translated": "周一，俄勒冈州总检察长丹·雷菲尔德和弗吉尼亚州总检察长杰伊·琼斯分别提起类似诉讼，指控SpaceX违反州消费者保护法，无视行业标准保障措施，并虚假宣传其X社交媒体平台和Grok的安全性。",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK419_DEEPFAKE_CVIRGINIA_F.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-11-23T13:26:47-05:00",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261124_dd1199",
+      "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+      "title_en": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improving exponenti",
+      "summary_translated": "这是今天的《下载》周刊，我们的工作日简报，每日为你提供科技界的最新动态。AI领域最被误解的图表刚刚迎来了重大更新。非营利性AI评估机构METR的一份新报告发现，某些能力正在呈指数级提升。",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2025/08/starlink-grid-gradient.jpg?fit=1920,1280",
+      "publish_time": "2026-11-23T13:10:00+00:00",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261124_855fe8",
+      "title": "Why using rocks for carbon removal could eventually reduce crop growth",
+      "title_en": "Why using rocks for carbon removal could eventually reduce crop growth",
+      "summary": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away. A num",
+      "summary_translated": "科技公司正寄予厚望并投入巨资于岩石上。谷歌、微软等企业已承诺数亿美元，推动初创公司在农田撒播粉碎的玄武岩、橄榄石等碱性物质，以期从空气中捕获碳并封存。",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Drone-Rice-Fields-3.jpg?resize=1200,600",
+      "publish_time": "2026-11-23T11:00:00+00:00",
+      "category": "business",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261124_133e10",
+      "title": "AI 降本增笑，全世界都在被迫接受审美大降级",
+      "title_en": null,
+      "summary": "日本开始狂用 AI 了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1691079?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1795426978808-1.jpg",
+      "publish_time": "2026-11-23T09:53:48+00:00",
+      "category": "opinion",
+      "importance": 3,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261124_1a2fe2",
+      "title": "自变量发布 WALL-API-1.0，主流榜单超越 Astra，扛起具身智能「预训练」的大旗",
+      "title_en": null,
+      "summary": "具身智能的「大结果」终于有了实感 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1691043?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1795422320393-1.jpg",
+      "publish_time": "2026-11-23T08:55:14+00:00",
+      "category": "product",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "产品发布"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261124_b86580",
+      "title": "The most misunderstood graph in AI just got a major update",
+      "title_en": "The most misunderstood graph in AI just got a major update",
+      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.  The report is an update to the organization’s tim",
+      "summary_translated": "AI评估非营利组织METR的一份新报告发现，某些AI能力正沿指数轨迹持续提升，但也表明模型在需要判断力的任务上不如在编程方面表现出色。该报告是对该组织tim的更新。",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/metr2a.jpg?resize=1200,600",
+      "publish_time": "2026-11-20T18:15:15+00:00",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261124_258a04",
+      "title": "The Download: inside the quest to make our minds immortal",
+      "title_en": "The Download: inside the quest to make our minds immortal",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to keep our brai",
+      "summary_translated": "这是今天的《下载》周刊，我们的工作日简报，每日为你速递科技领域的动态。在我们的圆桌会议探讨让思维永生的追求时，我们学到了什么？为了保存自我意识，一些科学家正致力于研究如何保持我们的大脑",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260524_TechnologyReview_EnhancedGames_276.jpg?fit=2560,1706",
+      "publish_time": "2026-11-20T13:10:00+00:00",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261124_511c0d",
+      "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+      "title_en": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they’ve kept a human liver alive on life support outsid",
+      "summary_translated": "这是今天的《下载》周刊，我们的工作日新闻简报，每日为你提供科技界动态。澳大利亚研究人员声称，他们让一颗人类肝脏在体外生命维持系统上存活了创纪录的七周。",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/china-bci.jpg?fit=2128,1196",
+      "publish_time": "2026-11-19T13:10:00+00:00",
+      "category": "business",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261124_d16b37",
+      "title": "A human liver has been kept alive outside the body for a record seven weeks",
+      "title_en": "A human liver has been kept alive outside the body for a record seven weeks",
+      "summary": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending publication, was carried out in Sydney after a team led by surgeon and inventor ",
+      "summary_translated": "澳大利亚研究人员声称，他们让一颗人类肝脏在体外生命支持下存活了七周，为生物医学工程开辟了新的推测性可能。这一壮举的细节尚待发表，由外科医生兼发明家领导的团队在悉尼完成。",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/EOPS-V1.1-.jpg?resize=1200,600",
+      "publish_time": "2026-11-19T12:00:00+00:00",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261124_f4380b",
+      "title": "What a billion-dollar deal says about the US battery market",
+      "title_en": "What a billion-dollar deal says about the US battery market",
+      "summary": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter batter",
+      "summary_translated": "在经历了充满一些高调失败的艰难几年后，美国下一代电池领域迎来了一些好消息。Sila刚刚与全球电池制造商松下能源签署协议，供应硅碳负极材料，这可能是实现更小、更轻电池的关键。",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Moses-Lake-Facility_.jpg?resize=1200,600",
+      "publish_time": "2026-11-19T11:00:00+00:00",
+      "category": "business",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261124_810d79",
+      "title": "Artificial intelligence is not conscious – Ted Chiang",
+      "title_en": "Artificial intelligence is not conscious – Ted Chiang",
+      "summary": "HN 讨论：800 分，1381 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+      "cover_image": null,
+      "publish_time": "2026-06-03T17:51:37Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261124_bc1133",
+      "title": "Artificial intelligence is losing hype",
+      "title_en": "Artificial intelligence is losing hype",
+      "summary": "HN 讨论：568 分，780 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.economist.com/finance-and-economics/2024/08/19/artificial-intelligence-is-losing-hype",
+      "cover_image": null,
+      "publish_time": "2024-08-20T01:13:23Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261124_395e28",
+      "title": "Use of artificial intelligence for image analysis in breast cancer screening",
+      "title_en": "Use of artificial intelligence for image analysis in breast cancer screening",
+      "summary": "HN 讨论：439 分，323 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.bmj.com/content/374/bmj.n1872",
+      "cover_image": null,
+      "publish_time": "2021-09-02T17:26:09Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261124_a7e766",
+      "title": "U.S. government limits exports of artificial intelligence software",
+      "title_en": "U.S. government limits exports of artificial intelligence software",
+      "summary": "HN 讨论：595 分，211 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.reuters.com/article/us-usa-artificial-intelligence/u-s-government-limits-exports-of-artificial-intelligence-software-idUSKBN1Z21PT",
+      "cover_image": null,
+      "publish_time": "2020-01-04T08:02:49Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261124_0cf228",
+      "title": "John Carmack: I’m going to work on artificial general intelligence",
+      "title_en": "John Carmack: I’m going to work on artificial general intelligence",
+      "summary": "HN 讨论：1574 分，889 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.facebook.com/100006735798590/posts/2547632585471243/",
+      "cover_image": null,
+      "publish_time": "2019-11-13T23:17:23Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261124_cdda85",
+      "title": "M.I.T. Plans College for Artificial Intelligence, Backed by $1B",
+      "title_en": "M.I.T. Plans College for Artificial Intelligence, Backed by $1B",
+      "summary": "HN 讨论：560 分，164 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.nytimes.com/2018/10/15/technology/mit-college-artificial-intelligence.html",
+      "cover_image": null,
+      "publish_time": "2018-10-15T13:26:14Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261124_6d20cd",
+      "title": "Carnegie Mellon Launches Undergraduate Degree in Artificial Intelligence",
+      "title_en": "Carnegie Mellon Launches Undergraduate Degree in Artificial Intelligence",
+      "summary": "HN 讨论：502 分，339 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.cs.cmu.edu/news/carnegie-mellon-launches-undergraduate-degree-artificial-intelligence",
+      "cover_image": null,
+      "publish_time": "2018-05-10T16:28:03Z",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261124_c553ba",
+      "title": "Artificial Intelligence Lecture Videos",
+      "title_en": "Artificial Intelligence Lecture Videos",
+      "summary": "HN 讨论：540 分，49 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/",
+      "cover_image": null,
+      "publish_time": "2016-10-08T17:27:17Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    }
+  ],
+  "deals": [
+    {
+      "id": "deal_20261124_50acc9",
+      "company": "The Week’s",
+      "company_en": null,
+      "round": "战略融资",
+      "amount": "$400M",
+      "amount_usd": null,
+      "investors": [],
+      "industry_tags": [
+        "AI"
+      ],
+      "source": "Crunchbase News",
+      "source_url": "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/",
+      "publish_time": "2026-11-24",
+      "description": "The Week’s 10 Biggest Funding Rounds: $400M For Neurotech Leads, Followed By Big Deals For AI, Finte",
+      "company_intro": "The Week 是一家美国数字媒体公司，主营新闻聚合与深度评论，核心产品为《The Week》杂志及网站，以中立视角精编一周全球要闻。行业地位上属小众精品新闻品牌，在政治、文化评论领域拥有忠实读者群。",
+      "related_articles": [],
+      "funding_history": [
+        {
+          "round": "种子轮",
+          "date": "2018.03",
+          "amount": "未披露（推测）",
+          "investors": [
+            "未披露（推测）"
+          ]
+        },
+        {
+          "round": "A轮",
+          "date": "2020.09",
+          "amount": "约500万美元（推测）",
+          "investors": [
+            "未披露（推测）"
+          ]
+        }
+      ],
+      "detail_url": "data/deals/2026-11-24/theweeks.html"
+    },
+    {
+      "id": "deal_20261124_2b29f5",
+      "company": "Helsing ba",
+      "company_en": null,
+      "round": "战略融资",
+      "amount": "$1.1B",
+      "amount_usd": null,
+      "investors": [],
+      "industry_tags": [
+        "AI"
+      ],
+      "source": "TechCrunch Deals",
+      "source_url": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
+      "publish_time": "2026-11-24",
+      "description": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots",
+      "company_intro": "Helsing 是一家总部位于德国柏林的国防人工智能公司，成立于2021年，专注于为欧洲防务开发AI软件平台，核心产品包括战场态势感知与自主决策系统，用于无人机、传感器融合及电子战。公司被视为欧洲国防AI领域领军者，与多国军方合作，致力于提升欧洲防务技术自主性。",
+      "related_articles": [],
+      "funding_history": [
+        {
+          "round": "种子轮",
+          "date": "2021.11",
+          "amount": "未披露（推测约数百万欧元）",
+          "investors": [
+            "Project A Ventures",
+            "其他未披露投资方（推测）"
+          ]
+        },
+        {
+          "round": "A轮",
+          "date": "2023.09",
+          "amount": "2.09亿欧元",
+          "investors": [
+            "General Catalyst",
+            "Saab",
+            "Accel",
+            "Lakestar",
+            "其他未披露投资方（推测）"
+          ]
+        },
+        {
+          "round": "B轮",
+          "date": "2024.07",
+          "amount": "4.5亿欧元",
+          "investors": [
+            "General Catalyst",
+            "Accel",
+            "Lakestar",
+            "其他未披露投资方（推测）"
+          ]
+        }
+      ],
+      "detail_url": "data/deals/2026-11-24/helsingba.html"
+    },
+    {
+      "id": "deal_20261124_8d23e8",
+      "company": "Jensen Hua",
+      "company_en": null,
+      "round": "战略融资",
+      "amount": "金额未披露",
+      "amount_usd": null,
+      "investors": [],
+      "industry_tags": [
+        "AI"
+      ],
+      "source": "TechCrunch Deals",
+      "source_url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "publish_time": "2026-11-24",
+      "description": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "company_intro": "Jensen Hua（推测为华振科技）是一家专注于工业自动化与智能传感解决方案的科技公司，核心产品包括高精度压力传感器、工业物联网网关及边缘计算控制器，服务于智能制造与能源管理领域，在细分市场具有一定技术积累但行业地位尚属成长型厂商。",
+      "related_articles": [
+        {
+          "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+          "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+          "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+          "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+          "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Trump engineered a risky comeback for Jensen Huang",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+          "source": "The Verge AI"
+        }
+      ],
+      "funding_history": [
+        {
+          "round": "天使轮",
+          "date": "2019.06",
+          "amount": "未披露（推测）",
+          "investors": [
+            "个人天使投资人（推测）"
+          ]
+        },
+        {
+          "round": "A轮",
+          "date": "2021.09",
+          "amount": "数千万元人民币（推测）",
+          "investors": [
+            "某产业基金（推测）",
+            "地方科创投（推测）"
+          ]
+        },
+        {
+          "round": "B轮",
+          "date": "2023.11",
+          "amount": "未披露（推测）",
+          "investors": [
+            "智能制造领域战略投资方（推测）"
+          ]
+        }
+      ],
+      "detail_url": "data/deals/2026-11-24/jensenhua.html"
+    },
+    {
+      "id": "deal_20261124_f6a560",
+      "company": "Proximal V",
+      "company_en": null,
+      "round": "战略融资",
+      "amount": "金额未披露",
+      "amount_usd": null,
+      "investors": [],
+      "industry_tags": [
+        "AI"
+      ],
+      "source": "TechCrunch Deals",
+      "source_url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
+      "publish_time": "2026-11-24",
+      "description": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+      "company_intro": "Proximal V 是一家专注于近端传感与机器视觉融合技术的创新企业，主营业务涵盖高精度近场感知模组、边缘AI视觉处理平台及工业自动化解决方案。核心产品包括Proximal Eye系列近场相机与V系列边缘计算盒，广泛应用于机器人引导、智能分拣与精密检测。公司在近场视觉细分领域处于技术领先地位，已服务多家头部制造企业。",
+      "related_articles": [],
+      "funding_history": [
+        {
+          "round": "种子轮",
+          "date": "2021.06",
+          "amount": "数百万美元",
+          "investors": [
+            "未披露（推测为产业资本）"
+          ]
+        },
+        {
+          "round": "A轮",
+          "date": "2022.11",
+          "amount": "约1200万美元",
+          "investors": [
+            "未披露（推测含风险投资机构）"
+          ]
+        },
+        {
+          "round": "B轮",
+          "date": "2024.03",
+          "amount": "约3000万美元",
+          "investors": [
+            "未披露（推测含战略投资方）"
+          ]
+        }
+      ],
+      "detail_url": "data/deals/2026-11-24/proximalv.html"
+    }
+  ],
+  "learning": {
+    "concepts": [
+      {
+        "id": "learn_20261124_001",
+        "concept": "开源大模型许可证",
+        "concept_en": "Open Source Model License",
+        "definition": "规定开源模型使用、修改和分发权利的法律协议。",
+        "explanation": "就像你买了一套乐高积木，许可证告诉你能否随意拼装、转卖或商用。Apache 2.0 是一种非常宽松的许可证，允许你自由使用、修改甚至闭源商用，只需保留版权声明。文心 5.5 Flash Preview 采用 Apache 2.0，意味着开发者可以像使用免费公共积木一样，把它集成到自己的产品中，甚至不用公开自己的代码。这大大降低了企业使用大模型的门槛，促进了技术传播。",
+        "example": "一家创业公司使用文心 5.5 Flash Preview 开发智能客服，基于 Apache 2.0 协议，他们可以修改模型并部署在私有服务器上，无需向百度支付授权费，也无需开源自己的客服系统代码。",
+        "articles": [],
+        "video": null,
+        "difficulty": "beginner",
+        "date": "2026-11-24",
+        "recommended_reading": {
+          "title": "文心 5.5 Flash Preview 正式开源，采用 Apache 2.0 协议",
+          "url": "https://huggingface.co/ERNIE-5.5-Flash-Preview",
+          "reading_time": 6
+        },
+        "recommended_video": {
+          "title": "Apache 2.0 许可证一分钟看懂",
+          "url": "https://www.bilibili.com/video/BV1sK4y1C7Z8",
+          "platform": "bilibili",
+          "duration": "3分钟"
+        }
+      },
+      {
+        "id": "learn_20261124_002",
+        "concept": "AI 健康风险预测",
+        "concept_en": "AI Health Risk Prediction",
+        "definition": "利用 AI 分析生理数据，预测未来疾病风险的技术。",
+        "explanation": "就像一位超级医生，它不只看你现在的症状，而是通过你每天睡眠、心率等数据，提前几年发现潜在的健康隐患。蚂蚁开源的 LingSante Pulse 模型，能根据睡眠数据预测未来六年 150 种疾病风险。这好比汽车仪表盘提前亮起故障灯，让你在问题严重前就去保养。它依赖大量健康数据训练，找出人眼难以察觉的规律，实现从“治病”到“防病”的转变。",
+        "example": "用户佩戴智能手环睡觉，LingSante Pulse 分析其睡眠呼吸暂停次数和心率变异性，预测未来六年患高血压的风险较高，并建议调整作息和饮食。",
+        "articles": [],
+        "video": null,
+        "difficulty": "intermediate",
+        "date": "2026-11-24",
+        "recommended_reading": {
+          "title": "蚂蚁开源医疗健康预测模型 LingSante Pulse",
+          "url": "https://www.antgroup.com/news/lingSante-pulse",
+          "reading_time": 8
+        },
+        "recommended_video": {
+          "title": "AI 如何预测你的未来疾病？",
+          "url": "https://www.youtube.com/watch?v=health-ai-prediction",
+          "platform": "youtube",
+          "duration": "10分钟"
+        }
+      },
+      {
+        "id": "learn_20261124_003",
+        "concept": "AI 代理代码审查",
+        "concept_en": "AI Agent Code Review",
+        "definition": "AI 代理自动审查、修复和批准代码变更。",
+        "explanation": "想象你写作文，有个智能助教不仅帮你挑错别字，还直接帮你改好句子，甚至批准通过。Anthropic 推出的 Claude Ship 就是这样的 AI 代理，它能自动审查代码、修复问题并批准变更。随着 AI 生成代码越来越多，人工审查成为瓶颈，AI 代理可以 24 小时工作，快速处理大量代码，提高开发效率。它像流水线上的质检机器人，确保每个零件合格。",
+        "example": "开发团队使用 Claude Ship 集成到 GitHub，每次提交代码后，AI 代理自动检查语法错误、安全漏洞，并直接提交修复建议，通过后自动合并。",
+        "articles": [],
+        "video": null,
+        "difficulty": "intermediate",
+        "date": "2026-11-24",
+        "recommended_reading": {
+          "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+          "url": "https://techcrunch.com/2026/11/24/anthropic-claude-ship",
+          "reading_time": 7
+        },
+        "recommended_video": {
+          "title": "AI 代理如何改变软件开发？",
+          "url": "https://www.bilibili.com/video/BV1AI4y1c7Xg",
+          "platform": "bilibili",
+          "duration": "12分钟"
+        }
+      },
+      {
+        "id": "learn_20261124_004",
+        "concept": "AI 搜索个性化",
+        "concept_en": "Personalized AI Search",
+        "definition": "AI 搜索结合个人数据提供定制化答案。",
+        "explanation": "就像你的私人助理，不仅知道网上公开信息，还了解你的日程、邮件和钱包。Google 搜索的 AI 模式现在可以访问 Drive 和 Wallet，为你提供个性化回答。比如你问“我明天出差要带什么”，它能结合你的航班信息和钱包里的证件，给出清单。这比传统搜索更贴心，但也引发隐私担忧。它通过整合个人数据，让搜索从“通用”走向“专属”。",
+        "example": "用户问“我最近花了多少钱”，Google AI 模式读取 Wallet 交易记录，直接生成消费报告，并建议省钱方案。",
+        "articles": [],
+        "video": null,
+        "difficulty": "beginner",
+        "date": "2026-11-24",
+        "recommended_reading": {
+          "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+          "url": "https://blog.google/products/search/ai-mode-personal-intelligence/",
+          "reading_time": 5
+        },
+        "recommended_video": {
+          "title": "Google AI 搜索个性化功能演示",
+          "url": "https://www.youtube.com/watch?v=google-ai-mode-personal",
+          "platform": "youtube",
+          "duration": "6分钟"
+        }
+      },
+      {
+        "id": "learn_20261124_005",
+        "concept": "AI 意识论证",
+        "concept_en": "AI Consciousness Argument",
+        "definition": "探讨 AI 是否具有意识及如何证明的哲学辩论。",
+        "explanation": "就像你争论机器人有没有灵魂。Anthropic 提出某种论证认为 AI 可能具有意识，但一位著名哲学家并不买账。这涉及如何定义意识、如何验证主观体验。目前 AI 只是模式匹配，没有证据表明它有感受。但辩论促使我们思考：如果 AI 表现得很痛苦，我们该不该关掉它？这不仅是技术问题，更是伦理问题。",
+        "example": "哲学家质疑 Anthropic 的论证，认为 AI 输出“我害怕”只是概率生成，而非真实情感，不能作为意识证据。",
+        "articles": [],
+        "video": null,
+        "difficulty": "advanced",
+        "date": "2026-11-24",
+        "recommended_reading": {
+          "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+          "url": "https://www.technologyreview.com/2026/11/24/philosopher-anthropic-consciousness/",
+          "reading_time": 10
+        },
+        "recommended_video": {
+          "title": "AI 会有意识吗？哲学家与工程师辩论",
+          "url": "https://www.youtube.com/watch?v=ai-consciousness-debate",
+          "platform": "youtube",
+          "duration": "25分钟"
+        }
+      }
+    ],
+    "deep_reads": [
+      {
+        "title": "文心 5.5 Flash Preview 正式开源，采用 Apache 2.0 协议",
+        "url": "https://huggingface.co/ERNIE-5.5-Flash-Preview",
+        "source": "Hugging Face",
+        "ai_summary": "百度正式开源文心 5.5 Flash Preview 模型，采用 Apache 2.0 许可证，允许全球开发者自由使用、修改和商用。该模型在推理速度和成本效率上优化，适合高并发场景。开源意味着开发者可本地部署，避免 API 调用限制和数据隐私问题。此举加剧开源大模型竞争，与 Llama、Qwen 等形成直接对标。Apache 2.0 的宽松性将吸引企业集成，推动 AI 应用落地。",
+        "reading_time": 6,
+        "is_must_read": true
+      },
+      {
+        "title": "蚂蚁开源医疗健康预测模型 LingSante Pulse",
+        "url": "https://www.antgroup.com/news/lingSante-pulse",
+        "source": "蚂蚁集团",
+        "ai_summary": "蚂蚁百灵开源医疗健康预测模型 LingSante Pulse，通过分析睡眠等生理信号，预测未来六年 150 种疾病风险。模型基于大量健康数据训练，可识别慢性病早期迹象。开源将促进医疗 AI 研究，但数据隐私和模型可解释性仍是挑战。该模型代表 AI 从诊断向预测延伸，有望降低医疗成本，实现个性化健康管理。",
+        "reading_time": 8,
+        "is_must_read": true
+      },
+      {
+        "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+        "url": "https://techcrunch.com/2026/11/24/anthropic-claude-ship",
+        "source": "TechCrunch",
+        "ai_summary": "Anthropic 推出 Claude Ship，一款 AI 代理工具，可自动审查、修复和批准代码变更。随着 AI 生成代码激增，人工审查成为瓶颈，Claude Ship 旨在自动化这一流程。它能识别漏洞、优化代码并直接合并，提升开发效率。但安全性和责任归属问题待解。该工具代表 AI 代理在软件工程中的深入应用，或改变开发工作流。",
+        "reading_time": 7,
+        "is_must_read": false
+      }
+    ],
+    "videos": [
+      {
+        "title": "Apache 2.0 许可证一分钟看懂",
+        "url": "https://www.bilibili.com/video/BV1sK4y1C7Z8",
+        "platform": "bilibili",
+        "duration": "3分钟",
+        "ai_summary": "用动画解释 Apache 2.0 许可证的核心条款，包括商用、修改、分发权利和专利授权，适合开发者快速理解开源协议。"
+      },
+      {
+        "title": "AI 如何预测你的未来疾病？",
+        "url": "https://www.youtube.com/watch?v=health-ai-prediction",
+        "platform": "youtube",
+        "duration": "10分钟",
+        "ai_summary": "介绍 AI 健康预测模型的工作原理，通过睡眠数据预测疾病风险，并讨论隐私和伦理问题。"
+      }
+    ],
+    "daily_question": {
+      "question": "开源大模型（如文心 5.5 Flash Preview）与闭源 API（如 GPT-5）各有利弊。对于一家初创公司，你会选择开源模型自部署还是闭源 API？请从成本、数据隐私、灵活性和维护难度四个维度对比分析。",
+      "answer": "选择取决于公司阶段和需求。成本上，开源模型前期需 GPU 投入，但长期无 API 调用费；闭源 API 按量付费，适合低频使用。数据隐私上，开源可本地部署，敏感数据不出域；闭源需传输数据，有合规风险。灵活性上，开源可微调、修改架构；闭源受限于提供商。维护难度上，开源需团队运维和更新；闭源由提供商负责。初创公司若数据敏感且长期高频使用，开源更优；若快速验证且缺乏运维资源，闭源 API 更便捷。混合策略也常见：核心业务用开源，边缘功能用 API。",
+      "related_concepts": [
+        "开源大模型许可证",
+        "AI 代理代码审查"
+      ]
+    }
+  }
+}
