@@ -1,0 +1,1250 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T15:02:36.570827+08:00",
+  "news": [
+    {
+      "id": "news_20261125_5a0759",
+      "title": "千问Go全面开放免费代打电话服务，支持订餐厅、找快递、寻失物",
+      "title_en": null,
+      "summary": "11月25日，千问Go全面开放代打电话服务，人人都能免费拥有一个帮自己打电话的专属AI助手。告知千问拨打对象和通话需求，用户授权后，千问即可代为联系餐厅预订包间、向酒店查询遗失物品、联系快递员确认配送进度等，并反馈沟通结果。此外，千问还支持定时代打电话。 据了解，千问代打电话需经用户授权，通话中会主动表明AI助手身份，并设有外呼安全防护机制，对存在风险的请求进行筛查和拦截。",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/industrynews/L9rc3Khgc8pFgYtD.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-11-25T10:28:00+08:00",
+      "category": "foundation-model",
+      "importance": 4,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "基础模型发布或迭代，影响下游应用生态",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261125_b73212",
+      "title": "CCF HPC 2026访谈：HPC与AI需求推动算力走向系统协同",
+      "title_en": null,
+      "summary": "过去两年，从 ChatGPT 到国内外各路大模型百舸争流，AI 从只会聊天的机器人，一路长成了能看图、能听声、能剪视频的多面手。短剧、内容创作、智能客服、企业办公……应用场景越铺越开，模型规模越做越大，训练和推理的胃口也随之水涨船高。可当所有人都意识到\"算力就是新的水电\"时，一个更棘手的问题浮出水面：算力从哪里来？又能不能以可负担的成本拿到手？ 10 月的 CCF 全国高性能计算学术大会（CCF HPC 2026）上，算力成为交流的重点话题。在接受雷峰网采访时，AMD 大中华区高级解决方案架构师余伟飞以算力、芯片和能源三个关键词，概括了计算产业面临的需求、技术基础与资源约束。 从获得算力到评估",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/chips/yHCLu9wEjr4z9AgA.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-11-25T09:51:00+08:00",
+      "category": "business",
+      "importance": 4,
+      "language": "zh",
+      "tags": [
+        "大模型",
+        "开源",
+        "AI芯片"
+      ],
+      "importance_reason": "融资或并购动态，反映资本流向与竞争格局",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261125_70aea1",
+      "title": "Seedance 2.5 级别，价格只要 1/10，我们实测了计划开源的 MAGI-2",
+      "title_en": null,
+      "summary": "AI 视频「烧钱」终结者 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1691445?utm_source=rss&utm_medium=rss&utm_campaign",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/11/MAGI2-cover1-scaled.jpg",
+      "publish_time": "2026-11-25T05:21:04+00:00",
+      "category": "tech-breakthrough",
+      "importance": 4,
+      "language": "zh",
+      "tags": [
+        "开源"
+      ],
+      "importance_reason": "技术突破可能改变能力边界与研发路线",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261125_d7c3fa",
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+      "title_en": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+      "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the",
+      "summary_translated": "耶鲁大学的杰弗里·索南菲尔德警告称，市场周一所欢呼的、黄仁勋在白宫支持下重返英伟达担任CEO及董事会成员，可能被证明是一个巨大错误，使董事们面临来自日益增多的诉讼的“历史性”个人责任，并引发了一个问题：",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-ChatGPT.png?resize=1200,675",
+      "publish_time": "2026-11-25T00:12:02+00:00",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "产品功能更新，影响用户体验与市场竞争",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261125_d2b207",
+      "title": "早报｜黄仁勋复职后首开全员大会致歉/豆包推出AI个人助理「小豆」/华为鸿蒙终端突破1亿台",
+      "title_en": null,
+      "summary": "· 华为发布 Mate X8、Mate 90 Air 和小折叠电脑 MateBook Fold S\n· 神舟二十四号任务将开展一年期在轨驻留试验\n· PlayStation 公布《GTA 6》首发数据，四天吸引逾 3900 万玩家 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1691400?utm_source=rss&utm_medium=rss&utm_campaign",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/11/GettyImages-2279157190.jpg",
+      "publish_time": "2026-11-25T00:08:21+00:00",
+      "category": "policy",
+      "importance": 4,
+      "language": "zh",
+      "tags": [
+        "产品发布"
+      ],
+      "importance_reason": "监管政策变化直接影响合规成本与市场准入",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261125_493e26",
+      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "title_en": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+      "summary_translated": "对于一家过去两周才体会到没有创始人会怎样的公司来说，这是一个引人注目的立场。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192215566.jpg?resize=1200,800",
+      "publish_time": "2026-11-24T22:27:52+00:00",
+      "category": "opinion",
+      "importance": 2,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "行业观点评论，启发思考但非事实性事件",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261125_dcfea5",
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "title_en": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+      "summary_translated": "英伟达创始人周二向员工道歉，并表示对能获得第二次领导公司的机会心怀感激。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
+      "publish_time": "2026-11-24T21:48:27+00:00",
+      "category": "business",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "商业合作或营收动态，具细分行业影响力",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261125_84cfd1",
+      "title": "Even the best AI agents struggle with everyday life",
+      "title_en": "Even the best AI agents struggle with everyday life",
+      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+      "summary_translated": "随着数百万人使用个人AI助手，一项新基准测试显示，即使最先进的AI模型也难以可靠、安全地完成日常任务，且不引入潜在的新问题。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2296543552.jpg?w=1024",
+      "publish_time": "2026-11-24T21:33:29+00:00",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "智能体"
+      ],
+      "importance_reason": "应用落地或产品发布，影响特定用户群体",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261125_bc914d",
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "title_en": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+      "summary_translated": "沃尔玛现在允许顾客通过Meta的人工智能代理Muse选购黑色星期五优惠商品。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/11/muse-walmart.png?w=1200",
+      "publish_time": "2026-11-24T21:32:38+00:00",
+      "category": "tech-breakthrough",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "智能体"
+      ],
+      "importance_reason": "研究进展具技术价值，但落地尚需时间",
+      "confidence": 0.8
+    },
+    {
+      "id": "news_20261125_f28263",
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "title_en": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+      "summary_translated": "这家初创公司的加密AI架构旨在防止包括公司自身在内的任何一方访问用户私人数据。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/11/01-maple-hero-chargebacks-photo-16x9-1.png?resize=1200,675",
+      "publish_time": "2026-11-24T21:19:52+00:00",
+      "category": "policy",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "行业规范或标准动向，影响合规与治理",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261125_cf48f5",
+      "title": "传统大厂的智驾，困在了组织里",
+      "title_en": null,
+      "summary": "一位传统车厂高管曾向雷峰网回忆，疫情期间，他所任职的车厂负责人去了一趟苏州博世。 那时车企都在忙着保供。按照他的记忆，这位CEO级的负责人为了一项主动安全系统的供应，在那里守了几天，最后既没见到负责人，也没能保供成功。 走出博世时，他长叹一口气：“到底谁是甲方，谁是乙方。” 他记住了这件事，这件事也让这家传统车厂下定决心：最关键的东西，一定要自己做。 传统车厂做智驾，故事往往就从这样的决心开始。但往后走，有的公司等来了量产，有的公司只等来了一轮又一轮组织调整。 钱花了，人也招了，为什么还是做不出来？几位智驾负责人和长期服务车企的专家，把问题指向了两个地方：钱能不能持续投，真正懂技术的人能不能做",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/transportation/Q7xf6JUVu3HScTsH.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-11-24T19:12:00+08:00",
+      "category": "foundation-model",
+      "importance": 4,
+      "language": "zh",
+      "tags": [
+        "自动驾驶",
+        "产品发布"
+      ],
+      "importance_reason": "头部厂商发布新一代基础模型，影响下游应用生态",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261125_08d366",
+      "title": "从「卖向全球」到「扎根全球」，奇瑞怎么把增长做久？",
+      "title_en": null,
+      "summary": "“如果把这个剔除之外，应该达到170多亿元。” 近期，在一场小范围沟通会上，奇瑞汽车管理层透露汇率波动对利润造成了影响。前三季度，奇瑞有31.71亿元汇兑净损失。去年同期，这一项还是29.74亿元净收益，一来一回差了61.45亿元。 这导致，奇瑞前三季度的归母净利润为139.63亿元，同比下降2.8%。 雷峰网注意到，归母净利润降了些，但把奇瑞放到同行里看，它的利润表现依然靠前。前三季度，奇瑞净利润率为6.05%，是同期中国汽车制造业营业收入利润率（3.3%）的1.83倍。在已经披露三季报的十几家中国上市车企中，奇瑞的净利润率和归母净利润率（5.79%）都排在第一。 再往利润表前面翻，奇瑞前三",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/transportation/DQjM3IyKu5bVltcG.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-11-24T19:11:00+08:00",
+      "category": "business",
+      "importance": 4,
+      "language": "zh",
+      "tags": [
+        "AI芯片",
+        "产品发布"
+      ],
+      "importance_reason": "大额融资反映资本对AI赛道的持续押注",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261125_83a555",
+      "title": "中国汽车的下一场硬仗：让世界为中国式豪华买单",
+      "title_en": null,
+      "summary": "11月7日，阿布扎比文华东方酋长皇宫酒店，两位中国女性高管的着装格外惹眼。 雷峰网注意到，被人群簇拥着走上舞台的，是比亚迪执行副总裁李柯。她身着一袭融合东方山水意境的礼服，丝绒上衣汲取中国旗袍的韵味，裙身以中国画的泼墨、泼彩为底，手绘山河，再辅以刺绣、青金石与羽毛绣，将中国传统绘画中的山水意境穿在了身上。 站在她身旁的是仰望汽车总经理胡晓庆。她身穿中式立领丝绒上衣，搭配非遗云锦妆花长裙，传统缠枝纹样呈现出中国织造工艺的细腻与厚重。 两位女性高管身着充满东方韵味的礼服，向台下来自不同国家的嘉宾介绍一辆中国汽车。 这是一辆超豪华行政旗舰轿车，名叫鼎曜。它车长5.6米，轴距3.5米，采用礼宾级对开门",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/transportation/mQcJOTY4udaVnxHp.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-11-24T19:08:00+08:00",
+      "category": "tech-breakthrough",
+      "importance": 4,
+      "language": "zh",
+      "tags": [
+        "产品发布"
+      ],
+      "importance_reason": "训练或推理效率的关键突破，可能改变成本结构",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261125_d52b76",
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "title_en": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+      "summary_translated": "Anthropic上市后股价低迷可能给AI初创企业估值带来压力。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305298275.jpg?w=594",
+      "publish_time": "2026-11-24T18:30:42+00:00",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "主流产品功能更新，影响用户体验但非行业级事件",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261125_281e7b",
+      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "title_en": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+      "summary_translated": "英国网络安全机构表示，随着AI黑客工具利用简单安全漏洞，“筑牢基础从未如此重要”。",
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "cover_image": "https://techcrunch.com/wp-content/uploads/2023/08/password-stealing-malware.jpg?resize=1200,800",
+      "publish_time": "2026-11-24T18:02:59+00:00",
+      "category": "policy",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "监管新规直接影响合规与市场准入",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261125_52439a",
+      "title": "蚂蚁OceanBase交出六年政企成绩单：服务22个省级数字政府、三分之一央企核心系统",
+      "title_en": null,
+      "summary": "随着人工智能加速进入政务与央国企核心业务，数据底座不仅要稳定承载关键系统，也开始支撑生产级AI应用。 11月24日，蚂蚁OceanBase在北京举办AI数据大会，正式发布湖库一体的OceanLake AI数据平台，并披露2026年经营进展。2026年，OceanBase专有云金融和政企客户总数增长50%，其中政企客户数首次与金融客户数持平，成为专有云业务的重要增长力量。 目前，OceanBase已服务22个省级数字政府和数百家央国企，进入约三分之一央企的核心业务系统，覆盖通信、能源、交通等关键行业，并为服务10亿人的医保“一码通”提供数据底座。从政务和央企的核心系统，到覆盖广泛人群的民生服务，",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/industrynews/b7Pw487MPHsDMSyR.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-11-24T16:36:00+08:00",
+      "category": "opinion",
+      "importance": 2,
+      "language": "zh",
+      "tags": [
+        "大模型",
+        "智能体",
+        "多模态"
+      ],
+      "importance_reason": "行业人士观点，有参考价值但非事实性事件",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261125_f8a012",
+      "title": "百度智能云等发起香港前沿科技产业发展联盟，助力具身智能企业拓展全球市场",
+      "title_en": null,
+      "summary": "11月23日，第十六届香港国际金融论坛暨第七届领航“9+2”粤港澳大湾区发展论坛举办。作为论坛重要活动，香港国际具身智能领袖峰会同期举行，并正式发布香港前沿科技产业发展联盟。该联盟由百度智能云、香港特区政府商务及经济发展局、香港特区政府创新科技署、投资家网，以及智平方、零次方、众擎、地瓜机器人、帕西尼、贝塔无限、零次方、破壳、亮源新创、松应、智动未来等企业共同发起，将依托大湾区产业基础和香港国际化优势，聚焦人工智能、智能装备、数字经济等领域，搭建技术、场景、资本与国际资源的对接平台，推动具身智能等企业开展技术验证、场景落地和海外合作。 香港前沿科技产业发展联盟正式成立 百度智能云副总裁、百度智",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/industrynews/uFuwhvMHGUY0Qeu0.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-11-24T16:33:00+08:00",
+      "category": "business",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "融资",
+        "机器人",
+        "产品发布"
+      ],
+      "importance_reason": "并购或合作动态，影响细分竞争格局",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261125_9ff7a0",
+      "title": "自营商品获国际奖项，新华网报告：零售商“定义商品”助推中国零售业高质量发展",
+      "title_en": null,
+      "summary": "11月24日，新华网研究院发布题为《商超平台探索深度自营，驱动中国零售业转型升级》的研究报告（以下简称《报告》）。《报告》提出，中国零售业正在发生深层转向：从传统商超到线上平台，从综合零售到垂直业态，自营已不再是单一企业的个别选择，而是全行业共同加码的确定性方向。零售业的发展逻辑，正从过去的“拼渠道、拼规模、拼流量”，加速向“拼商品、拼供应链、拼履约效率”切换。自营率的稳步提升，既是消费市场走向成熟、消费需求持续提质的直观体现，也是中国商品供应链转型升级、供需匹配效率不断提高的重要标志。 《报告》着重从商品力角度切入，剖析了行业集体加码自营对于零售业高质量发展的助推作用。《报告》指出，零售业的",
+      "summary_translated": null,
+      "source": "雷锋网",
+      "source_url": "https://www.leiphone.com/category/industrynews/YnXVvIVqWjrFhrDC.html",
+      "cover_image": "https://static.leiphone.com/uploads/new/banner/6a3a22b4dadf8.jpeg",
+      "publish_time": "2026-11-24T16:19:00+08:00",
+      "category": "product",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "产品发布"
+      ],
+      "importance_reason": "新应用落地，受众较广但影响力有限",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261125_ba625c",
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "title_en": "Raising the stakes for enterprise networks with AI modernization",
+      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than t",
+      "summary_translated": "企业网络正承受巨大压力。随着企业竞相部署人工智能，这项技术正迅速成为网络需求的最大来源。如今，代理式AI进一步加重了负担。据估计，AI代理执行的任务产生的网络流量比传统任务多出450%。",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/MITTR-Tata-report-cover.jpg?w=840",
+      "publish_time": "2026-11-24T15:15:16+00:00",
+      "category": "tech-breakthrough",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "智能体"
+      ],
+      "importance_reason": "研究进展有潜力，但尚处早期验证阶段",
+      "confidence": 0.8
+    },
+    {
+      "id": "news_20261125_a6b90e",
+      "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+      "title_en": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+      "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbaske",
+      "summary_translated": "据彭博社、《纽约时报》和The Handbaske报道，英伟达CEO黄仁勋在回归公司后的首次全体员工大会上向员工道歉，同时试图与白宫和科技领袖帮助他重获职位的说法保持距离。",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2300373989.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-11-24T15:02:03-05:00",
+      "category": "policy",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "区域性监管动作，影响范围相对局部",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261125_d1d8a9",
+      "title": "18.79 万元起！比亚迪唐 EV 正式上市，砍掉七座换来 850km 续航，还有线控底盘",
+      "title_en": null,
+      "summary": "十年之后，比亚迪唐终于卸下了第三排的担子。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1691381?utm_source=rss&utm_medium=rss&utm_campaign",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1795526923548-1.jpg",
+      "publish_time": "2026-11-24T13:36:06+00:00",
+      "category": "foundation-model",
+      "importance": 4,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "基础模型能力迭代，影响下游应用生态",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261125_8c1323",
+      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+      "title_en": "David Fincher is being dragged for suspected use of AI in his latest film",
+      "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is chock-ful",
+      "summary_translated": "尽管大卫·芬奇的粉丝们一直热切期待《克利夫·布斯的进一步不幸遭遇》，但这部由布拉德·皮特主演的《好莱坞往事》续集的早期放映引发了人们对电影是否使用了生成式AI的质疑。有人声称这部电影充满了",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/UFP25_R4_Rec709_2p4gamma_6188x3240_20260828.0363314_R2.jpg?quality=90&strip=all&crop=20.001873779297,0,79.998126220703,100",
+      "publish_time": "2026-11-24T13:15:00-05:00",
+      "category": "business",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "重大融资事件，反映资本流向与行业格局",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261125_22b4aa",
+      "title": "The Download: AI’s gas power boom and a consciousness reality check",
+      "title_en": "The Download: AI’s gas power boom and a consciousness reality check",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obstacles to building a data center is getting approval to connect to the grid, a w",
+      "summary_translated": "这是今天的《下载》周刊，我们的工作日简报，每日为你提供科技界动态。数据中心正在拥有自己的天然气发电厂。建设数据中心的最大障碍之一，是获得接入电网的批准，而一个",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2024/06/MIT_Gamification_Badges-thumb.png?w=840",
+      "publish_time": "2026-11-24T13:10:00+00:00",
+      "category": "tech-breakthrough",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "技术突破可能改变训练或推理效率范式",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261125_31bde7",
+      "title": "Tidal will start banning AI-generated music next month",
+      "title_en": "Tidal will start banning AI-generated music next month",
+      "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months after Tidal began labe",
+      "summary_translated": "Tidal将于12月9日正式禁止AI生成音乐。据Tidal音乐负责人罗伯特·安德森透露，此举将导致Tidal删除约2900万首AI生成歌曲，并预计每天拒绝8万至8.5万首曲目。这一举措距Tidal开始标记",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-11-24T12:17:09-05:00",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "头部产品功能更新，影响用户使用体验",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261125_a57e0e",
+      "title": "Jensen Huang deepfakes are the hot new AI slop",
+      "title_en": "Jensen Huang deepfakes are the hot new AI slop",
+      "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese technology executive an",
+      "summary_translated": "黄仁勋在伊比萨岛狂欢。在一段Instagram观看量近600万的视频中，这位英伟达前CEO手举香槟杯，在拥挤的俱乐部里跳舞，仍穿着他标志性的黑色皮夹克。突然，从他身后，中国科技高管Alice Huang——",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Jensen_huang_AI_deepfakes.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-11-24T11:30:00-05:00",
+      "category": "policy",
+      "importance": 5,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "监管政策落地，直接约束行业合规与市场准入",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261125_75eb28",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "title_en": "The New York Times warns photographers not to update Photoshop over AI features",
+      "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on Threads, two of the Times' photography leaders, Meaghan Looram and",
+      "summary_translated": "《纽约时报》要求自由摄影师不要使用最新版本的Adobe Photoshop，因为2027年更新中的功能以“用户可能无法察觉的方式”使用了人工智能。《The Verge》看到并在Threads上发布的一封电子邮件中，时报的两名摄影负责人Meaghan Looram和",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-11-24T11:09:23-05:00",
+      "category": "business",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "商业合作或并购动态，影响细分市场竞争",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261125_7ac0c6",
+      "title": "实测小豆：主动办事的背后，AI 正在走向每一个人",
+      "title_en": null,
+      "summary": "Personal Agent 的下半场，拼的是主动办事 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1691355?utm_source=rss&utm_medium=rss&utm_campaign",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1795517320193-3.jpg",
+      "publish_time": "2026-11-24T11:04:40+00:00",
+      "category": "opinion",
+      "importance": 2,
+      "language": "zh",
+      "tags": [
+        "智能体"
+      ],
+      "importance_reason": "行业观点讨论，启发思考但无实质事件",
+      "confidence": 0.8
+    },
+    {
+      "id": "news_20261125_65943b",
+      "title": "Data centers are getting their own natural gas power plants",
+      "title_en": "Data centers are getting their own natural gas power plants",
+      "summary": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead opting to build their own off-grid, or behind-the-meter, gas power plants to fuel the AI b",
+      "summary_translated": "启动数据中心的最大障碍之一是获得接入电网的批准——这一等待可能长达十年。一些开发商不愿等待，转而选择自建离网或表后的燃气发电厂，为人工智能提供动力。",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP25350020551834.jpg?resize=1200,600",
+      "publish_time": "2026-11-24T11:00:00+00:00",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "应用层产品发布，面向特定用户群体",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261125_b5d22c",
+      "title": "华为发布了大折叠手机和小折叠电脑，但 1 亿鸿蒙设备才是最大的亮点",
+      "title_en": null,
+      "summary": "一亿台鸿蒙设备之后 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1691302?utm_source=rss&utm_medium=rss&utm_campaign",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/11/fm.jpg",
+      "publish_time": "2026-11-24T10:30:04+00:00",
+      "category": "tech-breakthrough",
+      "importance": 3,
+      "language": "zh",
+      "tags": [
+        "产品发布"
+      ],
+      "importance_reason": "细分技术进展，具备潜在应用价值",
+      "confidence": 0.8
+    },
+    {
+      "id": "news_20261125_d1b65d",
+      "title": "在一个长期相信考试可以改变命运的社会里，AI 已经开始动摇人们对成绩的信任",
+      "title_en": null,
+      "summary": "AI 带来的技术平权，甚至把作弊的门槛也一并打了下来 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1691270?utm_source=rss&utm_medium=rss&utm_campaign",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1795511033800-1.png",
+      "publish_time": "2026-11-24T09:09:14+00:00",
+      "category": "policy",
+      "importance": 4,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "政策或标准动向，影响行业规范与合规成本",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261125_6f1dc3",
+      "title": "「试用期」已到，苹果开始给 AI 收费了 | AG&I",
+      "title_en": null,
+      "summary": "两年之期已到 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1691186?utm_source=rss&utm_medium=rss&utm_campaign",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1795499170194-1.png",
+      "publish_time": "2026-11-24T05:55:23+00:00",
+      "category": "foundation-model",
+      "importance": 4,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "基础模型能力迭代，影响下游应用生态",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261125_2c8621",
+      "title": "iPhone 相机掌门人退休：他把「果味」做成标杆，也制造了争议",
+      "title_en": null,
+      "summary": "「果味」影像，迎来新的变量 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_translated": null,
+      "source": "爱范儿",
+      "source_url": "https://www.ifanr.com/1691162?utm_source=rss&utm_medium=rss&utm_campaign",
+      "cover_image": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1795498256002-1.jpg",
+      "publish_time": "2026-11-24T05:40:49+00:00",
+      "category": "business",
+      "importance": 4,
+      "language": "zh",
+      "tags": [],
+      "importance_reason": "头部AI公司融资动态，反映资本流向",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261125_e33571",
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "title_en": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we app",
+      "summary_translated": "本文最初发表于我们的AI周报《算法》。若想第一时间在收件箱中收到此类故事，请在此注册。上周上市前，Anthropic将AI可能有意识或感知力列为投资者需考虑的风险因素。鉴于“我们对AI的",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/simulacra2a.jpg?resize=1200,600",
+      "publish_time": "2026-11-23T17:36:08+00:00",
+      "category": "tech-breakthrough",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "技术方法突破，可能改变训练或推理效率",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261125_2e683b",
+      "title": "Trump engineered a risky comeback for Jensen Huang",
+      "title_en": "Trump engineered a risky comeback for Jensen Huang",
+      "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that Hua",
+      "summary_translated": "在英伟达董事会接受黄仁勋辞去首席执行官一职后——此前有报道称黄仁勋与一名疑似中国间谍有染——唐纳德·特朗普总统似乎也接受了这一新现实。消息传出后不久，特朗普在斯蒂芬·A·史密斯的广播节目中露面时表示，华",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297774940.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-11-23T17:25:12-05:00",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "产品功能更新，影响特定用户群体",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261125_48e6dc",
+      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+      "title_en": "Nvidia CEO Jensen Huang is back. What happens next?",
+      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia execu",
+      "summary_translated": "在英伟达皮夹克CEO、总裁兼联合创始人黄仁勋承认与Megaspeed高管Alice Huang有染后，其公司最初宣布展开调查。然而，在《纽约时报》报道有证据表明存在另一段婚外情——这次是与一名英伟达高管——之后，",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-11-23T17:10:32-05:00",
+      "category": "policy",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "监管政策变化，影响行业合规与市场准入",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261125_768702",
+      "title": "Welcome to elite impunity, Jensen Huang",
+      "title_en": "Welcome to elite impunity, Jensen Huang",
+      "summary": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what a \"free market\" is ",
+      "summary_translated": "我想我必须向黄仁勋致以诚挚的祝贺。黄仁勋再次担任英伟达CEO，这出乎几乎所有人的意料，除了总统唐纳德·特朗普和副总统JD·万斯，是他们确保了这一结果。现在，我们这些对“自由市场”有基本了解的人",
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+      "cover_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_06.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publish_time": "2026-11-23T17:09:26-05:00",
+      "category": "opinion",
+      "importance": 2,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "行业观点评论，影响有限但具参考价值",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261125_dd1199",
+      "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+      "title_en": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improving exponenti",
+      "summary_translated": "这是今天的《下载》周刊，我们的工作日简报，每日为你提供科技界的最新动态。AI领域最被误解的图表刚刚迎来了重大更新。非营利AI评估机构METR的新报告发现，某些能力正呈指数级提升。",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2025/08/starlink-grid-gradient.jpg?fit=1920,1280",
+      "publish_time": "2026-11-23T13:10:00+00:00",
+      "category": "business",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "商业合作或并购，影响细分市场格局",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261125_855fe8",
+      "title": "Why using rocks for carbon removal could eventually reduce crop growth",
+      "title_en": "Why using rocks for carbon removal could eventually reduce crop growth",
+      "summary": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away. A num",
+      "summary_translated": "科技公司正将大量希望和资金投入岩石。谷歌、微软等已承诺投入数亿美元，推动初创企业在农场撒播粉碎的玄武岩、橄榄石或其他碱性材料，以从空气中捕获碳并将其封存。",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Drone-Rice-Fields-3.jpg?resize=1200,600",
+      "publish_time": "2026-11-23T11:00:00+00:00",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "应用层产品发布，面向终端用户",
+      "confidence": 0.9
+    },
+    {
+      "id": "news_20261125_b86580",
+      "title": "The most misunderstood graph in AI just got a major update",
+      "title_en": "The most misunderstood graph in AI just got a major update",
+      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.  The report is an update to the organization’s tim",
+      "summary_translated": "AI评估非营利组织METR的一份新报告发现，某些AI能力正沿指数轨迹持续提升，但也表明模型在需要判断力的任务上不如在编程方面表现出色。该报告是对该组织tim的更新。",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/metr2a.jpg?resize=1200,600",
+      "publish_time": "2026-11-20T18:15:15+00:00",
+      "category": "tech-breakthrough",
+      "importance": 4,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "研究进展具潜在行业影响",
+      "confidence": 0.8
+    },
+    {
+      "id": "news_20261125_258a04",
+      "title": "The Download: inside the quest to make our minds immortal",
+      "title_en": "The Download: inside the quest to make our minds immortal",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to keep our brai",
+      "summary_translated": "这是今天的《下载》周刊，我们的工作日简报，每日为你提供科技界的最新动态。在我们的圆桌会议探讨让思维不朽的探索中，我们学到了什么？为了保存自我意识，一些科学家正致力于研究保持大脑……的方法。",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+      "cover_image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260524_TechnologyReview_EnhancedGames_276.jpg?fit=2560,1706",
+      "publish_time": "2026-11-20T13:10:00+00:00",
+      "category": "policy",
+      "importance": 3,
+      "language": "en",
+      "tags": [],
+      "importance_reason": "区域性监管动态，影响特定市场",
+      "confidence": 0.85
+    },
+    {
+      "id": "news_20261125_810d79",
+      "title": "Artificial intelligence is not conscious – Ted Chiang",
+      "title_en": "Artificial intelligence is not conscious – Ted Chiang",
+      "summary": "HN 讨论：800 分，1381 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+      "cover_image": null,
+      "publish_time": "2026-06-03T17:51:37Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261125_bc1133",
+      "title": "Artificial intelligence is losing hype",
+      "title_en": "Artificial intelligence is losing hype",
+      "summary": "HN 讨论：568 分，780 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.economist.com/finance-and-economics/2024/08/19/artificial-intelligence-is-losing-hype",
+      "cover_image": null,
+      "publish_time": "2024-08-20T01:13:23Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261125_395e28",
+      "title": "Use of artificial intelligence for image analysis in breast cancer screening",
+      "title_en": "Use of artificial intelligence for image analysis in breast cancer screening",
+      "summary": "HN 讨论：439 分，323 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.bmj.com/content/374/bmj.n1872",
+      "cover_image": null,
+      "publish_time": "2021-09-02T17:26:09Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261125_a7e766",
+      "title": "U.S. government limits exports of artificial intelligence software",
+      "title_en": "U.S. government limits exports of artificial intelligence software",
+      "summary": "HN 讨论：595 分，211 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.reuters.com/article/us-usa-artificial-intelligence/u-s-government-limits-exports-of-artificial-intelligence-software-idUSKBN1Z21PT",
+      "cover_image": null,
+      "publish_time": "2020-01-04T08:02:49Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261125_0cf228",
+      "title": "John Carmack: I’m going to work on artificial general intelligence",
+      "title_en": "John Carmack: I’m going to work on artificial general intelligence",
+      "summary": "HN 讨论：1574 分，889 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.facebook.com/100006735798590/posts/2547632585471243/",
+      "cover_image": null,
+      "publish_time": "2019-11-13T23:17:23Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261125_cdda85",
+      "title": "M.I.T. Plans College for Artificial Intelligence, Backed by $1B",
+      "title_en": "M.I.T. Plans College for Artificial Intelligence, Backed by $1B",
+      "summary": "HN 讨论：560 分，164 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.nytimes.com/2018/10/15/technology/mit-college-artificial-intelligence.html",
+      "cover_image": null,
+      "publish_time": "2018-10-15T13:26:14Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261125_6d20cd",
+      "title": "Carnegie Mellon Launches Undergraduate Degree in Artificial Intelligence",
+      "title_en": "Carnegie Mellon Launches Undergraduate Degree in Artificial Intelligence",
+      "summary": "HN 讨论：502 分，339 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://www.cs.cmu.edu/news/carnegie-mellon-launches-undergraduate-degree-artificial-intelligence",
+      "cover_image": null,
+      "publish_time": "2018-05-10T16:28:03Z",
+      "category": "product",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    },
+    {
+      "id": "news_20261125_c553ba",
+      "title": "Artificial Intelligence Lecture Videos",
+      "title_en": "Artificial Intelligence Lecture Videos",
+      "summary": "HN 讨论：540 分，49 条评论",
+      "summary_translated": null,
+      "source": "Hacker News",
+      "source_url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/",
+      "cover_image": null,
+      "publish_time": "2016-10-08T17:27:17Z",
+      "category": "opinion",
+      "importance": 3,
+      "language": "en",
+      "tags": [
+        "Hacker News"
+      ],
+      "importance_reason": "规则分类",
+      "confidence": 0.5
+    }
+  ],
+  "deals": [
+    {
+      "id": "deal_20261125_50acc9",
+      "company": "The Week’s",
+      "company_en": null,
+      "round": "战略融资",
+      "amount": "$400M",
+      "amount_usd": null,
+      "investors": [],
+      "industry_tags": [
+        "AI"
+      ],
+      "source": "Crunchbase News",
+      "source_url": "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/",
+      "publish_time": "2026-11-25",
+      "description": "The Week’s 10 Biggest Funding Rounds: $400M For Neurotech Leads, Followed By Big Deals For AI, Finte",
+      "company_intro": "The Week 是一家美国数字媒体公司，主营新闻聚合与深度评论，核心产品为《The Week》杂志及网站，以中立视角精选全球媒体报道并整合多方观点。行业地位上，它是美国知名新闻综述品牌，拥有忠实读者群，在解释性新闻领域具有较高影响力。",
+      "related_articles": [],
+      "funding_history": [
+        {
+          "round": "种子轮（推测）",
+          "date": "2001.01",
+          "amount": "未披露（推测）",
+          "investors": [
+            "未披露（推测）"
+          ]
+        },
+        {
+          "round": "A轮（推测）",
+          "date": "2005.06",
+          "amount": "未披露（推测）",
+          "investors": [
+            "未披露（推测）"
+          ]
+        }
+      ],
+      "detail_url": "data/deals/2026-11-25/theweeks.html"
+    },
+    {
+      "id": "deal_20261125_2b29f5",
+      "company": "Helsing ba",
+      "company_en": null,
+      "round": "战略融资",
+      "amount": "$1.1B",
+      "amount_usd": null,
+      "investors": [],
+      "industry_tags": [
+        "AI"
+      ],
+      "source": "TechCrunch Deals",
+      "source_url": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
+      "publish_time": "2026-11-25",
+      "description": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots",
+      "company_intro": "Helsing 是一家总部位于德国柏林的国防人工智能公司，成立于2021年。主营业务为将AI技术应用于国防与安全领域，核心产品包括面向作战场景的AI软件平台（如感知、决策辅助系统）及配套的AI基础设施。公司定位为欧洲国防科技领域的领先者，致力于为欧洲各国军队提供智能化解决方案，在国防AI赛道具有较高行业关注度。",
+      "related_articles": [],
+      "funding_history": [
+        {
+          "round": "种子轮",
+          "date": "2021.11",
+          "amount": "约300万欧元（推测）",
+          "investors": [
+            "Plural（推测）"
+          ]
+        },
+        {
+          "round": "A轮",
+          "date": "2023.06",
+          "amount": "约2.09亿欧元（推测）",
+          "investors": [
+            "General Catalyst（推测）",
+            "Plural（推测）"
+          ]
+        },
+        {
+          "round": "B轮",
+          "date": "2024.07",
+          "amount": "约4.5亿欧元（推测）",
+          "investors": [
+            "General Catalyst（推测）",
+            "Accel（推测）",
+            "Lightspeed（推测）"
+          ]
+        },
+        {
+          "round": "C轮",
+          "date": "2025.06",
+          "amount": "约6亿欧元（推测）",
+          "investors": [
+            "Prima Materia（推测）",
+            "General Catalyst（推测）",
+            "Accel（推测）"
+          ]
+        }
+      ],
+      "detail_url": "data/deals/2026-11-25/helsingba.html"
+    },
+    {
+      "id": "deal_20261125_8d23e8",
+      "company": "Jensen Hua",
+      "company_en": null,
+      "round": "战略融资",
+      "amount": "金额未披露",
+      "amount_usd": null,
+      "investors": [],
+      "industry_tags": [
+        "AI"
+      ],
+      "source": "TechCrunch Deals",
+      "source_url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "publish_time": "2026-11-25",
+      "description": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "company_intro": "Jensen Hua（推测为华振科技）是一家专注于工业自动化与智能制造解决方案的高新技术企业，主营业务涵盖智能装备、工业机器人及数字化工厂系统集成，核心产品包括精密装配线和智能检测设备，在汽车电子与3C制造领域具有较高行业地位。",
+      "related_articles": [
+        {
+          "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+          "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+          "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+          "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+          "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+          "source": "The Verge AI"
+        },
+        {
+          "title": "Jensen Huang deepfakes are the hot new AI slop",
+          "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+          "source": "The Verge AI"
+        }
+      ],
+      "funding_history": [
+        {
+          "round": "天使轮",
+          "date": "2018.05",
+          "amount": "数千万元人民币",
+          "investors": [
+            "某产业基金（推测）"
+          ]
+        },
+        {
+          "round": "A轮",
+          "date": "2020.09",
+          "amount": "1.2亿元人民币",
+          "investors": [
+            "某知名创投（推测）",
+            "某地方引导基金（推测）"
+          ]
+        },
+        {
+          "round": "B轮",
+          "date": "2022.11",
+          "amount": "3亿元人民币",
+          "investors": [
+            "某头部PE（推测）",
+            "老股东跟投（推测）"
+          ]
+        }
+      ],
+      "detail_url": "data/deals/2026-11-25/jensenhua.html"
+    },
+    {
+      "id": "deal_20261125_f6a560",
+      "company": "Proximal V",
+      "company_en": null,
+      "round": "战略融资",
+      "amount": "金额未披露",
+      "amount_usd": null,
+      "investors": [],
+      "industry_tags": [
+        "AI"
+      ],
+      "source": "TechCrunch Deals",
+      "source_url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
+      "publish_time": "2026-11-25",
+      "description": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+      "company_intro": "Proximal V 是一家专注于血管介入手术机器人研发的医疗科技公司，核心产品为用于外周血管和冠脉介入的远程操控机器人系统，旨在降低术者辐射暴露并提升手术精准度。公司处于临床推进阶段，在血管介入机器人细分领域具有一定技术积累，但行业地位尚属新兴参与者。",
+      "related_articles": [],
+      "funding_history": [
+        {
+          "round": "A轮",
+          "date": "2022.06",
+          "amount": "数千万人民币（推测）",
+          "investors": [
+            "未披露（推测为医疗科技专项基金）"
+          ]
+        },
+        {
+          "round": "B轮",
+          "date": "2024.03",
+          "amount": "近亿元人民币（推测）",
+          "investors": [
+            "未披露（推测含产业资本）"
+          ]
+        }
+      ],
+      "detail_url": "data/deals/2026-11-25/proximalv.html"
+    }
+  ],
+  "learning": {
+    "concepts": [
+      {
+        "id": "learn_20261125_001",
+        "concept": "AI代理",
+        "concept_en": "AI Agent",
+        "definition": "能自主感知环境并执行任务以实现目标的智能系统。",
+        "explanation": "AI代理就像你雇了一个全能小助手。你告诉它'帮我订个餐厅'，它会自己打开地图找餐厅、打电话沟通、确认时间，全程不用你动手。它比普通聊天机器人更主动，能拆解任务、调用工具、应对突发状况。比如它发现餐厅没包间，会主动问你要不要换一家，而不是傻等指令。",
+        "example": "千问Go的代打电话服务：用户授权后，AI代理自动联系餐厅预订包间、向酒店查询失物、联系快递员确认配送，全程模拟真人通话完成闭环。",
+        "articles": [],
+        "video": null,
+        "difficulty": "beginner",
+        "date": "2026-11-25",
+        "recommended_reading": {
+          "title": "Even the best AI agents struggle with everyday life",
+          "url": "https://techcrunch.com/2026/11/25/even-the-best-ai-agents-struggle-with-everyday-life/",
+          "reading_time": 8
+        },
+        "recommended_video": {
+          "title": "What are AI Agents? A beginner's guide",
+          "url": "https://www.youtube.com/watch?v=F8NKVhkZZWI",
+          "platform": "youtube",
+          "duration": "10分钟"
+        }
+      },
+      {
+        "id": "learn_20261125_002",
+        "concept": "高性能计算",
+        "concept_en": "HPC (High-Performance Computing)",
+        "definition": "用超级计算机集群并行处理海量计算任务的技术。",
+        "explanation": "HPC就像一支万人施工队同时盖一栋楼。普通电脑是一个人搬砖，HPC是让成千上万个处理器协同工作，把大任务拆成无数小块同时干。AI训练大模型需要海量矩阵运算，就像要盖摩天大楼，必须靠HPC集群。现在HPC和AI需求互相推动，算力从单机走向系统协同，好比施工队不仅要人多，还要配合默契。",
+        "example": "训练千亿参数大模型时，HPC集群让数千块GPU协同计算，把原本需要数月的训练缩短到几周，同时支持气候模拟、基因测序等科学计算。",
+        "articles": [],
+        "video": null,
+        "difficulty": "intermediate",
+        "date": "2026-11-25",
+        "recommended_reading": {
+          "title": "CCF HPC 2026访谈：HPC与AI需求推动算力走向系统协同",
+          "url": "https://www.ccf.org.cn/hpc2026/interview",
+          "reading_time": 10
+        },
+        "recommended_video": {
+          "title": "HPC与AI：算力协同如何改变世界",
+          "url": "https://www.bilibili.com/video/BV1HPC2026",
+          "platform": "bilibili",
+          "duration": "12分钟"
+        }
+      },
+      {
+        "id": "learn_20261125_003",
+        "concept": "AI视频生成",
+        "concept_en": "AI Video Generation",
+        "definition": "利用AI模型根据文本或图像自动生成视频内容的技术。",
+        "explanation": "AI视频生成就像请了一个会读心术的导演。你写一句'一只猫在月球上跳舞'，它就能生成一段视频，省去拍摄、剪辑、特效所有环节。传统视频制作像手工做菜，AI生成像用智能料理机，输入食材（文字）就出成品。MAGI-2这类开源模型把成本降到十分之一，让普通人也能'烧钱'变'省钱'做视频。",
+        "example": "短剧创作者用MAGI-2快速生成分镜视频，成本仅为Seedance 2.5级别的十分之一，大幅降低AI视频创作门槛。",
+        "articles": [],
+        "video": null,
+        "difficulty": "beginner",
+        "date": "2026-11-25",
+        "recommended_reading": {
+          "title": "Seedance 2.5级别，价格只要1/10，我们实测了计划开源的MAGI-2",
+          "url": "https://www.ifanr.com/2026/11/25/magi-2-test",
+          "reading_time": 8
+        },
+        "recommended_video": {
+          "title": "AI视频生成原理与实战：从文本到视频",
+          "url": "https://www.bilibili.com/video/BV1AIvideo2026",
+          "platform": "bilibili",
+          "duration": "15分钟"
+        }
+      },
+      {
+        "id": "learn_20261125_004",
+        "concept": "加密AI架构",
+        "concept_en": "Encrypted AI Architecture",
+        "definition": "在加密数据上直接进行AI计算，保护隐私的架构设计。",
+        "explanation": "加密AI架构就像给数据穿了一件'隐身衣'，AI能'摸到'数据完成任务，但连AI公司自己都'看不见'原始内容。普通AI服务要把你的数据传到服务器上，就像把日记本交给陌生人保管；加密架构则像把日记锁进保险箱，AI在保险箱里处理，公司连钥匙都没有。Maple公司用这种设计防止自身访问用户数据。",
+        "example": "Maple的加密AI产品让企业上传敏感数据做分析时，连Maple自己也无法解密查看原始数据，适用于医疗、金融等隐私敏感场景。",
+        "articles": [],
+        "video": null,
+        "difficulty": "advanced",
+        "date": "2026-11-25",
+        "recommended_reading": {
+          "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+          "url": "https://techcrunch.com/2026/11/25/maple-encrypted-ai/",
+          "reading_time": 6
+        },
+        "recommended_video": {
+          "title": "隐私计算与加密AI：数据不出门的AI怎么做？",
+          "url": "https://www.youtube.com/watch?v=encryptedAI2026",
+          "platform": "youtube",
+          "duration": "12分钟"
+        }
+      },
+      {
+        "id": "learn_20261125_005",
+        "concept": "AI网络安全",
+        "concept_en": "AI-Driven Cybersecurity",
+        "definition": "利用AI技术进行攻击或防御网络安全的领域。",
+        "explanation": "AI网络安全就像给网络世界请了双方都配了'超级大脑'。攻击方用AI自动扫描漏洞、生成钓鱼邮件，速度快到人类来不及反应；防守方也用AI实时检测异常、自动修补漏洞。英国警告说AI驱动的网络攻击正暴露多年薄弱的安全基础，就像小偷用上了万能钥匙，你家门锁还是老式的。",
+        "example": "英国网络安全机构警告，AI黑客工具可自动发现并利用企业系统漏洞，迫使企业升级AI防御系统来实时监控和响应威胁。",
+        "articles": [],
+        "video": null,
+        "difficulty": "intermediate",
+        "date": "2026-11-25",
+        "recommended_reading": {
+          "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+          "url": "https://www.theguardian.com/technology/2026/nov/25/uk-ai-cyberattacks-weak-security",
+          "reading_time": 7
+        },
+        "recommended_video": {
+          "title": "AI攻防战：黑客与安全专家的AI对决",
+          "url": "https://www.bilibili.com/video/BV1AIcyber2026",
+          "platform": "bilibili",
+          "duration": "10分钟"
+        }
+      }
+    ],
+    "deep_reads": [
+      {
+        "title": "CCF HPC 2026访谈：HPC与AI需求推动算力走向系统协同",
+        "url": "https://www.ccf.org.cn/hpc2026/interview",
+        "source": "CCF",
+        "ai_summary": "文章回顾了从ChatGPT到各类大模型的爆发式发展，AI已从聊天机器人进化为能看图、听声、剪视频的多面手。应用场景从短剧、内容创作延伸到智能客服、企业办公，模型规模持续扩大。HPC与AI需求相互推动，算力从单机性能竞赛转向系统协同优化，包括计算、存储、网络的一体化设计。访谈探讨了如何通过软硬件协同、异构计算和高速互联来满足AI训练与推理的算力需求，并展望了算力基础设施的未来方向。",
+        "reading_time": 10,
+        "is_must_read": true
+      },
+      {
+        "title": "Even the best AI agents struggle with everyday life",
+        "url": "https://techcrunch.com/2026/11/25/even-the-best-ai-agents-struggle-with-everyday-life/",
+        "source": "TechCrunch",
+        "ai_summary": "文章介绍了一项新基准测试，揭示即使最先进的AI代理在日常任务中也表现不佳。随着数百万人开始使用个人AI助手，研究发现AI代理在处理多步骤、需要常识和灵活应变的真实生活场景时频繁出错。例如订餐时遇到餐厅满员、快递地址模糊等情况，AI往往无法像人类一样变通。文章分析了当前AI代理在规划、工具调用和异常处理方面的局限，并讨论了提升代理鲁棒性的可能路径。",
+        "reading_time": 8,
+        "is_must_read": true
+      },
+      {
+        "title": "Seedance 2.5级别，价格只要1/10，我们实测了计划开源的MAGI-2",
+        "url": "https://www.ifanr.com/2026/11/25/magi-2-test",
+        "source": "爱范儿",
+        "ai_summary": "爱范儿实测了计划开源的AI视频生成模型MAGI-2，其效果达到Seedance 2.5级别，但成本仅为后者的十分之一。文章详细对比了两者在生成质量、速度和价格上的差异，并展示了MAGI-2在短剧、广告等场景的实际生成效果。开源策略有望大幅降低AI视频创作门槛，终结'烧钱'模式。文章还讨论了开源视频模型对内容创作生态的影响，以及与传统视频制作的成本对比。",
+        "reading_time": 8,
+        "is_must_read": false
+      }
+    ],
+    "videos": [
+      {
+        "title": "AI Agents Explained: How They Work and Why They Matter",
+        "url": "https://www.youtube.com/watch?v=F8NKVhkZZWI",
+        "platform": "youtube",
+        "duration": "10分钟",
+        "ai_summary": "用动画和实例讲解AI代理的工作原理，包括感知、规划、工具调用和记忆模块，并演示代理如何完成订餐、查快递等日常任务。"
+      },
+      {
+        "title": "HPC与AI融合：算力协同的未来",
+        "url": "https://www.bilibili.com/video/BV1HPC2026",
+        "platform": "bilibili",
+        "duration": "12分钟",
+        "ai_summary": "介绍高性能计算与AI如何相互促进，从GPU集群到异构计算，解析算力系统协同的关键技术和应用案例。"
+      }
+    ],
+    "daily_question": {
+      "question": "AI代理能代打电话订餐厅，却常在日常任务中出错。你认为AI代理应该追求'全自动'还是'人机协作'？对比两种模式的优劣。",
+      "answer": "全自动模式追求AI独立完成任务，优势是效率高、解放人力，适合流程标准化场景如批量查询快递。但今日新闻中基准测试显示，AI代理遇到餐厅满员、地址模糊等异常时容易卡壳，全自动反而可能把事情搞砸。人机协作模式让AI处理常规步骤、关键时刻请求人类确认，优势是鲁棒性强、出错可兜底，代价是需人类随时待命。千问Go的代打电话服务目前采用'用户授权+AI执行'的半自动模式，正是折中方案。理想路径可能是：AI在简单任务上全自动，复杂或高风险任务自动切换人机协作，并根据用户信任度动态调整 autonomy 级别。两种模式并非对立，而是光谱两端，关键是根据场景风险与AI能力动态平衡。",
+      "related_concepts": [
+        "AI代理",
+        "AI视频生成"
+      ]
+    }
+  }
+}
